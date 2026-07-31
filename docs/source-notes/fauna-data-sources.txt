@@ -1,0 +1,34 @@
+# arthropod charasmatic megafauna of Dangermond
+
+- use data from multiple sources to predict lost and important species in the preserve
+
+data/raw/cibi/Downloaded 2025-11-19 - bold data from CIBI project
+data/raw/ecdysis/SymbOutput_2025-11-24_175434_DwC-A - Ecdysis data
+data/raw/gbif/0006688-251120083545085.csv - GBIF data
+
+
+
+Hello seltmann,
+Your download is available at the following address:
+https://api.gbif.org/v1/occurrence/download/request/0006688-251120083545085.zip
+
+Citation
+When using this dataset please use the following citation:
+
+GBIF.org (25 November 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.k85cpx
+
+Download Information
+DOI: https://doi.org/10.15468/dl.k85cpx (may take some hours before being active)
+Creation Date: 00:42:39 25 November 2025
+Records included: 36192374 records from 2278 published datasets
+Compressed data size: 4.5 GB
+Download format: simple tab-separated values (TSV)
+Filter used:
+
+{
+  "and" : [
+    "Country is United States of America",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Arthropoda"
+  ]
+}

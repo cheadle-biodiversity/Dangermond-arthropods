@@ -8,8 +8,24 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(RSQLite)
 library(dplyr)
-setwd("~/Documents/CaliforniaArthropods")
-conn <- dbConnect(RSQLite::SQLite(), "california.db")
+
+input_path <- knitr::current_input()
+analysis_dir <- if (!is.null(input_path)) dirname(normalizePath(input_path, mustWork = FALSE)) else getwd()
+repo_dir <- normalizePath(file.path(analysis_dir, ".."), mustWork = TRUE)
+if (!file.exists(file.path(repo_dir, "README.md"))) {
+  repo_dir <- normalizePath(getwd(), mustWork = TRUE)
+}
+
+db_candidates <- c(
+  file.path(repo_dir, "data", "local", "california.db"),
+  path.expand("~/Documents/CaliforniaArthropods/california.db")
+)
+db_path <- db_candidates[file.exists(db_candidates)][1]
+if (is.na(db_path)) {
+  stop("Could not find california.db. Put it in data/local/ or ~/Documents/CaliforniaArthropods/.")
+}
+
+conn <- dbConnect(RSQLite::SQLite(), db_path)
 ```
 
 ### List of tables in COL sqlite database
@@ -43,8 +59,7 @@ dbClearResult(res)
 returns <- dbSendQuery(conn, "SELECT distinct `order`, family, scientificName from occ where phylum !='Arthropoda'")
 notArthropods <- dbFetch(returns)
 dbClearResult(returns)
-help(write.table)
-write.table(notArthropods, file='notArthropodsv2.tsv', sep="\t", append = FALSE , row.names = F, col.names = TRUE, quote = FALSE)
+write.table(notArthropods, file=file.path(repo_dir, "data", "reference", "notArthropodsv2.tsv"), sep="\t", append = FALSE , row.names = F, col.names = TRUE, quote = FALSE)
 ```
 ```{r, echo=TRUE, results='asis'}
 knitr::kable(notArthropods[,0:4], caption = "Arthropods and localities", floating.environment="sidewaystable")

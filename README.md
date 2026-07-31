@@ -1,4 +1,22 @@
-# Dangermond Preserve special-status insect screening list
+# Dangermond Arthropods
+
+This repository gathers arthropod occurrence data, source notes, literature, analysis files, and screening outputs for biodiversity work related to the Jack and Laura Dangermond Preserve.
+
+## Repository layout
+
+- `analysis/` - R Markdown and other analysis notebooks.
+- `Apoidea/` - self-contained Python workflow for the Central Coast non-bee Apoidea checklist.
+- `data/raw/gbif/` - GBIF occurrence download files.
+- `data/raw/cibi/` - CIBI/source download files from the 2025-11-19 export.
+- `data/raw/ecdysis/` - Ecdysis Darwin Core Archive export files.
+- `data/local/` - local SQLite databases ignored by git.
+- `data/reference/` - small reference tables used by analyses.
+- `docs/field-logistics/` - preserve visit, directions, and overnight logistics documents.
+- `docs/source-notes/` - notes and citations for merged source datasets.
+- `outputs/` - generated reports and printable screening files.
+- `references/papers/` - supporting literature PDFs.
+
+## Special-status insect screening list
 
 | Scientific name | Order | Family | Common name | Habitat | Host plant / larval host / key resources | California status / tracking note | Adult phenology | Likely at Dangermond? | Where most likely observed |
 |---|---|---|---|---|---|---|---|---|---|
