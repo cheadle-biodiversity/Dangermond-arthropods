@@ -29,3 +29,16 @@ This repository gathers arthropod occurrence data, source notes, literature, ana
 | *Bombus crotchii* | Hymenoptera | Apidae | Crotch’s bumble bee | Coastal scrub, grassland, chaparral openings, restoration areas with sustained bloom | Generalist floral resources; Fabaceae, Asteraceae, Lamiaceae, Boraginaceae, *Asclepias*, *Salvia*, *Acmispon*, *Eriogonum*, etc. | CDFW Special Animals List; G2/S2; CESA Candidate Endangered; IUCN Endangered | Queens late winter–spring; workers/males spring–late summer; best survey during abundant bloom | **Yes — high priority** | Flower-rich coastal scrub/grassland, vetch/deerweed/sage/buckwheat/milkweed patches, restoration plantings |
 | *Bombus caliginosus* | Hymenoptera | Apidae | Obscure bumble bee / fog-belt bumble bee | Coastal grasslands, scrub, meadows, edge habitats; more coastal/fog-belt associated | Generalist floral resources; requires nesting/overwintering habitat and sustained bloom | CDFW Special Animals List; G2G3/S1S2; IUCN Vulnerable | Spring–fall; survey during peak coastal bloom | **Possible, but ID is difficult** | Flower-rich coastal grassland/scrub, moist/foggy coastal sites; voucher-quality photos or specimens needed |
 | *Pseudocopaeodes eunus* | Lepidoptera | Hesperiidae | Alkali skipper / wandering skipper complex | Alkali meadow, saltgrass flat, saline wetland, saltmarsh transition | Larval host: saltgrass, *Distichlis spicata* | CDFW tracks *P. e. eunus* and *P. e. obscurus*; federal endangered status applies to Carson wandering skipper | Several flights Apr–Sep; adults nectar at flowers | **Habitat-dependent** | Saltgrass-dominated flats, saline meadow, saltmarsh transition zones |
+
+## GBIF Arthropoda pipeline (analysis/scripts/)
+
+A separate, numbered R pipeline analyzing GBIF Arthropoda occurrence
+records in California relative to the Preserve boundary — download,
+merge/deduplicate, coordinate and latitude-range filtering,
+boundary-distance calculation, taxonomic summary tables/figures, and
+per-species minimum-convex-polygon overlap. See
+[`analysis/README.md`](analysis/README.md) for the full step index, run
+instructions, and status. This complements `Apoidea/` (a Python
+workflow scoped to non-bee Apoidea) and `analysis/CA-arthropods.Rmd`
+(a SQLite-backed exploratory notebook) as a third, independent
+approach within this repository, and does not modify either.

@@ -1,0 +1,13 @@
+# Downloaded GBIF data (large; regenerate via the script instead of committing)
+output/*.zip
+output/dwca/
+
+# Keep the DOI and metadata records, since they're small and citation-critical
+!output/doi.txt
+!output/download_metadata.txt
+
+# R session/environment files that may contain credentials
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
