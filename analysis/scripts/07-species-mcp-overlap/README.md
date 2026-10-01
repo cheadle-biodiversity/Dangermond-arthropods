@@ -1,7 +1,7 @@
-# Dangermond Project — Step 6: Species Minimum Convex Polygons & Preserve Overlap
+# Dangermond Project — Step 7: Species Minimum Convex Polygons & Preserve Overlap
 
 New step (no prior "other chat" version — built fresh for this
-project). A different kind of analysis from Steps 4-5: instead of
+project). A different kind of analysis from Steps 5-6: instead of
 "how close does each species get to the Preserve," this asks "does
 each species' overall known range, as a minimum convex polygon (MCP),
 overlap the Preserve at all."
@@ -24,7 +24,7 @@ overlap the Preserve at all."
 
 ## Key decisions
 
-**Which input dataset:** this uses Step 3's full coordinate-complete
+**Which input dataset:** this uses Step 4's full coordinate-complete
 output (`dwc_coords_complete.csv` — every species, any latitude), not
 the latitude-band-restricted overlap file. That band was a coarse
 pre-filter built for a different question (does this species' raw
@@ -32,7 +32,7 @@ latitude range even reach this far), not a real range boundary — using
 it here would silently drop occurrence points a species' true range
 hull needs, which could hide real overlaps or distort hull shape. This
 step re-derives which species overlap the Preserve from each species'
-full known range, independently of Step 3's filter.
+full known range, independently of Step 4's filter.
 
 **What "overlap" means:** `sf::st_intersects()` — true for any spatial
 intersection at all, including a hull that fully *contains* the
@@ -48,7 +48,7 @@ degenerates to a line/point instead of a real polygon), gets listed in
 silently or force-fit with an arbitrarily chosen buffer distance.
 
 **Area method:** `sf::st_area()` directly on unprojected WGS84
-geometry, consistent with Step 4's distance calculation — with `sf`'s
+geometry, consistent with Step 5's distance calculation — with `sf`'s
 S2 spherical engine (`sf_use_s2()` is `TRUE` by default) this is true
 geodesic area, not naive planar area on raw lon/lat degrees.
 
@@ -58,7 +58,7 @@ Worth stating explicitly, since it's easy to misread from a plot: the
 hull is built with `sf::st_convex_hull()` on each species' full
 `(decimalLongitude, decimalLatitude)` point set, so both east-west and
 north-south spread shape the polygon — it is not derived from a
-latitude range the way Step 3's coarse filter is.
+latitude range the way Step 4's coarse filter is.
 
 The first verification plot made for this step (during the original
 build) showed two of four synthetic test species' hulls as literal
@@ -86,8 +86,8 @@ coordinates fall inside that broad convex envelope, even with zero
 records anywhere nearby. **Expect most widely-distributed species to
 show overlap under this method — that's the expected behavior of a
 convex hull, not a bug.** If "has this species actually been recorded
-near the Preserve" is the real question, Step 4's boundary-distance
-output and Step 5's distance-bin breakdown answer that directly; this
+near the Preserve" is the real question, Step 5's boundary-distance
+output and Step 6's distance-bin breakdown answer that directly; this
 step answers a different, broader question about range envelopes.
 
 ## Verified before use
@@ -152,25 +152,46 @@ overlap test aren't natively vectorized across groups in `sf`). Data is
 split by species once up front, rather than re-filtered from the full
 table on every iteration, to avoid an accidental O(n_species ×
 n_records) scan — but for the full Arthropoda-in-California dataset,
-with potentially many thousands of species, this could still take a
-while to run. If that becomes a real bottleneck, batching the
-hull/area/intersects calls instead of looping row-by-row would be the
-natural next optimization — not attempted here since it hasn't been
-shown to be necessary yet.
+with potentially many thousands of species, this takes a while to run
+for real — confirmed against the real dataset (53,632 species to
+process): roughly 25-30 minutes for the per-species loop itself.
+Memory stayed flat throughout (~2.7 GB RSS), so this part scales fine;
+the real bottleneck turned out to be somewhere else entirely — see
+below.
 
-## Note on this copy (rebuilt after a workspace reset)
+## Real-data bug: `do.call(rbind, ...)` on ~27,000 hulls never finishes
 
-This script and its test-verified fixes were reconstructed from
-conversation history after the cloud workspace they originally lived
-in was reset. The Preserve boundary file itself is not a
-reconstruction — it's the same file originally uploaded (same 346
-vertices, same `GlobalID`), re-uploaded by the user after the reset so
-this step (and Steps 3-4) could be rebuilt against the real polygon
-rather than a placeholder.
+The per-species loop above completed fine against the real data
+(27,327 species got a valid hull), and the two CSV summary outputs
+wrote successfully in seconds. But the final step — combining all
+~27,000 individual single-feature `sf` hull objects into one file with
+`do.call(rbind, valid_hulls)` — ran at 100% CPU with flat memory for
+over 10 minutes and never completed. This is a classic R anti-pattern:
+`rbind()`'s S3 dispatch recombines its arguments pairwise internally,
+so a single `do.call(rbind, <list of thousands>)` call re-copies the
+growing result over and over — an `O(n²)` blowup that isn't visible
+from reading the code, only from running it at real scale.
+
+**Fix:** combine the attribute columns and the geometries separately,
+using operations that are actually vectorized across the whole list —
+`dplyr::bind_rows()` for the attributes (the same function already
+used successfully for the two CSV outputs) and `c()` for the `sfc`
+geometry list (concatenates in one pass, not pairwise) — then
+reassemble with `st_sf()`. Benchmarked directly against ~27,000
+single-feature `sf` objects: ~7 seconds this way vs. not completing in
+10+ minutes the original way.
+
+**Also added:** a checkpoint (`output/_checkpoint_after_loop.rds`)
+saved immediately after the per-species loop finishes, before the
+assembly/write step runs. The loop is the expensive part (tens of
+minutes); everything after it is just reformatting and writing that
+same result. A future bug in the assembly step — like this one — now
+costs a reload of that checkpoint, not a 25-30 minute re-run of the
+whole loop.
 
 ## Paths
 
-`infile` points at Step 3's full coordinate-complete output (not its
+`infile` points at Step 4's full coordinate-complete output (not its
 latitude-overlap output — see "Which input dataset" above). `boundary_file`
 points at the shared reference boundary. Both relative, matching the
 pattern used in earlier steps.

@@ -1,7 +1,7 @@
-# Dangermond Project — Step 2: Merge & Deduplicate
+# Dangermond Project — Step 3: Merge & Deduplicate
 
-Picks up after Step 1 (or after any set of raw Darwin Core exports) and
-produces one clean, deduplicated table.
+Picks up after Step 2 (the column-trimmed GBIF export, or any set of
+raw Darwin Core exports) and produces one clean, deduplicated table.
 
 ## What's produced
 
@@ -69,18 +69,19 @@ entirely from the merged data, that dedup stage is skipped with an
 explicit warning rather than erroring out or silently doing nothing —
 the header report is the place to check first if that happens.
 
-## Note on this copy (rebuilt after a workspace reset)
+## Verified against the real download
 
-This script was reconstructed from conversation history after the
-cloud workspace it originally lived in was reset. The NA-collapse bug
-and its fix were both verified with real test runs in the original
-session (the R snippet above was run directly, not just reasoned
-about) — this rebuild restores that same, already-verified logic
-rather than re-deriving it from scratch.
+Run against the real, live-GBIF output of Steps 1-2 (4,665,086 records,
+14 columns after trimming): 4,658,904 records remained after both
+dedup stages (6,182 duplicates removed — 6,164 by `occurrenceID`, 18
+more by the institution/collection/catalog-number fallback). The
+NA-collapse bug above was caught and fixed before this real run, using
+a synthetic test case; the real run itself didn't surface any further
+issues in this step.
 
 ## Paths
 
 Edit the `input_files` tribble at the top of the script to point at
-your actual input files — the one example row assumes Step 1's raw
-GBIF output; uncomment/add rows for additional sources (e.g. a
-Symbiota export).
+your actual input files — the one example row assumes Step 2's
+column-trimmed output; uncomment/add rows for additional sources (e.g.
+a Symbiota export).

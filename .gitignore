@@ -22,3 +22,16 @@ data/raw/**
 # Large reference and logistics PDFs kept locally
 docs/field-logistics/*.pdf
 references/papers/*.pdf
+
+# analysis/scripts pipeline: large generated intermediate/output files
+# (multi-hundred-MB to multi-GB) are excluded; small per-run metadata
+# and the small final summary outputs are kept so a real verified run
+# is visible in the repo (see each step's README "Verified against the
+# real download" sections).
+analysis/scripts/01-download-gbif-arthropoda-ca/output/dwca/
+analysis/scripts/02-trim-gbif-columns/output/occurrence_trimmed.txt
+analysis/scripts/03-merge-deduplicate/output/dwc_merged_deduplicated.csv
+analysis/scripts/04-filter-latrange-overlap/output/dwc_coords_complete.csv
+analysis/scripts/04-filter-latrange-overlap/output/dwc_latrange_overlap.csv
+analysis/scripts/05-boundary-distance/output/dwc_distance_to_boundary.csv
+analysis/scripts/07-species-mcp-overlap/output/_checkpoint_after_loop.rds

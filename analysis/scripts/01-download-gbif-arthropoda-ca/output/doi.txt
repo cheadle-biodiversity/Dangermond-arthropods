@@ -1,1 +1,1 @@
-(placeholder — this file is overwritten with the real DOI when download_arthropoda_ca.R is run against live GBIF credentials)
+10.15468/dl.vgv5ee

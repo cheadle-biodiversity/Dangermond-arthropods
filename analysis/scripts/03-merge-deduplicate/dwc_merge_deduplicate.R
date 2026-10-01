@@ -2,7 +2,7 @@
 # ============================================================
 # Darwin Core Merge & Deduplicate
 # ============================================================
-# Dangermond Project — Data Acquisition Step 2
+# Dangermond Project — Data Acquisition Step 3
 #
 # Tasks:
 #   1) Read an arbitrary number of Darwin Core files (not just two),
@@ -65,9 +65,19 @@ library(tibble)
 # ------------------------------------------------------------
 input_files <- tribble(
   ~name,             ~path,                                  ~delim,
-  "gbif_part1",      "../01-download-gbif-arthropoda-ca/output/dwca/occurrence.txt", "\t",
+  "gbif_part1",      "../02-trim-gbif-columns/output/occurrence_trimmed.txt", "\t",
   # "symbiota_export", "path/to/symbiota_export.csv",         ",",
 )
+# NOTE: pointed at Step 2's column-trimmed output (14 columns) rather
+# than the full 230-column DwC-A export directly — the raw occurrence.txt
+# (6.84 GB) is too large to move through most transfer paths in one
+# piece. Step 2 keeps every column this pipeline (Steps 3-7) actually
+# uses, and the join keys used for dedup here (occurrenceID,
+# institutionCode+collectionCode+catalogNumber) are exactly the columns
+# it keeps, so full record detail can be rejoined later from the
+# original file if needed. Row count out of Step 2's trim (4,665,086)
+# matched the live GBIF download's total record count exactly when
+# verified against the real data.
 
 outdir <- "./output"
 outfile_merged <- file.path(outdir, "dwc_merged_deduplicated.csv")

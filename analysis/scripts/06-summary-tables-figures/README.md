@@ -1,7 +1,7 @@
-# Dangermond Project — Step 5: Summary Table & Figures
+# Dangermond Project — Step 6: Summary Table & Figures
 
 New step (no prior "other chat" version — built fresh for this project).
-Picks up after Step 4 (`../04-boundary-distance/`) and produces the
+Picks up after Step 5 (`../05-boundary-distance/`) and produces the
 requested deliverables: one summary table and two bar figures showing
 how in-extent Arthropoda species break down by taxonomic order/family
 and distance to the Dangermond Preserve boundary.
@@ -24,11 +24,11 @@ and distance to the Dangermond Preserve boundary.
 
 ## Key decisions (each one changes the actual numbers or how to read them)
 
-**Which distance:** Step 4 produces two different "closest distance"
+**Which distance:** Step 5 produces two different "closest distance"
 figures per species. This step uses output (b), "including outside
 extent" — each species' true closest record to the boundary, even from
 one whose own latitude falls outside the band — rather than output (a),
-"within extent only." Step 4's own test case showed these can genuinely
+"within extent only." Step 5's own test case showed these can genuinely
 differ for the same species, so this choice affects which bin a species
 lands in, not just a cosmetic difference.
 
@@ -130,9 +130,11 @@ orders folded into "Other" correctly produced two separate "Other:
 _family_" legend entries in distinct grey shades, rather than merging
 or losing one. Not capped if an order has many families — with enough
 families the lightest shades could become hard to tell apart, which
-hasn't come up in testing but is worth watching once real data is used;
-folding an order's smallest families into an "(other _order_)" bucket
-would be the natural next step if that happens.
+hadn't come up in testing against synthetic data but did come up
+immediately against the real dataset — see "Real-data bug" below for
+what that actually looked like and how it was fixed (not the
+"other-order bucket" idea speculated here, which turned out not to be
+the real constraint).
 
 ## Verified before use
 
@@ -179,24 +181,45 @@ would be the natural next step if that happens.
 
 If either column is missing from the input entirely, the script stops
 with an explicit error rather than producing a broken or misleading
-table — Step 2's column-header report is the place to check first if
+table — Step 3's column-header report is the place to check first if
 that happens, since it would mean one of GBIF/Symbiota's exports didn't
 carry those fields through. If a specific species has a blank
 order/family value (present in the data but empty for that record), the
 script labels it `(order not recorded)` / `(family not recorded)`
 rather than dropping the species from the taxonomic breakdown.
 
-## Note on this copy (rebuilt after a workspace reset)
+## Real-data bug: runaway image height
 
-This script was reconstructed from conversation history after the
-cloud workspace it originally lived in was reset. Every fix and
-verification claim described above (including both bugs in the
-"Verified before use" section) reflects real test runs performed in the
-original session — this rebuild restores that same, already-verified
-logic rather than re-deriving it from scratch.
+Running this step against the real dataset (19,894 in-extent species)
+surfaced a real scaling bug the synthetic 12-species test case was
+never going to exercise: the order+family chart's height formula
+(`5.5 + 0.15 inch per order:family legend row`) was sized for a
+handful of families per order. Real data produced **1,031** distinct
+order:family combinations, so the formula asked `ggsave()` for a
+**~152-inch-tall** image (~48,000 pixels) — technically rendered, but
+unusable as a figure, and rejected outright by the file-delivery tool
+for being an absurd size.
+
+**Fix:** cap the image at a fixed, always-reasonable maximum height
+(22 inches) regardless of how many order:family combinations are
+present, and let the legend wrap into multiple columns
+(`guide_legend(ncol = ...)`, scaled to the actual number of legend
+rows) so it uses the available height instead of dictating it. The
+chart itself — the part that actually needs to stay readable — keeps
+its intended size; with 1,000+ legend entries the legend is
+necessarily dense text at any image size, which
+`species_by_order_family_distance.csv` (this step's own full table) is
+the better place to look up exact counts from, same relationship this
+step's own earlier notes already described between the chart and the
+table.
+
+Re-run after the fix: both charts rendered successfully
+(7200×6600 px for the order+family chart), 82 orders represented (top
+8 keep distinct colors, 74 folded into "Other" — as designed), 19,894
+species summarized across all 7 distance bins.
 
 ## Paths
 
-`infile` points at Step 4's "including outside extent" output. Update
+`infile` points at Step 5's "including outside extent" output. Update
 if you'd rather use the "within extent only" figure instead — nothing
 else in the script needs to change.

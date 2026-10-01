@@ -3,10 +3,10 @@
 # Summary Table & Figures: Species by Order/Family and Distance to
 # the Dangermond Preserve Boundary
 # ============================================================
-# Dangermond Project — Data Acquisition Step 5
+# Dangermond Project — Data Acquisition Step 6
 #
 # Tasks:
-#   1) Load the per-species nearest-record table (Step 4, output (b):
+#   1) Load the per-species nearest-record table (Step 5, output (b):
 #      each in-extent species' true closest record, even if that
 #      specific record's own latitude falls outside the band — see
 #      "Distance source" below for why this one and not output (a))
@@ -21,10 +21,10 @@
 #      bar is now stacked, segmented by the families within that order
 #      — see "Order+family chart design" below
 #
-# DISTANCE SOURCE: uses Step 4's "including outside extent" output
+# DISTANCE SOURCE: uses Step 5's "including outside extent" output
 # rather than "within extent only" — i.e. each species' true closest
 # approach to the Preserve, even from a record whose own latitude falls
-# outside the band. Confirmed with Step 4's own test case: some species
+# outside the band. Confirmed with Step 5's own test case: some species
 # only reveal their true closest distance once out-of-band records are
 # considered, so using the within-extent-only figure here would
 # overstate distance (and could put a species in the wrong bin) for any
@@ -112,7 +112,7 @@ integer_breaks <- function(x) {
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile <- "../04-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv"
+infile <- "../05-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv"
 
 outdir <- "./output"
 outfile_table             <- file.path(outdir, "species_by_order_family_distance.csv")
@@ -145,7 +145,7 @@ lighten_hex <- function(hex, amount) {
 }
 
 # ------------------------------------------------------------
-# 1) Load Step 4's per-species nearest-record table
+# 1) Load Step 5's per-species nearest-record table
 # ------------------------------------------------------------
 message("Reading input file...")
 df <- read_csv(infile, show_col_types = FALSE)
@@ -162,7 +162,7 @@ if (length(missing_cols) > 0) {
       "This step needs 'order' and 'family' (standard Darwin Core taxonomic",
       "fields) to be present in the merged dataset all the way through Steps",
       "2-4 — check that both GBIF and Symbiota exports actually include",
-      "them, and that Step 2's column-header report didn't flag them as",
+      "them, and that Step 3's column-header report didn't flag them as",
       "missing from one source."
     ),
     paste(missing_cols, collapse = ", ")
@@ -170,7 +170,7 @@ if (length(missing_cols) > 0) {
 }
 
 if (any(duplicated(df[[species_col]]))) {
-  warning("Input has more than one row for at least one species — expected exactly one row per species from Step 4's output (b). Counts below may be inflated for those species.")
+  warning("Input has more than one row for at least one species — expected exactly one row per species from Step 5's output (b). Counts below may be inflated for those species.")
 }
 
 # ------------------------------------------------------------
@@ -338,7 +338,7 @@ order_family_counts <- df_binned %>%
 # a grouped mutate() — for any order with more than one family it's a
 # vector, not a scalar, and a base if() on a vector of length > 1
 # errors. Caught by actually running the script against test data, not
-# by reading the code — see the Step 5 README for details.
+# by reading the code — see the Step 6 README for details.
 family_shade_lookup <- order_family_counts %>%
   group_by(order, family) %>%
   summarise(family_total = sum(n_species), .groups = "drop") %>%
@@ -417,14 +417,43 @@ order_family_plot <- ggplot(order_family_counts,
     axis.text.x = element_text(angle = 20, hjust = 1),
     axis.ticks.x = element_line(color = "grey50", linewidth = 0.3),
     axis.ticks.length.x = unit(0.15, "cm"),
-    legend.key.size = unit(0.4, "cm"),
-    legend.text = element_text(size = 8),
+    legend.key.size = unit(0.3, "cm"),
+    legend.text = element_text(size = 6),
     plot.title = element_text(face = "bold", size = 12),
     plot.subtitle = element_text(size = 10, color = "grey35")
   )
 
+# RUNAWAY IMAGE HEIGHT BUG — found only by running this against the real,
+# full dataset (California's actual Arthropoda diversity), not by
+# reviewing the code or the synthetic test cases in this step's README:
+# the original height formula (5.5 + 0.15in per order:family legend row)
+# was sized for a handful of families per order, which is all the
+# synthetic test data ever had. Real data produced 1,031 distinct
+# order:family combinations, so the formula asked ggsave() for a
+# ~160-inch-tall, ~48,000-pixel image — technically renders, but it's
+# unusable as a figure and was rejected outright by the file-delivery
+# tool (upload error) for being an absurd size. A one-row-per-family
+# legend simply cannot scale to real-world taxonomic diversity.
+#
+# Fix: cap the image at a fixed, always-reasonable height regardless of
+# how many order:family combinations are present, and let the legend
+# wrap into multiple columns (via guide_legend(ncol = ...)) so it uses
+# the available height instead of dictating it. This keeps the chart
+# itself (the bars, the part that actually needs to be readable)
+# properly sized; with 1,000+ legend entries the legend itself is
+# necessarily dense text, not something any static image size fixes —
+# species_by_order_family_distance.csv (the full table this chart
+# summarizes) is the place to look up exact order/family/bin counts,
+# same relationship Step 6's own header comments already describe
+# between this chart and that table.
+max_height_in <- 22
+legend_ncol <- max(1, ceiling(nrow(family_shade_lookup) / 90))
+
+order_family_plot <- order_family_plot +
+  guides(fill = guide_legend(ncol = legend_ncol))
+
 ggsave(outfile_order_family_chart, order_family_plot,
-       width = 10, height = 5.5 + 0.15 * nrow(family_shade_lookup), dpi = 300, limitsize = FALSE)
+       width = 10 + 1.4 * (legend_ncol - 1), height = max_height_in, dpi = 300, limitsize = FALSE)
 message(sprintf("Order+family chart written to:\n  %s", outfile_order_family_chart))
 
 message("\nDone.")

@@ -1,0 +1,8 @@
+download_key: 0010070-260921141020460
+doi: 10.15468/dl.vgv5ee
+taxon: Arthropoda (taxonKey=54)
+gadm: USA.5_1 (California)
+hasGeospatialIssue: FALSE
+format: DWCA
+submitted_at: 2026-09-28 03:08:29 UTC
+total_records: 4665086

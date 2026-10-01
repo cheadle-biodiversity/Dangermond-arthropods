@@ -2,11 +2,11 @@
 # ============================================================
 # Coordinate Filtering & Latitude Range Overlap
 # ============================================================
-# Dangermond Project — Data Acquisition Step 3
+# Dangermond Project — Data Acquisition Step 4
 #
 # Tasks:
-#   1) Load the merged/deduplicated DwC file (output of Step 2,
-#      ../02-merge-deduplicate/)
+#   1) Load the merged/deduplicated DwC file (output of Step 3,
+#      ../03-merge-deduplicate/)
 #   2) Remove records missing decimalLatitude or decimalLongitude
 #   3) Save the coordinate-complete records as a CSV
 #   4) Normalize scientificName across sources before grouping (see
@@ -64,7 +64,7 @@ library(sf)
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile <- "../02-merge-deduplicate/output/dwc_merged_deduplicated.csv"
+infile <- "../03-merge-deduplicate/output/dwc_merged_deduplicated.csv"
 
 outdir <- "./output"
 
@@ -97,9 +97,37 @@ message(sprintf("Preserve latitude range (from %s): %.6f - %.6f",
 # for them, which shifts every subsequent element out of alignment with
 # the input vector — a real bug caught while testing this fix. sub() is
 # always one-to-one with its input, so no realignment issue is possible.
+#
+# BOLD BIN COLLAPSE BUG — found only by running against the real GBIF
+# download, not by inspecting the code: 715,978 real records (mostly
+# from the Centre for Biodiversity Genomics / Stroud Water Research
+# Center, basisOfRecord = MATERIAL_SAMPLE) carry a DNA-barcode BIN
+# identifier as their `scientificName`, e.g. "BOLD:ABX4063",
+# "BOLD:AAA2326" — each code identifying a genuinely distinct barcode
+# cluster, not the same taxon. The regex above matches "BOLD" as if it
+# were a genus-like token and discards everything after it (the actual
+# distinguishing ":ABX4063" part), collapsing all ~716K of these
+# genuinely different records into one fake "species" literally named
+# "BOLD". Confirmed directly: that merged group had ~6,000 distinct
+# coordinate locations and a convex hull of ~535,000 km^2 — large
+# enough to spuriously "overlap" the 99 km^2 Preserve and would have
+# shown up as a top result in Step 6's overlap ranking despite not
+# being a real species at all.
+#
+# Fix: BOLD-prefixed identifiers are left completely untouched (each
+# keeps its own full "BOLD:XXXXXXX" as its own group) rather than run
+# through the genus/species regex — same "leave unusual formats alone
+# rather than guess" principle the rest of this function already
+# follows, just made to actually catch this specific real-world case.
+# Checked and confirmed no other ":"-delimited placeholder prefix
+# appears anywhere in this dataset's scientificName column, so this
+# stays a narrow, targeted fix rather than a broad heuristic.
 # ------------------------------------------------------------
 clean_scientific_name <- function(x) {
-  sub("^([A-Z][a-zA-Z-]+(?:\\s+[a-z][a-zA-Z-]+)?).*$", "\\1", x, perl = TRUE)
+  bold_like <- !is.na(x) & grepl("^BOLD:", x)
+  cleaned <- sub("^([A-Z][a-zA-Z-]+(?:\\s+[a-z][a-zA-Z-]+)?).*$", "\\1", x, perl = TRUE)
+  cleaned[bold_like] <- x[bold_like]
+  cleaned
 }
 
 # ------------------------------------------------------------

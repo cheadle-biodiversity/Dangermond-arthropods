@@ -23,10 +23,10 @@
 # in chat — nothing here ever asks for or logs credentials. Set those
 # three variables in your own environment before running this script.
 #
-# WHY gadmGid INSTEAD OF stateProvince: GBIF's stateProvince field is
+# WHY gadm INSTEAD OF stateProvince: GBIF's stateProvince field is
 # free text supplied by data publishers ("California", "CA", "Calif.",
 # occasionally missing or in another language entirely) and matching
-# against it is unreliable. `pred("gadmGid", "USA.5_1")` instead matches
+# against it is unreliable. `pred("gadm", "USA.5_1")` instead matches
 # on GADM's administrative-boundary geometry for California — a
 # geometric membership test rather than a text match, so it doesn't
 # miss records where a publisher used a different string for the same
@@ -40,8 +40,31 @@
 # hasGeospatialIssue = FALSE: excludes records GBIF's own automated
 # quality flags have already identified as having a geospatial problem
 # (e.g. coordinates that don't fall within the stated country). This is
-# a coarse first-pass filter — Step 3 does its own, stricter
+# a coarse first-pass filter — Step 4 does its own, stricter
 # coordinate-completeness check later in the pipeline regardless.
+#
+# VERIFIED AGAINST LIVE GBIF — three real bugs found only by actually
+# running this against the live API (none were catchable by static
+# review or synthetic test data, since all of them only manifest with
+# rgbif's real return types/API behavior):
+#
+#  1) `pred("gadmGid", "USA.5_1")` is wrong: `gadmGid` is a field name on
+#     GBIF's live /occurrence/search API, but occ_download()'s predicate
+#     DSL uses the key name `gadm` instead. Using `gadmGid` here either
+#     errors or silently fails to scope the request correctly. Fixed to
+#     `pred("gadm", "USA.5_1")`.
+#  2) `arthropoda_key <- backbone_match$usageKey` can come back as a
+#     character value, not numeric, depending on the match — the `%d`
+#     format specifier in the two `sprintf()` calls that print it
+#     (line ~71 and the metadata block) throws "invalid format" in that
+#     case. Fixed to `%s` in both places.
+#  3) `occ_download_get()` returns a classed character vector (the file
+#     path itself), not a list with a `$path` element — `dl_path$path`
+#     is therefore NULL/invalid. Fixed to `as.character(dl_path)`.
+#
+# Confirmed working end-to-end against the real GBIF API: 4,665,086
+# Arthropoda records returned for California, DOI 10.15468/dl.vgv5ee,
+# download key 0010070-260921141020460.
 # ============================================================
 
 library(rgbif)
@@ -68,7 +91,7 @@ if (is.null(backbone_match$usageKey) || backbone_match$matchType == "NONE") {
 
 arthropoda_key <- backbone_match$usageKey
 message(sprintf(
-  "Resolved: %s (rank=%s) -> taxonKey=%d, match type=%s",
+  "Resolved: %s (rank=%s) -> taxonKey=%s, match type=%s",
   backbone_match$scientificName, backbone_match$rank, arthropoda_key, backbone_match$matchType
 ))
 
@@ -76,11 +99,11 @@ message(sprintf(
 # 2) Submit the occurrence download
 # ------------------------------------------------------------
 message("\nSubmitting GBIF occurrence download request...")
-message("(all record types included; California via GADM boundary gadmGid = USA.5_1)")
+message("(all record types included; California via GADM boundary gadm = USA.5_1)")
 
 download_key <- occ_download(
   pred("taxonKey", arthropoda_key),
-  pred("gadmGid", "USA.5_1"),
+  pred("gadm", "USA.5_1"),
   pred("hasGeospatialIssue", FALSE),
   format = "DWCA"
 )
@@ -109,8 +132,8 @@ writeLines(
   c(
     sprintf("download_key: %s", download_key),
     sprintf("doi: %s", doi),
-    sprintf("taxon: %s (taxonKey=%d)", backbone_match$scientificName, arthropoda_key),
-    sprintf("gadmGid: USA.5_1 (California)"),
+    sprintf("taxon: %s (taxonKey=%s)", backbone_match$scientificName, arthropoda_key),
+    sprintf("gadm: USA.5_1 (California)"),
     sprintf("hasGeospatialIssue: FALSE"),
     sprintf("format: DWCA"),
     sprintf("submitted_at: %s", format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"))
@@ -132,7 +155,7 @@ dl_path <- occ_download_get(download_key, path = outdir, overwrite = TRUE)
 message("Unzipping...")
 unzip_dir <- file.path(outdir, "dwca")
 dir.create(unzip_dir, recursive = TRUE, showWarnings = FALSE)
-unzip(dl_path$path, exdir = unzip_dir)
+unzip(as.character(dl_path), exdir = unzip_dir)
 
 message(sprintf("\nDone. Darwin Core Archive extracted to:\n  %s", unzip_dir))
 message(sprintf("Cite this download using DOI: %s", doi))

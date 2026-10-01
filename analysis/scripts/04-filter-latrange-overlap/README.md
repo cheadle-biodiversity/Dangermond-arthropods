@@ -1,6 +1,6 @@
-# Dangermond Project — Step 3: Coordinate Filtering & Latitude-Range Overlap
+# Dangermond Project — Step 4: Coordinate Filtering & Latitude-Range Overlap
 
-Picks up after Step 2 (`../02-merge-deduplicate/`) and the Preserve
+Picks up after Step 3 (`../03-merge-deduplicate/`) and the Preserve
 boundary file (`../reference-data/jldp_boundary.geojson`).
 
 ## What's produced
@@ -68,23 +68,49 @@ max across every record) overlaps the Preserve's latitude band at all
 — a coarse, one-dimensional test, not a real spatial check. It ignores
 longitude entirely, and it says nothing about whether any specific
 record actually falls near the Preserve. It exists purely as a fast
-first-pass filter for later steps that need one; Step 4's
-boundary-distance calculation and Step 6's minimum-convex-polygon
+first-pass filter for later steps that need one; Step 5's
+boundary-distance calculation and Step 7's minimum-convex-polygon
 overlap test are the places to look for actual spatial relationships to
-the Preserve. Step 6 in particular reads Step 3's *full*
+the Preserve. Step 7 in particular reads Step 4's *full*
 coordinate-complete output rather than this latitude-restricted file,
 specifically to avoid inheriting this coarse filter's blind spots.
 
-## Note on this copy (rebuilt after a workspace reset)
+## Verified against the real download — the BOLD BIN collapse bug
 
-This script was reconstructed from conversation history after the
-cloud workspace it originally lived in was reset. Both bugs described
-above (the cross-source name-fragmentation issue and the
-`regmatches()` misalignment issue) were caught and fixed with real test
-data in the original session — this rebuild restores that same,
-already-verified logic rather than re-deriving it from scratch.
+Running this step against the real, live-GBIF data (4,658,904 records)
+surfaced a real bug that no synthetic test data had exercised: 715,978
+real records — mostly DNA-barcode samples from the Centre for
+Biodiversity Genomics and Stroud Water Research Center,
+`basisOfRecord = MATERIAL_SAMPLE` — carry a BOLD BIN (Barcode of Life
+Data System) identifier as their `scientificName`, e.g.
+`BOLD:ABX4063`, `BOLD:AAA2326`. Each code identifies a genuinely
+distinct barcode cluster, not the same taxon as any other BOLD code.
+
+`clean_scientific_name()`'s regex matched "BOLD" as if it were a
+genus-like token and discarded everything after it (the actual
+distinguishing `:ABX4063` part), collapsing all ~716K of these
+genuinely different records into one fake "species" literally named
+`BOLD`. Confirmed directly: that merged group had ~6,000 distinct
+coordinate locations and a convex hull of ~535,000 km² — large enough
+to spuriously "overlap" the 99 km² Preserve and would have shown up as
+a top result in Step 7's overlap ranking despite not being a real
+species at all.
+
+**Fix:** BOLD-prefixed identifiers are left completely untouched by
+`clean_scientific_name()` — each keeps its own full `BOLD:XXXXXXX` as
+its own group — rather than run through the genus/species regex. Same
+"leave unusual formats alone rather than guess" principle the rest of
+this function already followed, just made to actually catch this
+specific real-world case. Checked and confirmed no other
+`":"`-delimited placeholder prefix appears anywhere in this dataset's
+`scientificName` column, so this stays a narrow, targeted fix rather
+than a broad heuristic.
+
+After the fix: 53,632 unique species (up from 36,638 when BOLD records
+were wrongly merged into one), 19,894 of them overlapping the
+Preserve's latitude band.
 
 ## Paths
 
-`infile` points at Step 2's merged/deduplicated output. `boundary_file`
+`infile` points at Step 3's merged/deduplicated output. `boundary_file`
 points at the shared reference boundary.

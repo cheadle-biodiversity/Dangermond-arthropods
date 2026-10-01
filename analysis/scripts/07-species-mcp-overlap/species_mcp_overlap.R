@@ -3,10 +3,10 @@
 # Species Minimum Convex Polygons & Overlap with the Dangermond
 # Preserve Boundary
 # ============================================================
-# Dangermond Project — Data Acquisition Step 6
+# Dangermond Project — Data Acquisition Step 7
 #
 # Tasks:
-#   1) Load Step 3's FULL coordinate-complete dataset (every species,
+#   1) Load Step 4's FULL coordinate-complete dataset (every species,
 #      any latitude — not the latitude-band-restricted overlap file;
 #      see "Why the full dataset" below)
 #   2) For each species, build a minimum convex polygon (MCP / convex
@@ -26,7 +26,7 @@
 #      report, and a GeoJSON of every hull built (so they can be viewed
 #      on a map / brought into GIS software)
 #
-# WHY THE FULL COORDINATE-COMPLETE DATASET (not Step 3's latitude-band-
+# WHY THE FULL COORDINATE-COMPLETE DATASET (not Step 4's latitude-band-
 # restricted output): that band was a coarse pre-filter built for a
 # different analysis (a quick "does this species' latitude range even
 # reach this far" check on the RAW latitude values) — it is not a real
@@ -37,7 +37,7 @@
 # shape generally (a hull built from an artificially narrowed point set
 # isn't the same shape as the true MCP). This step re-derives overlap
 # independently, from each species' full known range, rather than
-# reusing Step 3's coarse filter.
+# reusing Step 4's coarse filter.
 #
 # NOTE — THE HULL IS A TRUE 2D CONVEX HULL, NOT A LATITUDE-ONLY TEST:
 # st_convex_hull() below operates on each species' full (longitude,
@@ -61,9 +61,9 @@
 # somewhere inside that broad convex envelope — even with zero actual
 # records anywhere near it. "Overlaps the Preserve" here means "the
 # Preserve falls within this species' convex range envelope," not "this
-# species has been recorded at the Preserve" — Step 4's boundary-
+# species has been recorded at the Preserve" — Step 5's boundary-
 # distance output is the place to look for actual recorded proximity,
-# and Step 5's distance bins for how that breaks down by taxon. Expect
+# and Step 6's distance bins for how that breaks down by taxon. Expect
 # most widely-distributed species to show overlap under this method;
 # that is the expected behavior of a convex-hull method, not a bug.
 #
@@ -81,7 +81,7 @@
 # means in plain usage, and was deliberately not used here.)
 #
 # AREA METHOD: sf::st_area() on unprojected WGS84 geometry, consistent
-# with Step 4's distance calculation — as of sf >= 1.0 this uses the S2
+# with Step 5's distance calculation — as of sf >= 1.0 this uses the S2
 # spherical geometry engine (`sf_use_s2()` is TRUE by default) for true
 # geodesic area, not naive planar area on raw lon/lat degrees.
 #
@@ -104,7 +104,7 @@ library(sf)
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile        <- "../03-filter-latrange-overlap/output/dwc_coords_complete.csv"
+infile        <- "../04-filter-latrange-overlap/output/dwc_coords_complete.csv"
 boundary_file <- "../reference-data/jldp_boundary.geojson"
 
 outdir <- "./output"
@@ -251,8 +251,22 @@ for (i in seq_along(species_list)) {
 
   if (i %% progress_every == 0) {
     message(sprintf("  ...processed %d / %d species", i, n_species))
+    flush(stdout()); flush(stderr())
   }
 }
+
+# ------------------------------------------------------------
+# SAFETY CHECKPOINT — the per-species loop above is the expensive part
+# (tens of minutes for the full dataset); everything after this point is
+# just reformatting/writing that same result. Saving it here means a bug
+# in the assembly/output step (like the do.call(rbind, ...) performance
+# bug found and fixed below) never costs a re-run of the whole loop —
+# just reload this file and re-run from here.
+# ------------------------------------------------------------
+saveRDS(list(summary_rows = summary_rows, insufficient_rows = insufficient_rows,
+             hull_geoms = hull_geoms),
+        file.path(outdir, "_checkpoint_after_loop.rds"))
+message(sprintf("Checkpoint saved to:\n  %s", file.path(outdir, "_checkpoint_after_loop.rds")))
 
 # ------------------------------------------------------------
 # 3) Assemble and write outputs
@@ -279,7 +293,26 @@ message(sprintf("Insufficient-data report written to:\n  %s", outfile_insufficie
 
 valid_hulls <- Filter(Negate(is.null), hull_geoms)
 if (length(valid_hulls) > 0) {
-  all_hulls_sf <- do.call(rbind, valid_hulls)
+  # COMBINE PERFORMANCE BUG — found only by actually running this against
+  # the real dataset (~27,000 valid hulls here), not by reading the code:
+  # do.call(rbind, valid_hulls) on a list this long never finished in a
+  # reasonable time (still running, CPU pegged at 100%, after 10+ minutes
+  # past the point where the two CSV outputs above had already written
+  # successfully in seconds). rbind()'s S3 dispatch recombines its
+  # arguments pairwise internally, so a single do.call(rbind, <list of
+  # thousands>) call re-copies the growing result over and over — an
+  # O(n^2) blowup, not the O(n) it looks like from the code. The fix:
+  # combine the attribute columns and the geometries separately using
+  # operations that are actually vectorized across the whole list —
+  # dplyr::bind_rows() for the attributes (already used successfully
+  # for summary_rows/insufficient_rows above) and c() for the sfc
+  # geometry list (sf's c.sfc method concatenates in one pass, not
+  # pairwise) — then reassemble with st_sf(). Benchmarked directly
+  # against ~27,000 single-feature sf objects: ~7s this way vs. the
+  # original approach not completing within 10+ minutes.
+  hull_attrs <- bind_rows(lapply(valid_hulls, sf::st_drop_geometry))
+  hull_geom_combined <- do.call(c, lapply(valid_hulls, sf::st_geometry))
+  all_hulls_sf <- st_sf(hull_attrs, geometry = hull_geom_combined)
   st_write(all_hulls_sf, outfile_polygons, delete_dsn = TRUE, quiet = TRUE)
   message(sprintf("Hull geometries written to:\n  %s", outfile_polygons))
 } else {

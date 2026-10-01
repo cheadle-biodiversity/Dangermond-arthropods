@@ -1,13 +1,13 @@
-# Dangermond Project — Step 4: Distance to Preserve Boundary
+# Dangermond Project — Step 5: Distance to Preserve Boundary
 
 New step (no prior "other chat" version — built fresh for this project).
-Picks up after Step 3 (`../03-filter-latrange-overlap/`) and the
+Picks up after Step 4 (`../04-filter-latrange-overlap/`) and the
 Preserve boundary file (`../reference-data/jldp_boundary.geojson`).
 
 ## What's actually wanted
 
 Two outputs, both scoped to species that qualify for the Preserve's
-latitudinal extent (Step 3's overlap list) — **never** a species that
+latitudinal extent (Step 4's overlap list) — **never** a species that
 doesn't occur anywhere in that band, and **never** a single global row
 across the whole dataset:
 
@@ -28,7 +28,7 @@ This went through two revisions before landing here, worth recording
 since it shapes how to read the outputs:
 
 - First version only computed distance for species that had already
-  passed Step 3's filter, and only using their in-band records — so it
+  passed Step 4's filter, and only using their in-band records — so it
   had no way to produce (b) at all.
 - Second version added a *global* "closest record overall, any species"
   output, which turned out to be a misreading — "closest overall" meant
@@ -51,15 +51,15 @@ output.
 
 ## What the script does
 
-1. **Reads** Step 3's full coordinate-complete output (every record with
+1. **Reads** Step 4's full coordinate-complete output (every record with
    usable coordinates, regardless of latitude) — needed so that (b) can
-   see records Step 3's overlap file would have excluded.
-2. **Reads** Step 3's latitude-overlap output, only to get the list of
-   in-extent species — reusing Step 3's own (already-fixed) species-name
+   see records Step 4's overlap file would have excluded.
+2. **Reads** Step 4's latitude-overlap output, only to get the list of
+   in-extent species — reusing Step 4's own (already-fixed) species-name
    normalization rather than re-implementing it here.
 3. **Reads** the authoritative Preserve boundary polygon, checks its
    validity (`sf::st_is_valid()`), and derives the latitude band from
-   its bounding box (same approach as Step 3, not hardcoded).
+   its bounding box (same approach as Step 4, not hardcoded).
 4. **Computes distance** from every coordinate-complete record to the
    boundary — 0 if the point falls inside the Preserve, otherwise the
    true geodesic distance to the nearest edge — and flags whether each
@@ -97,17 +97,27 @@ If more than one record shares the exact minimum distance within a
 group, one is kept — first in the input's row order, **not** chosen by
 any data-quality criterion — but `n_tied_at_min` records how many
 records shared that minimum, so a tie is visible rather than silently
-resolved. Same caveat as Step 2's duplicate-resolution order.
+resolved. Same caveat as Step 3's duplicate-resolution order.
 
-## Performance note
+## Performance note — the real OOM bug, found by actually running this
 
 This computes distance for every coordinate-complete record (needed for
-(b) — see above), not a pre-filtered subset — for the full
-Arthropoda-in-California dataset that could be a large number of
-records. S2-based distance against a single polygon is efficient, but if
-this becomes slow in practice, a first-pass longitude-window filter
-would be the natural place to optimize — not attempted here since it
-hasn't been shown to be necessary yet.
+(b) — see above), not a pre-filtered subset. Against the full real
+dataset (4,658,904 records), computing `st_distance()` (and
+`st_intersects()`) for all of them in one call exhausted available
+memory and the process was killed by the environment running it —
+confirmed via the container's own out-of-memory log (RSS hit ~6.1 GB
+against a ~5.8 GB limit). No output files were written; it never got
+the chance.
+
+**Fix:** the same computation, batched — 250,000 records converted to
+`sf` and run through `st_distance()`/`st_intersects()` at a time, with
+the batch's intermediate objects explicitly freed (`rm()` + `gc()`)
+before the next batch starts. Same inputs, same S2 geodesic method,
+same output values, just bounded peak memory. Verified end-to-end on
+the real data after the fix: all 4,658,904 records processed
+successfully in ~3.5 minutes, 19,894 in-extent species covered by
+output (b), 6,577 by output (a).
 
 ## No distance threshold applied
 
@@ -116,17 +126,8 @@ decided, and picking one arbitrarily seemed worse than surfacing the
 actual nearest records for review. Easy to add later once a value is
 chosen.
 
-## Note on this copy (rebuilt after a workspace reset)
-
-This script was reconstructed from conversation history after the
-cloud workspace it originally lived in was reset. The scoping logic
-described above (both outputs restricted to in-extent species,
-diverging correctly between (a) and (b)) was verified with a real test
-run in the original session — this rebuild restores that same,
-already-verified logic rather than re-deriving it from scratch.
-
 ## Paths
 
-`infile_coords` and `infile_overlap` both point at Step 3's output
+`infile_coords` and `infile_overlap` both point at Step 4's output
 folder, `boundary_file` at the shared reference boundary. All relative,
 matching the pattern used in earlier steps.
