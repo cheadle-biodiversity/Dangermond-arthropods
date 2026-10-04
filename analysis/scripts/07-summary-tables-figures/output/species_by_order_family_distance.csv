@@ -149,7 +149,7 @@ Coleoptera,Carabidae,4,1,12,1,27,61,318,424
 Coleoptera,Cerambycidae,2,0,0,1,25,31,160,219
 Coleoptera,Cerophytidae,0,0,0,0,0,0,1,1
 Coleoptera,Cerylonidae,0,0,0,0,1,0,0,1
-Coleoptera,Chrysomelidae,12,2,9,2,30,29,129,213
+Coleoptera,Chrysomelidae,12,2,9,2,30,29,130,214
 Coleoptera,Chrysomelinae,0,0,0,0,1,0,0,1
 Coleoptera,Ciidae,0,0,0,0,7,1,4,12
 Coleoptera,Cimberididae,0,0,0,0,0,0,1,1
@@ -324,11 +324,11 @@ Diplostraca,Moinidae,0,0,0,0,0,0,1,1
 Diplostraca,Sididae,0,0,0,0,0,0,1,1
 Diplura,Campodeidae,0,0,0,0,0,0,1,1
 Diplura,Japygidae,0,0,0,0,0,0,1,1
-Diptera,(family not recorded),44,0,0,0,0,29,232,305
+Diptera,(family not recorded),45,0,0,0,0,29,233,307
 Diptera,Acroceridae,0,0,0,0,1,5,1,7
-Diptera,Agromyzidae,17,0,0,0,0,17,96,130
+Diptera,Agromyzidae,18,0,0,0,0,17,95,130
 Diptera,Anisopodidae,1,0,0,0,0,0,0,1
-Diptera,Anthomyiidae,13,1,0,0,0,10,39,63
+Diptera,Anthomyiidae,13,1,0,0,0,10,41,65
 Diptera,Anthomyzidae,0,0,0,0,0,0,1,1
 Diptera,Apioceridae,0,0,0,0,0,0,10,10
 Diptera,Apsilocephalidae,0,0,0,0,0,0,3,3
@@ -346,11 +346,11 @@ Diptera,Camillidae,0,0,0,0,0,0,1,1
 Diptera,Canacidae,1,0,0,0,0,1,10,12
 Diptera,Canthyloscelididae,0,0,0,0,0,0,1,1
 Diptera,Carnidae,2,0,0,0,0,0,7,9
-Diptera,Cecidomyiidae,54,2,0,0,2,42,217,317
-Diptera,Ceratopogonidae,20,0,0,0,0,11,67,98
+Diptera,Cecidomyiidae,54,1,0,0,2,42,217,316
+Diptera,Ceratopogonidae,20,0,0,0,0,11,68,99
 Diptera,Chamaemyiidae,2,0,0,0,0,2,13,17
 Diptera,Chaoboridae,0,0,0,0,0,0,2,2
-Diptera,Chironomidae,22,0,0,0,0,42,205,269
+Diptera,Chironomidae,22,0,0,0,0,42,206,270
 Diptera,Chloropidae,9,0,0,0,2,11,48,70
 Diptera,Chyromyidae,0,0,0,0,0,1,6,7
 Diptera,Coelopidae,0,0,0,0,0,2,0,2
@@ -360,7 +360,7 @@ Diptera,Culicidae,0,0,0,0,0,8,32,40
 Diptera,Diastatidae,0,0,0,0,0,0,2,2
 Diptera,Dixidae,3,0,0,0,0,0,2,5
 Diptera,Dolichopodidae,8,0,0,0,2,4,50,64
-Diptera,Drosophilidae,3,0,0,0,0,8,22,33
+Diptera,Drosophilidae,3,0,0,0,0,8,23,34
 Diptera,Empididae,2,0,0,0,0,0,18,20
 Diptera,Ephydridae,5,0,0,0,0,8,53,66
 Diptera,Fanniidae,0,0,0,0,0,6,9,15
@@ -374,8 +374,8 @@ Diptera,Lauxaniidae,2,0,0,0,1,4,5,12
 Diptera,Limoniidae,1,0,0,1,1,3,25,31
 Diptera,Lonchaeidae,1,0,0,0,0,2,2,5
 Diptera,Lonchopteridae,0,0,0,0,1,0,1,2
-Diptera,Milichiidae,6,0,0,0,0,0,11,17
-Diptera,Muscidae,13,0,0,0,2,19,44,78
+Diptera,Milichiidae,6,0,0,0,0,0,10,16
+Diptera,Muscidae,14,0,0,0,2,19,45,80
 Diptera,Mycetophilidae,7,0,0,0,0,14,61,82
 Diptera,Mydidae,0,0,0,0,0,0,16,16
 Diptera,Mythicomyiidae,2,0,0,0,0,1,21,24
@@ -388,31 +388,31 @@ Diptera,Pallopteridae,0,0,0,0,0,0,1,1
 Diptera,Paraleucopidae,0,0,0,0,0,0,1,1
 Diptera,Pediciidae,0,0,0,0,0,0,5,5
 Diptera,Periscelididae,0,0,0,0,0,1,0,1
-Diptera,Phoridae,65,0,0,0,0,23,102,190
+Diptera,Phoridae,73,0,0,0,0,24,106,203
 Diptera,Piophilidae,0,0,0,0,0,1,5,6
-Diptera,Pipunculidae,9,0,0,0,0,3,30,42
+Diptera,Pipunculidae,10,0,0,0,0,3,30,43
 Diptera,Platypezidae,0,0,0,0,0,0,9,9
 Diptera,Platystomatidae,0,0,0,0,0,1,0,1
-Diptera,Polleniidae,1,0,0,0,0,2,3,6
+Diptera,Polleniidae,2,0,0,0,0,1,3,6
 Diptera,Psilidae,0,0,0,0,0,1,2,3
 Diptera,Psychodidae,12,0,0,1,0,9,14,36
 Diptera,Pyrgotidae,0,0,0,0,0,0,1,1
 Diptera,Ragadidae,0,0,0,0,0,0,1,1
 Diptera,Rhagionidae,0,0,0,0,1,3,12,16
 Diptera,Richardiidae,0,0,0,0,0,0,3,3
-Diptera,Sarcophagidae,9,1,0,0,0,8,38,56
+Diptera,Sarcophagidae,9,1,0,0,0,8,39,57
 Diptera,Scathophagidae,0,0,0,0,0,2,2,4
 Diptera,Scatopsidae,2,0,0,0,0,1,8,11
 Diptera,Scenopinidae,0,0,0,0,0,0,17,17
-Diptera,Sciaridae,27,0,0,0,0,8,52,87
+Diptera,Sciaridae,30,0,0,0,0,8,52,90
 Diptera,Sciomyzidae,1,1,0,0,0,0,7,9
 Diptera,Sepsidae,4,0,0,0,0,5,3,12
 Diptera,Simuliidae,7,0,0,0,0,1,16,24
-Diptera,Sphaeroceridae,14,0,0,0,0,11,41,66
+Diptera,Sphaeroceridae,14,0,0,0,0,11,44,69
 Diptera,Stratiomyidae,3,0,0,0,5,4,15,27
-Diptera,Syrphidae,10,3,4,4,8,37,118,184
+Diptera,Syrphidae,11,3,3,4,8,37,118,184
 Diptera,Tabanidae,2,2,0,0,2,2,20,28
-Diptera,Tachinidae,32,0,0,0,1,34,104,171
+Diptera,Tachinidae,34,0,0,0,1,34,105,174
 Diptera,Tephritidae,3,12,1,0,3,13,80,112
 Diptera,Therevidae,3,0,0,0,0,4,19,26
 Diptera,Tipulidae,3,0,0,1,2,7,37,50
@@ -445,7 +445,7 @@ Harpacticoida,Ameiridae,0,0,0,0,0,0,1,1
 Harpacticoida,Harpacticidae,0,0,0,0,0,0,2,2
 Harpacticoida,Miraciidae,0,0,0,0,0,0,1,1
 Harpacticoida,Tisbidae,0,0,0,0,0,0,1,1
-Hemiptera,(family not recorded),7,0,0,0,1,3,30,41
+Hemiptera,(family not recorded),7,0,0,0,1,3,31,42
 Hemiptera,Acanaloniidae,0,0,0,0,0,0,4,4
 Hemiptera,Acanthosomatidae,0,0,0,0,0,1,1,2
 Hemiptera,Achilidae,0,0,0,0,0,1,6,7
@@ -454,7 +454,7 @@ Hemiptera,Aleyrodidae,6,0,0,0,3,5,27,41
 Hemiptera,Alydidae,1,0,0,0,0,0,3,4
 Hemiptera,Anthocoridae,2,0,0,1,0,1,10,14
 Hemiptera,Aphalaridae,0,0,0,0,0,5,17,22
-Hemiptera,Aphididae,36,1,1,7,6,25,214,290
+Hemiptera,Aphididae,40,1,1,5,6,25,216,294
 Hemiptera,Aphrophoridae,0,0,0,0,0,2,4,6
 Hemiptera,Aradidae,0,0,0,0,0,3,7,10
 Hemiptera,Artheneidae,0,0,0,0,0,0,1,1
@@ -466,7 +466,7 @@ Hemiptera,Calophyidae,1,0,1,0,1,1,2,6
 Hemiptera,Cercopida,0,0,0,0,0,1,0,1
 Hemiptera,Cercopidae,0,0,0,0,0,1,0,1
 Hemiptera,Cerococcidae,0,0,0,0,0,0,1,1
-Hemiptera,Cicadellidae,29,0,0,2,3,30,214,278
+Hemiptera,Cicadellidae,30,0,0,2,3,30,216,281
 Hemiptera,Cicadidae,1,1,0,0,4,3,34,43
 Hemiptera,Cimicidae,0,0,0,0,0,2,5,7
 Hemiptera,Cixiidae,2,0,0,0,0,1,6,9
@@ -505,7 +505,7 @@ Hemiptera,Lygaeidae,6,0,0,0,3,6,24,39
 Hemiptera,Macroveliidae,0,0,0,0,0,0,1,1
 Hemiptera,Margarodidae,0,0,0,0,1,0,4,5
 Hemiptera,Meenoplidae,0,0,0,0,0,0,1,1
-Hemiptera,Membracidae,2,0,0,0,4,7,24,37
+Hemiptera,Membracidae,3,0,0,0,4,7,23,37
 Hemiptera,Mesoveliidae,0,0,0,0,0,0,2,2
 Hemiptera,Miridae,13,0,0,3,5,29,231,281
 Hemiptera,Nabidae,1,0,0,0,0,2,4,7
@@ -520,7 +520,7 @@ Hemiptera,Phylloxeridae,0,0,0,0,0,0,5,5
 Hemiptera,Phymatidae,0,0,0,0,0,1,0,1
 Hemiptera,Piesmatidae,0,0,0,0,0,0,2,2
 Hemiptera,Pseudococcidae,1,0,0,0,0,3,12,16
-Hemiptera,Psyllidae,1,0,0,0,1,4,34,40
+Hemiptera,Psyllidae,1,0,0,0,1,4,33,39
 Hemiptera,Putoidae,0,0,0,0,0,1,0,1
 Hemiptera,Pyrrhocoridae,1,0,0,0,0,1,0,2
 Hemiptera,Reduviidae,2,1,0,1,7,6,27,44
@@ -531,7 +531,7 @@ Hemiptera,Scutelleridae,0,0,0,0,0,2,9,11
 Hemiptera,Thaumastocoridae,0,0,0,0,0,0,2,2
 Hemiptera,Thyreocoridae,0,0,0,0,0,1,3,4
 Hemiptera,Tibicinidae,0,0,0,0,0,0,1,1
-Hemiptera,Tingidae,2,0,0,1,0,1,15,19
+Hemiptera,Tingidae,3,0,0,1,0,1,14,19
 Hemiptera,Triozidae,2,1,0,1,0,6,18,28
 Hemiptera,Tropiduchidae,1,0,0,0,0,2,7,10
 Hemiptera,Veliidae,1,0,0,0,0,2,4,7
@@ -539,7 +539,7 @@ Hymenoptera,(family not recorded),51,0,0,0,1,16,264,332
 Hymenoptera,Agaonidae,0,0,0,0,0,2,5,7
 Hymenoptera,Ammoplanidae,0,0,0,0,0,0,1,1
 Hymenoptera,Andrenidae,1,1,0,0,2,24,277,305
-Hymenoptera,Aphelinidae,6,0,0,0,0,4,18,28
+Hymenoptera,Aphelinidae,7,0,0,0,0,4,18,29
 Hymenoptera,Apidae,7,7,7,6,9,56,262,354
 Hymenoptera,Argidae,0,0,0,0,0,0,6,6
 Hymenoptera,Astatidae,0,0,0,0,0,0,1,1
@@ -547,7 +547,7 @@ Hymenoptera,Aulacidae,1,0,0,0,0,0,1,2
 Hymenoptera,Azotidae,0,0,0,0,0,0,1,1
 Hymenoptera,Bembicidae,0,0,0,0,0,0,1,1
 Hymenoptera,Bethylidae,18,0,0,0,0,1,23,42
-Hymenoptera,Braconidae,62,1,0,0,0,42,196,301
+Hymenoptera,Braconidae,62,1,0,0,0,42,197,302
 Hymenoptera,Bradynobaenidae,0,1,0,0,0,0,0,1
 Hymenoptera,Cephidae,0,0,0,0,1,0,2,3
 Hymenoptera,Ceraphronidae,5,0,0,0,0,4,11,20
@@ -575,10 +575,10 @@ Hymenoptera,Evaniidae,0,0,0,0,0,0,2,2
 Hymenoptera,Figitidae,8,0,0,0,0,5,30,43
 Hymenoptera,Formicidae,13,20,1,3,16,43,236,332
 Hymenoptera,Gasteruptiidae,1,0,0,0,0,2,3,6
-Hymenoptera,Halictidae,9,3,4,3,4,31,145,199
+Hymenoptera,Halictidae,10,3,4,3,4,31,145,200
 Hymenoptera,Heloridae,0,0,0,0,0,0,2,2
 Hymenoptera,Ibaliidae,0,0,0,0,0,0,1,1
-Hymenoptera,Ichneumonidae,63,0,0,1,1,48,208,321
+Hymenoptera,Ichneumonidae,65,0,0,1,1,48,208,323
 Hymenoptera,Ismaridae,0,0,0,0,0,0,1,1
 Hymenoptera,Leucospidae,0,0,0,0,0,1,1,2
 Hymenoptera,Masaridae,0,0,0,0,0,1,9,10
@@ -587,7 +587,7 @@ Hymenoptera,Megaspilidae,5,0,0,0,0,3,10,18
 Hymenoptera,Megastigmidae,0,0,0,0,0,0,1,1
 Hymenoptera,Melittidae,0,0,0,0,0,0,15,15
 Hymenoptera,Mutillidae,1,1,0,1,2,5,32,42
-Hymenoptera,Mymaridae,18,0,0,0,0,8,38,64
+Hymenoptera,Mymaridae,18,0,0,0,0,8,39,65
 Hymenoptera,Myrmosidae,1,0,0,0,0,0,2,3
 Hymenoptera,Nyssonidae,0,0,0,1,0,0,0,1
 Hymenoptera,Ormyridae,0,0,0,0,0,0,5,5
@@ -599,12 +599,12 @@ Hymenoptera,Perilampidae,1,0,0,0,0,2,3,6
 Hymenoptera,Philanthidae,0,0,0,0,0,0,1,1
 Hymenoptera,Pirenidae,1,0,0,0,0,0,0,1
 Hymenoptera,Platygastridae,11,0,0,0,0,3,29,43
-Hymenoptera,Pompilidae,17,1,0,1,2,27,59,107
+Hymenoptera,Pompilidae,19,1,0,1,2,27,60,110
 Hymenoptera,Proctotrupidae,1,0,0,0,0,1,0,2
 Hymenoptera,Psenidae,0,0,0,0,0,1,0,1
 Hymenoptera,Pteromalidae,19,0,0,0,0,10,78,107
 Hymenoptera,Sapygidae,0,0,0,0,0,0,7,7
-Hymenoptera,Scelionidae,40,0,0,0,0,12,121,173
+Hymenoptera,Scelionidae,40,0,0,0,0,12,122,174
 Hymenoptera,Sclerogibbidae,0,0,0,0,0,0,1,1
 Hymenoptera,Scoliidae,0,0,0,0,1,0,5,6
 Hymenoptera,Sierolomorphidae,0,0,0,0,0,0,1,1
@@ -660,7 +660,7 @@ Julida,Parajulidae,0,0,0,0,0,0,3,3
 Kentrogonida,Lernaeodiscidae,0,0,0,0,0,0,1,1
 Kentrogonida,Peltogastridae,0,1,0,0,0,0,0,1
 Kentrogonida,Sacculinidae,0,0,0,0,0,0,1,1
-Lepidoptera,(family not recorded),16,0,0,0,0,9,75,100
+Lepidoptera,(family not recorded),17,0,0,0,0,9,75,101
 Lepidoptera,Acanthopteroctetidae,0,0,0,0,0,0,2,2
 Lepidoptera,Acrolophidae,0,0,0,0,0,0,1,1
 Lepidoptera,Adelidae,0,0,0,0,0,3,10,13
@@ -675,7 +675,7 @@ Lepidoptera,Bucculatricidae,4,0,0,0,0,3,9,16
 Lepidoptera,Carposinidae,0,0,0,0,0,0,2,2
 Lepidoptera,Choreutidae,1,0,0,0,0,2,5,8
 Lepidoptera,Coleophoridae,3,0,0,0,0,11,41,55
-Lepidoptera,Copromorphidae,1,0,0,0,0,1,0,2
+Lepidoptera,Copromorphidae,1,0,0,0,0,0,0,1
 Lepidoptera,Cosmopterigidae,1,0,0,0,1,12,28,42
 Lepidoptera,Cossidae,0,0,0,0,0,1,13,14
 Lepidoptera,Crambidae,6,2,0,1,2,41,152,204
@@ -684,7 +684,7 @@ Lepidoptera,Douglasiidae,0,0,0,0,0,1,1,2
 Lepidoptera,Dryadaulidae,0,0,0,0,0,1,2,3
 Lepidoptera,Elachistidae,2,0,0,0,0,1,3,6
 Lepidoptera,Epipyropidae,0,0,0,0,0,0,1,1
-Lepidoptera,Erebidae,5,5,2,1,11,36,134,194
+Lepidoptera,Erebidae,5,5,2,1,11,36,133,193
 Lepidoptera,Eriocraniidae,0,0,0,0,0,1,5,6
 Lepidoptera,Ethmiidae,0,0,0,0,0,3,12,15
 Lepidoptera,Euteliidae,0,0,0,0,0,0,6,6
@@ -703,12 +703,12 @@ Lepidoptera,Lymantriidae,0,0,0,0,0,1,0,1
 Lepidoptera,Lyonetiidae,0,0,0,0,0,0,3,3
 Lepidoptera,Meessiidae,1,0,0,0,0,0,2,3
 Lepidoptera,Momphidae,1,0,0,0,0,3,8,12
-Lepidoptera,Nepticulidae,5,0,0,0,0,6,22,33
-Lepidoptera,Noctuidae,23,3,1,2,9,119,643,800
+Lepidoptera,Nepticulidae,6,0,0,0,0,5,22,33
+Lepidoptera,Noctuidae,23,3,1,2,9,119,641,798
 Lepidoptera,Nolidae,0,0,0,0,0,2,5,7
 Lepidoptera,Notodontidae,0,1,0,1,0,4,16,22
 Lepidoptera,Nymphalidae,8,7,2,6,8,11,69,111
-Lepidoptera,Oecophoridae,1,0,0,1,0,4,7,13
+Lepidoptera,Oecophoridae,1,0,0,1,0,3,7,12
 Lepidoptera,Opostegidae,1,0,0,0,0,1,0,2
 Lepidoptera,Papilionidae,0,3,0,1,2,5,13,24
 Lepidoptera,Pieridae,4,0,0,1,5,8,31,49
@@ -716,8 +716,8 @@ Lepidoptera,Plutellidae,1,0,0,0,1,0,7,9
 Lepidoptera,Prodoxidae,0,0,0,0,1,1,15,17
 Lepidoptera,Psychidae,0,0,0,0,0,0,1,1
 Lepidoptera,Pterolonchidae,0,0,0,0,0,1,2,3
-Lepidoptera,Pterophoridae,4,0,0,1,0,8,30,43
-Lepidoptera,Pyralidae,0,0,0,0,1,22,129,152
+Lepidoptera,Pterophoridae,4,0,0,1,0,8,31,44
+Lepidoptera,Pyralidae,0,0,0,0,1,22,128,151
 Lepidoptera,Riodinidae,0,0,0,0,1,0,0,1
 Lepidoptera,Saturniidae,0,0,0,0,2,1,21,24
 Lepidoptera,Schreckensteiniidae,0,0,0,0,0,0,3,3
@@ -725,9 +725,9 @@ Lepidoptera,Scythrididae,3,0,0,0,0,0,37,40
 Lepidoptera,Sesiidae,0,1,0,0,1,2,19,23
 Lepidoptera,Sphingidae,0,1,0,2,3,12,20,38
 Lepidoptera,Thyrididae,0,1,0,0,0,0,0,1
-Lepidoptera,Tineidae,7,0,0,0,1,11,42,61
+Lepidoptera,Tineidae,8,0,0,0,1,10,43,62
 Lepidoptera,Tischeriidae,0,0,0,0,1,2,7,10
-Lepidoptera,Tortricidae,12,0,0,1,1,39,141,194
+Lepidoptera,Tortricidae,14,0,0,1,1,38,141,195
 Lepidoptera,Tridentaformidae,0,0,0,0,0,0,1,1
 Lepidoptera,Yponomeutidae,0,0,0,0,0,1,1,2
 Lepidoptera,Ypsolophidae,0,0,0,0,0,2,13,15
@@ -767,7 +767,7 @@ Neuroptera,(family not recorded),1,0,0,0,0,0,0,1
 Neuroptera,Ascalaphidae,0,0,0,0,0,0,2,2
 Neuroptera,Berothidae,0,0,0,0,0,0,4,4
 Neuroptera,Chrysopidae,2,0,0,1,0,4,28,35
-Neuroptera,Coniopterygidae,5,0,0,0,0,2,11,18
+Neuroptera,Coniopterygidae,6,0,0,0,0,2,11,19
 Neuroptera,Hemerobiidae,3,0,0,0,0,3,21,27
 Neuroptera,Ithonidae,0,0,0,0,1,0,1,2
 Neuroptera,Mantispidae,0,0,0,0,0,3,6,9
@@ -893,8 +893,8 @@ Psocodea,Psocidae,1,0,0,0,0,4,8,13
 Psocodea,Psoquillidae,0,0,0,0,0,0,1,1
 Psocodea,Psyllipsocidae,0,0,0,0,0,1,0,1
 Psocodea,Pthiridae,0,0,0,0,0,0,1,1
-Psocodea,Stenopsocidae,1,0,0,0,0,1,1,3
-Psocodea,Trichopsocidae,1,0,0,0,0,2,2,5
+Psocodea,Stenopsocidae,2,0,0,0,0,0,1,3
+Psocodea,Trichopsocidae,2,0,0,0,0,2,2,6
 Psocodea,Trogiidae,2,0,0,0,0,5,6,13
 Raphidioptera,(family not recorded),0,0,0,0,0,1,1,2
 Raphidioptera,Inocelliidae,0,0,0,0,0,1,2,3
@@ -979,7 +979,7 @@ Trichoptera,Calamoceratidae,0,0,0,0,0,0,1,1
 Trichoptera,Glossosomatidae,2,0,0,0,0,0,5,7
 Trichoptera,Helicopsychidae,0,0,0,0,0,1,2,3
 Trichoptera,Hydropsychidae,6,1,0,0,0,5,9,21
-Trichoptera,Hydroptilidae,7,0,0,0,0,1,9,17
+Trichoptera,Hydroptilidae,7,0,0,0,0,1,11,19
 Trichoptera,Lepidostomatidae,3,0,0,0,0,1,6,10
 Trichoptera,Leptoceridae,2,0,0,0,0,1,4,7
 Trichoptera,Limnephilidae,0,0,0,0,0,0,10,10
@@ -1030,4 +1030,4 @@ Trombidiformes,Tydeidae,0,0,0,0,0,1,1,2
 Trombidiformes,Unionicolidae,0,0,0,0,0,0,2,2
 Zygentoma,(family not recorded),0,0,0,0,0,1,0,1
 Zygentoma,Lepismatidae,0,0,0,0,1,3,6,10
-TOTAL,,1530,239,103,152,975,2866,14029,19894
+TOTAL,,1570,238,102,150,975,2860,14050,19945

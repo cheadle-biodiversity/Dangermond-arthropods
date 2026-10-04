@@ -1,13 +1,13 @@
-# Dangermond Project — Step 5: Distance to Preserve Boundary
+# Dangermond Project — Step 6: Distance to Preserve Boundary
 
 New step (no prior "other chat" version — built fresh for this project).
-Picks up after Step 4 (`../04-filter-latrange-overlap/`) and the
+Picks up after Step 5 (`../05-filter-latrange-overlap/`) and the
 Preserve boundary file (`../reference-data/jldp_boundary.geojson`).
 
 ## What's actually wanted
 
 Two outputs, both scoped to species that qualify for the Preserve's
-latitudinal extent (Step 4's overlap list) — **never** a species that
+latitudinal extent (Step 5's overlap list) — **never** a species that
 doesn't occur anywhere in that band, and **never** a single global row
 across the whole dataset:
 
@@ -28,7 +28,7 @@ This went through two revisions before landing here, worth recording
 since it shapes how to read the outputs:
 
 - First version only computed distance for species that had already
-  passed Step 4's filter, and only using their in-band records — so it
+  passed Step 5's filter, and only using their in-band records — so it
   had no way to produce (b) at all.
 - Second version added a *global* "closest record overall, any species"
   output, which turned out to be a misreading — "closest overall" meant
@@ -51,15 +51,15 @@ output.
 
 ## What the script does
 
-1. **Reads** Step 4's full coordinate-complete output (every record with
+1. **Reads** Step 5's full coordinate-complete output (every record with
    usable coordinates, regardless of latitude) — needed so that (b) can
-   see records Step 4's overlap file would have excluded.
-2. **Reads** Step 4's latitude-overlap output, only to get the list of
-   in-extent species — reusing Step 4's own (already-fixed) species-name
+   see records Step 5's overlap file would have excluded.
+2. **Reads** Step 5's latitude-overlap output, only to get the list of
+   in-extent species — reusing Step 5's own (already-fixed) species-name
    normalization rather than re-implementing it here.
 3. **Reads** the authoritative Preserve boundary polygon, checks its
    validity (`sf::st_is_valid()`), and derives the latitude band from
-   its bounding box (same approach as Step 4, not hardcoded).
+   its bounding box (same approach as Step 5, not hardcoded).
 4. **Computes distance** from every coordinate-complete record to the
    boundary — 0 if the point falls inside the Preserve, otherwise the
    true geodesic distance to the nearest edge — and flags whether each
@@ -116,8 +116,8 @@ the batch's intermediate objects explicitly freed (`rm()` + `gc()`)
 before the next batch starts. Same inputs, same S2 geodesic method,
 same output values, just bounded peak memory. Verified end-to-end on
 the real data after the fix: all 4,658,904 records processed
-successfully in ~3.5 minutes, 19,894 in-extent species covered by
-output (b), 6,577 by output (a).
+successfully in ~3.5 minutes, 19,945 in-extent species covered by
+output (b), 6,609 by output (a).
 
 ## No distance threshold applied
 
@@ -128,6 +128,6 @@ chosen.
 
 ## Paths
 
-`infile_coords` and `infile_overlap` both point at Step 4's output
+`infile_coords` and `infile_overlap` both point at Step 5's output
 folder, `boundary_file` at the shared reference boundary. All relative,
 matching the pattern used in earlier steps.

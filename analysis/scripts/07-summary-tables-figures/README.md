@@ -1,7 +1,7 @@
-# Dangermond Project — Step 6: Summary Table & Figures
+# Dangermond Project — Step 7: Summary Table & Figures
 
 New step (no prior "other chat" version — built fresh for this project).
-Picks up after Step 5 (`../05-boundary-distance/`) and produces the
+Picks up after Step 6 (`../06-boundary-distance/`) and produces the
 requested deliverables: one summary table and two bar figures showing
 how in-extent Arthropoda species break down by taxonomic order/family
 and distance to the Dangermond Preserve boundary.
@@ -24,11 +24,11 @@ and distance to the Dangermond Preserve boundary.
 
 ## Key decisions (each one changes the actual numbers or how to read them)
 
-**Which distance:** Step 5 produces two different "closest distance"
+**Which distance:** Step 6 produces two different "closest distance"
 figures per species. This step uses output (b), "including outside
 extent" — each species' true closest record to the boundary, even from
 one whose own latitude falls outside the band — rather than output (a),
-"within extent only." Step 5's own test case showed these can genuinely
+"within extent only." Step 6's own test case showed these can genuinely
 differ for the same species, so this choice affects which bin a species
 lands in, not just a cosmetic difference.
 
@@ -190,7 +190,7 @@ rather than dropping the species from the taxonomic breakdown.
 
 ## Real-data bug: runaway image height
 
-Running this step against the real dataset (19,894 in-extent species)
+Running this step against the real dataset (19,945 in-extent species)
 surfaced a real scaling bug the synthetic 12-species test case was
 never going to exercise: the order+family chart's height formula
 (`5.5 + 0.15 inch per order:family legend row`) was sized for a
@@ -215,11 +215,11 @@ table.
 
 Re-run after the fix: both charts rendered successfully
 (7200×6600 px for the order+family chart), 82 orders represented (top
-8 keep distinct colors, 74 folded into "Other" — as designed), 19,894
+8 keep distinct colors, 74 folded into "Other" — as designed), 19,945
 species summarized across all 7 distance bins.
 
 ## Paths
 
-`infile` points at Step 5's "including outside extent" output. Update
+`infile` points at Step 6's "including outside extent" output. Update
 if you'd rather use the "within extent only" figure instead — nothing
 else in the script needs to change.

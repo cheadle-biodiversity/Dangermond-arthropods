@@ -3,10 +3,10 @@
 # Species Minimum Convex Polygons & Overlap with the Dangermond
 # Preserve Boundary
 # ============================================================
-# Dangermond Project — Data Acquisition Step 7
+# Dangermond Project — Data Acquisition Step 8
 #
 # Tasks:
-#   1) Load Step 4's FULL coordinate-complete dataset (every species,
+#   1) Load Step 5's FULL coordinate-complete dataset (every species,
 #      any latitude — not the latitude-band-restricted overlap file;
 #      see "Why the full dataset" below)
 #   2) For each species, build a minimum convex polygon (MCP / convex
@@ -26,7 +26,7 @@
 #      report, and a GeoJSON of every hull built (so they can be viewed
 #      on a map / brought into GIS software)
 #
-# WHY THE FULL COORDINATE-COMPLETE DATASET (not Step 4's latitude-band-
+# WHY THE FULL COORDINATE-COMPLETE DATASET (not Step 5's latitude-band-
 # restricted output): that band was a coarse pre-filter built for a
 # different analysis (a quick "does this species' latitude range even
 # reach this far" check on the RAW latitude values) — it is not a real
@@ -37,7 +37,7 @@
 # shape generally (a hull built from an artificially narrowed point set
 # isn't the same shape as the true MCP). This step re-derives overlap
 # independently, from each species' full known range, rather than
-# reusing Step 4's coarse filter.
+# reusing Step 5's coarse filter.
 #
 # NOTE — THE HULL IS A TRUE 2D CONVEX HULL, NOT A LATITUDE-ONLY TEST:
 # st_convex_hull() below operates on each species' full (longitude,
@@ -61,9 +61,9 @@
 # somewhere inside that broad convex envelope — even with zero actual
 # records anywhere near it. "Overlaps the Preserve" here means "the
 # Preserve falls within this species' convex range envelope," not "this
-# species has been recorded at the Preserve" — Step 5's boundary-
+# species has been recorded at the Preserve" — Step 6's boundary-
 # distance output is the place to look for actual recorded proximity,
-# and Step 6's distance bins for how that breaks down by taxon. Expect
+# and Step 7's distance bins for how that breaks down by taxon. Expect
 # most widely-distributed species to show overlap under this method;
 # that is the expected behavior of a convex-hull method, not a bug.
 #
@@ -81,7 +81,7 @@
 # means in plain usage, and was deliberately not used here.)
 #
 # AREA METHOD: sf::st_area() on unprojected WGS84 geometry, consistent
-# with Step 5's distance calculation — as of sf >= 1.0 this uses the S2
+# with Step 6's distance calculation — as of sf >= 1.0 this uses the S2
 # spherical geometry engine (`sf_use_s2()` is TRUE by default) for true
 # geodesic area, not naive planar area on raw lon/lat degrees.
 #
@@ -104,7 +104,7 @@ library(sf)
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile        <- "../04-filter-latrange-overlap/output/dwc_coords_complete.csv"
+infile        <- "../05-filter-latrange-overlap/output/dwc_coords_complete.csv"
 boundary_file <- "../reference-data/jldp_boundary.geojson"
 
 outdir <- "./output"
@@ -158,7 +158,37 @@ summary_rows      <- vector("list", n_species)
 insufficient_rows <- vector("list", n_species)
 hull_geoms        <- vector("list", n_species)
 
-for (i in seq_along(species_list)) {
+# ------------------------------------------------------------
+# RESUME SUPPORT — this loop runs for tens of minutes on the full
+# dataset, and this container's available memory has proven tight
+# enough in practice that the process has been killed mid-run (not
+# just a theoretical risk — observed directly while running this step
+# for real). Without incremental checkpointing, a mid-loop kill meant
+# losing the entire loop's progress, not just the assembly step the
+# original checkpoint (below, after the loop) was designed to protect.
+# This checkpoints every `checkpoint_every` species and resumes from
+# the saved point on the next run, as long as the species list matches
+# (i.e. the upstream input hasn't changed).
+# ------------------------------------------------------------
+progress_checkpoint_file <- file.path(outdir, "_checkpoint_in_progress.rds")
+checkpoint_every <- 2000
+start_i <- 1
+
+if (file.exists(progress_checkpoint_file)) {
+  message("Found an in-progress checkpoint — attempting to resume...")
+  cp <- readRDS(progress_checkpoint_file)
+  if (identical(cp$species_list, species_list)) {
+    summary_rows      <- cp$summary_rows
+    insufficient_rows <- cp$insufficient_rows
+    hull_geoms        <- cp$hull_geoms
+    start_i <- cp$last_i + 1
+    message(sprintf("Resuming at species %d / %d (checkpoint was saved mid-run).", start_i, n_species))
+  } else {
+    message("Checkpoint's species list doesn't match this run's input — ignoring it and starting fresh.")
+  }
+}
+
+for (i in seq(start_i, n_species)) {
   sp         <- species_list[i]
   sp_records <- species_groups[[i]]
   n_records  <- nrow(sp_records)
@@ -253,7 +283,20 @@ for (i in seq_along(species_list)) {
     message(sprintf("  ...processed %d / %d species", i, n_species))
     flush(stdout()); flush(stderr())
   }
+
+  if (i %% checkpoint_every == 0) {
+    saveRDS(
+      list(species_list = species_list, summary_rows = summary_rows,
+           insufficient_rows = insufficient_rows, hull_geoms = hull_geoms,
+           last_i = i),
+      progress_checkpoint_file
+    )
+  }
 }
+
+# Loop finished normally — the in-progress checkpoint is no longer
+# needed (the full checkpoint right below supersedes it).
+if (file.exists(progress_checkpoint_file)) file.remove(progress_checkpoint_file)
 
 # ------------------------------------------------------------
 # SAFETY CHECKPOINT — the per-species loop above is the expensive part

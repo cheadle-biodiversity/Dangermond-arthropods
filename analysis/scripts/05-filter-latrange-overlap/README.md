@@ -1,13 +1,14 @@
-# Dangermond Project — Step 4: Coordinate Filtering & Latitude-Range Overlap
+# Dangermond Project — Step 5: Coordinate Filtering & Latitude-Range Overlap
 
-Picks up after Step 3 (`../03-merge-deduplicate/`) and the Preserve
-boundary file (`../reference-data/jldp_boundary.geojson`).
+Picks up after Step 4 (`../04-resolve-cibi-bold-ids/`), which itself
+builds on Step 3's merge/deduplicate output, and the Preserve boundary
+file (`../reference-data/jldp_boundary.geojson`).
 
 ## What's produced
 
 1. **`output/dwc_coords_complete.csv`** — every merged record that has
    both `decimalLatitude` and `decimalLongitude`, regardless of
-   latitude. This is the "cleaned" dataset later steps (4 and 6) build
+   latitude. This is the "cleaned" dataset later steps (6 and 8) build
    from — not the latitude-restricted file below.
 2. **`output/dwc_latrange_overlap.csv`** — the subset of (1) restricted
    to species whose overall latitude range overlaps the Dangermond
@@ -68,10 +69,10 @@ max across every record) overlaps the Preserve's latitude band at all
 — a coarse, one-dimensional test, not a real spatial check. It ignores
 longitude entirely, and it says nothing about whether any specific
 record actually falls near the Preserve. It exists purely as a fast
-first-pass filter for later steps that need one; Step 5's
-boundary-distance calculation and Step 7's minimum-convex-polygon
+first-pass filter for later steps that need one; Step 6's
+boundary-distance calculation and Step 8's minimum-convex-polygon
 overlap test are the places to look for actual spatial relationships to
-the Preserve. Step 7 in particular reads Step 4's *full*
+the Preserve. Step 8 in particular reads Step 5's *full*
 coordinate-complete output rather than this latitude-restricted file,
 specifically to avoid inheriting this coarse filter's blind spots.
 
@@ -93,7 +94,7 @@ genuinely different records into one fake "species" literally named
 `BOLD`. Confirmed directly: that merged group had ~6,000 distinct
 coordinate locations and a convex hull of ~535,000 km² — large enough
 to spuriously "overlap" the 99 km² Preserve and would have shown up as
-a top result in Step 7's overlap ranking despite not being a real
+a top result in Step 8's overlap ranking despite not being a real
 species at all.
 
 **Fix:** BOLD-prefixed identifiers are left completely untouched by
@@ -108,9 +109,16 @@ than a broad heuristic.
 
 After the fix: 53,632 unique species (up from 36,638 when BOLD records
 were wrongly merged into one), 19,894 of them overlapping the
-Preserve's latitude band.
+Preserve's latitude band. After Step 4 was added (resolving 3,144 of
+those BOLD-placeholder records to real species against the CIBI
+spreadsheet, ahead of this step): 53,763 unique species, 19,945
+overlapping — a net increase, since species-level CIBI matches now
+split off from their shared BIN-placeholder groupings rather than all
+counting as one undifferentiated "BOLD:XXXXXXX" entry per code.
 
 ## Paths
 
-`infile` points at Step 3's merged/deduplicated output. `boundary_file`
+`infile` points at Step 4's CIBI-resolved output (which carries Step
+3's merged/deduplicated records through unchanged except for the
+BOLD-placeholder resolution — see Step 4's README). `boundary_file`
 points at the shared reference boundary.

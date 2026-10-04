@@ -2,14 +2,14 @@
 # ============================================================
 # Distance to Dangermond Preserve Boundary
 # ============================================================
-# Dangermond Project — Data Acquisition Step 5
+# Dangermond Project — Data Acquisition Step 6
 #
 # Tasks:
-#   1) Load the FULL coordinate-complete dataset (Step 4's
+#   1) Load the FULL coordinate-complete dataset (Step 5's
 #      dwc_coords_complete.csv — every record, not just the ones whose
 #      own latitude falls in the Preserve's band; see "Why the full
 #      dataset" below)
-#   2) Load Step 4's latitude-range-overlap output, just to know which
+#   2) Load Step 5's latitude-range-overlap output, just to know which
 #      species are "in extent" (their range overlaps the Preserve's
 #      latitude band) — every output below is scoped to these species
 #      only
@@ -29,19 +29,19 @@
 #      in the dataset, and never includes a species that isn't in the
 #      latitudinal extent at all.
 #
-# WHY BOTH (a) AND (b): a species can pass Step 4's filter because some
+# WHY BOTH (a) AND (b): a species can pass Step 5's filter because some
 # of its records fall in the latitude band, while its single closest
 # approach to the Preserve actually comes from a *different* record of
 # that same species that happens to sit outside the band. (a) answers
 # "how close does this species get, staying strictly within the band
-# Step 4 already filtered to" and (b) answers "how close does this
+# Step 5 already filtered to" and (b) answers "how close does this
 # species actually get, period." When they pick different records, that
 # is worth seeing side by side rather than only ever reporting one of
 # the two.
 #
 # WHY THE FULL COORDINATE-COMPLETE DATASET AS INPUT (rather than Step
 # 3's already-filtered overlap file): needed to compute (b) at all — a
-# record outside the latitude band is exactly what Step 4's overlap
+# record outside the latitude band is exactly what Step 5's overlap
 # file excludes, so (b) can only find it by starting from the full
 # dataset and then narrowing to in-extent species after distance has
 # been computed for everything.
@@ -90,8 +90,8 @@ library(sf)
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile_coords  <- "../04-filter-latrange-overlap/output/dwc_coords_complete.csv"
-infile_overlap <- "../04-filter-latrange-overlap/output/dwc_latrange_overlap.csv"
+infile_coords  <- "../05-filter-latrange-overlap/output/dwc_coords_complete.csv"
+infile_overlap <- "../05-filter-latrange-overlap/output/dwc_latrange_overlap.csv"
 boundary_file  <- "../reference-data/jldp_boundary.geojson"
 
 outdir <- "./output"
@@ -116,7 +116,7 @@ if (!all(st_is_valid(boundary))) {
 }
 
 # Latitude band, derived from the same boundary file (consistent with
-# Step 4, which does the same thing rather than hardcoding these).
+# Step 5, which does the same thing rather than hardcoding these).
 boundary_bbox <- st_bbox(boundary)
 lat_min <- unname(boundary_bbox["ymin"])
 lat_max <- unname(boundary_bbox["ymax"])
@@ -124,7 +124,7 @@ message(sprintf("Preserve latitude range (from %s): %.6f - %.6f",
                  basename(boundary_file), lat_min, lat_max))
 
 # Coerce coordinates to numeric and drop any that still aren't usable
-# (should be redundant on Step 4's own output, kept as a safety check)
+# (should be redundant on Step 5's own output, kept as a safety check)
 df <- df %>%
   mutate(
     decimalLatitude  = suppressWarnings(as.numeric(decimalLatitude)),
@@ -137,9 +137,9 @@ if (nrow(df) < n_before) {
 }
 
 # ------------------------------------------------------------
-# 2) Which species are "in extent" (passed Step 4's latitude-band
-#    filter)? Read from Step 4's overlap output rather than
-#    re-deriving it, so this step stays consistent with Step 4's own
+# 2) Which species are "in extent" (passed Step 5's latitude-band
+#    filter)? Read from Step 5's overlap output rather than
+#    re-deriving it, so this step stays consistent with Step 5's own
 #    (already-fixed) species-name normalization logic instead of
 #    duplicating it. Both outputs below are scoped to this species set.
 # ------------------------------------------------------------
@@ -148,7 +148,7 @@ species_col <- if ("scientificName_clean" %in% names(df)) "scientificName_clean"
 overlap_df <- read_csv(infile_overlap, show_col_types = FALSE)
 in_extent_species <- unique(overlap_df[[species_col]])
 in_extent_species <- in_extent_species[!is.na(in_extent_species)]
-message(sprintf("Species in the latitudinal extent (per Step 4): %d", length(in_extent_species)))
+message(sprintf("Species in the latitudinal extent (per Step 5): %d", length(in_extent_species)))
 
 # ------------------------------------------------------------
 # 3) Compute geodesic distance from every record to the boundary

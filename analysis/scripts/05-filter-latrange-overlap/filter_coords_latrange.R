@@ -2,11 +2,12 @@
 # ============================================================
 # Coordinate Filtering & Latitude Range Overlap
 # ============================================================
-# Dangermond Project — Data Acquisition Step 4
+# Dangermond Project — Data Acquisition Step 5
 #
 # Tasks:
-#   1) Load the merged/deduplicated DwC file (output of Step 3,
-#      ../03-merge-deduplicate/)
+#   1) Load the merged/deduplicated DwC file, with BOLD-placeholder
+#      records resolved against the CIBI spreadsheet where possible
+#      (output of Step 4, ../04-resolve-cibi-bold-ids/)
 #   2) Remove records missing decimalLatitude or decimalLongitude
 #   3) Save the coordinate-complete records as a CSV
 #   4) Normalize scientificName across sources before grouping (see
@@ -64,7 +65,7 @@ library(sf)
 # ------------------------------------------------------------
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
-infile <- "../03-merge-deduplicate/output/dwc_merged_deduplicated.csv"
+infile <- "../04-resolve-cibi-bold-ids/output/dwc_merged_cibi_resolved.csv"
 
 outdir <- "./output"
 

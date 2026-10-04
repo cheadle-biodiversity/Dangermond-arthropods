@@ -12,6 +12,7 @@ Abaristophora diversipennis,1,1,fewer than 3 distinct coordinate locations
 Abegesta concha,1,1,fewer than 3 distinct coordinate locations
 Abgrallaspis cyanophylli,2,1,fewer than 3 distinct coordinate locations
 Abia,1,1,fewer than 3 distinct coordinate locations
+Ablabesmyia americana,1,1,fewer than 3 distinct coordinate locations
 Ablabesmyia cinctipes,1,1,fewer than 3 distinct coordinate locations
 Ablabesmyia monilis,2,1,fewer than 3 distinct coordinate locations
 Ablautus,8,2,fewer than 3 distinct coordinate locations
@@ -82,6 +83,7 @@ Acemyia dentata,2,2,fewer than 3 distinct coordinate locations
 Acemyia tibialis,2,1,fewer than 3 distinct coordinate locations
 Aceratagallia dondia,1,1,fewer than 3 distinct coordinate locations
 Aceratagallia longula,2,2,fewer than 3 distinct coordinate locations
+Aceratagallia omani,1,1,fewer than 3 distinct coordinate locations
 Aceratagallia truncata,1,1,fewer than 3 distinct coordinate locations
 Aceratagallia uhleri,1,1,fewer than 3 distinct coordinate locations
 Acerentomidae,1,1,fewer than 3 distinct coordinate locations
@@ -316,7 +318,6 @@ Adenosejus,1,1,fewer than 3 distinct coordinate locations
 Adenostomocoris pintoi,1,1,fewer than 3 distinct coordinate locations
 Aderus,1,1,fewer than 3 distinct coordinate locations
 Aderus saginatus,2,2,fewer than 3 distinct coordinate locations
-Adia cinerella,1,1,fewer than 3 distinct coordinate locations
 Adialytus,2,2,fewer than 3 distinct coordinate locations
 Adialytus fuscicornis,39,2,fewer than 3 distinct coordinate locations
 Adidocidia,1,1,fewer than 3 distinct coordinate locations
@@ -429,7 +430,6 @@ Ageniella partita,2,2,fewer than 3 distinct coordinate locations
 Ageniella pernia,1,1,fewer than 3 distinct coordinate locations
 Ageniella placita,1,1,fewer than 3 distinct coordinate locations
 Agenioideus,1,1,fewer than 3 distinct coordinate locations
-Agenioideus birkmanni,2,2,fewer than 3 distinct coordinate locations
 Agenioideus humilis,1,1,fewer than 3 distinct coordinate locations
 Aglais io,1,1,fewer than 3 distinct coordinate locations
 Aglaothorax propsti,2,2,fewer than 3 distinct coordinate locations
@@ -575,7 +575,6 @@ Aleochara lanuginosa,4,1,fewer than 3 distinct coordinate locations
 Aleochara pacifica,9,2,fewer than 3 distinct coordinate locations
 Aleochara rubripennis,1,1,fewer than 3 distinct coordinate locations
 Aleochara tahoensis,1,1,fewer than 3 distinct coordinate locations
-Aleochara verna,2,2,fewer than 3 distinct coordinate locations
 Alepas pacifica,2,2,fewer than 3 distinct coordinate locations
 Alethia,2,2,fewer than 3 distinct coordinate locations
 Aleuroclava aucubae,1,1,fewer than 3 distinct coordinate locations
@@ -635,7 +634,9 @@ Allorhogas,2,2,fewer than 3 distinct coordinate locations
 Allotrichoma abdominale,1,1,fewer than 3 distinct coordinate locations
 Allotrichoma laterale,2,2,fewer than 3 distinct coordinate locations
 Allotrichoma litoralis,1,1,fewer than 3 distinct coordinate locations
+Allotrichoma simplex,51,1,fewer than 3 distinct coordinate locations
 Allotropa citri,1,1,fewer than 3 distinct coordinate locations
+Alloxysta basimacula,1,1,fewer than 3 distinct coordinate locations
 Alloxysta brassicae,1,1,fewer than 3 distinct coordinate locations
 Alluaudomyia stictipennis,1,1,fewer than 3 distinct coordinate locations
 Allygianus clathratus,1,1,fewer than 3 distinct coordinate locations
@@ -655,6 +656,7 @@ Alpheioides parvulalis,1,1,fewer than 3 distinct coordinate locations
 Alpheus harfordi,1,1,fewer than 3 distinct coordinate locations
 Alpheus transversodactylus,1,1,fewer than 3 distinct coordinate locations
 Alphitophagus,3,1,fewer than 3 distinct coordinate locations
+Alpinosciara subtrivialis,8,2,fewer than 3 distinct coordinate locations
 Altica aenescens,3,2,fewer than 3 distinct coordinate locations
 Altica convicta,1,1,fewer than 3 distinct coordinate locations
 Altica humboldtensis,1,1,fewer than 3 distinct coordinate locations
@@ -1422,6 +1424,7 @@ Aphelinus capitis,2,1,fewer than 3 distinct coordinate locations
 Aphelinus fuscipennis,1,1,fewer than 3 distinct coordinate locations
 Aphelinus jucundus,1,1,fewer than 3 distinct coordinate locations
 Aphelinus mali,1,1,fewer than 3 distinct coordinate locations
+Aphelinus paramali,1,1,fewer than 3 distinct coordinate locations
 Apheloglossa rufipennis,1,1,fewer than 3 distinct coordinate locations
 Aphelonema,1,1,fewer than 3 distinct coordinate locations
 Aphelophlebodes,1,1,fewer than 3 distinct coordinate locations
@@ -1577,12 +1580,15 @@ Aploderus mimeticus,7,1,fewer than 3 distinct coordinate locations
 Aploderus trinifer,10,2,fewer than 3 distinct coordinate locations
 Aplodontochirus,1,1,fewer than 3 distinct coordinate locations
 Aplodontophila aplodontiae,3,1,fewer than 3 distinct coordinate locations
+Aplomya theclarum,1,1,fewer than 3 distinct coordinate locations
 Aplonobia myops,1,1,fewer than 3 distinct coordinate locations
 Apoanagyrus californicus,1,1,fewer than 3 distinct coordinate locations
 Apobaetis etowah,1,1,fewer than 3 distinct coordinate locations
 Apobaetis indeprensus,1,1,fewer than 3 distinct coordinate locations
 Apocephalus aquilonius,5,1,fewer than 3 distinct coordinate locations
+Apocephalus feeneri,1,1,fewer than 3 distinct coordinate locations
 Apocephalus gemellus,8,2,fewer than 3 distinct coordinate locations
+Apocephalus hirtifrons,7,1,fewer than 3 distinct coordinate locations
 Apocephalus pergandei,4,1,fewer than 3 distinct coordinate locations
 Apocheiridium ferum,1,1,fewer than 3 distinct coordinate locations
 Apocrypha clivinoides,1,1,fewer than 3 distinct coordinate locations
@@ -1634,7 +1640,8 @@ Apterourus horizontalis,1,1,fewer than 3 distinct coordinate locations
 Apterourus serratus,1,1,fewer than 3 distinct coordinate locations
 Aptilotus,7,2,fewer than 3 distinct coordinate locations
 Aptilotus concavus,3,1,fewer than 3 distinct coordinate locations
-Aptilotus cruciatus,4,1,fewer than 3 distinct coordinate locations
+Aptilotus cruciatus,8,2,fewer than 3 distinct coordinate locations
+Aptilotus luctuosus,1,1,fewer than 3 distinct coordinate locations
 Aptilotus parvipennis,1,1,fewer than 3 distinct coordinate locations
 Aptilotus politus,2,2,fewer than 3 distinct coordinate locations
 Aptostichus chemehuevi,1,1,fewer than 3 distinct coordinate locations
@@ -2066,7 +2073,6 @@ Aulacaspis yasumatsui,2,2,fewer than 3 distinct coordinate locations
 Aulacidea acroptilonica,1,1,fewer than 3 distinct coordinate locations
 Aulacigaster,4,2,fewer than 3 distinct coordinate locations
 Aulacigaster leucopeza,2,2,fewer than 3 distinct coordinate locations
-Aulacigaster neoleucopeza,3,2,fewer than 3 distinct coordinate locations
 Aulacorthum,1,1,fewer than 3 distinct coordinate locations
 Aulacostethus,1,1,fewer than 3 distinct coordinate locations
 Aulagromyza,1,1,fewer than 3 distinct coordinate locations
@@ -2081,7 +2087,7 @@ Auleutes tenuipes,1,1,fewer than 3 distinct coordinate locations
 Aulicus terrestris,1,1,fewer than 3 distinct coordinate locations
 Aulonium,2,1,fewer than 3 distinct coordinate locations
 Aulonothroscus validus,7,1,fewer than 3 distinct coordinate locations
-Auplopus caerulescens,1,1,fewer than 3 distinct coordinate locations
+Auplopus caerulescens,4,2,fewer than 3 distinct coordinate locations
 Aurantiocoris,1,1,fewer than 3 distinct coordinate locations
 Aurila montereyensis,3,1,fewer than 3 distinct coordinate locations
 Aurila schumannensis,1,1,fewer than 3 distinct coordinate locations
@@ -2126,6 +2132,7 @@ BOLD:AAA0951,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA0992,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA1128,6,1,fewer than 3 distinct coordinate locations
 BOLD:AAA1254,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAA1256,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAA1470,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA1471,4,1,fewer than 3 distinct coordinate locations
 BOLD:AAA1494,1,1,fewer than 3 distinct coordinate locations
@@ -2241,7 +2248,6 @@ BOLD:AAA7368,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA7410,10,2,fewer than 3 distinct coordinate locations
 BOLD:AAA7455,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA7470,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAA7526,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA7615,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA7653,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA7654,1,1,fewer than 3 distinct coordinate locations
@@ -2254,9 +2260,7 @@ BOLD:AAA7996,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA8046,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA8064,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAA8091,4,2,fewer than 3 distinct coordinate locations
-BOLD:AAA8193,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAA8194,3,1,fewer than 3 distinct coordinate locations
-BOLD:AAA8196,2,1,fewer than 3 distinct coordinate locations
+BOLD:AAA8193,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA8223,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAA8277,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAA8278,3,2,fewer than 3 distinct coordinate locations
@@ -2460,7 +2464,7 @@ BOLD:AAB9439,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAB9516,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAB9605,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAB9665,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAB9709,3,2,fewer than 3 distinct coordinate locations
+BOLD:AAB9709,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAB9984,17,2,fewer than 3 distinct coordinate locations
 BOLD:AAB9986,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAC0006,2,1,fewer than 3 distinct coordinate locations
@@ -2509,8 +2513,10 @@ BOLD:AAC2749,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAC2795,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAC2796,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAC2914,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAC2984,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAC3010,4,2,fewer than 3 distinct coordinate locations
 BOLD:AAC3030,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAC3042,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAC3083,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAC3084,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAC3108,1,1,fewer than 3 distinct coordinate locations
@@ -2748,7 +2754,6 @@ BOLD:AAD8041,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAD8056,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAD8139,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAD8407,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAD8471,4,1,fewer than 3 distinct coordinate locations
 BOLD:AAD8539,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAD8555,5,2,fewer than 3 distinct coordinate locations
 BOLD:AAD8668,2,2,fewer than 3 distinct coordinate locations
@@ -2867,11 +2872,13 @@ BOLD:AAE4878,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAE4970,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE4979,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE4989,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAE5045,12,2,fewer than 3 distinct coordinate locations
 BOLD:AAE5060,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAE5103,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAE5224,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE5482,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAE5485,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAE5486,9,2,fewer than 3 distinct coordinate locations
 BOLD:AAE5495,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAE5875,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE6017,4,2,fewer than 3 distinct coordinate locations
@@ -2904,7 +2911,7 @@ BOLD:AAE7504,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE7575,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE7629,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE7717,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAE7723,3,2,fewer than 3 distinct coordinate locations
+BOLD:AAE7723,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE7788,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAE7861,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAE7917,3,1,fewer than 3 distinct coordinate locations
@@ -2950,7 +2957,6 @@ BOLD:AAF0335,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0501,3,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0646,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0687,6,2,fewer than 3 distinct coordinate locations
-BOLD:AAF0711,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0797,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0845,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF0979,4,2,fewer than 3 distinct coordinate locations
@@ -2969,13 +2975,14 @@ BOLD:AAF1875,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2066,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2067,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2100,5,2,fewer than 3 distinct coordinate locations
-BOLD:AAF2123,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAF2123,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2137,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2284,4,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2342,4,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2447,3,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2459,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2513,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAF2538,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2596,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAF2676,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAF2728,1,1,fewer than 3 distinct coordinate locations
@@ -3208,7 +3215,7 @@ BOLD:AAG2475,7,1,fewer than 3 distinct coordinate locations
 BOLD:AAG2479,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG2481,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG2530,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAG2702,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAG2702,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG2721,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG2752,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAG2784,2,1,fewer than 3 distinct coordinate locations
@@ -3359,11 +3366,10 @@ BOLD:AAG7674,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7679,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG7704,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7713,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAG7736,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7742,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7748,4,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7753,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAG7782,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAG7782,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7800,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG7818,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG7819,2,2,fewer than 3 distinct coordinate locations
@@ -3431,7 +3437,7 @@ BOLD:AAG9057,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9064,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG9109,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9136,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAG9140,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAG9140,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG9141,5,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9143,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9145,1,1,fewer than 3 distinct coordinate locations
@@ -3448,7 +3454,7 @@ BOLD:AAG9638,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAG9670,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9672,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9674,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAG9695,3,2,fewer than 3 distinct coordinate locations
+BOLD:AAG9695,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAG9703,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAG9905,4,2,fewer than 3 distinct coordinate locations
 BOLD:AAG9954,2,2,fewer than 3 distinct coordinate locations
@@ -3500,7 +3506,7 @@ BOLD:AAH1640,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH1647,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAH1652,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH1675,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAH1679,4,2,fewer than 3 distinct coordinate locations
+BOLD:AAH1679,3,1,fewer than 3 distinct coordinate locations
 BOLD:AAH1683,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAH1697,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH1721,3,2,fewer than 3 distinct coordinate locations
@@ -3599,10 +3605,10 @@ BOLD:AAH4370,5,2,fewer than 3 distinct coordinate locations
 BOLD:AAH4461,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4464,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAH4469,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAH4484,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAH4485,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4518,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4524,2,2,fewer than 3 distinct coordinate locations
-BOLD:AAH4686,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4706,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4711,8,1,fewer than 3 distinct coordinate locations
 BOLD:AAH4724,2,2,fewer than 3 distinct coordinate locations
@@ -3709,6 +3715,7 @@ BOLD:AAH7426,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH7436,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH7452,3,1,fewer than 3 distinct coordinate locations
 BOLD:AAH7638,15,2,fewer than 3 distinct coordinate locations
+BOLD:AAH7643,11,2,fewer than 3 distinct coordinate locations
 BOLD:AAH8077,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAH8100,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAH8206,2,2,fewer than 3 distinct coordinate locations
@@ -3928,7 +3935,7 @@ BOLD:AAJ2439,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAJ2663,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAJ2716,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAJ2829,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAJ2920,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAJ2920,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAJ3023,5,2,fewer than 3 distinct coordinate locations
 BOLD:AAJ3115,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAJ3258,1,1,fewer than 3 distinct coordinate locations
@@ -4717,7 +4724,7 @@ BOLD:AAU4812,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAU4860,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAU4879,2,1,fewer than 3 distinct coordinate locations
 BOLD:AAU4969,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAU5002,10,2,fewer than 3 distinct coordinate locations
+BOLD:AAU5002,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAU5050,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAU5399,5,2,fewer than 3 distinct coordinate locations
 BOLD:AAU5416,1,1,fewer than 3 distinct coordinate locations
@@ -5063,6 +5070,7 @@ BOLD:AAY6554,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAY6687,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAY6708,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAY6741,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAY6754,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAY6793,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAY6797,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAY6804,1,1,fewer than 3 distinct coordinate locations
@@ -5133,8 +5141,9 @@ BOLD:AAZ1036,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAZ1097,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ1250,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ1277,5,2,fewer than 3 distinct coordinate locations
+BOLD:AAZ1513,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAZ1564,1,1,fewer than 3 distinct coordinate locations
-BOLD:AAZ1683,4,2,fewer than 3 distinct coordinate locations
+BOLD:AAZ1683,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ1912,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ2001,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ2089,1,1,fewer than 3 distinct coordinate locations
@@ -5183,6 +5192,7 @@ BOLD:AAZ3744,11,2,fewer than 3 distinct coordinate locations
 BOLD:AAZ3745,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ3901,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ3912,1,1,fewer than 3 distinct coordinate locations
+BOLD:AAZ3939,3,2,fewer than 3 distinct coordinate locations
 BOLD:AAZ3940,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ3941,3,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ3961,2,1,fewer than 3 distinct coordinate locations
@@ -5210,7 +5220,7 @@ BOLD:AAZ5102,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ5110,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ5129,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ5135,2,1,fewer than 3 distinct coordinate locations
-BOLD:AAZ5149,2,2,fewer than 3 distinct coordinate locations
+BOLD:AAZ5149,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ5248,2,2,fewer than 3 distinct coordinate locations
 BOLD:AAZ5249,1,1,fewer than 3 distinct coordinate locations
 BOLD:AAZ5252,1,1,fewer than 3 distinct coordinate locations
@@ -5335,6 +5345,7 @@ BOLD:ABA6851,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABA7358,2,1,fewer than 3 distinct coordinate locations
 BOLD:ABA7542,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABA7644,2,1,fewer than 3 distinct coordinate locations
+BOLD:ABA7860,2,2,fewer than 3 distinct coordinate locations
 BOLD:ABA7870,4,2,fewer than 3 distinct coordinate locations
 BOLD:ABA7967,2,2,fewer than 3 distinct coordinate locations
 BOLD:ABA7972,1,1,fewer than 3 distinct coordinate locations
@@ -6067,7 +6078,7 @@ BOLD:ABY5676,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABY6041,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABY6163,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABY6262,3,2,fewer than 3 distinct coordinate locations
-BOLD:ABY6427,2,2,fewer than 3 distinct coordinate locations
+BOLD:ABY6427,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABY6495,2,1,fewer than 3 distinct coordinate locations
 BOLD:ABY6570,2,2,fewer than 3 distinct coordinate locations
 BOLD:ABY6622,1,1,fewer than 3 distinct coordinate locations
@@ -6132,7 +6143,6 @@ BOLD:ABZ1808,2,2,fewer than 3 distinct coordinate locations
 BOLD:ABZ1938,1,1,fewer than 3 distinct coordinate locations
 BOLD:ABZ1963,2,1,fewer than 3 distinct coordinate locations
 BOLD:ABZ2101,4,2,fewer than 3 distinct coordinate locations
-BOLD:ABZ2110,10,1,fewer than 3 distinct coordinate locations
 BOLD:ABZ2141,2,2,fewer than 3 distinct coordinate locations
 BOLD:ABZ2170,6,2,fewer than 3 distinct coordinate locations
 BOLD:ABZ2218,3,1,fewer than 3 distinct coordinate locations
@@ -6488,6 +6498,7 @@ BOLD:ACB7931,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACB7933,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACB8181,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACB8196,168,2,fewer than 3 distinct coordinate locations
+BOLD:ACB8584,8,2,fewer than 3 distinct coordinate locations
 BOLD:ACB8805,9,2,fewer than 3 distinct coordinate locations
 BOLD:ACB8807,3,2,fewer than 3 distinct coordinate locations
 BOLD:ACB8826,3,1,fewer than 3 distinct coordinate locations
@@ -6568,6 +6579,7 @@ BOLD:ACC3281,36,2,fewer than 3 distinct coordinate locations
 BOLD:ACC3344,3,2,fewer than 3 distinct coordinate locations
 BOLD:ACC3375,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACC3450,1,1,fewer than 3 distinct coordinate locations
+BOLD:ACC3527,4,2,fewer than 3 distinct coordinate locations
 BOLD:ACC3563,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACC3786,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACC3843,2,2,fewer than 3 distinct coordinate locations
@@ -6813,7 +6825,7 @@ BOLD:ACD8493,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8543,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8576,2,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8602,1,1,fewer than 3 distinct coordinate locations
-BOLD:ACD8683,4,2,fewer than 3 distinct coordinate locations
+BOLD:ACD8683,3,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8746,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8748,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACD8749,2,1,fewer than 3 distinct coordinate locations
@@ -6856,7 +6868,6 @@ BOLD:ACE1260,7,2,fewer than 3 distinct coordinate locations
 BOLD:ACE1293,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACE1298,6,2,fewer than 3 distinct coordinate locations
 BOLD:ACE1316,1,1,fewer than 3 distinct coordinate locations
-BOLD:ACE1365,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACE1369,3,1,fewer than 3 distinct coordinate locations
 BOLD:ACE1398,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACE1425,1,1,fewer than 3 distinct coordinate locations
@@ -7047,7 +7058,7 @@ BOLD:ACF4425,5,1,fewer than 3 distinct coordinate locations
 BOLD:ACF4555,3,1,fewer than 3 distinct coordinate locations
 BOLD:ACF4579,4,2,fewer than 3 distinct coordinate locations
 BOLD:ACF4581,2,2,fewer than 3 distinct coordinate locations
-BOLD:ACF4689,9,2,fewer than 3 distinct coordinate locations
+BOLD:ACF4689,7,2,fewer than 3 distinct coordinate locations
 BOLD:ACF4743,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACF4883,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACF4988,2,1,fewer than 3 distinct coordinate locations
@@ -7200,7 +7211,7 @@ BOLD:ACG8168,4,1,fewer than 3 distinct coordinate locations
 BOLD:ACG8207,16,1,fewer than 3 distinct coordinate locations
 BOLD:ACG8214,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACG8245,1,1,fewer than 3 distinct coordinate locations
-BOLD:ACG8556,2,2,fewer than 3 distinct coordinate locations
+BOLD:ACG8556,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACG8663,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACG8683,3,2,fewer than 3 distinct coordinate locations
 BOLD:ACG8911,3,2,fewer than 3 distinct coordinate locations
@@ -7716,6 +7727,7 @@ BOLD:ACK1425,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACK1478,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACK1500,6,2,fewer than 3 distinct coordinate locations
 BOLD:ACK1516,2,2,fewer than 3 distinct coordinate locations
+BOLD:ACK1519,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACK1527,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACK1535,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACK1555,3,2,fewer than 3 distinct coordinate locations
@@ -7966,7 +7978,7 @@ BOLD:ACM2070,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACM2106,11,2,fewer than 3 distinct coordinate locations
 BOLD:ACM2108,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACM2110,2,1,fewer than 3 distinct coordinate locations
-BOLD:ACM2151,2,2,fewer than 3 distinct coordinate locations
+BOLD:ACM2151,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACM2164,3,2,fewer than 3 distinct coordinate locations
 BOLD:ACM2291,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACM2293,7,1,fewer than 3 distinct coordinate locations
@@ -8748,6 +8760,7 @@ BOLD:ACS4523,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACS4792,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACS5654,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACS5684,1,1,fewer than 3 distinct coordinate locations
+BOLD:ACS5702,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACS5718,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACS5763,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACS6067,2,2,fewer than 3 distinct coordinate locations
@@ -8899,7 +8912,7 @@ BOLD:ACU4834,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACU4944,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACU5115,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACU5116,1,1,fewer than 3 distinct coordinate locations
-BOLD:ACU5169,3,2,fewer than 3 distinct coordinate locations
+BOLD:ACU5169,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACU5194,3,2,fewer than 3 distinct coordinate locations
 BOLD:ACU5463,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACU5557,1,1,fewer than 3 distinct coordinate locations
@@ -9186,7 +9199,7 @@ BOLD:ACX7902,5,1,fewer than 3 distinct coordinate locations
 BOLD:ACX7903,2,2,fewer than 3 distinct coordinate locations
 BOLD:ACX8003,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACX8043,3,2,fewer than 3 distinct coordinate locations
-BOLD:ACX8082,9,2,fewer than 3 distinct coordinate locations
+BOLD:ACX8082,4,1,fewer than 3 distinct coordinate locations
 BOLD:ACX8271,1,1,fewer than 3 distinct coordinate locations
 BOLD:ACX8274,7,1,fewer than 3 distinct coordinate locations
 BOLD:ACX8279,1,1,fewer than 3 distinct coordinate locations
@@ -9498,7 +9511,7 @@ BOLD:ADA6592,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADA6779,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADA8937,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADA9168,1,1,fewer than 3 distinct coordinate locations
-BOLD:ADA9522,4,2,fewer than 3 distinct coordinate locations
+BOLD:ADA9522,3,1,fewer than 3 distinct coordinate locations
 BOLD:ADA9706,2,1,fewer than 3 distinct coordinate locations
 BOLD:ADB1593,2,1,fewer than 3 distinct coordinate locations
 BOLD:ADB2604,1,1,fewer than 3 distinct coordinate locations
@@ -9776,7 +9789,7 @@ BOLD:ADK7602,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADK7654,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADK8103,2,2,fewer than 3 distinct coordinate locations
 BOLD:ADK8706,1,1,fewer than 3 distinct coordinate locations
-BOLD:ADK8736,2,2,fewer than 3 distinct coordinate locations
+BOLD:ADK8736,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADK8801,21,2,fewer than 3 distinct coordinate locations
 BOLD:ADK8948,1,1,fewer than 3 distinct coordinate locations
 BOLD:ADK8972,1,1,fewer than 3 distinct coordinate locations
@@ -10062,7 +10075,7 @@ BOLD:AEA1623,2,1,fewer than 3 distinct coordinate locations
 BOLD:AEA1827,5,2,fewer than 3 distinct coordinate locations
 BOLD:AEA1829,9,1,fewer than 3 distinct coordinate locations
 BOLD:AEA1987,1,1,fewer than 3 distinct coordinate locations
-BOLD:AEA2010,2,2,fewer than 3 distinct coordinate locations
+BOLD:AEA2010,1,1,fewer than 3 distinct coordinate locations
 BOLD:AEA2119,1,1,fewer than 3 distinct coordinate locations
 BOLD:AEA2197,2,1,fewer than 3 distinct coordinate locations
 BOLD:AEA2247,1,1,fewer than 3 distinct coordinate locations
@@ -10299,6 +10312,7 @@ BOLD:AED6391,2,1,fewer than 3 distinct coordinate locations
 BOLD:AED6617,1,1,fewer than 3 distinct coordinate locations
 BOLD:AED6866,2,2,fewer than 3 distinct coordinate locations
 BOLD:AED7142,1,1,fewer than 3 distinct coordinate locations
+BOLD:AED7708,2,2,fewer than 3 distinct coordinate locations
 BOLD:AED7775,1,1,fewer than 3 distinct coordinate locations
 BOLD:AED7928,1,1,fewer than 3 distinct coordinate locations
 BOLD:AED8073,1,1,fewer than 3 distinct coordinate locations
@@ -10520,6 +10534,7 @@ Balanus poecilus,1,1,fewer than 3 distinct coordinate locations
 Balanus regalis,3,2,fewer than 3 distinct coordinate locations
 Balclutha,7,2,fewer than 3 distinct coordinate locations
 Balclutha frontalis,1,1,fewer than 3 distinct coordinate locations
+Balclutha neglecta,14,1,fewer than 3 distinct coordinate locations
 Balduza bufo,2,2,fewer than 3 distinct coordinate locations
 Ballana chelata,1,1,fewer than 3 distinct coordinate locations
 Ballana densa,1,1,fewer than 3 distinct coordinate locations
@@ -10812,6 +10827,7 @@ Bidentogon californicus,1,1,fewer than 3 distinct coordinate locations
 Bidentogon helferorum,2,2,fewer than 3 distinct coordinate locations
 Bidentogon norcal,1,1,fewer than 3 distinct coordinate locations
 Bidessus,1,1,fewer than 3 distinct coordinate locations
+Bifronsina bifrons,2,1,fewer than 3 distinct coordinate locations
 Bigotomyia californiensis,1,1,fewer than 3 distinct coordinate locations
 Billaea,1,1,fewer than 3 distinct coordinate locations
 Binodoxys,3,2,fewer than 3 distinct coordinate locations
@@ -10900,7 +10916,6 @@ Bocchus rex,2,2,fewer than 3 distinct coordinate locations
 Bochkovia phalaropi,4,1,fewer than 3 distinct coordinate locations
 Boethus alaingens,1,1,fewer than 3 distinct coordinate locations
 Boettcheria,1,1,fewer than 3 distinct coordinate locations
-Boettcheria litorosa,5,2,fewer than 3 distinct coordinate locations
 Bohartia,1,1,fewer than 3 distinct coordinate locations
 Bohartia martini,2,2,fewer than 3 distinct coordinate locations
 Bohartia munda,1,1,fewer than 3 distinct coordinate locations
@@ -11076,6 +11091,7 @@ Brachyusa alutacea,3,1,fewer than 3 distinct coordinate locations
 Bracon bruchivorus,1,1,fewer than 3 distinct coordinate locations
 Bracon cecidomyiae,1,1,fewer than 3 distinct coordinate locations
 Bracon juglandis,1,1,fewer than 3 distinct coordinate locations
+Bracon lissogaster,3,1,fewer than 3 distinct coordinate locations
 Bracon nevadensis,1,1,fewer than 3 distinct coordinate locations
 Bradleya aurita,1,1,fewer than 3 distinct coordinate locations
 Bradleya diegoensis,1,1,fewer than 3 distinct coordinate locations
@@ -11095,13 +11111,15 @@ Bradynotes satur,2,1,fewer than 3 distinct coordinate locations
 Bradysia browni,1,1,fewer than 3 distinct coordinate locations
 Bradysia nomica,1,1,fewer than 3 distinct coordinate locations
 Bradysia placida,1,1,fewer than 3 distinct coordinate locations
-Bradysia trivittata,4,2,fewer than 3 distinct coordinate locations
+Bradysia transitata,31,1,fewer than 3 distinct coordinate locations
+Bradysia urticae,4,2,fewer than 3 distinct coordinate locations
 Bradytus,4,1,fewer than 3 distinct coordinate locations
 Bradytus immundus,1,1,fewer than 3 distinct coordinate locations
 Braggia longicauda,2,2,fewer than 3 distinct coordinate locations
 Branchinecta barstowensis,2,1,fewer than 3 distinct coordinate locations
 Branchinectidae,2,1,fewer than 3 distinct coordinate locations
 Branchiocarcinus pacificus,20,2,fewer than 3 distinct coordinate locations
+Brasema allynii,1,1,fewer than 3 distinct coordinate locations
 Brassicogethes,1,1,fewer than 3 distinct coordinate locations
 Brathinus,1,1,fewer than 3 distinct coordinate locations
 Bregetovia,3,1,fewer than 3 distinct coordinate locations
@@ -11513,6 +11531,7 @@ Calybe,1,1,fewer than 3 distinct coordinate locations
 Calybe laetula,1,1,fewer than 3 distinct coordinate locations
 Calycomyza artemisiae,2,2,fewer than 3 distinct coordinate locations
 Calycomyza novascotiensis,1,1,fewer than 3 distinct coordinate locations
+Calycomyza solidaginis,1,1,fewer than 3 distinct coordinate locations
 Calycomyza verbenae,1,1,fewer than 3 distinct coordinate locations
 Calycopis cecrops,1,1,fewer than 3 distinct coordinate locations
 Calymene,1,1,fewer than 3 distinct coordinate locations
@@ -11679,6 +11698,7 @@ Cartodere,1,1,fewer than 3 distinct coordinate locations
 Cartodere bifasciata,2,2,fewer than 3 distinct coordinate locations
 Carulaspis minima,1,1,fewer than 3 distinct coordinate locations
 Caryoborus veseyi,1,1,fewer than 3 distinct coordinate locations
+Caryocolum cassella,10,1,fewer than 3 distinct coordinate locations
 Caseya coxalis,1,1,fewer than 3 distinct coordinate locations
 Caseya dynotypa,1,1,fewer than 3 distinct coordinate locations
 Caseya similis,1,1,fewer than 3 distinct coordinate locations
@@ -11899,6 +11919,7 @@ Cerodontha paludosa,1,1,fewer than 3 distinct coordinate locations
 Ceromya,21,1,fewer than 3 distinct coordinate locations
 Ceropales,3,2,fewer than 3 distinct coordinate locations
 Ceropales femoralis,1,1,fewer than 3 distinct coordinate locations
+Ceropales pacifica,3,2,fewer than 3 distinct coordinate locations
 Ceroplastes,2,2,fewer than 3 distinct coordinate locations
 Ceroplastes irregularis,2,2,fewer than 3 distinct coordinate locations
 Ceroplastes rusci,2,2,fewer than 3 distinct coordinate locations
@@ -11939,8 +11960,9 @@ Chaetocnema difficilis,4,2,fewer than 3 distinct coordinate locations
 Chaetocnema hortensis,1,1,fewer than 3 distinct coordinate locations
 Chaetocnema opacula,2,2,fewer than 3 distinct coordinate locations
 Chaetocnema protensa,2,1,fewer than 3 distinct coordinate locations
+Chaetocnema subconvexa,2,1,fewer than 3 distinct coordinate locations
 Chaetonodexodes,1,1,fewer than 3 distinct coordinate locations
-Chaetonodexodes vanderwulpi,5,1,fewer than 3 distinct coordinate locations
+Chaetonodexodes vanderwulpi,7,2,fewer than 3 distinct coordinate locations
 Chaetophloeus heterodoxus,1,1,fewer than 3 distinct coordinate locations
 Chaetophloeus maclayi,4,1,fewer than 3 distinct coordinate locations
 Chaetophloeus mexicanus,1,1,fewer than 3 distinct coordinate locations
@@ -11959,6 +11981,7 @@ Chaitophorus populeti,1,1,fewer than 3 distinct coordinate locations
 Chaitophorus populifolii,1,1,fewer than 3 distinct coordinate locations
 Chaitophorus salicicola,8,1,fewer than 3 distinct coordinate locations
 Chaitophorus stevensis,1,1,fewer than 3 distinct coordinate locations
+Chalarus latifrons,1,1,fewer than 3 distinct coordinate locations
 Chalcaspis phenacocci,2,2,fewer than 3 distinct coordinate locations
 Chalcedectus caelatus,1,1,fewer than 3 distinct coordinate locations
 Chalcedectus hyalinipennis,3,1,fewer than 3 distinct coordinate locations
@@ -12030,7 +12053,6 @@ Chersodromia parallela,2,2,fewer than 3 distinct coordinate locations
 Chesiadodes coniferaria,4,1,fewer than 3 distinct coordinate locations
 Chesiadodes curvata,1,1,fewer than 3 distinct coordinate locations
 Cheteoscelis clarkei,1,1,fewer than 3 distinct coordinate locations
-Chetogena parvipalpis,4,2,fewer than 3 distinct coordinate locations
 Chetostoma rubidum,2,1,fewer than 3 distinct coordinate locations
 Cheumatopsyche mollala,1,1,fewer than 3 distinct coordinate locations
 Cheumatopsyche pinula,1,1,fewer than 3 distinct coordinate locations
@@ -12080,13 +12102,16 @@ Chionodes paralogella,5,2,fewer than 3 distinct coordinate locations
 Chionodes pavor,5,2,fewer than 3 distinct coordinate locations
 Chionodes praeclarella,1,1,fewer than 3 distinct coordinate locations
 Chionodes pulvis,1,1,fewer than 3 distinct coordinate locations
-Chionodes tessa,1,1,fewer than 3 distinct coordinate locations
+Chionodes tessa,2,2,fewer than 3 distinct coordinate locations
 Chionodes tributor,1,1,fewer than 3 distinct coordinate locations
 Chionoecetes,2,2,fewer than 3 distinct coordinate locations
 Chionomus,2,2,fewer than 3 distinct coordinate locations
 Chiothion georgina,1,1,fewer than 3 distinct coordinate locations
+Chironomus atrella,1,1,fewer than 3 distinct coordinate locations
 Chironomus atroviridis,1,1,fewer than 3 distinct coordinate locations
+Chironomus calligraphus,1,1,fewer than 3 distinct coordinate locations
 Chironomus hawaiiensis,2,2,fewer than 3 distinct coordinate locations
+Chironomus whitseli,1,1,fewer than 3 distinct coordinate locations
 Chirosia,1,1,fewer than 3 distinct coordinate locations
 Chirothrips aculeatus,1,1,fewer than 3 distinct coordinate locations
 Chirothrips falsus,1,1,fewer than 3 distinct coordinate locations
@@ -12402,6 +12427,7 @@ Clastoptera ovata,1,1,fewer than 3 distinct coordinate locations
 Clastoptera siskiyou,1,1,fewer than 3 distinct coordinate locations
 Clathroneuria arioles,1,1,fewer than 3 distinct coordinate locations
 Clausicella antennalis,1,1,fewer than 3 distinct coordinate locations
+Clausicella turmalis,3,1,fewer than 3 distinct coordinate locations
 Clavaspis disclusa,2,2,fewer than 3 distinct coordinate locations
 Clavator sabulonum,2,1,fewer than 3 distinct coordinate locations
 Clavella,1,1,fewer than 3 distinct coordinate locations
@@ -12471,6 +12497,7 @@ Clossiana titania,1,1,fewer than 3 distinct coordinate locations
 Closterocerus californicus,1,1,fewer than 3 distinct coordinate locations
 Closterocerus chamaeleon,1,1,fewer than 3 distinct coordinate locations
 Closterocerus tau,1,1,fewer than 3 distinct coordinate locations
+Closterocerus utahensis,1,1,fewer than 3 distinct coordinate locations
 Closterocoris,2,2,fewer than 3 distinct coordinate locations
 Clothilla picea,1,1,fewer than 3 distinct coordinate locations
 Clubiona abboti,1,1,fewer than 3 distinct coordinate locations
@@ -12674,7 +12701,7 @@ Colon longitorsum,6,2,fewer than 3 distinct coordinate locations
 Coloradia doris,1,1,fewer than 3 distinct coordinate locations
 Coloradoa,1,1,fewer than 3 distinct coordinate locations
 Colotrechnus,2,2,fewer than 3 distinct coordinate locations
-Colotrechnus ignotus,8,1,fewer than 3 distinct coordinate locations
+Colotrechnus ignotus,9,2,fewer than 3 distinct coordinate locations
 Colpa octomaculata,2,2,fewer than 3 distinct coordinate locations
 Colpocephalum osborni,2,2,fewer than 3 distinct coordinate locations
 Colpocephalum unciferum,1,1,fewer than 3 distinct coordinate locations
@@ -12722,6 +12749,7 @@ Conibius guadalupensis,3,1,fewer than 3 distinct coordinate locations
 Conibius opacus,3,1,fewer than 3 distinct coordinate locations
 Conibius rotundicollis,3,2,fewer than 3 distinct coordinate locations
 Conicera similis,2,1,fewer than 3 distinct coordinate locations
+Conicera tibialis,2,2,fewer than 3 distinct coordinate locations
 Coniferadonus pseudotsugae,1,1,fewer than 3 distinct coordinate locations
 Coniontis atronitens,2,1,fewer than 3 distinct coordinate locations
 Coniontis callida,1,1,fewer than 3 distinct coordinate locations
@@ -12782,6 +12810,7 @@ Conura albifrons,1,1,fewer than 3 distinct coordinate locations
 Conura dentiscapa,1,1,fewer than 3 distinct coordinate locations
 Conura side,1,1,fewer than 3 distinct coordinate locations
 Conwentzia californica,2,2,fewer than 3 distinct coordinate locations
+Conwentzia psociformis,1,1,fewer than 3 distinct coordinate locations
 Cooka,1,1,fewer than 3 distinct coordinate locations
 Copablepharon absidum,1,1,fewer than 3 distinct coordinate locations
 Copablepharon grandis,2,2,fewer than 3 distinct coordinate locations
@@ -12810,7 +12839,9 @@ Copidosoma lymani,1,1,fewer than 3 distinct coordinate locations
 Copidosoma uruguayensis,2,1,fewer than 3 distinct coordinate locations
 Copidosomopsis,110,2,fewer than 3 distinct coordinate locations
 Copidosomopsis plethorica,58,1,fewer than 3 distinct coordinate locations
+Coproica acutangula,1,1,fewer than 3 distinct coordinate locations
 Coproica ferruginata,1,1,fewer than 3 distinct coordinate locations
+Coproica urbana,1,1,fewer than 3 distinct coordinate locations
 Copromorphidae,1,1,fewer than 3 distinct coordinate locations
 Copromyza equina,1,1,fewer than 3 distinct coordinate locations
 Coproporus immigrans,2,1,fewer than 3 distinct coordinate locations
@@ -12895,6 +12926,9 @@ Corydalus cognatus,1,1,fewer than 3 distinct coordinate locations
 Corydalus cornutus,1,1,fewer than 3 distinct coordinate locations
 Corymbites pruinosus,1,1,fewer than 3 distinct coordinate locations
 Corymbitodes,1,1,fewer than 3 distinct coordinate locations
+Corynoneura arctica,7,1,fewer than 3 distinct coordinate locations
+Corynoptera penna,3,2,fewer than 3 distinct coordinate locations
+Corynoptera perpusilla,2,2,fewer than 3 distinct coordinate locations
 Coryphium arizonense,1,1,fewer than 3 distinct coordinate locations
 Corypsylla jordani,2,2,fewer than 3 distinct coordinate locations
 Corypsylla kohlsi,1,1,fewer than 3 distinct coordinate locations
@@ -12969,6 +13003,7 @@ Crassomicrodus muesebecki,1,1,fewer than 3 distinct coordinate locations
 Crassomicrodus olgae,2,2,fewer than 3 distinct coordinate locations
 Crassomiris anaticula,5,1,fewer than 3 distinct coordinate locations
 Crassomiris fatisco,4,2,fewer than 3 distinct coordinate locations
+Cratyna fulvicauda,2,2,fewer than 3 distinct coordinate locations
 Cremastobombycia solidaginis,4,1,fewer than 3 distinct coordinate locations
 Cremastocheilus compressipes,2,1,fewer than 3 distinct coordinate locations
 Cremastocheilus cribripennis,1,1,fewer than 3 distinct coordinate locations
@@ -13008,12 +13043,12 @@ Cricotopus absurdus,3,1,fewer than 3 distinct coordinate locations
 Cricotopus edurus,1,1,fewer than 3 distinct coordinate locations
 Cricotopus furtivus,1,1,fewer than 3 distinct coordinate locations
 Cricotopus fuscatus,1,1,fewer than 3 distinct coordinate locations
+Cricotopus herrmanni,1,1,fewer than 3 distinct coordinate locations
 Cricotopus infuscatus,26,1,fewer than 3 distinct coordinate locations
 Cricotopus irwini,1,1,fewer than 3 distinct coordinate locations
 Cricotopus obscurifuscus,1,1,fewer than 3 distinct coordinate locations
 Cricotopus parafuscatus,1,1,fewer than 3 distinct coordinate locations
 Cricotopus subfuscus,1,1,fewer than 3 distinct coordinate locations
-Cricotopus sylvestris,6,2,fewer than 3 distinct coordinate locations
 Cricotopus trifascia,2,2,fewer than 3 distinct coordinate locations
 Crioceridae,38,2,fewer than 3 distinct coordinate locations
 Crioceris,1,1,fewer than 3 distinct coordinate locations
@@ -13145,11 +13180,11 @@ Culicoides arizonensis,5,1,fewer than 3 distinct coordinate locations
 Culicoides bakeri,3,2,fewer than 3 distinct coordinate locations
 Culicoides baueri,1,1,fewer than 3 distinct coordinate locations
 Culicoides byersi,1,1,fewer than 3 distinct coordinate locations
+Culicoides cacticola,1,1,fewer than 3 distinct coordinate locations
 Culicoides californiensis,6,2,fewer than 3 distinct coordinate locations
 Culicoides carri,2,2,fewer than 3 distinct coordinate locations
 Culicoides cavaticus,1,1,fewer than 3 distinct coordinate locations
 Culicoides copiosus,2,2,fewer than 3 distinct coordinate locations
-Culicoides crepuscularis,2,2,fewer than 3 distinct coordinate locations
 Culicoides fossilis,2,2,fewer than 3 distinct coordinate locations
 Culicoides haematopotus,1,1,fewer than 3 distinct coordinate locations
 Culicoides hieroglyphicus,2,2,fewer than 3 distinct coordinate locations
@@ -13288,6 +13323,7 @@ Cylindrocopturus unicolor,1,1,fewer than 3 distinct coordinate locations
 Cylindrocopturus vanduzeei,1,1,fewer than 3 distinct coordinate locations
 Cylindroiulus latestriatus,1,1,fewer than 3 distinct coordinate locations
 Cylindroleberididae,1,1,fewer than 3 distinct coordinate locations
+Cylindromyia fumipennis,5,1,fewer than 3 distinct coordinate locations
 Cylindromyia interrupta,1,1,fewer than 3 distinct coordinate locations
 Cylindromyia limbata,1,1,fewer than 3 distinct coordinate locations
 Cylindrotomidae,1,1,fewer than 3 distinct coordinate locations
@@ -13436,6 +13472,7 @@ Dasydorylas,1,1,fewer than 3 distinct coordinate locations
 Dasyeulophus,1,1,fewer than 3 distinct coordinate locations
 Dasyhelea atrata,1,1,fewer than 3 distinct coordinate locations
 Dasyhelea bifurcata,1,1,fewer than 3 distinct coordinate locations
+Dasyhelea bilineata,1,1,fewer than 3 distinct coordinate locations
 Dasyhelea brookmani,1,1,fewer than 3 distinct coordinate locations
 Dasyhelea cactorum,3,1,fewer than 3 distinct coordinate locations
 Dasyhelea festiva,1,1,fewer than 3 distinct coordinate locations
@@ -13491,7 +13528,6 @@ Deinopteroloma,1,1,fewer than 3 distinct coordinate locations
 Dejongia,1,1,fewer than 3 distinct coordinate locations
 Deleaster concolor,2,2,fewer than 3 distinct coordinate locations
 Delia attenuata,1,1,fewer than 3 distinct coordinate locations
-Delia platura,5,1,fewer than 3 distinct coordinate locations
 Delia sequoiae,1,1,fewer than 3 distinct coordinate locations
 Deliphrum aequicolle,1,1,fewer than 3 distinct coordinate locations
 Deliphrum occiduum,1,1,fewer than 3 distinct coordinate locations
@@ -13571,6 +13607,7 @@ Desmocerus dimorphus,1,1,fewer than 3 distinct coordinate locations
 Desmococcus captivus,1,1,fewer than 3 distinct coordinate locations
 Desmometopa melanderi,1,1,fewer than 3 distinct coordinate locations
 Desmometopa nearctica,1,1,fewer than 3 distinct coordinate locations
+Desmometopa sordida,1,1,fewer than 3 distinct coordinate locations
 Desmona,3,2,fewer than 3 distinct coordinate locations
 Desmopachria latissima,3,2,fewer than 3 distinct coordinate locations
 Desmopachria mexicana,1,1,fewer than 3 distinct coordinate locations
@@ -13602,7 +13639,7 @@ Diadegma openangorum,1,1,fewer than 3 distinct coordinate locations
 Diadocidia,2,2,fewer than 3 distinct coordinate locations
 Diaea pictilis,2,2,fewer than 3 distinct coordinate locations
 Diaeretiella,2,2,fewer than 3 distinct coordinate locations
-Diaeretus essigellae,1,1,fewer than 3 distinct coordinate locations
+Diaeretus essigellae,2,2,fewer than 3 distinct coordinate locations
 Dialeurodes citri,2,2,fewer than 3 distinct coordinate locations
 Dialysis disparilis,1,1,fewer than 3 distinct coordinate locations
 Dialysis kesseli,1,1,fewer than 3 distinct coordinate locations
@@ -13949,6 +13986,7 @@ Dolichomitus taeniatus,1,1,fewer than 3 distinct coordinate locations
 Dolichopsyllus bluei,1,1,fewer than 3 distinct coordinate locations
 Dolichopsyllus stylosus,2,2,fewer than 3 distinct coordinate locations
 Dolichopus acricola,1,1,fewer than 3 distinct coordinate locations
+Dolichopus acuminatus,1,1,fewer than 3 distinct coordinate locations
 Dolichopus andersoni,1,1,fewer than 3 distinct coordinate locations
 Dolichopus bakeri,2,2,fewer than 3 distinct coordinate locations
 Dolichopus californicus,2,2,fewer than 3 distinct coordinate locations
@@ -14043,7 +14081,7 @@ Dromaeolus,1,1,fewer than 3 distinct coordinate locations
 Dromius,1,1,fewer than 3 distinct coordinate locations
 Dromius quadricollis,1,1,fewer than 3 distinct coordinate locations
 Dros,8,2,fewer than 3 distinct coordinate locations
-Drosophila azteca,5,1,fewer than 3 distinct coordinate locations
+Drosophila azteca,6,2,fewer than 3 distinct coordinate locations
 Drosophila cardini,4,2,fewer than 3 distinct coordinate locations
 Drosophila flavopinicola,1,1,fewer than 3 distinct coordinate locations
 Drosophila lutzii,3,3,distinct locations are collinear or nearly collinear (hull area is effectively zero)
@@ -14176,6 +14214,7 @@ Ecphylus leechi,1,1,fewer than 3 distinct coordinate locations
 Ecphylus pacificus,1,1,fewer than 3 distinct coordinate locations
 Ectecephala,12,2,fewer than 3 distinct coordinate locations
 Ectemnius nigrifrons,1,1,fewer than 3 distinct coordinate locations
+Ectemnius stirpicola,2,1,fewer than 3 distinct coordinate locations
 Ectemnius trifasciatus,1,1,fewer than 3 distinct coordinate locations
 Ectenonotus whittingtoni,1,1,fewer than 3 distinct coordinate locations
 Ectinosoma breviarticulatum,1,1,fewer than 3 distinct coordinate locations
@@ -14432,7 +14471,6 @@ Endeodes,9,2,fewer than 3 distinct coordinate locations
 Enderleinellus kelloggi,1,1,fewer than 3 distinct coordinate locations
 Enderleinellus suturalis,2,2,fewer than 3 distinct coordinate locations
 Endochironomus,2,2,fewer than 3 distinct coordinate locations
-Endochironomus subtendens,2,2,fewer than 3 distinct coordinate locations
 Endophloeus,1,1,fewer than 3 distinct coordinate locations
 Endothenia,1,1,fewer than 3 distinct coordinate locations
 Endothenia conditana,2,1,fewer than 3 distinct coordinate locations
@@ -14536,6 +14574,7 @@ Epibates marginatus,1,1,fewer than 3 distinct coordinate locations
 Epibates muricatus,1,1,fewer than 3 distinct coordinate locations
 Epiblema desertana,1,1,fewer than 3 distinct coordinate locations
 Epiblema deverrae,2,2,fewer than 3 distinct coordinate locations
+Epiblema minutana,5,1,fewer than 3 distinct coordinate locations
 Epiblema otiosana,1,1,fewer than 3 distinct coordinate locations
 Epiblema periculosana,1,1,fewer than 3 distinct coordinate locations
 Epiblema radicana,3,2,fewer than 3 distinct coordinate locations
@@ -14953,6 +14992,7 @@ Euhagena,1,1,fewer than 3 distinct coordinate locations
 Euhagena nebraskae,4,1,fewer than 3 distinct coordinate locations
 Euhalidaya,1,1,fewer than 3 distinct coordinate locations
 Euhoplopsyllus glacialis,1,1,fewer than 3 distinct coordinate locations
+Euhybus triplex,2,1,fewer than 3 distinct coordinate locations
 Euhyponomeutoides gracilariella,1,1,fewer than 3 distinct coordinate locations
 Eukiefferiella brehmi,153,2,fewer than 3 distinct coordinate locations
 Eukiefferiella brevicalcar,18,2,fewer than 3 distinct coordinate locations
@@ -15298,6 +15338,7 @@ Evacanthus,2,1,fewer than 3 distinct coordinate locations
 Evadne,2,2,fewer than 3 distinct coordinate locations
 Evadne nordmanni,5,2,fewer than 3 distinct coordinate locations
 Evagetes calefactus,2,2,fewer than 3 distinct coordinate locations
+Evagetes crassicornis,1,1,fewer than 3 distinct coordinate locations
 Evagetes ingenuus,1,1,fewer than 3 distinct coordinate locations
 Evagetes mohave,2,2,fewer than 3 distinct coordinate locations
 Evalljapyx anombris,1,1,fewer than 3 distinct coordinate locations
@@ -15331,7 +15372,7 @@ Exaeretia umbraticostella,1,1,fewer than 3 distinct coordinate locations
 Exaeretoptera fosteri,1,1,fewer than 3 distinct coordinate locations
 Exaeretopus caricis,1,1,fewer than 3 distinct coordinate locations
 Exallonyx trifoveatus,1,1,fewer than 3 distinct coordinate locations
-Exceptia neopetrella,2,1,fewer than 3 distinct coordinate locations
+Exceptia neopetrella,6,2,fewer than 3 distinct coordinate locations
 Excirolana kincaidi,1,1,fewer than 3 distinct coordinate locations
 Excorallana quadricornis,1,1,fewer than 3 distinct coordinate locations
 Exechia obediens,1,1,fewer than 3 distinct coordinate locations
@@ -15545,6 +15586,7 @@ Gamasiphis,4,1,fewer than 3 distinct coordinate locations
 Gamasolaelaps,1,1,fewer than 3 distinct coordinate locations
 Gamasus,2,2,fewer than 3 distinct coordinate locations
 Gambrinus crotchii,2,2,fewer than 3 distinct coordinate locations
+Gambrus polyphemi,2,1,fewer than 3 distinct coordinate locations
 Gammaphytoptus,1,1,fewer than 3 distinct coordinate locations
 Gammaropsis shoemakeri,3,1,fewer than 3 distinct coordinate locations
 Gammarus mucronatus,1,1,fewer than 3 distinct coordinate locations
@@ -15802,7 +15844,7 @@ Gnophomyia toschiae,1,1,fewer than 3 distinct coordinate locations
 Gnorimoschema albestre,2,2,fewer than 3 distinct coordinate locations
 Gnorimoschema altisolani,1,1,fewer than 3 distinct coordinate locations
 Gnorimoschema anomale,1,1,fewer than 3 distinct coordinate locations
-Gnorimoschema aterrimum,1,1,fewer than 3 distinct coordinate locations
+Gnorimoschema aterrimum,6,2,fewer than 3 distinct coordinate locations
 Gnorimoschema atriplex,1,1,fewer than 3 distinct coordinate locations
 Gnorimoschema bacchariselloides,9,2,fewer than 3 distinct coordinate locations
 Gnorimoschema chenopodiella,1,1,fewer than 3 distinct coordinate locations
@@ -15864,7 +15906,7 @@ Gonatocerus impar,1,1,fewer than 3 distinct coordinate locations
 Gonatocerus incomptus,3,2,fewer than 3 distinct coordinate locations
 Gonatocerus inflatiscapus,5,2,fewer than 3 distinct coordinate locations
 Gonatocerus litoralis,2,2,fewer than 3 distinct coordinate locations
-Gonatocerus morrilli,1,1,fewer than 3 distinct coordinate locations
+Gonatocerus morrilli,2,2,fewer than 3 distinct coordinate locations
 Gonatocerus novifasciatus,1,1,fewer than 3 distinct coordinate locations
 Gonatopus,2,2,fewer than 3 distinct coordinate locations
 Gonia turgida,1,1,fewer than 3 distinct coordinate locations
@@ -15903,6 +15945,7 @@ Gracilimiris,1,1,fewer than 3 distinct coordinate locations
 Gracilipleustes monocuspis,2,1,fewer than 3 distinct coordinate locations
 Grallobia,3,2,fewer than 3 distinct coordinate locations
 Grallolichus,10,2,fewer than 3 distinct coordinate locations
+Graminella nigrinota,9,2,fewer than 3 distinct coordinate locations
 Graminorthezia tillandsiae,1,1,fewer than 3 distinct coordinate locations
 Grammia incorrupta,1,1,fewer than 3 distinct coordinate locations
 Grammia virgo,2,2,fewer than 3 distinct coordinate locations
@@ -15979,6 +16022,7 @@ Gyponana aculeata,1,1,fewer than 3 distinct coordinate locations
 Gyponana angulata,1,1,fewer than 3 distinct coordinate locations
 Gyponana cunea,1,1,fewer than 3 distinct coordinate locations
 Gyponana fimbriata,1,1,fewer than 3 distinct coordinate locations
+Gyponana hasta,1,1,fewer than 3 distinct coordinate locations
 Gyponana sellularia,1,1,fewer than 3 distinct coordinate locations
 Gypsochroa,4,1,fewer than 3 distinct coordinate locations
 Gypsonoma aceriana,1,1,fewer than 3 distinct coordinate locations
@@ -15998,7 +16042,6 @@ Gyronycha obscura,2,1,fewer than 3 distinct coordinate locations
 Gyronychina,1,1,fewer than 3 distinct coordinate locations
 Gyronychina longipennis,1,1,fewer than 3 distinct coordinate locations
 Gyrophaena californica,2,2,fewer than 3 distinct coordinate locations
-Gyrophaena nana,6,2,fewer than 3 distinct coordinate locations
 Gyrophaena nitidula,2,2,fewer than 3 distinct coordinate locations
 Gyros,4,1,fewer than 3 distinct coordinate locations
 Habritys brevicornis,1,1,fewer than 3 distinct coordinate locations
@@ -16046,7 +16089,6 @@ Hadronotus radicularis,3,2,fewer than 3 distinct coordinate locations
 Hadrotettix,1,1,fewer than 3 distinct coordinate locations
 Hadrotrichodes,1,1,fewer than 3 distinct coordinate locations
 Hadrurus,2,2,fewer than 3 distinct coordinate locations
-Haematobia irritans,2,2,fewer than 3 distinct coordinate locations
 Haematopinus eurysternus,1,1,fewer than 3 distinct coordinate locations
 Haemodipsus setoni,2,2,fewer than 3 distinct coordinate locations
 Haemogamasus,1,1,fewer than 3 distinct coordinate locations
@@ -16080,6 +16122,7 @@ Haliplus robertsi,3,1,fewer than 3 distinct coordinate locations
 Haliplus subguttatus,1,1,fewer than 3 distinct coordinate locations
 Halisidota,2,2,fewer than 3 distinct coordinate locations
 Halizoa rufipes,1,1,fewer than 3 distinct coordinate locations
+Hallomenus scapularis,3,2,fewer than 3 distinct coordinate locations
 Hallomenus serricornis,6,1,fewer than 3 distinct coordinate locations
 Halobisium occidentale,2,2,fewer than 3 distinct coordinate locations
 Halodiplosis sarcobati,2,2,fewer than 3 distinct coordinate locations
@@ -16164,6 +16207,7 @@ Haustoriidae,1,1,fewer than 3 distinct coordinate locations
 Hayhurstia atriplicis,1,1,fewer than 3 distinct coordinate locations
 Hebardacris excelsa,4,2,fewer than 3 distinct coordinate locations
 Hebata,2,1,fewer than 3 distinct coordinate locations
+Hebata abbreviata,23,2,fewer than 3 distinct coordinate locations
 Hebata alboscripta,2,2,fewer than 3 distinct coordinate locations
 Hebata arqua,7,2,fewer than 3 distinct coordinate locations
 Hebata dactylata,1,1,fewer than 3 distinct coordinate locations
@@ -16201,6 +16245,7 @@ Heliastus minimus,1,1,fewer than 3 distinct coordinate locations
 Helichus immsi,14,1,fewer than 3 distinct coordinate locations
 Helichus triangularis,6,1,fewer than 3 distinct coordinate locations
 Helicobia,1,1,fewer than 3 distinct coordinate locations
+Helicobia rapax,1,1,fewer than 3 distinct coordinate locations
 Heliconius cydno,2,1,fewer than 3 distinct coordinate locations
 Heliconius erato,1,1,fewer than 3 distinct coordinate locations
 Heliconius melpomene,1,1,fewer than 3 distinct coordinate locations
@@ -16210,8 +16255,9 @@ Helicopsyche californica,3,1,fewer than 3 distinct coordinate locations
 Helicosmia,2,2,fewer than 3 distinct coordinate locations
 Helicoverpa,6,1,fewer than 3 distinct coordinate locations
 Heligmonevra,1,1,fewer than 3 distinct coordinate locations
-Helina evecta,1,1,fewer than 3 distinct coordinate locations
+Helina evecta,2,2,fewer than 3 distinct coordinate locations
 Helina fulviventris,1,1,fewer than 3 distinct coordinate locations
+Helina troene,20,2,fewer than 3 distinct coordinate locations
 Helina villihumilis,1,1,fewer than 3 distinct coordinate locations
 Heliococcus clemente,1,1,fewer than 3 distinct coordinate locations
 Heliococcus stachyos,1,1,fewer than 3 distinct coordinate locations
@@ -16331,6 +16377,7 @@ Henicopidae,1,1,fewer than 3 distinct coordinate locations
 Henoticus serratus,2,1,fewer than 3 distinct coordinate locations
 Henricus contrastana,4,1,fewer than 3 distinct coordinate locations
 Henricus fuscodorsana,2,2,fewer than 3 distinct coordinate locations
+Henricus umbrabasanus,2,2,fewer than 3 distinct coordinate locations
 Henrylygus ultranubilus,2,1,fewer than 3 distinct coordinate locations
 Henryognathus thomasi,8,2,fewer than 3 distinct coordinate locations
 Hepatus kossmanni,1,1,fewer than 3 distinct coordinate locations
@@ -16751,7 +16798,7 @@ Hydroporus vilis,1,1,fewer than 3 distinct coordinate locations
 Hydropsyche auricolor,1,1,fewer than 3 distinct coordinate locations
 Hydropsyche borealis,1,1,fewer than 3 distinct coordinate locations
 Hydropsyche slossonae,1,1,fewer than 3 distinct coordinate locations
-Hydroptila ajax,1,1,fewer than 3 distinct coordinate locations
+Hydroptila ajax,5,2,fewer than 3 distinct coordinate locations
 Hydroptila xera,6,1,fewer than 3 distinct coordinate locations
 Hydropyrus,1,1,fewer than 3 distinct coordinate locations
 Hydroscaphidae,1,1,fewer than 3 distinct coordinate locations
@@ -16865,6 +16912,8 @@ Hyperlaelaps microti,1,1,fewer than 3 distinct coordinate locations
 Hyperodes californicus,5,2,fewer than 3 distinct coordinate locations
 Hyperodes hyperodes,1,1,fewer than 3 distinct coordinate locations
 Hyperomyzus,1,1,fewer than 3 distinct coordinate locations
+Hyperomyzus carduellinus,1,1,fewer than 3 distinct coordinate locations
+Hyperomyzus picridis,1,1,fewer than 3 distinct coordinate locations
 Hyphantrophaga,1,1,fewer than 3 distinct coordinate locations
 Hypherpes baldwini,1,1,fewer than 3 distinct coordinate locations
 Hypherpes lassulus,2,2,fewer than 3 distinct coordinate locations
@@ -16945,6 +16994,7 @@ Ianiropsis derjugini,1,1,fewer than 3 distinct coordinate locations
 Ianiropsis epilittoralis,6,2,fewer than 3 distinct coordinate locations
 Ianiropsis magnocula,1,1,fewer than 3 distinct coordinate locations
 Ianiropsis minuta,4,2,fewer than 3 distinct coordinate locations
+Ichneumon memorator,2,1,fewer than 3 distinct coordinate locations
 Ichneumon validicornis,1,1,fewer than 3 distinct coordinate locations
 Ichneumonine,1,1,fewer than 3 distinct coordinate locations
 Icosta,3,2,fewer than 3 distinct coordinate locations
@@ -17431,6 +17481,7 @@ Lasioglossum pavoninum,1,1,fewer than 3 distinct coordinate locations
 Lasioglossum perdifficile,1,1,fewer than 3 distinct coordinate locations
 Lasioglossum perpunctatum,1,1,fewer than 3 distinct coordinate locations
 Lasioglossum pharum,2,2,fewer than 3 distinct coordinate locations
+Lasioglossum piloTMS,1,1,fewer than 3 distinct coordinate locations
 Lasioglossum pseudopectorale,1,1,fewer than 3 distinct coordinate locations
 Lasioglossum pullilabre,4,1,fewer than 3 distinct coordinate locations
 Lasioglossum puteulanum,1,1,fewer than 3 distinct coordinate locations
@@ -17593,7 +17644,7 @@ Leptis incisus,1,1,fewer than 3 distinct coordinate locations
 Leptobunus aureus,2,2,fewer than 3 distinct coordinate locations
 Leptocaris armatus,1,1,fewer than 3 distinct coordinate locations
 Leptocaris doughertyi,1,1,fewer than 3 distinct coordinate locations
-Leptocera erythrocera,2,2,fewer than 3 distinct coordinate locations
+Leptocera caenosa,3,1,fewer than 3 distinct coordinate locations
 Leptochelia savignyi,2,2,fewer than 3 distinct coordinate locations
 Leptochiloides brevicornis,1,1,fewer than 3 distinct coordinate locations
 Leptochilus electus,2,2,fewer than 3 distinct coordinate locations
@@ -17848,6 +17899,7 @@ Liodes von,1,1,fewer than 3 distinct coordinate locations
 Liodessus crotchi,4,2,fewer than 3 distinct coordinate locations
 Liodessus saratogae,2,2,fewer than 3 distinct coordinate locations
 Liodora,2,2,fewer than 3 distinct coordinate locations
+Liohippelates pusio,2,1,fewer than 3 distinct coordinate locations
 Liohippelates robertsoni,2,2,fewer than 3 distinct coordinate locations
 Lionepha tuulukwa,2,2,fewer than 3 distinct coordinate locations
 Lioon,4,1,fewer than 3 distinct coordinate locations
@@ -17898,10 +17950,11 @@ Liriomyza ptarmicae,1,1,fewer than 3 distinct coordinate locations
 Liriomyza quadrisetosa,4,1,fewer than 3 distinct coordinate locations
 Liriomyza schlingeri,1,1,fewer than 3 distinct coordinate locations
 Liriomyza smilacinae,1,1,fewer than 3 distinct coordinate locations
-Liriomyza trifolii,20,2,fewer than 3 distinct coordinate locations
 Liris muspa,2,1,fewer than 3 distinct coordinate locations
 Lispa salina,3,1,fewer than 3 distinct coordinate locations
 Lispe argentea,1,1,fewer than 3 distinct coordinate locations
+Lispe nasoni,1,1,fewer than 3 distinct coordinate locations
+Lispe uliginosa,1,1,fewer than 3 distinct coordinate locations
 Lispinus californicus,1,1,fewer than 3 distinct coordinate locations
 Lispocephala,1,1,fewer than 3 distinct coordinate locations
 Lispocephala setipes,1,1,fewer than 3 distinct coordinate locations
@@ -17915,6 +17968,7 @@ Lissonota conocola,1,1,fewer than 3 distinct coordinate locations
 Lissonota dakrumae,1,1,fewer than 3 distinct coordinate locations
 Lissonota dioryctriae,1,1,fewer than 3 distinct coordinate locations
 Lissonota inconstans,1,1,fewer than 3 distinct coordinate locations
+Lissonota sexcincta,2,2,fewer than 3 distinct coordinate locations
 Listemus,3,2,fewer than 3 distinct coordinate locations
 Listemus acuminatus,1,1,fewer than 3 distinct coordinate locations
 Listrochelus mucoreus,5,2,fewer than 3 distinct coordinate locations
@@ -18242,7 +18296,6 @@ Macrosiphum aucubae,2,2,fewer than 3 distinct coordinate locations
 Macrosiphum clum,1,1,fewer than 3 distinct coordinate locations
 Macrosiphum laevigatae,9,1,fewer than 3 distinct coordinate locations
 Macrosiphum oregonense,1,1,fewer than 3 distinct coordinate locations
-Macrosiphum rhamni,2,2,fewer than 3 distinct coordinate locations
 Macrosiphum scoliopi,5,1,fewer than 3 distinct coordinate locations
 Macrosiphum spec,1,1,fewer than 3 distinct coordinate locations
 Macrosteles,1,1,fewer than 3 distinct coordinate locations
@@ -18303,6 +18356,7 @@ Mallochohelea pullata,1,1,fewer than 3 distinct coordinate locations
 Mallochohelea sybleae,1,1,fewer than 3 distinct coordinate locations
 Mallodon dasystomus,2,2,fewer than 3 distinct coordinate locations
 Malloewia excipiens,3,2,fewer than 3 distinct coordinate locations
+Malloewia setulosa,1,1,fewer than 3 distinct coordinate locations
 Mallophora guildiana,5,1,fewer than 3 distinct coordinate locations
 Mallos mians,2,1,fewer than 3 distinct coordinate locations
 Mallota,1,1,fewer than 3 distinct coordinate locations
@@ -18373,6 +18427,7 @@ Masonaphis,1,1,fewer than 3 distinct coordinate locations
 Masoniella,1,1,fewer than 3 distinct coordinate locations
 Mastigodiaptomus albuquerquensis,2,2,fewer than 3 distinct coordinate locations
 Mastopoda pteridis,1,1,fewer than 3 distinct coordinate locations
+Mastrus aciculatus,1,1,fewer than 3 distinct coordinate locations
 Matsucoccus bisetosus,1,1,fewer than 3 distinct coordinate locations
 Matsumurasca arator,12,2,fewer than 3 distinct coordinate locations
 Matsumurasca dilitara,2,1,fewer than 3 distinct coordinate locations
@@ -18382,6 +18437,7 @@ Matsumurasca tincta,1,1,fewer than 3 distinct coordinate locations
 Mayerella acanthopoda,2,1,fewer than 3 distinct coordinate locations
 Mayerella banksia,3,2,fewer than 3 distinct coordinate locations
 Mayridia,1,1,fewer than 3 distinct coordinate locations
+Mecaphesa carletonica,1,1,fewer than 3 distinct coordinate locations
 Mecaphesa celer,1,1,fewer than 3 distinct coordinate locations
 Mecaphesa devia,2,2,fewer than 3 distinct coordinate locations
 Mecaphesa dubia,1,1,fewer than 3 distinct coordinate locations
@@ -18485,28 +18541,37 @@ Megarhyssa macrura,1,1,fewer than 3 distinct coordinate locations
 Megarthroglossus divisus,2,1,fewer than 3 distinct coordinate locations
 Megarthroglossus procus,5,2,fewer than 3 distinct coordinate locations
 Megarthroglossus sierrae,1,1,fewer than 3 distinct coordinate locations
-Megaselia albicaudata,2,1,fewer than 3 distinct coordinate locations
 Megaselia amplicornis,20,1,fewer than 3 distinct coordinate locations
+Megaselia arcticae,3,1,fewer than 3 distinct coordinate locations
+Megaselia armstrongorum,6,2,fewer than 3 distinct coordinate locations
 Megaselia aterrima,1,1,fewer than 3 distinct coordinate locations
-Megaselia brejchaorum,1,1,fewer than 3 distinct coordinate locations
+Megaselia atrox,9,1,fewer than 3 distinct coordinate locations
+Megaselia baileyae,1,1,fewer than 3 distinct coordinate locations
 Megaselia camilla,1,1,fewer than 3 distinct coordinate locations
 Megaselia chaetocerca,1,1,fewer than 3 distinct coordinate locations
 Megaselia ciancii,1,1,fewer than 3 distinct coordinate locations
-Megaselia cryptizona,5,2,fewer than 3 distinct coordinate locations
 Megaselia curticosta,1,1,fewer than 3 distinct coordinate locations
-Megaselia hoggorum,1,1,fewer than 3 distinct coordinate locations
-Megaselia ilca,1,1,fewer than 3 distinct coordinate locations
+Megaselia defibaughorum,15,2,fewer than 3 distinct coordinate locations
+Megaselia francoae,2,1,fewer than 3 distinct coordinate locations
+Megaselia glabrifrons,1,1,fewer than 3 distinct coordinate locations
+Megaselia gonzelezorum,1,1,fewer than 3 distinct coordinate locations
+Megaselia hardingorum,13,2,fewer than 3 distinct coordinate locations
+Megaselia heini,6,2,fewer than 3 distinct coordinate locations
+Megaselia hirticrus,1,1,fewer than 3 distinct coordinate locations
+Megaselia ilca,18,2,fewer than 3 distinct coordinate locations
 Megaselia nigra,4,2,fewer than 3 distinct coordinate locations
 Megaselia nigriceps,1,1,fewer than 3 distinct coordinate locations
-Megaselia oxboroughae,1,1,fewer than 3 distinct coordinate locations
+Megaselia oxboroughae,36,2,fewer than 3 distinct coordinate locations
 Megaselia polyporicola,1,1,fewer than 3 distinct coordinate locations
-Megaselia pongsaiae,1,1,fewer than 3 distinct coordinate locations
+Megaselia pongsaiae,3,2,fewer than 3 distinct coordinate locations
 Megaselia procera,1,1,fewer than 3 distinct coordinate locations
+Megaselia renwickorum,5,2,fewer than 3 distinct coordinate locations
+Megaselia rodriguezorum,1,1,fewer than 3 distinct coordinate locations
 Megaselia seticauda,69,1,fewer than 3 distinct coordinate locations
-Megaselia sidneyae,1,1,fewer than 3 distinct coordinate locations
+Megaselia shatesae,1,1,fewer than 3 distinct coordinate locations
 Megaselia sordida,3,1,fewer than 3 distinct coordinate locations
-Megaselia tecticauda,1,1,fewer than 3 distinct coordinate locations
-Megaselia wiegmanae,1,1,fewer than 3 distinct coordinate locations
+Megaselia stoakesi,16,2,fewer than 3 distinct coordinate locations
+Megaselia wiegmanae,2,2,fewer than 3 distinct coordinate locations
 Megasis,2,2,fewer than 3 distinct coordinate locations
 Megaspilus,2,2,fewer than 3 distinct coordinate locations
 Megastigmus milleri,1,1,fewer than 3 distinct coordinate locations
@@ -18701,6 +18766,8 @@ Menovectura,1,1,fewer than 3 distinct coordinate locations
 Menthidae,1,1,fewer than 3 distinct coordinate locations
 Meoneura californica,1,1,fewer than 3 distinct coordinate locations
 Meoneura forcipata,2,1,fewer than 3 distinct coordinate locations
+Meoneura pacifica,1,1,fewer than 3 distinct coordinate locations
+Meoneura triangularis,2,1,fewer than 3 distinct coordinate locations
 Meoneura wirthi,1,1,fewer than 3 distinct coordinate locations
 Meotica filiformis,1,1,fewer than 3 distinct coordinate locations
 Meoticina,8,1,fewer than 3 distinct coordinate locations
@@ -18760,6 +18827,7 @@ Mesopsocidae,1,1,fewer than 3 distinct coordinate locations
 Mesopsocus,3,2,fewer than 3 distinct coordinate locations
 Mesorhaga,2,2,fewer than 3 distinct coordinate locations
 Mesosa guexi,1,1,fewer than 3 distinct coordinate locations
+Mesostenus thoracicus,1,1,fewer than 3 distinct coordinate locations
 Mesothemis illota,1,1,fewer than 3 distinct coordinate locations
 Mesovelia amoena,2,2,fewer than 3 distinct coordinate locations
 Mesovelidae,1,1,fewer than 3 distinct coordinate locations
@@ -18903,6 +18971,7 @@ Microcalyptris lotella,1,1,fewer than 3 distinct coordinate locations
 Microcerberus abbotti,1,1,fewer than 3 distinct coordinate locations
 Microchaetina mexicana,1,1,fewer than 3 distinct coordinate locations
 Microchaetina teleta,1,1,fewer than 3 distinct coordinate locations
+Microchaetina valida,1,1,fewer than 3 distinct coordinate locations
 Microcheyla parvula,2,2,fewer than 3 distinct coordinate locations
 Microchridium,2,2,fewer than 3 distinct coordinate locations
 Microchrysa,2,1,fewer than 3 distinct coordinate locations
@@ -18921,6 +18990,7 @@ Microdontomerus apianus,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus ciscida,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus gordhi,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus mysticus,1,1,fewer than 3 distinct coordinate locations
+Microdontomerus osmiae,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus parkeri,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus secus,1,1,fewer than 3 distinct coordinate locations
 Microdontomerus westcotti,1,1,fewer than 3 distinct coordinate locations
@@ -18970,7 +19040,8 @@ Microporus obliquus,1,1,fewer than 3 distinct coordinate locations
 Microprius,1,1,fewer than 3 distinct coordinate locations
 Microprosopa,3,1,fewer than 3 distinct coordinate locations
 Micropsectra nigripila,1,1,fewer than 3 distinct coordinate locations
-Micropsectra polita,1,1,fewer than 3 distinct coordinate locations
+Micropsectra polita,10,2,fewer than 3 distinct coordinate locations
+Micropygomyia stewarti,1,1,fewer than 3 distinct coordinate locations
 Microrhopala erebus,1,1,fewer than 3 distinct coordinate locations
 Microrhopala signaticollis,1,1,fewer than 3 distinct coordinate locations
 Microrhopala vittata,1,1,fewer than 3 distinct coordinate locations
@@ -19004,6 +19075,7 @@ Mideopsidae,1,1,fewer than 3 distinct coordinate locations
 Migneauxia lederi,1,1,fewer than 3 distinct coordinate locations
 Miktoniscus medcofi,1,1,fewer than 3 distinct coordinate locations
 Milichia aethiops,1,1,fewer than 3 distinct coordinate locations
+Milichiella lacteipennis,10,1,fewer than 3 distinct coordinate locations
 Milichiella nigrella,1,1,fewer than 3 distinct coordinate locations
 Miloderes panamintensis,1,1,fewer than 3 distinct coordinate locations
 Miloderes ubehebensis,2,2,fewer than 3 distinct coordinate locations
@@ -19016,9 +19088,11 @@ Mimoschinia,16,1,fewer than 3 distinct coordinate locations
 Mimosestes amicus,1,1,fewer than 3 distinct coordinate locations
 Mimumesa,2,2,fewer than 3 distinct coordinate locations
 Mimumesa propinqua,1,1,fewer than 3 distinct coordinate locations
+Mindarus obliquus,1,1,fewer than 3 distinct coordinate locations
 Mindarus victoria,6,2,fewer than 3 distinct coordinate locations
 Minettia fumipennis,1,1,fewer than 3 distinct coordinate locations
 Minettia lupulina,3,2,fewer than 3 distinct coordinate locations
+Minilimosina nasuta,6,2,fewer than 3 distinct coordinate locations
 Ministrymon,1,1,fewer than 3 distinct coordinate locations
 Minohellenus inexpressus,4,1,fewer than 3 distinct coordinate locations
 Minyomerus bulbifrons,1,1,fewer than 3 distinct coordinate locations
@@ -19089,11 +19163,9 @@ Momoria rufoscutellata,1,1,fewer than 3 distinct coordinate locations
 Momoria turgida,2,2,fewer than 3 distinct coordinate locations
 Mompha achlyognoma,2,2,fewer than 3 distinct coordinate locations
 Mompha cephalanthiella,2,2,fewer than 3 distinct coordinate locations
-Mompha cephalonthiella,6,2,fewer than 3 distinct coordinate locations
 Mompha claudiella,5,2,fewer than 3 distinct coordinate locations
 Mompha iridella,1,1,fewer than 3 distinct coordinate locations
 Mompha tricristatella,4,1,fewer than 3 distinct coordinate locations
-Mompha unifasciella,2,2,fewer than 3 distinct coordinate locations
 Monanthia labeculata,1,1,fewer than 3 distinct coordinate locations
 Monardis,1,1,fewer than 3 distinct coordinate locations
 Monarthropalpus buxi,1,1,fewer than 3 distinct coordinate locations
@@ -19193,9 +19265,11 @@ Mycelia,1,1,fewer than 3 distinct coordinate locations
 Mycetaulus nigritellus,7,2,fewer than 3 distinct coordinate locations
 Mycetina,1,1,fewer than 3 distinct coordinate locations
 Mycetophagus punctatus,2,2,fewer than 3 distinct coordinate locations
+Mycetophila alea,1,1,fewer than 3 distinct coordinate locations
 Mycetophila caudata,2,2,fewer than 3 distinct coordinate locations
 Mycetophila favonica,1,1,fewer than 3 distinct coordinate locations
 Mycetophila fenestrata,1,1,fewer than 3 distinct coordinate locations
+Mycetophila luctuosa,1,1,fewer than 3 distinct coordinate locations
 Mycetophila paula,1,1,fewer than 3 distinct coordinate locations
 Mycetophila trifasciata,1,1,fewer than 3 distinct coordinate locations
 Mycetoporus bipunctatus,1,1,fewer than 3 distinct coordinate locations
@@ -19210,6 +19284,7 @@ Mycomya terminata,3,2,fewer than 3 distinct coordinate locations
 Mycotrogus angustus,2,1,fewer than 3 distinct coordinate locations
 Mycotrogus piceus,1,1,fewer than 3 distinct coordinate locations
 Mycterothrips albus,2,2,fewer than 3 distinct coordinate locations
+Mydaea canescens,1,1,fewer than 3 distinct coordinate locations
 Myelaphus lobicornis,2,2,fewer than 3 distinct coordinate locations
 Myeloborus confusus,1,1,fewer than 3 distinct coordinate locations
 Myeloborus keeni,1,1,fewer than 3 distinct coordinate locations
@@ -19387,6 +19462,7 @@ Nannolene corticolens,1,1,fewer than 3 distinct coordinate locations
 Nannolene dorothea,1,1,fewer than 3 distinct coordinate locations
 Nannolene keiferi,1,1,fewer than 3 distinct coordinate locations
 Nannolene personifer,1,1,fewer than 3 distinct coordinate locations
+Nanocladius anderseni,3,1,fewer than 3 distinct coordinate locations
 Nanojapyx pagesi,1,1,fewer than 3 distinct coordinate locations
 Nanularia,1,1,fewer than 3 distinct coordinate locations
 Nanularia inyoensis,1,1,fewer than 3 distinct coordinate locations
@@ -19421,6 +19497,7 @@ Nearctaphis bakeri,1,1,fewer than 3 distinct coordinate locations
 Nearctaphis californica,8,1,fewer than 3 distinct coordinate locations
 Nearctaphis kachena,5,2,fewer than 3 distinct coordinate locations
 Nearctaphis sensoriata,1,1,fewer than 3 distinct coordinate locations
+Nearcticorpus canadense,6,2,fewer than 3 distinct coordinate locations
 Nearctodesmidae,1,1,fewer than 3 distinct coordinate locations
 Nearctodesmus brunnior,1,1,fewer than 3 distinct coordinate locations
 Nearctodesmus campicolens,1,1,fewer than 3 distinct coordinate locations
@@ -19520,7 +19597,6 @@ Neoantistea santana,2,2,fewer than 3 distinct coordinate locations
 Neoascia metallica,3,1,fewer than 3 distinct coordinate locations
 Neobisnius formosae,1,1,fewer than 3 distinct coordinate locations
 Neobisnius jucundus,2,1,fewer than 3 distinct coordinate locations
-Neobisnius senilis,3,2,fewer than 3 distinct coordinate locations
 Neoborus fasciolus,1,1,fewer than 3 distinct coordinate locations
 Neoborus pacificus,1,1,fewer than 3 distinct coordinate locations
 Neobrachiella,1,1,fewer than 3 distinct coordinate locations
@@ -19674,6 +19750,7 @@ Nerocila,2,2,fewer than 3 distinct coordinate locations
 Nerocila aculeata,2,1,fewer than 3 distinct coordinate locations
 Nesocatoecus,2,1,fewer than 3 distinct coordinate locations
 Nesticus silvestrii,1,1,fewer than 3 distinct coordinate locations
+Netelia arizonensis,1,1,fewer than 3 distinct coordinate locations
 Netelia leo,2,1,fewer than 3 distinct coordinate locations
 Netelia rimata,1,1,fewer than 3 distinct coordinate locations
 Netelia strigilobus,1,1,fewer than 3 distinct coordinate locations
@@ -19802,6 +19879,7 @@ Noserus corrosus,2,1,fewer than 3 distinct coordinate locations
 Nosoderma diabolicum,1,1,fewer than 3 distinct coordinate locations
 Nosopus podager,1,1,fewer than 3 distinct coordinate locations
 Nostima,15,2,fewer than 3 distinct coordinate locations
+Nostima approximata,2,1,fewer than 3 distinct coordinate locations
 Nostima picta,1,1,fewer than 3 distinct coordinate locations
 Nostima scutellaris,1,1,fewer than 3 distinct coordinate locations
 Nostococladius,1,1,fewer than 3 distinct coordinate locations
@@ -19868,6 +19946,7 @@ Nymphalis vaualbum,1,1,fewer than 3 distinct coordinate locations
 Nymphon,2,2,fewer than 3 distinct coordinate locations
 Nymphon heterodenticulatum,2,2,fewer than 3 distinct coordinate locations
 Nymphopsis,2,2,fewer than 3 distinct coordinate locations
+Nysius niger,1,1,fewer than 3 distinct coordinate locations
 Nysius tenellus,2,2,fewer than 3 distinct coordinate locations
 Nysson argenticus,1,1,fewer than 3 distinct coordinate locations
 Nysson aridulus,1,1,fewer than 3 distinct coordinate locations
@@ -19904,6 +19983,7 @@ Ochrosidia pasadenae,5,2,fewer than 3 distinct coordinate locations
 Ochrosidia phasma,4,2,fewer than 3 distinct coordinate locations
 Ochrotrichia alsea,3,2,fewer than 3 distinct coordinate locations
 Ochrotrichia burdicki,4,2,fewer than 3 distinct coordinate locations
+Ochrotrichia dactylophora,3,1,fewer than 3 distinct coordinate locations
 Ochrotrichia honeyi,1,1,fewer than 3 distinct coordinate locations
 Ochrotrichia logana,2,2,fewer than 3 distinct coordinate locations
 Ochrotrichia mono,4,2,fewer than 3 distinct coordinate locations
@@ -20041,7 +20121,6 @@ Ogyrides,1,1,fewer than 3 distinct coordinate locations
 Oidaematophorus confusus,1,1,fewer than 3 distinct coordinate locations
 Oidaematophorus corvus,1,1,fewer than 3 distinct coordinate locations
 Oidaematophorus costatus,1,1,fewer than 3 distinct coordinate locations
-Oidaematophorus guttatus,5,2,fewer than 3 distinct coordinate locations
 Oidaematophorus perditus,1,1,fewer than 3 distinct coordinate locations
 Oidaematophorus phaceliae,3,2,fewer than 3 distinct coordinate locations
 Oidaematophorus phoebus,1,1,fewer than 3 distinct coordinate locations
@@ -20346,6 +20425,7 @@ Orgilus dioryctriae,1,1,fewer than 3 distinct coordinate locations
 Orgilus fallax,1,1,fewer than 3 distinct coordinate locations
 Orgilus lissus,1,1,fewer than 3 distinct coordinate locations
 Orgilus mimicus,1,1,fewer than 3 distinct coordinate locations
+Orgilus sp,1,1,fewer than 3 distinct coordinate locations
 Orgilus strigosus,1,1,fewer than 3 distinct coordinate locations
 Oribata,2,2,fewer than 3 distinct coordinate locations
 Oribatei,35,2,fewer than 3 distinct coordinate locations
@@ -20419,6 +20499,7 @@ Orthaltica,1,1,fewer than 3 distinct coordinate locations
 Orthellia,1,1,fewer than 3 distinct coordinate locations
 Orthezia,1,1,fewer than 3 distinct coordinate locations
 Orthione,1,1,fewer than 3 distinct coordinate locations
+Orthocentrus fulvipes,1,1,fewer than 3 distinct coordinate locations
 Orthocephalus coriaceus,1,1,fewer than 3 distinct coordinate locations
 Orthocis aterrimus,2,1,fewer than 3 distinct coordinate locations
 Orthocladius lignicola,6,1,fewer than 3 distinct coordinate locations
@@ -20444,6 +20525,7 @@ Orthosimyia,1,1,fewer than 3 distinct coordinate locations
 Orthosoma,1,1,fewer than 3 distinct coordinate locations
 Orthotaenia undulana,1,1,fewer than 3 distinct coordinate locations
 Orthotomicus erosus,15,2,fewer than 3 distinct coordinate locations
+Orthotrichia baldufi,1,1,fewer than 3 distinct coordinate locations
 Orthotydeus,1,1,fewer than 3 distinct coordinate locations
 Orthotylus albocostatus,2,2,fewer than 3 distinct coordinate locations
 Orthotylus boydi,2,2,fewer than 3 distinct coordinate locations
@@ -20467,7 +20549,6 @@ Oryctocephalus indicus,3,1,fewer than 3 distinct coordinate locations
 Oryssus,2,2,fewer than 3 distinct coordinate locations
 Oryttus laminiferus,3,2,fewer than 3 distinct coordinate locations
 Oryttus umbonatus,2,1,fewer than 3 distinct coordinate locations
-Osbornellus borealis,1,1,fewer than 3 distinct coordinate locations
 Osbornellus capitatus,1,1,fewer than 3 distinct coordinate locations
 Osbornellus curvatus,1,1,fewer than 3 distinct coordinate locations
 Osbornellus decorus,1,1,fewer than 3 distinct coordinate locations
@@ -20543,6 +20624,7 @@ Oxycephalus clausi,2,2,fewer than 3 distinct coordinate locations
 Oxycnemis gracillima,10,2,fewer than 3 distinct coordinate locations
 Oxyderces viridipes,1,1,fewer than 3 distinct coordinate locations
 Oxydrepanus,2,1,fewer than 3 distinct coordinate locations
+Oxyethira pallida,3,1,fewer than 3 distinct coordinate locations
 Oxygonodera,2,2,fewer than 3 distinct coordinate locations
 Oxymedon ruber,2,2,fewer than 3 distinct coordinate locations
 Oxyna,1,1,fewer than 3 distinct coordinate locations
@@ -20808,7 +20890,7 @@ Paradella dianae,1,1,fewer than 3 distinct coordinate locations
 Paradelphomyia,1,1,fewer than 3 distinct coordinate locations
 Paradelphomyia sierrensis,1,1,fewer than 3 distinct coordinate locations
 Paradibrachys guizoti,1,1,fewer than 3 distinct coordinate locations
-Paradidyma melania,1,1,fewer than 3 distinct coordinate locations
+Paradidyma melania,4,2,fewer than 3 distinct coordinate locations
 Paradiplosis tumifex,2,2,fewer than 3 distinct coordinate locations
 Paradoxosomatidae,1,1,fewer than 3 distinct coordinate locations
 Paradromius linearis,2,2,fewer than 3 distinct coordinate locations
@@ -20941,6 +21023,7 @@ Parasyntretus,1,1,fewer than 3 distinct coordinate locations
 Parasyrphus,2,2,fewer than 3 distinct coordinate locations
 Paratachys edax,1,1,fewer than 3 distinct coordinate locations
 Paratachys vorax,1,1,fewer than 3 distinct coordinate locations
+Paratanytarsus grimmii,7,1,fewer than 3 distinct coordinate locations
 Parataracticus cuyamus,1,1,fewer than 3 distinct coordinate locations
 Parataracticus wyliei,2,2,fewer than 3 distinct coordinate locations
 Paratendipes,26,2,fewer than 3 distinct coordinate locations
@@ -21105,6 +21188,7 @@ Pegomya tinctisquama,2,2,fewer than 3 distinct coordinate locations
 Pegomya umbripennis,1,1,fewer than 3 distinct coordinate locations
 Pegomyia fuscinervis,1,1,fewer than 3 distinct coordinate locations
 Pelastoneurus latifacies,1,1,fewer than 3 distinct coordinate locations
+Pelastoneurus vagans,1,1,fewer than 3 distinct coordinate locations
 Pelecomalium alutaceum,1,1,fewer than 3 distinct coordinate locations
 Pelecomalium binotatum,1,1,fewer than 3 distinct coordinate locations
 Pelecomalium crassicorne,1,1,fewer than 3 distinct coordinate locations
@@ -21170,7 +21254,6 @@ Peltophorus polymitus,3,1,fewer than 3 distinct coordinate locations
 Pemphigus fraxini-dipetalae,2,1,fewer than 3 distinct coordinate locations
 Pemphigus populi-venae,1,1,fewer than 3 distinct coordinate locations
 Pemphigus populicaulis,2,2,fewer than 3 distinct coordinate locations
-Pemphigus populiramulorum,2,2,fewer than 3 distinct coordinate locations
 Pemphigus radicicola,11,2,fewer than 3 distinct coordinate locations
 Pemphigus ranunculi,7,1,fewer than 3 distinct coordinate locations
 Pemphredon errans,1,1,fewer than 3 distinct coordinate locations
@@ -21193,13 +21276,14 @@ Penstemonia brevifolia,1,1,fewer than 3 distinct coordinate locations
 Penstemonia pappi,1,1,fewer than 3 distinct coordinate locations
 Pentacora,1,1,fewer than 3 distinct coordinate locations
 Pentacora hirta,1,1,fewer than 3 distinct coordinate locations
+Pentacricia aldrichii,1,1,fewer than 3 distinct coordinate locations
 Pentagramma,1,1,fewer than 3 distinct coordinate locations
 Pentagramma bivittata,1,1,fewer than 3 distinct coordinate locations
 Pentamerismus,2,2,fewer than 3 distinct coordinate locations
 Pentamerismus taxi,2,2,fewer than 3 distinct coordinate locations
 Pentaneura comosa,1,1,fewer than 3 distinct coordinate locations
 Pentaneura fluminalis,1,1,fewer than 3 distinct coordinate locations
-Pentaneura inconspicua,1,1,fewer than 3 distinct coordinate locations
+Pentaneura inconspicua,36,2,fewer than 3 distinct coordinate locations
 Pentaneura inyoensis,1,1,fewer than 3 distinct coordinate locations
 Pentaneura lyra,1,1,fewer than 3 distinct coordinate locations
 Pentaneura sequoiaensis,1,1,fewer than 3 distinct coordinate locations
@@ -21406,6 +21490,7 @@ Pharmacis,1,1,fewer than 3 distinct coordinate locations
 Pharodere radiata,1,1,fewer than 3 distinct coordinate locations
 Phasgonophora sulcata,1,1,fewer than 3 distinct coordinate locations
 Phasia aurulans,2,2,fewer than 3 distinct coordinate locations
+Phasia robertsonii,3,1,fewer than 3 distinct coordinate locations
 Phasiane,2,2,fewer than 3 distinct coordinate locations
 Phasiane irrorata,1,1,fewer than 3 distinct coordinate locations
 Phasiane tulareata,1,1,fewer than 3 distinct coordinate locations
@@ -21627,6 +21712,7 @@ Phthorimaea,2,2,fewer than 3 distinct coordinate locations
 Phthorimaea chiquitella,1,1,fewer than 3 distinct coordinate locations
 Phyciodes vesta,2,1,fewer than 3 distinct coordinate locations
 Phycitodes,1,1,fewer than 3 distinct coordinate locations
+Phycitodes reliquellum,1,1,fewer than 3 distinct coordinate locations
 Phycocoetes testaceus,1,1,fewer than 3 distinct coordinate locations
 Phycosoma lineatipes,1,1,fewer than 3 distinct coordinate locations
 Phygadeuon,1,1,fewer than 3 distinct coordinate locations
@@ -21635,6 +21721,7 @@ Phyllobaenus plagifer,2,2,fewer than 3 distinct coordinate locations
 Phyllobaenus robustus,1,1,fewer than 3 distinct coordinate locations
 Phyllobrotica sequoiensis,1,1,fewer than 3 distinct coordinate locations
 Phyllocnistis hyperpersea,2,2,fewer than 3 distinct coordinate locations
+Phyllocnistis occidentalis,10,1,fewer than 3 distinct coordinate locations
 Phyllocnistis vitifoliella,2,1,fewer than 3 distinct coordinate locations
 Phyllocolpa,2,2,fewer than 3 distinct coordinate locations
 Phyllocoptes destructor,1,1,fewer than 3 distinct coordinate locations
@@ -21678,7 +21765,7 @@ Phyllotreta denticornis,1,1,fewer than 3 distinct coordinate locations
 Phyllotreta lepidula,5,2,fewer than 3 distinct coordinate locations
 Phyllotreta prasina,1,1,fewer than 3 distinct coordinate locations
 Phyllotreta ramosa,1,1,fewer than 3 distinct coordinate locations
-Phyllotreta subnitida,1,1,fewer than 3 distinct coordinate locations
+Phyllotreta subnitida,2,2,fewer than 3 distinct coordinate locations
 Phyllotreta undulata,2,2,fewer than 3 distinct coordinate locations
 Phyllotreta viridicyanea,1,1,fewer than 3 distinct coordinate locations
 Phyllotreta vittata,1,1,fewer than 3 distinct coordinate locations
@@ -21717,6 +21804,7 @@ Physokermes insignicola,1,1,fewer than 3 distinct coordinate locations
 Physokermes taxifoliae,1,1,fewer than 3 distinct coordinate locations
 Phytobia,1,1,fewer than 3 distinct coordinate locations
 Phytobia californica,1,1,fewer than 3 distinct coordinate locations
+Phytobia confessa,3,1,fewer than 3 distinct coordinate locations
 Phytobia majuscula,1,1,fewer than 3 distinct coordinate locations
 Phytobia powelli,1,1,fewer than 3 distinct coordinate locations
 Phytobia promissa,1,1,fewer than 3 distinct coordinate locations
@@ -21809,7 +21897,6 @@ Piezostethus,1,1,fewer than 3 distinct coordinate locations
 Pigritia,5,2,fewer than 3 distinct coordinate locations
 Pigritia fidella,1,1,fewer than 3 distinct coordinate locations
 Pigritia latiscaptella,1,1,fewer than 3 distinct coordinate locations
-Pigritia murtfeldtella,2,2,fewer than 3 distinct coordinate locations
 Pilema cyanipenne,2,2,fewer than 3 distinct coordinate locations
 Pilema ruficolle,1,1,fewer than 3 distinct coordinate locations
 Pilimas beameri,1,1,fewer than 3 distinct coordinate locations
@@ -21910,7 +21997,7 @@ Placerna dorada,1,1,fewer than 3 distinct coordinate locations
 Placonotus,10,2,fewer than 3 distinct coordinate locations
 Placusa petulans,1,1,fewer than 3 distinct coordinate locations
 Placusa strata,2,1,fewer than 3 distinct coordinate locations
-Placusa vaga,1,1,fewer than 3 distinct coordinate locations
+Placusa vaga,2,2,fewer than 3 distinct coordinate locations
 Plagiognathus concoloris,2,1,fewer than 3 distinct coordinate locations
 Plagiognathus emarginatae,2,1,fewer than 3 distinct coordinate locations
 Plagiognathus melliferae,2,2,fewer than 3 distinct coordinate locations
@@ -22263,8 +22350,10 @@ Polyonyx quadriungulatus,1,1,fewer than 3 distinct coordinate locations
 Polyortha,1,1,fewer than 3 distinct coordinate locations
 Polypedilum aviceps,10,1,fewer than 3 distinct coordinate locations
 Polypedilum californicum,1,1,fewer than 3 distinct coordinate locations
+Polypedilum convictum,1,1,fewer than 3 distinct coordinate locations
 Polypedilum isocerus,1,1,fewer than 3 distinct coordinate locations
 Polypedilum labeculosum,1,1,fewer than 3 distinct coordinate locations
+Polypedilum nubifer,1,1,fewer than 3 distinct coordinate locations
 Polypedilum pedatum,1,1,fewer than 3 distinct coordinate locations
 Polypedilum pedestre,1,1,fewer than 3 distinct coordinate locations
 Polypedilum tritum,4,1,fewer than 3 distinct coordinate locations
@@ -22291,6 +22380,7 @@ Pompilus hilli,1,1,fewer than 3 distinct coordinate locations
 Pompilus jacintoensis,2,2,fewer than 3 distinct coordinate locations
 Pompilus luctuosus,1,1,fewer than 3 distinct coordinate locations
 Pompilus parvulus,1,1,fewer than 3 distinct coordinate locations
+Pompilus phoenix,4,2,fewer than 3 distinct coordinate locations
 Pompilus wasbaueri,1,1,fewer than 3 distinct coordinate locations
 Ponana,1,1,fewer than 3 distinct coordinate locations
 Ponera,3,2,fewer than 3 distinct coordinate locations
@@ -22497,7 +22587,7 @@ Proturentomon chinense,1,1,fewer than 3 distinct coordinate locations
 Proxenus mendosa,1,1,fewer than 3 distinct coordinate locations
 Psaenythia,3,1,fewer than 3 distinct coordinate locations
 Psaeropterella macrocephala,1,1,fewer than 3 distinct coordinate locations
-Psallovius piceicola,2,1,fewer than 3 distinct coordinate locations
+Psallovius piceicola,5,2,fewer than 3 distinct coordinate locations
 Psallus carneatus,1,1,fewer than 3 distinct coordinate locations
 Psallus delicatus,1,1,fewer than 3 distinct coordinate locations
 Psammaecius adornatus,3,2,fewer than 3 distinct coordinate locations
@@ -22702,7 +22792,7 @@ Psychoda inornata,1,1,fewer than 3 distinct coordinate locations
 Psychoda lativentris,3,2,fewer than 3 distinct coordinate locations
 Psychoda pusilla,2,1,fewer than 3 distinct coordinate locations
 Psychoda salicornia,1,1,fewer than 3 distinct coordinate locations
-Psychoda uniformata,1,1,fewer than 3 distinct coordinate locations
+Psychoda uniformata,7,2,fewer than 3 distinct coordinate locations
 Psychoglypha alascensis,3,2,fewer than 3 distinct coordinate locations
 Psychoglypha klamathi,2,1,fewer than 3 distinct coordinate locations
 Psychoglypha leechi,1,1,fewer than 3 distinct coordinate locations
@@ -22949,15 +23039,14 @@ Rabdophaga,1,1,fewer than 3 distinct coordinate locations
 Rabdophaga globosa,1,1,fewer than 3 distinct coordinate locations
 Rabidosa rabida,1,1,fewer than 3 distinct coordinate locations
 Racheospila glaucomarginaria,1,1,fewer than 3 distinct coordinate locations
-Rachispoda fumipennis,1,1,fewer than 3 distinct coordinate locations
+Rachispoda fumipennis,2,2,fewer than 3 distinct coordinate locations
 Rachispoda idahoensis,3,2,fewer than 3 distinct coordinate locations
-Rachispoda richardsi,10,2,fewer than 3 distinct coordinate locations
-Rachispoda spatulata,13,2,fewer than 3 distinct coordinate locations
 Rachispoda urodela,2,2,fewer than 3 distinct coordinate locations
 Radfordia,1,1,fewer than 3 distinct coordinate locations
 Radimella,2,1,fewer than 3 distinct coordinate locations
 Radimella palosensis,1,1,fewer than 3 distinct coordinate locations
 Radotanypus,7,2,fewer than 3 distinct coordinate locations
+Radotanypus florens,1,1,fewer than 3 distinct coordinate locations
 Raepula,2,1,fewer than 3 distinct coordinate locations
 Ragas primigenia,1,1,fewer than 3 distinct coordinate locations
 Raillietia caprae,4,1,fewer than 3 distinct coordinate locations
@@ -23421,6 +23510,7 @@ Scambus vesicarius,1,1,fewer than 3 distinct coordinate locations
 Scaphidium quadriguttatum,1,1,fewer than 3 distinct coordinate locations
 Scaphinotus imperfectus,5,1,fewer than 3 distinct coordinate locations
 Scaphinotus viduus,2,1,fewer than 3 distinct coordinate locations
+Scaphisoma commune,2,1,fewer than 3 distinct coordinate locations
 Scaphisoma rufulum,1,1,fewer than 3 distinct coordinate locations
 Scaphoideus,3,2,fewer than 3 distinct coordinate locations
 Scaphoideus scrupulosus,2,2,fewer than 3 distinct coordinate locations
@@ -23461,6 +23551,7 @@ Scatophila hesperia,2,2,fewer than 3 distinct coordinate locations
 Scatophila iowana,2,1,fewer than 3 distinct coordinate locations
 Scatophila unicornis,2,1,fewer than 3 distinct coordinate locations
 Scatopsciara dendrotica,1,1,fewer than 3 distinct coordinate locations
+Scatopsciara neglecta,1,1,fewer than 3 distinct coordinate locations
 Scelidacantha triseriata,2,2,fewer than 3 distinct coordinate locations
 Scelio floridanus,1,1,fewer than 3 distinct coordinate locations
 Sceliphron,3,2,fewer than 3 distinct coordinate locations
@@ -23624,6 +23715,7 @@ Scotolinx california,1,1,fewer than 3 distinct coordinate locations
 Scotophaeus,1,1,fewer than 3 distinct coordinate locations
 Scrobipalpa artemisiella,1,1,fewer than 3 distinct coordinate locations
 Scrobipalpa monumentella,3,1,fewer than 3 distinct coordinate locations
+Scrobipalpopsis arnicella,1,1,fewer than 3 distinct coordinate locations
 Scrobipalpopsis madiae,1,1,fewer than 3 distinct coordinate locations
 Scrobipalpula lutescella,2,2,fewer than 3 distinct coordinate locations
 Scrobipalpula lycii,2,1,fewer than 3 distinct coordinate locations
@@ -23715,6 +23807,7 @@ Sepsidimorpha,1,1,fewer than 3 distinct coordinate locations
 Sepsis biflexuosa,1,1,fewer than 3 distinct coordinate locations
 Sepsis luteipes,1,1,fewer than 3 distinct coordinate locations
 Sepsis neglecta,3,1,fewer than 3 distinct coordinate locations
+Sepsis secunda,2,2,fewer than 3 distinct coordinate locations
 Septentrinna bicalcarata,2,2,fewer than 3 distinct coordinate locations
 Septentrinna steckleri,1,1,fewer than 3 distinct coordinate locations
 Sequoiadesmus krejcae,1,1,fewer than 3 distinct coordinate locations
@@ -24024,6 +24117,7 @@ Sparnopolius,1,1,fewer than 3 distinct coordinate locations
 Sparnopolius anomalus,1,1,fewer than 3 distinct coordinate locations
 Spathanus acutus,1,1,fewer than 3 distinct coordinate locations
 Spathanus aureus,1,1,fewer than 3 distinct coordinate locations
+Spathidexia dunningii,1,1,fewer than 3 distinct coordinate locations
 Spathiulus leptus,1,1,fewer than 3 distinct coordinate locations
 Spathiulus tribolus,1,1,fewer than 3 distinct coordinate locations
 Spathiulus tuolumnus,1,1,fewer than 3 distinct coordinate locations
@@ -24034,6 +24128,10 @@ Spathius sequoiae,1,1,fewer than 3 distinct coordinate locations
 Spathopus,1,1,fewer than 3 distinct coordinate locations
 Spathopus anomalipes,1,1,fewer than 3 distinct coordinate locations
 Spectralia purpurascens,2,2,fewer than 3 distinct coordinate locations
+Spelobia depilicercus,4,1,fewer than 3 distinct coordinate locations
+Spelobia fungivora,3,1,fewer than 3 distinct coordinate locations
+Spelobia ordinaria,2,1,fewer than 3 distinct coordinate locations
+Spelobia rimata,1,1,fewer than 3 distinct coordinate locations
 Spenophorus,1,1,fewer than 3 distinct coordinate locations
 Speocarcinus,1,1,fewer than 3 distinct coordinate locations
 Speoseya grahami,1,1,fewer than 3 distinct coordinate locations
@@ -24168,6 +24266,7 @@ Spirontocaris kincaidi,2,2,fewer than 3 distinct coordinate locations
 Spirontocaris lamellicornis,2,2,fewer than 3 distinct coordinate locations
 Spirontocaris sica,1,1,fewer than 3 distinct coordinate locations
 Spirontocaris truncata,1,1,fewer than 3 distinct coordinate locations
+Spissistilus festinus,2,1,fewer than 3 distinct coordinate locations
 Spogostylum vandykei,1,1,fewer than 3 distinct coordinate locations
 Spondylididae,1,1,fewer than 3 distinct coordinate locations
 Spondylis,1,1,fewer than 3 distinct coordinate locations
@@ -24433,8 +24532,10 @@ Stigmaeus communis,2,2,fewer than 3 distinct coordinate locations
 Stigmaeus glabrisetus,1,1,fewer than 3 distinct coordinate locations
 Stigmalychus,1,1,fewer than 3 distinct coordinate locations
 Stigmella inconspicuella,2,2,fewer than 3 distinct coordinate locations
+Stigmella macrocarpae,2,1,fewer than 3 distinct coordinate locations
 Stigmella oxyacanthella,2,2,fewer than 3 distinct coordinate locations
 Stigmella prunifoliella,1,1,fewer than 3 distinct coordinate locations
+Stigmella saginella,2,2,fewer than 3 distinct coordinate locations
 Stigmocheylus,3,1,fewer than 3 distinct coordinate locations
 Stigmus fulvipes,1,1,fewer than 3 distinct coordinate locations
 Stilbomalopsis,2,2,fewer than 3 distinct coordinate locations
@@ -24831,7 +24932,9 @@ Tanyderidae,1,1,fewer than 3 distinct coordinate locations
 Tanypus,4,2,fewer than 3 distinct coordinate locations
 Tanypus miripes,1,1,fewer than 3 distinct coordinate locations
 Tanystylum,1,1,fewer than 3 distinct coordinate locations
+Tanytarsus buckleyi,158,1,fewer than 3 distinct coordinate locations
 Tanytarsus dyari,1,1,fewer than 3 distinct coordinate locations
+Tanytarsus guerlus,18,1,fewer than 3 distinct coordinate locations
 Tanytarsus quagga,1,1,fewer than 3 distinct coordinate locations
 Taphrocerus mercedensis,3,2,fewer than 3 distinct coordinate locations
 Taphroscydmus,2,2,fewer than 3 distinct coordinate locations
@@ -24877,10 +24980,10 @@ Telamonanthe pulchella,2,2,fewer than 3 distinct coordinate locations
 Telebasis,3,2,fewer than 3 distinct coordinate locations
 Telebasis byersi,1,1,fewer than 3 distinct coordinate locations
 Telenomus californicus,1,1,fewer than 3 distinct coordinate locations
+Telenomus chrysopae,3,2,fewer than 3 distinct coordinate locations
 Telenomus clisiocampae,2,2,fewer than 3 distinct coordinate locations
 Telenomus impressus,1,1,fewer than 3 distinct coordinate locations
 Telenomus koebelei,1,1,fewer than 3 distinct coordinate locations
-Telenomus podisi,7,2,fewer than 3 distinct coordinate locations
 Telenomus reynoldsi,3,1,fewer than 3 distinct coordinate locations
 Teleonemia monile,1,1,fewer than 3 distinct coordinate locations
 Teleonemia vidua,1,1,fewer than 3 distinct coordinate locations
@@ -24992,6 +25095,7 @@ Tetramesa romana,1,1,fewer than 3 distinct coordinate locations
 Tetramorium,2,2,fewer than 3 distinct coordinate locations
 Tetramorium insolens,1,1,fewer than 3 distinct coordinate locations
 Tetramorium meridionale,1,1,fewer than 3 distinct coordinate locations
+Tetraneura nigriabdominalis,1,1,fewer than 3 distinct coordinate locations
 Tetranychus bimaculatus,1,1,fewer than 3 distinct coordinate locations
 Tetranychus desertorum,2,2,fewer than 3 distinct coordinate locations
 Tetranychus hydrangeae,22,2,fewer than 3 distinct coordinate locations
@@ -25025,7 +25129,7 @@ Tettigidea,2,2,fewer than 3 distinct coordinate locations
 Tetyra robusta,2,2,fewer than 3 distinct coordinate locations
 Texananus extensus,1,1,fewer than 3 distinct coordinate locations
 Texananus gladius,1,1,fewer than 3 distinct coordinate locations
-Texananus spatulatus,1,1,fewer than 3 distinct coordinate locations
+Texananus spatulatus,3,2,fewer than 3 distinct coordinate locations
 Texella martensi,2,2,fewer than 3 distinct coordinate locations
 Texola,2,1,fewer than 3 distinct coordinate locations
 Texola elada,3,2,fewer than 3 distinct coordinate locations
@@ -25064,7 +25168,7 @@ Thaumalea melanderi,1,1,fewer than 3 distinct coordinate locations
 Thaumaleidae,4,2,fewer than 3 distinct coordinate locations
 Thaumastocoridae,1,1,fewer than 3 distinct coordinate locations
 Thaumastoptera hynesi,1,1,fewer than 3 distinct coordinate locations
-Thaumatographa youngiella,1,1,fewer than 3 distinct coordinate locations
+Thaumatographa youngiella,3,2,fewer than 3 distinct coordinate locations
 Thaumatomyia annulata,4,1,fewer than 3 distinct coordinate locations
 Thaumatomyia pulla,1,1,fewer than 3 distinct coordinate locations
 Thaumatomyia pullipes,1,1,fewer than 3 distinct coordinate locations
@@ -25110,6 +25214,7 @@ Theridion mystaceum,2,2,fewer than 3 distinct coordinate locations
 Theridion positivum,2,2,fewer than 3 distinct coordinate locations
 Theridion stanfordi,2,2,fewer than 3 distinct coordinate locations
 Theridion varians,1,1,fewer than 3 distinct coordinate locations
+Therioaphis riehmi,3,1,fewer than 3 distinct coordinate locations
 Therion circumflexum,2,2,fewer than 3 distinct coordinate locations
 Therion longipes,1,1,fewer than 3 distinct coordinate locations
 Thermacarus nevadensis,4,1,fewer than 3 distinct coordinate locations
@@ -25120,7 +25225,7 @@ Thevenemyia notata,1,1,fewer than 3 distinct coordinate locations
 Thevenetimyia celer,2,2,fewer than 3 distinct coordinate locations
 Thibetoides flosamoris,1,1,fewer than 3 distinct coordinate locations
 Thienemanniella fusca,1,1,fewer than 3 distinct coordinate locations
-Thienemanniella xena,1,1,fewer than 3 distinct coordinate locations
+Thienemanniella xena,34,2,fewer than 3 distinct coordinate locations
 Thinobius fimbriatus,5,1,fewer than 3 distinct coordinate locations
 Thinobius hesperius,1,1,fewer than 3 distinct coordinate locations
 Thinobius macropterus,1,1,fewer than 3 distinct coordinate locations
@@ -25427,6 +25532,7 @@ Trachyleberis paucispinata,1,1,fewer than 3 distinct coordinate locations
 Trachyleberis semihispida,1,1,fewer than 3 distinct coordinate locations
 Trachyleberis semitranslucens,1,1,fewer than 3 distinct coordinate locations
 Trachyopella,2,2,fewer than 3 distinct coordinate locations
+Trachyopella nuda,2,1,fewer than 3 distinct coordinate locations
 Trachyota lativentris,1,1,fewer than 3 distinct coordinate locations
 Trachypachus,20,2,fewer than 3 distinct coordinate locations
 Trachypachus alticola,2,1,fewer than 3 distinct coordinate locations
@@ -25530,6 +25636,7 @@ Trichophora miscelli,1,1,fewer than 3 distinct coordinate locations
 Trichophya,1,1,fewer than 3 distinct coordinate locations
 Trichopria pacifica,1,1,fewer than 3 distinct coordinate locations
 Trichopsenius californicus,1,1,fewer than 3 distinct coordinate locations
+Trichopsocus claris,35,1,fewer than 3 distinct coordinate locations
 Trichopsomyia,2,2,fewer than 3 distinct coordinate locations
 Trichopsylloides oregonensis,1,1,fewer than 3 distinct coordinate locations
 Trichoptilus potentellus,1,1,fewer than 3 distinct coordinate locations
@@ -25635,6 +25742,7 @@ Triorophus subpubescens,2,2,fewer than 3 distinct coordinate locations
 Triorophus terebratulus,7,2,fewer than 3 distinct coordinate locations
 Trioxys californicus,1,1,fewer than 3 distinct coordinate locations
 Trioxys complanatus,1,1,fewer than 3 distinct coordinate locations
+Trioxys pallidus,1,1,fewer than 3 distinct coordinate locations
 Trioza berberidis,1,1,fewer than 3 distinct coordinate locations
 Trioza californica,1,1,fewer than 3 distinct coordinate locations
 Trioza collaris,1,1,fewer than 3 distinct coordinate locations
@@ -25677,7 +25785,6 @@ Trisopsis,7,1,fewer than 3 distinct coordinate locations
 Trissolcus basalis,2,1,fewer than 3 distinct coordinate locations
 Trissolcus brochymenae,3,1,fewer than 3 distinct coordinate locations
 Trissolcus cosmopeplae,1,1,fewer than 3 distinct coordinate locations
-Trissolcus hyalinipennis,1,1,fewer than 3 distinct coordinate locations
 Trissolcus occiduus,2,2,fewer than 3 distinct coordinate locations
 Trissolcus ruidus,2,1,fewer than 3 distinct coordinate locations
 Trissolcus valkyria,1,1,fewer than 3 distinct coordinate locations
@@ -25704,7 +25811,6 @@ Trixoscelis lagunaensis,1,1,fewer than 3 distinct coordinate locations
 Trixoscelis nuda,4,2,fewer than 3 distinct coordinate locations
 Trixoscelis punctipennis,1,1,fewer than 3 distinct coordinate locations
 Trixoscelis suffusa,1,1,fewer than 3 distinct coordinate locations
-Trixoscelis tumida,3,2,fewer than 3 distinct coordinate locations
 Triznaka,1,1,fewer than 3 distinct coordinate locations
 Triznaka diversa,1,1,fewer than 3 distinct coordinate locations
 Triznaka pintada,1,1,fewer than 3 distinct coordinate locations
@@ -25771,9 +25877,10 @@ Trypophloeus populi,5,1,fewer than 3 distinct coordinate locations
 Trypophloeus salicis,1,1,fewer than 3 distinct coordinate locations
 Trypophloeus thatcheri,5,2,fewer than 3 distinct coordinate locations
 Trypoxylon bidentatum,2,2,fewer than 3 distinct coordinate locations
-Trypoxylon frigidum,1,1,fewer than 3 distinct coordinate locations
+Trypoxylon frigidum,2,2,fewer than 3 distinct coordinate locations
 Trypoxylon spinosum,1,1,fewer than 3 distinct coordinate locations
 Tsugaea nox,1,1,fewer than 3 distinct coordinate locations
+Tuberculatus californicus,1,1,fewer than 3 distinct coordinate locations
 Tuberculatus maureri,1,1,fewer than 3 distinct coordinate locations
 Tuberculatus pasaniae,4,2,fewer than 3 distinct coordinate locations
 Tuberculefferia,4,2,fewer than 3 distinct coordinate locations
@@ -25810,7 +25917,7 @@ Twinnia nova,1,1,fewer than 3 distinct coordinate locations
 Tychius albidus,1,1,fewer than 3 distinct coordinate locations
 Tychius dilectus,2,1,fewer than 3 distinct coordinate locations
 Tychius hesperis,1,1,fewer than 3 distinct coordinate locations
-Tychius meliloti,1,1,fewer than 3 distinct coordinate locations
+Tychius meliloti,2,2,fewer than 3 distinct coordinate locations
 Tychius picirostris,2,2,fewer than 3 distinct coordinate locations
 Tychius probus,1,1,fewer than 3 distinct coordinate locations
 Tychus bipuncticeps,2,1,fewer than 3 distinct coordinate locations
@@ -25974,6 +26081,7 @@ Vellica longipennis,2,1,fewer than 3 distinct coordinate locations
 Venanus,1,1,fewer than 3 distinct coordinate locations
 Venezillo,1,1,fewer than 3 distinct coordinate locations
 Venturia,6,2,fewer than 3 distinct coordinate locations
+Venturia canescens,1,1,fewer than 3 distinct coordinate locations
 Veraphis colon,2,2,fewer than 3 distinct coordinate locations
 Vermicorixa,2,2,fewer than 3 distinct coordinate locations
 Veromessor smithi,2,1,fewer than 3 distinct coordinate locations
@@ -25994,6 +26102,7 @@ Villa chromolepida,2,2,fewer than 3 distinct coordinate locations
 Vingrassia velata,31,1,fewer than 3 distinct coordinate locations
 Viridipyge,1,1,fewer than 3 distinct coordinate locations
 Visoka,2,2,fewer than 3 distinct coordinate locations
+Vitula aegerella,1,1,fewer than 3 distinct coordinate locations
 Vitula coconinoana,2,1,fewer than 3 distinct coordinate locations
 Vitula setonella,1,1,fewer than 3 distinct coordinate locations
 Volucella avida,2,2,fewer than 3 distinct coordinate locations
@@ -26245,10 +26354,11 @@ Zaus biunguiferus,2,2,fewer than 3 distinct coordinate locations
 Zaus spinatus,1,1,fewer than 3 distinct coordinate locations
 Zausodes septimus,1,1,fewer than 3 distinct coordinate locations
 Zausodes sextus,1,1,fewer than 3 distinct coordinate locations
-Zavrelimyia smithae,1,1,fewer than 3 distinct coordinate locations
+Zavrelimyia smithae,17,2,fewer than 3 distinct coordinate locations
 Zeiraphera hesperiana,1,1,fewer than 3 distinct coordinate locations
 Zeleboria,21,2,fewer than 3 distinct coordinate locations
 Zelia,3,2,fewer than 3 distinct coordinate locations
+Zelia rufina,1,1,fewer than 3 distinct coordinate locations
 Zelleria semitincta,2,1,fewer than 3 distinct coordinate locations
 Zelomorpha,6,2,fewer than 3 distinct coordinate locations
 Zelotes anglo,1,1,fewer than 3 distinct coordinate locations
