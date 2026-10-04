@@ -1,11 +1,19 @@
-# Dangermond Project — Step 4: Resolve BOLD-Placeholder Records Against the CIBI Barcode Project
+# Dangermond Project — Step 4: Resolve BOLD-Placeholder Records Against an Optional Reference Dataset
 
 New step, inserted after Step 3 was first run against the real,
 live-GBIF data revealed how many records needed it. Picks up after
 Step 3 (`../03-merge-deduplicate/`) and, before any of this pipeline's
 name-cleaning or species-level grouping runs, resolves whichever
 `BOLD:XXXXXXX` placeholder records it can against a known barcode
-project's own identifications.
+project's own identifications — for this project, the user's CIBI
+Barcode Project spreadsheet.
+
+**This step is optional.** Not every user of this pipeline will have
+BOLD identification data to resolve against. If the reference file
+below isn't present, this step runs as a no-op pass-through — Step 3's
+data goes through completely unchanged — rather than erroring or
+requiring anyone to edit Step 5's input path. See "Running without
+reference data" below.
 
 ## Why this step exists
 
@@ -72,6 +80,31 @@ record), but carries its CIBI identification and rank in the two new
 columns, so that information isn't lost — it's just kept out of the
 species-level analysis and available for reporting instead.
 
+## Running without reference data
+
+If `infile_reference` doesn't exist when the script runs, it logs that
+it's skipping resolution and writes Step 3's records straight through:
+same row count, `scientificName` completely untouched, and the three
+added columns still present but blank (`cibi_matched = FALSE`,
+`cibi_identification`/`cibi_identification_rank = NA`) so Step 5 always
+reads the same schema regardless of which path this step took. The
+summary CSV records `reference_file_supplied = FALSE` and zeroes for
+every match count, so a pass-through run is visibly distinguishable
+from a real one, not silently indistinguishable from "zero matches
+found."
+
+Verified directly: running this script with the CIBI reference file
+temporarily removed produced `reference_file_supplied = FALSE` and all
+4,658,904 records written through with `scientificName` identical to
+Step 3's output; restoring the file and re-running reproduced the
+exact same 9,776/3,144 real numbers reported below, confirming the two
+code paths don't interfere with each other.
+
+To use a different reference dataset instead of CIBI's (another BOLD
+Systems export, for a different survey or taxon group), point
+`infile_reference` at it — it just needs `processid`, `species`,
+`identification`, and `identification_rank` columns in the same shape.
+
 ## What this step does NOT do
 
 - It does not attempt to resolve any of the other ~706,000
@@ -111,8 +144,9 @@ README/requirements for its updated real numbers.
 ## Paths
 
 `infile_occurrences` points at Step 3's merged/deduplicated output.
-`infile_cibi` points at `../reference-data/cibi_barcode_identifications.csv`
-— a cleaned extract (just the identification-relevant columns) of the
-user's CIBI Barcode Project spreadsheet's "cibi barcode results
-downloaded" sheet, kept in the shared reference-data folder alongside
-the Preserve boundary file.
+`infile_reference` points at `../reference-data/cibi_barcode_identifications.csv`
+by default — a cleaned extract (just the identification-relevant
+columns) of the user's CIBI Barcode Project spreadsheet's "cibi barcode
+results downloaded" sheet, kept in the shared reference-data folder
+alongside the Preserve boundary file. Point it elsewhere (or delete/
+rename that file) to use different reference data or none at all.

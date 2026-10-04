@@ -43,6 +43,14 @@ species-rank ones) actually change anything downstream, and why a
 broader BOLD-API-based resolution was investigated but deliberately
 left out of scope for now.
 
+Step 4 is optional: anyone running this pipeline without BOLD
+identification data of their own can simply not supply a reference
+file (or point it at a path that doesn't exist), and this step runs as
+a no-op pass-through — Step 3's data flows through unchanged, and no
+other step needs any edit. There is no separate "skip this step" flag
+or configuration; absence of the reference file is the only input
+needed to skip it.
+
 ## Running the pipeline
 
 Each step's script is run from inside its own folder (relative paths
@@ -94,7 +102,10 @@ here so they're visible from the top level:
   subfamily/tribe, and deliberately left as placeholders rather than
   risk recreating the Step 5 BOLD-collapse bug at genus/family
   granularity). The other ~706,000 are out of scope for this step; see
-  that step's `README.md`.
+  that step's `README.md`. This step is also optional — verified to run
+  as a clean pass-through (zero changes, identical row count) when no
+  reference file is supplied, so it's safe to leave in the pipeline
+  unconditionally.
 - **Step 5**: a real data-quality bug, not a code bug — the
   species-name-cleaning step was collapsing all 715,978 BOLD-barcode
   records into one fake "species" literally named `BOLD`, instead of
