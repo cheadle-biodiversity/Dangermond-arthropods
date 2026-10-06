@@ -18,6 +18,8 @@ script, `README.md` (design rationale and verification notes), and
 | 6 | [`scripts/06-boundary-distance/`](scripts/06-boundary-distance/) | Compute each in-extent species' true geodesic distance to the Preserve boundary. |
 | 7 | [`scripts/07-summary-tables-figures/`](scripts/07-summary-tables-figures/) | Summary table and figures: species counts by order/family and distance bin. |
 | 8 | [`scripts/08-species-mcp-overlap/`](scripts/08-species-mcp-overlap/) | Minimum convex polygon per species; test for spatial overlap with the Preserve boundary. |
+| 9 | [`scripts/09-identify-preserve-ecoregions/`](scripts/09-identify-preserve-ecoregions/) | Identify which EPA Level III ecoregion polygon(s) spatially overlap the Preserve boundary. |
+| 10 | [`scripts/10-ecoregion-species-list/`](scripts/10-ecoregion-species-list/) | Species list for California arthropods occurring on the same habitat type (ecoregion) as the Preserve, with nearest-boundary distance. |
 
 `reference-data/` holds inputs shared across more than one step (the
 Preserve boundary polygon, and now the CIBI barcode identifications),
@@ -51,6 +53,17 @@ other step needs any edit. There is no separate "skip this step" flag
 or configuration; absence of the reference file is the only input
 needed to skip it.
 
+Steps 9 and 10 were added to answer a different question than Steps
+5-8: not "how close is a species to the Preserve boundary," but "does a
+species occur on the same broad habitat type the Preserve itself sits
+on, anywhere in California." Step 9 identifies which EPA Level III
+ecoregion polygon(s) overlap the Preserve boundary; Step 10 uses that
+result to build the species list, reusing Step 6's already-computed
+per-record distances for the "how close" half of the answer rather than
+recomputing distance. See each step's own `README.md` for full
+rationale, including why the EPA source files had to be supplied by the
+user rather than downloaded directly by this pipeline.
+
 ## Running the pipeline
 
 Each step's script is run from inside its own folder (relative paths
@@ -66,6 +79,8 @@ cd ../05-filter-latrange-overlap      && Rscript filter_coords_latrange.R
 cd ../06-boundary-distance            && Rscript distance_to_boundary.R
 cd ../07-summary-tables-figures       && Rscript summarize_taxon_distance.R
 cd ../08-species-mcp-overlap          && Rscript species_mcp_overlap.R
+cd ../09-identify-preserve-ecoregions && Rscript identify_preserve_ecoregions.R
+cd ../10-ecoregion-species-list       && Rscript ecoregion_species_list.R
 ```
 
 Step 1 requires GBIF credentials set as environment variables
@@ -73,10 +88,16 @@ Step 1 requires GBIF credentials set as environment variables
 Step 2 is also available as an equivalent Python script
 (`trim_gbif_columns.py`) for environments where R isn't the preferred
 tool; only the R version has been run against the real data to date.
+Step 9 requires the EPA Level III Ecoregions of Region 9 shapefile to
+be supplied in `scripts/09-identify-preserve-ecoregions/raw_download/`
+— see that step's `README.md` for why it can't be downloaded
+automatically by this pipeline and where to get it. Steps 9 and 10 are
+otherwise independent of Step 8 — both read from Steps 5/6's output,
+not Step 8's — so they can be run any time after Step 6 completes.
 
 ## Status
 
-**All eight steps have now been run end-to-end against the real, live
+**All ten steps have now been run end-to-end against the real, live
 GBIF download** (4,665,086 Arthropoda occurrence records for
 California; DOI `10.15468/dl.vgv5ee`) — not just synthetic test data.
 Running against the real data surfaced several real bugs that no
@@ -131,10 +152,31 @@ here so they're visible from the top level:
   the environment it ran in, with no prior checkpoint to resume from —
   fixed by adding an incremental checkpoint every 2,000 species, so a
   resumed run picks up where it left off instead of starting over.
+- **Step 9 (new)**: no code bugs — but its three source files could not
+  be downloaded directly by this pipeline at all. The EPA host serving
+  them was rejected outright by this project's execution environment at
+  the network-connection level (not a data-license or
+  authentication issue); a WebFetch-based retrieval attempt also
+  failed. The user downloaded the files directly from EPA's published
+  URLs and supplied them instead — see that step's `README.md`,
+  "Data source." The spatial logic itself (reproject boundary into the
+  ecoregion shapefile's equal-area CRS, test intersection, compute real
+  overlap area) ran correctly on the first real pass: 2 ecoregion
+  polygons found to overlap the Preserve boundary (91.94%/8.06% of its
+  area), confirming the Preserve genuinely straddles a real ecoregion
+  edge rather than the result being a boundary-precision sliver.
+- **Step 10 (new)**: no bugs — ran correctly against the real data on
+  the first pass, completing its batched spatial test (2.95M
+  species-level records against Step 9's 2-polygon union) in under a
+  minute with no checkpointing needed, unlike Step 8's much longer
+  per-species loop. Found 17,761 qualifying species (60.70% of the
+  29,262 statewide species-level taxa), with nearest-distance-to-Preserve
+  ranging 0-698.4 km across them.
 
 None of these fixes required any manual, one-off intervention to get a
 correct result — each is now a permanent part of its script, so a
-fresh run of Steps 1-8 in order needs no on-the-fly adjustment.
+fresh run of Steps 1-10 in order (Step 9's source-file acquisition
+aside) needs no on-the-fly adjustment.
 
 Still pending:
 
