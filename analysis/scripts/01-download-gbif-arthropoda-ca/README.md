@@ -88,12 +88,6 @@ in this repo are the real files this run produced, kept as the
 citation/audit record for that specific download — not placeholders
 or reconstructed examples.
 
-An earlier revision of this file carried a caveat saying this script
-had only been reconstructed from conversation history after a
-workspace reset and not yet re-run for real — that was accurate at the
-time it was written, but became stale once the real run above
-happened and was never updated to match. This section replaces it.
-
 ## Paths
 
 Everything writes to `./output/`, created automatically if it doesn't
