@@ -68,7 +68,7 @@ pipeline.
 
 ## 8. Out of Scope
 
-- Any coordinate or data-quality filtering beyond `hasGeospatialIssue` — deferred to Step 3.
+- Any coordinate or data-quality filtering beyond `hasGeospatialIssue` — deferred to Step 5.
 - Deduplication or merging with other sources — Step 2.
 - Retry/resume logic for interrupted downloads.
 

@@ -57,7 +57,7 @@ column those later steps need.
 
 ## 8. Out of Scope
 
-- Any further filtering (coordinate completeness, latitude range, etc.) — deferred to Step 4.
+- Any further filtering (coordinate completeness, latitude range, etc.) — deferred to Step 5.
 - Deduplication or merging with other sources — Step 3.
 - Compression of the output file for transfer — a one-off environment-specific workaround used on this project (see README), not part of this script.
 - Rejoining full record detail onto final outputs — a separate, not-yet-written utility script (see top-level `analysis/README.md` "Status").

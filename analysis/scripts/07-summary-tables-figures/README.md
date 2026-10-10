@@ -196,7 +196,7 @@ never going to exercise: the order+family chart's height formula
 (`5.5 + 0.15 inch per order:family legend row`) was sized for a
 handful of families per order. Real data produced **1,031** distinct
 order:family combinations, so the formula asked `ggsave()` for a
-**~152-inch-tall** image (~48,000 pixels) — technically rendered, but
+**~160-inch-tall** image (~48,000 pixels) — technically rendered, but
 unusable as a figure, and rejected outright by the file-delivery tool
 for being an absurd size.
 

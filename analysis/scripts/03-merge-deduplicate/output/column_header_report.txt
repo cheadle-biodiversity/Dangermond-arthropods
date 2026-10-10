@@ -1,0 +1,24 @@
+COLUMN HEADER COMPARISON
+Files compared: gbif_part1
+
+Columns present in ALL files: 14
+Columns present in SOME but not all files: 0
+
+Per-column presence (TRUE = column present in that file):
+# A tibble: 14 x 2
+   column           gbif_part1
+   <chr>            <lgl>     
+ 1 basisOfRecord    TRUE      
+ 2 catalogNumber    TRUE      
+ 3 class            TRUE      
+ 4 collectionCode   TRUE      
+ 5 decimalLatitude  TRUE      
+ 6 decimalLongitude TRUE      
+ 7 family           TRUE      
+ 8 gbifID           TRUE      
+ 9 institutionCode  TRUE      
+10 kingdom          TRUE      
+11 occurrenceID     TRUE      
+12 order            TRUE      
+13 phylum           TRUE      
+14 scientificName   TRUE      

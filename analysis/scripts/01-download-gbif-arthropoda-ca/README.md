@@ -46,7 +46,7 @@ GBIF tracks are all included, per the original request.
 **`hasGeospatialIssue = FALSE`:** excludes records GBIF's own automated
 quality checks have already flagged as having a geospatial problem
 (e.g. coordinates outside the stated country). This is a coarse
-first-pass filter only — Step 3 does its own stricter
+first-pass filter only — Step 5 does its own stricter
 coordinate-completeness check later regardless, so this isn't the only
 line of defense against bad coordinates.
 

@@ -24,13 +24,13 @@ system fixed by the format spec to WGS84, matching the `decimalLatitude`/
   geometry defects.
 - True bounding box: longitude -120.499302 to -120.357715, latitude
   34.442303 to 34.574189.
-- Cross-checked against Step 3's previously-hardcoded latitude range
+- Cross-checked against Step 5's previously-hardcoded latitude range
   (34.442106 / 34.574661, sourced separately before this boundary file
   was available): close but not identical, off by roughly 20-50 meters
-  on each end. Step 3 now derives its latitude range from this file
+  on each end. Step 5 now derives its latitude range from this file
   directly instead of carrying the slightly different hardcoded numbers
   — see that step's README/script for details.
-- Distance sanity check (used while building Step 4): a test point at
+- Distance sanity check (used while building Step 6): a test point at
   this polygon's centroid correctly returned 0 m (inside); a point
   offset ~0.15° east returned a measurable outside distance; downtown
   Santa Barbara returned ≈61.2 km (~38 mi), consistent with its known

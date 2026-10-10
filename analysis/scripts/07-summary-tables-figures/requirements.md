@@ -90,7 +90,7 @@ implementation.
 **Also verified against the real pipeline run**: 19,945 species
 summarized across 82 real taxonomic orders. This surfaced a third real
 bug no synthetic test case could have — 1,031 real order:family
-combinations drove Chart 2's height formula to ~152 inches, which
+combinations drove Chart 2's height formula to ~160 inches, which
 failed outright. Fixed with a capped height and a multi-column legend
 (see README); re-run after the fix produced a normal, deliverable
 7200×6600 px image.

@@ -140,7 +140,7 @@ here so they're visible from the top level:
 - **Step 7**: the order+family chart's height formula was sized for a
   handful of families per order (all synthetic test data ever had);
   real data produced 1,031 order:family combinations, asking for a
-  ~152-inch-tall image that failed to render/upload anywhere useful.
+  ~160-inch-tall image that failed to render/upload anywhere useful.
   Fixed with a fixed maximum height and a multi-column legend.
 - **Step 8**: two real problems, found only by running at real scale.
   (1) Combining ~27,000 individual species-hull polygons with

@@ -59,9 +59,9 @@ potentially different formats/delimiters, into one deduplicated table.
 
 ## 8. Out of Scope
 
-- Coordinate completeness filtering — Step 4.
-- Species-name normalization across sources — Step 4.
-- Resolving which duplicate record is "more correct" when a true duplicate is found — the first record in input row order is kept, by design (see README, "Ties" caveat carried into Step 5).
+- Coordinate completeness filtering — Step 5.
+- Species-name normalization across sources — Step 5.
+- Resolving which duplicate record is "more correct" when a true duplicate is found — the first record in input row order is kept, by design (`distinct(..., .keep_all = TRUE)`'s own default; dplyr keeps the first row encountered per key). The same first-row-order tie-break reappears for ties at the minimum distance in Step 6 — see that step's "TIES" discussion.
 
 ## 9. Verification Status
 

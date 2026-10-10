@@ -4,7 +4,7 @@
 # ============================================================
 # Dangermond Project — proposed Step 2 (column reduction)
 #
-# Purpose: Steps 2-6 of this pipeline only ever use a small subset of
+# Purpose: Steps 2-10 of this pipeline only ever use a small subset of
 # the ~230 columns a GBIF Darwin Core occurrence.txt export contains
 # (dedup identifiers, taxonomy, and coordinates) — everything else
 # (citation/rights metadata, event remarks, geological context,
@@ -33,7 +33,7 @@
 # (only ever read, never modified or deleted) — a later step rejoins
 # full record detail back onto the small, final per-species outputs
 # using the same occurrenceID / institutionCode+collectionCode+
-# catalogNumber matching keys Step 2 (merge/dedup) already uses, so
+# catalogNumber matching keys Step 3 (merge/dedup) already uses, so
 # nothing is permanently discarded, only deferred until the data is
 # small enough that carrying every column is no longer a problem.
 # ============================================================

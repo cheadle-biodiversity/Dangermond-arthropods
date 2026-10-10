@@ -40,7 +40,7 @@
 # hasGeospatialIssue = FALSE: excludes records GBIF's own automated
 # quality flags have already identified as having a geospatial problem
 # (e.g. coordinates that don't fall within the stated country). This is
-# a coarse first-pass filter — Step 4 does its own, stricter
+# a coarse first-pass filter — Step 5 does its own, stricter
 # coordinate-completeness check later in the pipeline regardless.
 #
 # VERIFIED AGAINST LIVE GBIF — three real bugs found only by actually

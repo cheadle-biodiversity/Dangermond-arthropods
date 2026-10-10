@@ -72,7 +72,7 @@
 # a group, one is kept (first in the input's row order — not a
 # data-quality judgment) but `n_tied_at_min` records how many records
 # shared that minimum, so a tie is visible rather than silently
-# resolved. Same caveat as Step 2's duplicate-resolution order.
+# resolved. Same caveat as Step 3's duplicate-resolution order.
 #
 # PERFORMANCE NOTE: this computes distance for every coordinate-complete
 # record (needed for (b) — see above), not a pre-filtered subset — for

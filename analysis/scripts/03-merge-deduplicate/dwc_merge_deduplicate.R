@@ -71,7 +71,7 @@ input_files <- tribble(
 # NOTE: pointed at Step 2's column-trimmed output (14 columns) rather
 # than the full 230-column DwC-A export directly — the raw occurrence.txt
 # (6.84 GB) is too large to move through most transfer paths in one
-# piece. Step 2 keeps every column this pipeline (Steps 3-7) actually
+# piece. Step 2 keeps every column this pipeline (Steps 3-10) actually
 # uses, and the join keys used for dedup here (occurrenceID,
 # institutionCode+collectionCode+catalogNumber) are exactly the columns
 # it keeps, so full record detail can be rejoined later from the
