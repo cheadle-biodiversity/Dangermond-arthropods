@@ -1,9 +1,13 @@
 # Requirements — Step 1: GBIF Download (Arthropoda, California)
 
-Status: Implemented (`download_arthropoda_ca.R`). Not yet executed against
-live GBIF in this environment (requires user-supplied credentials — see
-REQ-01-IN-2). Formalizes requirements already satisfied by the current
-implementation; see `README.md` for design rationale and discussion.
+Status: Implemented (`download_arthropoda_ca.R`) and verified against the
+real, live GBIF API using the user's own credentials (REQ-01-IN-2):
+4,665,086 Arthropoda records returned for California, DOI
+`10.15468/dl.vgv5ee`, download key `0010070-260921141020460`. See
+`README.md`'s "Verified against the real GBIF download" section for the
+three real bugs that run found and fixed, and `output/doi.txt` /
+`output/download_metadata.txt` for the real, committed output of that
+run.
 
 ## 1. Purpose
 
@@ -25,7 +29,7 @@ pipeline.
 | ID | Requirement |
 |----|-------------|
 | REQ-01-F-1 | The system shall submit a single GBIF occurrence download request scoped to the resolved Arthropoda `taxonKey`. |
-| REQ-01-F-2 | The system shall scope the request to California using a geometric boundary match (`gadmGid = "USA.5_1"`), not a free-text `stateProvince` match. |
+| REQ-01-F-2 | The system shall scope the request to California using a geometric boundary match (`pred("gadm", "USA.5_1")` — note `gadm`, not the live-search-API field name `gadmGid`; see README's "Verified against the real GBIF download" for the real bug this corrects), not a free-text `stateProvince` match. |
 | REQ-01-F-3 | The system shall NOT filter by `basisOfRecord` — all record types (preserved specimen, human observation, machine observation, living specimen, fossil specimen, etc.) shall be included. |
 | REQ-01-F-4 | The system shall exclude records GBIF's own quality checks have flagged via `hasGeospatialIssue = TRUE`. |
 | REQ-01-F-5 | The system shall request the download in Darwin Core Archive (`DWCA`) format. |
@@ -70,13 +74,26 @@ pipeline.
 
 ## 9. Verification Status
 
-Design and code reviewed; script is syntactically valid (`Rscript -e
-'parse(...)'` passes). **Not executed against the live GBIF API** in
-any session to date, since that requires live user credentials that
-were deliberately never shared in chat (REQ-01-IN-2, REQ-01-NFR-1). All
-other pipeline steps have been verified with synthetic test data that
-assumes this step's documented output shape; if GBIF's actual DwC-A
-column names or `occurrence.txt` structure differ from that
-assumption when this step is finally run for real, Step 2's column-
-header report (REQ-02-F-3) is the intended place to catch that
-discrepancy.
+**Verified against the real, live GBIF API**, using the user's own
+credentials (REQ-01-IN-2, never shared in chat — REQ-01-NFR-1). The real
+run found and fixed three bugs that neither static review nor synthetic
+test data had caught, since all three only manifest with `rgbif`'s actual
+live-API behavior — see README's "Verified against the real GBIF
+download" for full detail:
+
+1. The predicate key is `gadm`, not `gadmGid` (REQ-01-F-2) — `gadmGid` is
+   a live-search-API field name, not a valid `occ_download()` predicate
+   key.
+2. `backbone_match$usageKey` can come back as character, not numeric,
+   breaking a `%d` format specifier — fixed to `%s`.
+3. `occ_download_get()` returns a classed character vector, not a list
+   with a `$path` element — fixed to `as.character(dl_path)`.
+
+Confirmed result: 4,665,086 Arthropoda records returned for California,
+DOI `10.15468/dl.vgv5ee`, download key `0010070-260921141020460`,
+submitted 2026-09-28 (REQ-01-OUT-1/2/3). `output/doi.txt` and
+`output/download_metadata.txt` in this repo are the real files this run
+produced — not reconstructed placeholders. Step 2's real input (the
+230-column, ~6.8 GB `occurrence.txt`) was taken directly from this run's
+actual DwC-A output, confirming REQ-01-OUT-3 and the downstream dependency
+in Section 7.
