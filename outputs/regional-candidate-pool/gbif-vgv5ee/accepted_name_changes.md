@@ -1,0 +1,2524 @@
+# Accepted name changes
+
+User-approved service results and reviewed taxonomic decisions. Original diagnostics remain in the name audit and occurrence columns.
+
+- *Ababactus pallidiceps* — *Ochthephilum pallidiceps*
+- *Abagrotis barnesi* — *Abagrotis orbis*
+- *Acanthococcus adenostomae* — *Eriococcus adenostomae*
+- *Acanthococcus dubius* — *Eriococcus dubius*
+- *Acantholomidea porosa* — *Camirus porosus*
+- *Acanthophysa echinata* — *Hoplinus echinatus*
+- *Acemyia dentata* — *Ceracia dentata*
+- *Achaetoneura westonia* — *Lespesia westonia*
+- *Acilius simplex* — *Acilius abbreviatus*
+- *Acinopterus elongatus* — *Acinopterus viridis variegatus*
+- *Acinopterus pallidus* — *Acinopterus viridis variegatus*
+- *Acinopterus parvulus* — *Acinopterus inornatus*
+- *Acmaeodera distincta* — *Acmaeodera variegata*
+- *Acmaeodera gemina* — *Anambodera gemina*
+- *Acmaeodera guttifera* — *Acmaeodera saxicola*
+- *Acmaeodera guttifera* — *Acmaeoderopsis guttifera*
+- *Acmaeodera nautica* — *Acmaeodera simulata*
+- *Acmaeodera nebulosa* — *Anambodera nebulosa*
+- *Acmaeodera postica* — *Acmaeodera plagiaticauda*
+- *Acmaeops subcyanea* — *Brachysomida californica*
+- *Acmaeops tumida* — *Brachysomida californica*
+- *Acroglossa hesperidarum* — *Spallanzania hesperidarum*
+- *Acroneuria pumila* — *Hesperoperla pacifica*
+- *Acronicta cyanescens* — *Acronicta lepusculina*
+- *Acronicta frigida* — *Acronicta lepusculina*
+- *Actium ojaiensis* — *Actium ojaiense*
+- *Actium pallidum* — *Actium californicum*
+- *Adalia frigida* — *Adalia bipunctata bipunctata*
+- *Adelpha bredowii* — *Limenitis bredowii*
+- *Adelpha californica* — *Limenitis bredowii californica*
+- *Adelpha eulalia* — *Limenitis bredowii*
+- *Adelpha olynthia* — *Limenitis olynthia*
+- *Admontia retiniae* — *Lixophaga retiniae*
+- *Admontia setigera* — *Paradidyma setigera*
+- *Aegeria madariae* — *Synanthedon bibionipennis*
+- *Aeolus mellillus* — *Aeolus melliculus*
+- *Aeschna walkeri* — *Aeshna walkeri*
+- *Aeshna californica* — *Rhionaeschna californica*
+- *Aeshna multicolor* — *Rhionaeschna multicolor*
+- *Aeshna umbrosa occidentalis* — *Aeshna umbrosa*
+- *Aetroxys analis* — *Chlorocytus analis*
+- *Agabus brevicollis* — *Ilybiosoma brevicolle*
+- *Agabus confertus* — *Ilybius confertus*
+- *Agabus cordatus* — *Ilybiosoma cordatum*
+- *Agabus lineellus* — *Ilybius lineellus*
+- *Agabus lugens* — *Ilybiosoma lugens*
+- *Agabus regularis* — *Ilybiosoma regulare*
+- *Agabus seriatus* — *Ilybiosoma seriatum*
+- *Agabus walsinghami* — *Ilybius walsinghami*
+- *Agallia sanguinolenta* — *Aceratagallia sanguinolenta*
+- *Agapema galbina* — *Saturnia galbina*
+- *Agathidium franciscanum* — *Agathidium maculosum*
+- *Ageniella blaisdelli* — *Ageniella accepta*
+- *Aglais milberti subpallida* — *Aglais milberti furcillata*
+- *Aglaothorax diminutiva* — *Aglaothorax diminutivus*
+- *Aglaothorax diminutiva constrictans* — *Aglaothorax constrictans*
+- *Aglaothorax diminutiva dactyla* — *Aglaothorax dactylus*
+- *Aglaothorax diminutiva diminutiva* — *Aglaothorax diminutivus*
+- *Aglaothorax diminutiva malibu* — *Aglaothorax dactylus*
+- *Aglaothorax morsei costalis* — *Aglaothorax costalis*
+- *Aglaothorax morsei curtatus* — *Aglaothorax costalis*
+- *Aglaothorax morsei morsei* — *Aglaothorax morsei*
+- *Aglaothorax morsei tectinota* — *Aglaothorax costalis*
+- *Aglaothorax ovata armiger* — *Aglaothorax armiger*
+- *Aglaothorax ovata gigantea* — *Aglaothorax giganteus*
+- *Aglaothorax ovata segnis* — *Aglaothorax segnis*
+- *Aglaothorax ovata tinkhamorum* — *Aglaothorax tinkhamorum*
+- *Aglaothorax ovatus* — *Aglaothorax ovata*
+- *Agonoderus lecontei* — *Stenolophus lecontei*
+- *Agonoderus maculatus* — *Stenolophus maculatus*
+- *Agonoderus rectus* — *Stenolophus rugicollis*
+- *Agonopterix alstroemeriana* — *Agonopterix alstromeriana*
+- *Agonopteryx callosella* — *Agonopterix sabulella*
+- *Agonum californicum* — *Agonum decorum*
+- *Agonum cyanope* — *Agonum cyanopis*
+- *Agonum fallianum* — *Agonum deplanatum*
+- *Agonum fossigerum* — *Agonum fossiger*
+- *Agonum funebre* — *Anchomenus funebris*
+- *Agonum limbatum* — *Agonum pallipes*
+- *Agonum limbatum* — *Agonum variolatum*
+- *Agonum limbatum* — *Nymphagonum limbatum*
+- *Agonum maculicolle* — *Tanystoma maculicolle*
+- *Agonum subsericeum* — *Agonum suturale*
+- *Agonum vegetum* — *Agonum fossiger*
+- *Agraulis vanillae* — *Dione vanillae*
+- *Agraulis vanillae incarnata* — *Dione vanillae incarnata*
+- *Agriades glandon franklinii* — *Agriades glandon*
+- *Agrilus costipennis* — *Agrilus fisherellus*
+- *Agromyza taeniola* — *Nemorimyza posticata*
+- *Agrotis aeneipennis* — *Agrotis vancouverensis*
+- *Agrotis saucia* — *Peridroma saucia*
+- *Agulla bifurca* — *Agulla herbsti*
+- *Agulla singularis* — *Agulla astuta*
+- *Alaptus psocidivorus* — *Alaptus pallidicornis*
+- *Alcathoe verrugo corvinus* — *Alcathoe verrugo*
+- *Alchisme sagittata* — *Alchisme sagittatus*
+- *Alcidamea colei* — *Hoplitis colei*
+- *Alebra albastriella* — *Alebra albostriella*
+- *Aleochara rubripennis* — *Aleochara rubripes*
+- *Aleurotulus extraniens* — *Aleurotulus nephrolepidis*
+- *Allograpta fracta* — *Allograpta exotica*
+- *Allograpta micrura* — *Fazia micrura*
+- *Alloperla continua* — *Sweltsa continua*
+- *Allosirocalus angulatus* — *Allosirocallus angulatus*
+- *Allotrichoma laterale* — *Allotrichoma lateralis*
+- *Allotrichoma litoralis* — *Atissa litoralis*
+- *Alloxysta brassicae* — *Alloxysta victrix*
+- *Amara hesperia* — *Amara littoralis*
+- *Amara mystica* — *Amara littoralis*
+- *Amara perspecta* — *Amara californica californica*
+- *Amara specularis* — *Amara apachensis*
+- *Amara stupida* — *Amara jacobina*
+- *Amara vigilax* — *Amara pomona*
+- *Amblyderus gracilentus* — *Amblyderus parviceps*
+- *Amblymerus justicia* — *Lyrcus justicia*
+- *Amblyopone pallipes* — *Stigmatomma pallipes*
+- *Amblyscirtes carolina* — *Mastor carolina*
+- *Amblyscirtes reversa* — *Mastor carolina*
+- *Amblyscirtes vialis* — *Mastor vialis*
+- *Ameletus similior* — *Ameletus similor*
+- *Ameletus vancouverensis* — *Ameletus vancouvernensis*
+- *Amenusa angustula* — *Diestota angustula*
+- *Amenusa spissula* — *Diestota spissula*
+- *Amiota picta* — *Phortica pictus*
+- *Amitermes californicus* — *Amitermes wheeleri*
+- *Amitermes spadix* — *Amitermes wheeleri*
+- *Amorbia essigana* — *Amorbia cuneanum*
+- *Amotus gracilior* — *Amotus setulosus*
+- *Amotus longisternus* — *Amotus setulosus*
+- *Amphitornus ornatus* — *Amphitornus coloradus ornatus*
+- *Anagasta kuehniella* — *Ephestia kuehniella*
+- *Anagrus erythroneurae* — *Anagrus atomus*
+- *Anagrus giraulti* — *Anagrus nigriventris*
+- *Anagyrus ferrisi* — *Anagyrus yuccae*
+- *Anaphes cinctiventris* — *Erythmelus gracilis*
+- *Anaphoidea brunnea* — *Anaphes brevis*
+- *Anaphoidea conferta* — *Anaphes conferta*
+- *Anaphoidea longiclava* — *Anaphes longiclava*
+- *Anaphothrips longipennis* — *Proscirtothrips zeae*
+- *Anaphothrips zeae* — *Proscirtothrips zeae*
+- *Anatopynia eumorpha* — *Brundiniella eumorpha*
+- *Anatrachyntis badia* — *Pyroderces badia*
+- *Anavitrinelia ocularia* — *Anavitrinella ocularia*
+- *Anchicera nubipennis* — *Atomaria nubipennis*
+- *Anchicera postpallens* — *Atomaria postpallens*
+- *Anchomenus amplicollis* — *Agonum deplanatum*
+- *Anchomenus concurrens* — *Anchomenus funebris*
+- *Anchomenus opacellus* — *Anchomenus funebris*
+- *Ancistrocerus truncatus* — *Rhynchalastor anormis*
+- *Andrena arenaria* — *Andrena lateralis*
+- *Andrena blandula* — *Andrena dissimulans*
+- *Andrena carliniformis* — *Andrena pertristis carliniformis*
+- *Andrena complicata* — *Andrena chlorura*
+- *Andrena haroldi* — *Andrena cercocarpi*
+- *Andrena heterodoxa* — *Ancylandrena atoposoma*
+- *Andrena limnanthis* — *Andrena pulverea*
+- *Andrena macrocephala* — *Andrena nigripes*
+- *Andrena maura* — *Andrena caliginosa*
+- *Andrena omninigra clarkiae* — *Andrena omninigra*
+- *Andrena omninigra omninigra* — *Andrena omninigra*
+- *Andrena opacella* — *Andrena subtrita*
+- *Andrena oraria actitis* — *Andrena oenotherae*
+- *Andrena pallidiscopa trifasciata* — *Andrena pallidiscopa*
+- *Andrena plumifera* — *Andrena pallidifovea*
+- *Andrena radialis* — *Andrena chlorogaster*
+- *Andrena vexabilis* — *Andrena pallidifovea*
+- *Andricus albopunctatus* — *Andricus paradoxus*
+- *Andricus corticis* — *Andricus quercuscorticis*
+- *Andricus floridus* — *Andricus dentimitratus*
+- *Andricus occultus* — *Andricus solitarius*
+- *Andricus perfoliatus* — *Andricus curvator*
+- *Aneflomorpha lineare* — *Aneflomorpha linearis*
+- *Anillus debilis* — *Anillodes debilis*
+- *Animomyia increscens* — *Animomyia morta*
+- *Anisodactylus angustus* — *Anisodactylus californicus*
+- *Anisodactylus confusus* — *Anisodactylus californicus*
+- *Anisodactylus incertus* — *Anisodactylus similis*
+- *Anisodactylus maestus* — *Anisodactylus californicus*
+- *Anisodactylus semipunctatus* — *Anisodactylus similis*
+- *Anisodactylus sericatus* — *Anisodactylus similis*
+- *Anisodactylus solidus* — *Anisodactylus similis*
+- *Anisopogon rubidus* — *Heteropogon rubidus*
+- *Anisotarsus extraneus* — *Notiobia purpurascens*
+- *Anisotarsus flebilis* — *Notiobia flebilis*
+- *Anoplius americanus* — *Anoplius americanus americanus*
+- *Anoplius amethystinus atramentarius* — *Anoplius lepidus atramentarius*
+- *Anoplius relativus* — *Anoplius nigritus*
+- *Anoplodera laetifica* — *Anastrangalia laetifica*
+- *Anoplodera scapularis* — *Judolia scapularis*
+- *Anthaxia deleta* — *Anthaxia caseyi*
+- *Antheraea polyphemus polyphemus* — *Antheraea polyphemus*
+- *Anthicus amoenus* — *Anthicus nanus*
+- *Anthicus auriger* — *Anthicus lecontei*
+- *Anthicus confusus* — *Anthicus ephippium*
+- *Anthicus helvinus* — *Anthicus bellulus*
+- *Anthicus inscitus* — *Anthicus nanus*
+- *Anthicus mercurialis* — *Anthicus punctulatus*
+- *Anthicus obliquus* — *Anthicus nanus*
+- *Anthicus ovicollis* — *Anthicus biguttulus*
+- *Anthicus protectus* — *Anthicus biguttulus*
+- *Anthicus seminotatus* — *Anthicus cervinus*
+- *Anthidiellum notatum robertsoni* — *Anthidiellum robertsoni*
+- *Anthidium angelarum* — *Anthidium collectum*
+- *Anthidium consimile* — *Dianthidium pudicum*
+- *Anthocharis lanceolata desertolimbus* — *Anthocharis lanceolata*
+- *Anthocharis sara julia* — *Anthocharis julia*
+- *Anthocharis sara stella* — *Anthocharis stella*
+- *Anthocharis sara thoosa* — *Anthocharis thoosa*
+- *Anthophila alpinella* — *Anthophila fabriciana*
+- *Anthophora abruptella* — *Anthophora centriformis*
+- *Anthophora bomboides stanfordiana* — *Anthophora bomboides*
+- *Anthophora californica albomarginata* — *Anthophora californica*
+- *Anthophora californica texana* — *Anthophora californica*
+- *Anthophora cinereus* — *Anthophora cincreus*
+- *Anthophora corvicolor* — *Anthophora pacifica*
+- *Anthophora flexipes* — *Anthophora albata*
+- *Anthophora furcata terminalis* — *Anthophora terminalis*
+- *Anthophora stanfordiana* — *Anthophora bomboides*
+- *Anthothrips flavipes* — *Karnyothrips flavipes*
+- *Anthrax arethusa* — *Poecilanthrax arethusa*
+- *Anthrax californicus* — *Poecilanthrax californicus*
+- *Anthrax cinefacta* — *Chrysanthrax cinefactus*
+- *Anthrax fulvicoma* — *Paravilla fulvicoma*
+- *Anthrax gemella* — *Villa gemella*
+- *Anthrax hircina* — *Chrysanthrax hircinus*
+- *Anthrax lauta* — *Lepidanthrax lautus*
+- *Anthrax muscaria* — *Villa paramuscaria*
+- *Anthrax nugator* — *Thyridanthrax nugator*
+- *Anthrax obscura* — *Paravilla fumida*
+- *Anthrax pallidula* — *Chrysanthrax pallidulus*
+- *Anthrax pilosa* — *Poecilanthrax pilosus*
+- *Anthrax scitula* — *Chrysanthrax scitulus*
+- *Anthrax squamigera* — *Villa squamigera*
+- *Anthrax supina* — *Villa supina*
+- *Anthrax tantilla* — *Chrysanthrax tantillus*
+- *Anthrax telluris* — *Chrysanthrax telluris*
+- *Anthrax terrena* — *Villa terrena*
+- *Anthrax vasta* — *Chrysanthrax vastus*
+- *Antichaeta robiginosa* — *Anticheta robiginosa*
+- *Aochletus obscurus* — *Dieuryneura stigma*
+- *Apamea castanea* — *Apamea amputatrix*
+- *Apanteles dignus* — *Pseudapanteles dignus*
+- *Apanteles praesens* — *Protapanteles praesens*
+- *Apaulina cuprina* — *Protocalliphora cuprina*
+- *Aphalara curta californica* — *Aphalara curta*
+- *Aphalara cuyama* — *Craspedolepta viridis*
+- *Aphalara pulchella* — *Craspedolepta pulchella*
+- *Aphalaroida intermedia* — *Aphalaroida pithecolobia*
+- *Aphelinus capitis* — *Aphytis chilensis*
+- *Apheloglossa rufipennis* — *Diestota rufipennis*
+- *Aphidius absinthii* — *Aphidius asteris*
+- *Aphidius lachni* — *Aphidius cingulatus*
+- *Aphis ceanothi-hirsuti* — *Aphis ceanothi*
+- *Aphis cooki* — *Rhopalosiphum maidis*
+- *Aphis eriogoni* — *Braggia eriogoni*
+- *Aphis ferruginea-striata* — *Dysaphis apiifolia apiifolia*
+- *Aphis helianthi* — *Aphis asclepiadis*
+- *Aphis maidi-radicis* — *Protaphis middletonii*
+- *Aphis senecio* — *Brachycaudus helichrysi helichrysi*
+- *Aphodius blaisdelli* — *Stenotothorax sparsus*
+- *Aphodius coloradensis* — *Pseudagolius coloradensis*
+- *Aphodius consociatus* — *Liothorax consociatus*
+- *Aphodius conspersus* — *Maculaphodius conspersus*
+- *Aphodius coquilletti* — *Cinacanthus coquilletti*
+- *Aphodius davisi* — *Pardalosus slevini*
+- *Aphodius essigi* — *Geomyphilus essigi*
+- *Aphodius fucosus* — *Dellacasiellus fucosus*
+- *Aphodius gentilis* — *Stenotothorax gentilis*
+- *Aphodius granarius* — *Calamosternus granarius*
+- *Aphodius haemorrhoidalis* — *Otophorus haemorrhoidalis*
+- *Aphodius lineolatus vittatus* — *Chilothorax lineolatus*
+- *Aphodius lividus* — *Labarrus lividus*
+- *Aphodius militaris* — *Cinacanthus militaris*
+- *Aphodius neotomae* — *Planolinoides neotomae*
+- *Aphodius nevadensis* — *Stenotothorax nevadensis*
+- *Aphodius opacus* — *Erytus opacior*
+- *Aphodius pardalis* — *Pardalosus pardalis*
+- *Aphodius pectoralis* — *Planolinoides pectoralis*
+- *Aphodius pseudolividus* — *Labarrus pseudolividus*
+- *Aphodius rubidus* — *Dellacasiellus fucosus*
+- *Aphodius rugatus* — *Rugaphodius rugatus*
+- *Aphodius sparsus* — *Stenotothorax sparsus*
+- *Aphodius subaeneus* — *Liothorax subaeneus*
+- *Aphodius ungulatus* — *Geomyphilus ungulatus*
+- *Aphoebantus fucatus* — *Aphoebantus fumosus*
+- *Aphrophora parallela* — *Aphrophora parallella*
+- *Aphycus angelicus* — *Acerophagus angelicus*
+- *Aphycus californicus* — *Metaphycus californicus*
+- *Aphycus coquilletti* — *Metaphycus coquilletti*
+- *Aphycus fuscipennis* — *Metaphycus fuscipennis*
+- *Aphycus lecanii* — *Metaphycus lecanii*
+- *Aphytis dealbatus* — *Neophytis dealbatus*
+- *Aphytis melanostictus* — *Neophytis melanostictus*
+- *Apiomerus crassipes crassipes* — *Apiomerus crassipes*
+- *Apion cribricolle* — *Pirapion immune*
+- *Apis mellifera ligustica* — *Apis mellifera*
+- *Apoanagyrus californicus* — *Anagyrus californicus*
+- *Apobaetis indeprensus* — *Apobaetis etowah*
+- *Apomyelois ceratoniae* — *Ectomyelois ceratoniae*
+- *Aporinellus californicus* — *Aporinellus taeniatus taeniatus*
+- *Aporinellus taeniatus* — *Aporinellus taeniatus taeniatus*
+- *Aporinellus taeniolatus* — *Aporinellus taeniatus taeniatus*
+- *Apteraliplus parvulus* — *Haliplus parvulus*
+- *Arachnis picta picta* — *Arachnis picta*
+- *Arachnospila angularis angularis* — *Pompilus angularis angularis*
+- *Arachnospila anomala anomala* — *Arachnospila anomala*
+- *Arachnospila fumipennis* — *Arachnospila fumipennis fumipennis*
+- *Arachnospila occidentalis* — *Pompilus occidentalis*
+- *Arachnospila parvula* — *Pompilus parvulus*
+- *Arachnospila scelestus* — *Pompilus scelestus*
+- *Araecerus fasciculatum* — *Araecerus fasciculatus*
+- *Archips argyrospilus columbianus* — *Archips argyrospila*
+- *Arctonotus lucidus* — *Proserpinus lucidus*
+- *Argynnis adiaste* — *Speyeria adiaste*
+- *Argynnis adiaste adiaste* — *Speyeria adiaste*
+- *Argynnis adiaste clemencei* — *Speyeria adiaste*
+- *Argynnis callippe* — *Speyeria callippe*
+- *Argynnis callippe callippe* — *Speyeria callippe*
+- *Argynnis callippe comstocki* — *Speyeria callippe*
+- *Argynnis callippe juba* — *Speyeria callippe*
+- *Argynnis callippe liliana* — *Speyeria callippe*
+- *Argynnis callippe macaria* — *Speyeria callippe*
+- *Argynnis coronis* — *Argynnis coreana*
+- *Argynnis coronis coronis* — *Argynnis coreana*
+- *Argynnis coronis semiramis* — *Argynnis coreana*
+- *Argynnis egleis* — *Speyeria egleis*
+- *Argynnis epithore* — *Boloria epithore*
+- *Argynnis hydaspe viridicornis* — *Speyeria hydaspe*
+- *Argynnis monticola* — *Speyeria zerene*
+- *Argynnis mormonia* — *Speyeria mormonia*
+- *Argynnis nokomis apacheana* — *Speyeria nokomis*
+- *Argynnis zerene* — *Speyeria zerene*
+- *Argynnis zerene platina* — *Speyeria zerene*
+- *Argynnis zerene puntareyes* — *Speyeria zerene*
+- *Argynnis zerene sonomensis* — *Speyeria zerene*
+- *Argyramoeba cybele* — *Anthrax cybele*
+- *Argyrotaenia beyeria* — *Argyrotaenia cupressae*
+- *Argyrotaenia citrana* — *Argyrotaenia franciscana*
+- *Arisota pomonensis* — *Acrotona recondita*
+- *Arisota speculifer* — *Acrotona recondita*
+- *Arisota umbrina* — *Acrotona recondita*
+- *Arphia luteola* — *Arphia simplex*
+- *Arsapnia bakeri* — *Mesocapnia bakeri*
+- *Arta epicoenalis* — *Arta epicaenalis*
+- *Artogeia napi* — *Pieris napi*
+- *Artogeia rapae* — *Pieris rapae*
+- *Arytaina ceanothae* — *Ceanothia ceanothi*
+- *Arytaina insolita* — *Ceanothia insolita*
+- *Arytaina minuta* — *Euglyptoneura minuta*
+- *Arytaina montana* — *Livilla vicina*
+- *Asciodes quietalis* — *Asciodes gordialis*
+- *Ashmeadiella basalis basalis* — *Ashmeadiella cactorum*
+- *Asilus brevicomus* — *Neoitamus brevicomus*
+- *Asilus californicus* — *Neomochtherus californicus*
+- *Asilus compositus* — *Polacantha composita*
+- *Asilus coquillettii* — *Neoitamus coquillettii*
+- *Asilus occidentalis* — *Proctacanthus occidentalis*
+- *Asioplax edmundsi* — *Tricorythodes edmundsi*
+- *Aspidiotiphagus lounsburyi* — *Encarsia lounsburyi*
+- *Aspidiotus convexus* — *Diaspidiotus ancylus*
+- *Asteromyia grindeliae* — *Asteromyia modesta*
+- *Ataenius nocturnus* — *Ataenius gracilis*
+- *Atalopedes campestris huron* — *Atalopedes campestris*
+- *Atheta gnypetoides* — *Adota gnypetoides*
+- *Atimia dorsalis* — *Atimia confusa maritima*
+- *Atomaria mesomela* — *Atomaria mesomelas*
+- *Attagenus piceus* — *Attagenus unicolor*
+- *Auplopus architectus* — *Auplopus architectus architectus*
+- *Axenus amplus* — *Axenus arvalis*
+- *Axinopalpus demissus* — *Axinopalpus biplagiatus*
+- *Baccha lemur* — *Hypocritanus lemur*
+- *Bactra miwok* — *Bactra misoolensia*
+- *Baetis intermedius* — *Baetis tricaudatus*
+- *Balaninus occidentis* — *Phyllobius virideaeris virideaeris*
+- *Ballana chelata* — *Gloridonus bifidus chelatus*
+- *Ballana densa* — *Gloridonus densus*
+- *Barnesina hylecoites* — *Henria hylecoites*
+- *Baryodma eludens* — *Aleochara castaneipennis*
+- *Baryodma innocua* — *Aleochara bimaculata*
+- *Baryodma minuta* — *Aleochara verna*
+- *Baryodma obsolescens* — *Aleochara bimaculata*
+- *Baryodma robustula* — *Aleochara castaneipennis*
+- *Baryodma uvidula* — *Aleochara quadrata*
+- *Bassus parvus* — *Bassus cupressi*
+- *Batrachedra enormis* — *Batrachedra knabi*
+- *Behrensia conchiformis conchiformis* — *Behrensia conchiformis*
+- *Bellura obliqua gargantua* — *Bellura obliqua*
+- *Bembidion adjutor* — *Bembidion planatum*
+- *Bembidion adolescens* — *Bembidion siticum*
+- *Bembidion bifasciatum* — *Bembidion varium*
+- *Bembidion brownorum* — *Bembidion morulum*
+- *Bembidion consentaneum* — *Bembidion indistinctum*
+- *Bembidion crurale* — *Bembidion quadrimaculatum dubitans*
+- *Bembidion delectum* — *Bembidion wickhami*
+- *Bembidion derisor* — *Bembidion indistinctum*
+- *Bembidion digressum* — *Bembidion connivens*
+- *Bembidion disparile* — *Bembidion clemens*
+- *Bembidion erasum* — *Lionepha erasa*
+- *Bembidion extensum* — *Bembidion falsum*
+- *Bembidion festivum festivum* — *Bembidion festivum*
+- *Bembidion festivum hilare* — *Bembidion festivum*
+- *Bembidion flavopictum* — *Bembidion impotens*
+- *Bembidion flebile* — *Bembidion curtulatum*
+- *Bembidion franciscanum* — *Bembidion indistinctum*
+- *Bembidion haustum* — *Bembidion approximatum*
+- *Bembidion longulum* — *Bembidion concolor*
+- *Bembidion lucidum* — *Bembidion fraxator*
+- *Bembidion marinianum* — *Bembidion innocuum*
+- *Bembidion marinicum* — *Bembidion erosum*
+- *Bembidion ornatellum* — *Bembidion indistinctum*
+- *Bembidion remotum* — *Bembidion clemens*
+- *Bembidion repens* — *Bembidion iridescens*
+- *Bembidion shastanicum* — *Bembidion striola*
+- *Bembidion simulator* — *Bembidion approximatum*
+- *Bembidion solutum* — *Bembidion planatum*
+- *Bembidion spectabile* — *Amerizus spectabilis*
+- *Bembidion speculum* — *Lionepha osculans*
+- *Bembidion subinflatum* — *Bembidion petrosum petrosum*
+- *Bembidion temperans* — *Bembidion triviale*
+- *Bembidion timefactum* — *Bembidion curtulatum*
+- *Bembidion vapidum* — *Bembidion clemens*
+- *Bembidion variolosum* — *Bembidion umbratum*
+- *Bembidion virgatulum* — *Bembidion impotens*
+- *Bembidion volatile* — *Bembidion iridescens*
+- *Bembidium grandicolle* — *Elaphropus grandicollis*
+- *Bembidium mexicanum* — *Bembidion mexicanum*
+- *Bembidium planiusculum* — *Bembidion planiusculum*
+- *Bembix comata* — *Bembix americana comata*
+- *Bembix connexa* — *Bembix americana spinolae*
+- *Berosus californicus* — *Berosus fraternus*
+- *Berosus styliferus* — *Berosus stylifer*
+- *Bibio palliatus* — *Bibio xanthopus*
+- *Blastobasis glandulella* — *Auximobasis glandulella*
+- *Blastobasis iceryaeella* — *Holcocera iceryaeella*
+- *Blastothrix yuccae* — *Anagyrus yuccae*
+- *Blechrus glabratus* — *Microlestes minutulus*
+- *Blechrus negrita* — *Microlestes negrita*
+- *Bledius albidipennis* — *Bledius albonotatus*
+- *Bledius apicalis* — *Bledius diagonalis*
+- *Bledius fratellus* — *Bledius gentilis*
+- *Bledius lectus* — *Bledius opacifrons*
+- *Bledius ornatus* — *Bledius albonotatus*
+- *Bledius piceus* — *Bledius opacifrons*
+- *Bledius relictus* — *Bledius foraminosus*
+- *Bledius rusticus* — *Bledius bicolor*
+- *Bolitochara laxicornis* — *Stictalia laxicornis*
+- *Bolshecapnia maculata* — *Eurekapnia maculata*
+- *Bombus edwardsii* — *Bombus melanopygus*
+- *Bombus fernaldi* — *Bombus bifarius*
+- *Bombus flavidus flavidus* — *Bombus flavidus*
+- *Bombus melanopyge* — *Bombus melanopygus*
+- *Bombus nigrocinctus* — *Bombus crotchii*
+- *Bombycia verdugoensis* — *Bycombia verdugoensis*
+- *Boreocanthon simplex* — *Canthon simplex*
+- *Boreonectes dolerosus* — *Nectoboreus dolerosus*
+- *Boreonectes funereus* — *Nectoboreus funereus*
+- *Boriomyia longipennis* — *Wesmaelius longipennis*
+- *Brachycaudus schwartzi* — *Brachycaudus prunicola schwartzi*
+- *Brachycoma davidsoni* — *Brachicoma davidsoni*
+- *Brachynemurus brunneus* — *Brachynemurus ferox*
+- *Brachysomida francisca* — *Brachysomida californica*
+- *Brachysomida protensicollis* — *Brachysomida californica*
+- *Brachysomida robustula* — *Brachysomida californica*
+- *Brachysomida versicolor* — *Brachysomida californica*
+- *Bracon cecidomyiae* — *Bracon angelesius*
+- *Bradycellus nitens* — *Dicheirotrichus cognatus*
+- *Brennania belkini* — *Apatolestes belkini*
+- *Brennus basalis* — *Scaphinotus cristatus*
+- *Brennus brevicollis* — *Scaphinotus ventricosus*
+- *Brennus corpulentus* — *Scaphinotus interruptus*
+- *Brennus crenatus* — *Scaphinotus crenatus*
+- *Brennus decipiens* — *Scaphinotus striatopunctatus*
+- *Brennus duplicatus* — *Scaphinotus cristatus*
+- *Brennus gentilis* — *Scaphinotus crenatus*
+- *Brennus integer* — *Scaphinotus interruptus*
+- *Brennus montereyensis* — *Scaphinotus crenatus*
+- *Brennus oreophilus* — *Scaphinotus oreophilus*
+- *Brennus parvulicollis* — *Scaphinotus interruptus*
+- *Brennus procerus* — *Scaphinotus interruptus*
+- *Brennus subdepressus* — *Scaphinotus striatopunctatus*
+- *Brephidium exile* — *Brephidium exilis*
+- *Brephidium exilis isophthalma* — *Brephidium isophthalma*
+- *Brontes dubius* — *Uleiota dubius*
+- *Burkseus vittatus* — *Cirrospilus vittatus*
+- *Caecilius clarus* — *Trichopsocus clarus*
+- *Caenocara occidens* — *Caenocara californicum*
+- *Cafius dubius* — *Cafius opacus*
+- *Cafius femoralis* — *Cafius mutatus*
+- *Calathus minuens* — *Calathus ruficollis ruficollis*
+- *Calathus montereyanus* — *Calathus ruficollis ruficollis*
+- *Calathus obscurus* — *Calathus ruficollis ruficollis*
+- *Calathus quadricollis* — *Calathus ruficollis ruficollis*
+- *Calephelis wrighti* — *Emesis wrighti*
+- *Callibaetis ferrugineus hageni* — *Diphetor hageni*
+- *Callibaetis pacificus* — *Callibaetis pictus*
+- *Callidium vulneratum* — *Phymatodes vulneratus*
+- *Callimome alamedensis* — *Torymus fagopirum*
+- *Callimome atriplicis* — *Torymus atriplicis*
+- *Callimome baccharidis* — *Torymus baccharidis*
+- *Callimome castanopsidis* — *Torymus tubicola*
+- *Callimome fullawayi* — *Torymus fullawayi*
+- *Callimome longistigmum* — *Torymus longistigmum*
+- *Callimome multicolor* — *Torymus multicolor*
+- *Callimome pilularidis* — *Torymus baccharidis*
+- *Callimome scalaris* — *Torymus scalaris*
+- *Callimome warreni* — *Torymus warreni*
+- *Callimus cyanipennis* — *Pilema cyanipenne*
+- *Callimus dehiscens* — *Pilema cyanipenne*
+- *Callimus longicollis* — *Pilema ruficolle*
+- *Callimus ruficollis* — *Pilema ruficolle*
+- *Callimus variipes* — *Pilema cyanipenne*
+- *Calliope nigerrima* — *Calliopum nigerrimum*
+- *Calliphora erythrocephala* — *Calliphora vicina*
+- *Callisthenes affinis* — *Calosoma affine*
+- *Callisthenes cancellatus* — *Calosoma cancellatum*
+- *Callisthenes dietzii* — *Calosoma dietzii*
+- *Callisthenes discors* — *Calosoma discors*
+- *Callisthenes gravidulus* — *Calosoma dietzii*
+- *Callisthenes latipennis* — *Calosoma latipenne*
+- *Callisthenes semilaevis* — *Calosoma semilaeve*
+- *Callisthenes tepidus* — *Calosoma tepidum*
+- *Callisthenes tularensis* — *Calosoma latipenne*
+- *Callizzia amorata* — *Epiplema amorata*
+- *Callophrys augustinus* — *Incisalia irioides*
+- *Callophrys augustinus iroides* — *Thecla iroides*
+- *Callophrys dumetorum viridis* — *Callophrys dumetorum*
+- *Callophrys eryphon* — *Incisalia eryphon*
+- *Callophrys gryneus* — *Mitoura gryneus*
+- *Callophrys gryneus juniperaria* — *Mitoura siva juniperaria*
+- *Callophrys gryneus loki* — *Thecla loki*
+- *Callophrys gryneus mansfieldi* — *Mitoura siva mansfieldi*
+- *Callophrys gryneus muiri* — *Callophrys muiri*
+- *Callophrys gryneus nelsoni* — *Mitoura nelsoni*
+- *Callophrys henrici* — *Incisalia henrici*
+- *Callophrys mossii* — *Thecla mossi*
+- *Callophrys mossii bayensis* — *Callophrys fotis bayensis*
+- *Callophrys mossii doudoroffi* — *Incisalia doudoroffi*
+- *Callophrys mossii windi* — *Incisalia doudoroffi windi*
+- *Callophrys perplexa* — *Callophrys dumetorum perplexa*
+- *Callophrys sheridanii* — *Thecla sheridanii*
+- *Callophrys spinetorum* — *Mitoura spinetorum*
+- *Caloderma luculentum* — *Hypomedon luculentus*
+- *Caloderma mobile* — *Hypomedon mobilis*
+- *Caloderma pollens* — *Hypomedon pollens*
+- *Caloderma reductum* — *Hypomedon reductus*
+- *Caloderma tantillum* — *Hypomedon tantillus*
+- *Calosoma hospes* — *Calosoma eremicola*
+- *Calosoma praestans* — *Calosoma cancellatum*
+- *Calosoma triste* — *Calosoma affine*
+- *Calosoma tristoides* — *Calosoma affine*
+- *Calosoter metallicus* — *Calosota metallica*
+- *Camponotus quercicola* — *Camponotus laevigatus*
+- *Canace aldrichi* — *Canacea aldrichi*
+- *Cantharis consors* — *Pacificanthia consors*
+- *Canthon simplex militaris* — *Canthon simplex*
+- *Capnia barberi* — *Sierracapnia barberi*
+- *Capnia pileata* — *Arsapnia pileata*
+- *Capnia projecta* — *Mesocapnia projecta*
+- *Capnia sequoia* — *Arsapnia sequoia*
+- *Capnia teresa* — *Arsapnia teresa*
+- *Capnia tumida* — *Arsapnia tumida*
+- *Capnia utahensis* — *Arsapnia utahensis*
+- *Capsus solani* — *Irbisia solani*
+- *Cardiocondyla ectopia* — *Cardiocondyla mauritanica*
+- *Carpophilus rickseckeri* — *Urophorus humeralis*
+- *Carterocephalus palaemon mesapano* — *Carterocephalus palaemon mandan*
+- *Carterocephalus palaemon skada* — *Carterocephalus palaemon mandan*
+- *Cartodere australicus* — *Cartodere satelles*
+- *Cartodere nodifer* — *Aridius nodifer*
+- *Catocala andromache wellsi* — *Catocala andromache*
+- *Catocala augusta* — *Catocala junctura*
+- *Catocala pura* — *Catocala semirelicta*
+- *Catocala reiffi* — *Catocala ilia*
+- *Catocala stretchii* — *Catocala junctura*
+- *Catonia cara* — *Synecdoche cara*
+- *Catonia clara* — *Synecdoche clara*
+- *Catonia costata* — *Synecdoche costata*
+- *Catonia indella* — *Juniperthia indella*
+- *Catonia irrorata* — *Synecdoche irrorata*
+- *Cecidomyia acarivora* — *Feltiella acarivora*
+- *Cecropterus dorantes* — *Urbanus dorantes*
+- *Cediopsylla inaequalis interrupta* — *Spilopsyllus interruptus*
+- *Celaenura gemina* — *Ischnura gemina*
+- *Celastrina echo* — *Celastrina ladon echo*
+- *Celastrina echo cinerea* — *Celastrina argiolus cinerea*
+- *Celatoria crawii* — *Celatoria diabroticae*
+- *Celia clementina* — *Amara aurata*
+- *Celia farallonica* — *Amara aurata*
+- *Celia proba* — *Amara aurata*
+- *Celia rotundiceps* — *Amara aurata*
+- *Cemonus giffardi* — *Pemphredon grinnelli*
+- *Centris hoffmanseggiae davidsoni* — *Centris hoffmanseggiae*
+- *Centris rhodoleuca* — *Centris rhodopus*
+- *Centroptilum bifurcatum* — *Anafroptilum bifurcatum*
+- *Ceraeochrysa intacta* — *Kymachrysa intacta*
+- *Ceratophyllus californicus* — *Nosopsyllus fasciatus*
+- *Ceratophyllus stimsoni* — *Dactylopsylla stimsoni*
+- *Ceratosmicra campoplegicis* — *Conura petioliventris*
+- *Cerceris grandis percna* — *Cerceris completa*
+- *Cerceris nigrescens munda* — *Cerceris nigrescens*
+- *Cerceris sandiegensis* — *Cerceris isolde*
+- *Cerceris snowi* — *Cerceris convergens*
+- *Cerchysius whittieri* — *Coccidoctonus dubia*
+- *Cercyon capillatum* — *Agna capillata*
+- *Cercyonis silvestris* — *Cercyonis charon*
+- *Cercyonis sthenele behrii* — *Cercyonis behrii*
+- *Cercyonis sthenele paulus* — *Cercyonis paulus*
+- *Cercyonis sthenele silvestris* — *Cercyonis charon*
+- *Ceresa bubalus* — *Hadrophallus bubalus*
+- *Ceriodes durani* — *Sphiximorpha durani*
+- *Ceropales elegans* — *Ceropales elegans elegans*
+- *Ceropales maculata* — *Ceropales maculata maculata*
+- *Ceropales maculatus* — *Ceropales maculata maculata*
+- *Chabula onychinalis* — *Glyphodes onychinalis*
+- *Chaetostoma californica* — *Chetostoma californicum*
+- *Chaitophorus salicicola* — *Chaitophorus nigrae*
+- *Chalcaspis phenacocci* — *Aenasius phenacocci*
+- *Chalepus obsoletus* — *Dyscinetus picipes*
+- *Chalicodoma angelarum* — *Megachile angelarum*
+- *Chalicodoma californica* — *Ashmeadiella californica*
+- *Chalicodoma davidsoni* — *Megachile davidsoni*
+- *Chalicodoma discorhina* — *Megachile discorhina*
+- *Chalicodoma spinotulata* — *Megachile spinotulata*
+- *Chalicodoma subexilis* — *Megachile subexilis*
+- *Chelisia elegans* — *Anthomyia elegans*
+- *Chelostoma minutum cockerelli* — *Chelostoma cockerelli*
+- *Chelostoma minutum incisulum* — *Chelostoma incisulum*
+- *Chelynia calliphorina* — *Stelis calliphorina*
+- *Chilothrips pini* — *Oxythrips pini*
+- *Chlaenius barmatius* — *Chlaenius leucops*
+- *Chlaenius jacinto* — *Chlaenius tricolor vigilans*
+- *Chlaenius sierricola* — *Chlaenius sericeus*
+- *Chlaenius viridifrons* — *Chlaenius sericeus*
+- *Chlamydatus manzanitae* — *Arctostaphylocoris manzanitae*
+- *Chlorion atratum* — *Prionyx atratus*
+- *Chlorion lucae* — *Sphex lucae*
+- *Chlorion pensylvanicum* — *Sphex pensylvanicus*
+- *Chlorion thomae* — *Prionyx thomae*
+- *Chlorops graminea* — *Homaluroides gramineus*
+- *Chlorosea naidaria* — *Nemoria pulcherrima*
+- *Chlorosea pulcherrima* — *Nemoria pulcherrima*
+- *Chlorostrymon simaethis sarita* — *Thecla sarita*
+- *Chlosyne gorgone carlota* — *Chlosyne gorgone*
+- *Chlosyne leanira* — *Thessalia leanira*
+- *Chlosyne leanira wrighti* — *Thessalia leanira*
+- *Chlosyne whitneyi* — *Chlosyne palla whitneyi*
+- *Choreutis apocynoglossa* — *Caloreas apocynoglossa*
+- *Choreutis emplecta* — *Anthophila emplecta*
+- *Choristoneura carnana californica* — *Choristoneura carnana*
+- *Choristoneura lambertiana subretiniana* — *Choristoneura lambertiana*
+- *Choristoneura occidentalis* — *Choristoneura freemani*
+- *Chorizococcus brevicruris* — *Vryburgia brevicruris*
+- *Chorthippus curtipennis californicus* — *Pseudochorthippus curtipennis californicus*
+- *Chortophila planipalpis* — *Delia planipalpis*
+- *Chromatomyia aprilina* — *Phytomyza xylostei*
+- *Chromatomyia castillejae* — *Phytomyza castillejae*
+- *Chromatomyia fricki* — *Phytomyza fricki*
+- *Chromatomyia mimuli* — *Phytomyza mimuli*
+- *Chromatomyia pseudomilii* — *Phytomyza pseudomilii*
+- *Chromatomyia syngenesiae* — *Phytomyza syngenesiae*
+- *Chrysis separata* — *Chrysis separanda*
+- *Chrysobothris pubescens* — *Chrysobothris purpurifrons*
+- *Chrysoclista linneela* — *Chrysoclista linneella*
+- *Chrysogaster robusta* — *Orthonevra robusta*
+- *Chrysolampus parcipunctatus* — *Chrysolampus sisymbrii*
+- *Chrysomela scripta* — *Aethiopocassis scripta*
+- *Chrysopa californica* — *Chrysoperla plorabunda*
+- *Chrysopa erythrocephala* — *Chrysopa nigricornis*
+- *Chrysopa injusta* — *Pseudomallada perfectus*
+- *Chrysopa mohave* — *Chrysoperla downesi*
+- *Chrysopa sperryae* — *Chrysoperla comanche*
+- *Chrysoperla mohave* — *Chrysoperla downesi*
+- *Chrysophanus editha* — *Lycaena editha*
+- *Chrysotoxum integre* — *Chrysotoxum derivatum*
+- *Chrysotoxum integrum* — *Chrysotoxum derivatum*
+- *Chrysotus arcuata* — *Achradocera arcuata*
+- *Chrysozona willistoni* — *Haematopota willistoni*
+- *Cicindela cinctipennis* — *Cylindera terricola cinctipennis*
+- *Cicindela gabbii* — *Eunota gabbii*
+- *Cicindela haemorrhagica* — *Cicindela hemorrhagica*
+- *Cicindela haemorrhagica haemorrhagica* — *Cicindela hemorrhagica hemorrhagica*
+- *Cicindela latesignata obliviosa* — *Cicindela latesignata latesignata*
+- *Cicindela lemniscata* — *Cylindera lemniscata*
+- *Cicindela nevadica nevadica* — *Ellipsoptera nevadica nevadica*
+- *Cicindela senilis frosti* — *Cicindela senilis*
+- *Cicindela senilis senilis* — *Cicindela senilis*
+- *Cicindela terricola* — *Cylindera terricola*
+- *Cicindela terricola lunalonga* — *Cylindera lunalonga*
+- *Cicindela tortuosa* — *Cicindela trifasciata trifasciata*
+- *Cicindela tranquebarica arida* — *Cicindela arida*
+- *Cicindela tularensis* — *Cylindera lunalonga*
+- *Cicindela vulgaris* — *Cicindela tranquebarica tranquebarica*
+- *Cicindelidia hemorrhagica* — *Cicindela hemorrhagica*
+- *Cicindelidia nigrocoerulea* — *Cicindela nigrocoerulea*
+- *Cicindelidia trifasciata* — *Cicindela trifasciata*
+- *Cinara pineum* — *Cinara pinea*
+- *Cinaria taxifoliae* — *Cinara pseudotsugae*
+- *Circotettix occidentalis* — *Trimerotropis occidentalis*
+- *Cis impressus* — *Cis fuscipes*
+- *Cis sorror* — *Sulcacis curtulus*
+- *Cisthene faustinula fusca* — *Cisthene faustinula*
+- *Cisthene nexa* — *Cisthene deserta*
+- *Clastoptera lineatocollis lugubris* — *Clastoptera lugubris*
+- *Clathroneuria arioles* — *Mexoleon papago*
+- *Clausicella antennalis* — *Phytomyptera setigera*
+- *Clavator sabulonum* — *Lestomyia sabulona*
+- *Cleora agrestaria* — *Pterotaea lamiaria lamiaria*
+- *Cleora exhumata* — *Hulstina exhumata*
+- *Cleora sanctissima* — *Iridopsis sanctissima*
+- *Clepsis busckana* — *Clepsis fucana*
+- *Clidophleps pallida* — *Clidophleps distanti distanti*
+- *Clinocera brunnipennis* — *Trichoclinocera brunnipennis*
+- *Clinodiplosis pucciniae* — *Mycodiplosis pritchardi*
+- *Clitellaria rustica* — *Adoxomyia rustica*
+- *Clogmia albipunctatus* — *Clogmia albipunctata*
+- *Clostera apicalis ornata* — *Clostera ornata*
+- *Closterocerus californicus* — *Closterocerus utahensis*
+- *Closterotomus norwegicus* — *Closterotomus norvegicus*
+- *Clytus conjunctus* — *Neoclytus conjunctus*
+- *Coccidomyia erii* — *Rhopalomyia erii*
+- *Coccidoxenus niloticus* — *Afrencyrtus obscuratus*
+- *Coccophagus citrinus* — *Aspidiotiphagus citrinus*
+- *Coccus ventralis* — *Coccus hesperidum*
+- *Coelioxys megatricha* — *Coelioxys octodentatus*
+- *Coelioxys octodentata* — *Coelioxys echinatus*
+- *Coelioxys texana* — *Coelioxys texanus*
+- *Coenonympha california california* — *Coenonympha california*
+- *Coenonympha eryngii* — *Coenonympha california*
+- *Coenonympha tullia california* — *Coenonympha california*
+- *Coenosia majuscula* — *Macrorchis majuscula*
+- *Coleophora cornella* — *Coleophora cornelia*
+- *Colias cesonia* — *Zerene cesonia*
+- *Colias eurydice* — *Zerene eurydice*
+- *Colladonus montanus reductus* — *Colladonus montanus*
+- *Colpodota abdicans* — *Acrotona sonomana*
+- *Colpodota inceptor* — *Acrotona sonomana*
+- *Colpodota laxella* — *Acrotona sonomana*
+- *Colpodota pupilla* — *Acrotona sonomana*
+- *Colpodota repentina* — *Acrotona sonomana*
+- *Colpodota sonomana* — *Acrotona sonomana*
+- *Compsolechia lacteochrella* — *Anacampsis lacteusochrella*
+- *Coniontis rugosa* — *Coniontis abdominalis*
+- *Coniontis tristis* — *Coniontis abdominalis*
+- *Coniopteryx angusta* — *Semidalis angusta*
+- *Connophron digressum* — *Euconnus analis*
+- *Conochares acutus* — *Ponometia acutus*
+- *Cophura highlandica* — *Cophura truncus*
+- *Cophura trunca* — *Cophura truncus*
+- *Copidosomopsis plethorica* — *Copidosoma plethoricus*
+- *Coquillettapis melittoides* — *Diadasia nigrifrons*
+- *Cordulegaster dorsalis* — *Zoraena dorsalis*
+- *Corisa laevigata* — *Hesperocorixa laevigata*
+- *Corixa decolor* — *Corisella decolor*
+- *Corizus indentatus* — *Arhyssus scutatus*
+- *Coronimyia melitarae* — *Clausicella melitarae*
+- *Corticaria planula* — *Corticaria andreasi*
+- *Coryphista meadii* — *Rheumpatera meadii*
+- *Coryphista meadii meadii* — *Rheumpatera meadii*
+- *Corypsylla setosifrons* — *Corypsylla ornata*
+- *Cosmopterix pulchrimella* — *Cosmopterix pulcherrimella*
+- *Cosmosalia chrysocoma* — *Lepturobosca chrysocoma*
+- *Cotalpa ursina* — *Paracotalpa ursina*
+- *Cotinis mutabilis aurantiaca* — *Cotinis mutabilis*
+- *Crambus angulatellus* — *Agriphila geniculeusa*
+- *Cremastocheilus pilosicollis* — *Cremastocheilus armatus*
+- *Cremastocheilus schaumii schaumii* — *Cremastocheilus schaumi*
+- *Cremastochilus depressus* — *Cremastocheilus planatus*
+- *Crematogaster mormonum* — *Crematogaster coarctata*
+- *Creontiades femoralis* — *Creontiades rubrinervis*
+- *Criorhina lupina* — *Sphecomyia metallica*
+- *Crossidius testaceus testaceus* — *Crossidius testaceus*
+- *Crossocerus cinctipes* — *Crossocerus leucostoma*
+- *Cryptamorpha desjardinsi* — *Cryptamorpha desjardinsii*
+- *Cryptolaemus montrousieri* — *Cryptolaemus montrouzieri*
+- *Cryptophagus cribricollis* — *Cryptophagus laticollis*
+- *Cryptophagus inscitus* — *Cryptophagus laticollis*
+- *Cryptophagus lyraticollis* — *Cryptophagus hebes*
+- *Ctenolepisma longicauda* — *Ctenolepisma longicaudatum*
+- *Cucujus puniceus* — *Cucujus clavipes puniceus*
+- *Culex molestus* — *Culex pipiens*
+- *Culex peus* — *Culex thriambus*
+- *Culicoides multidentatus* — *Culicoides bottimeri*
+- *Culiseta maccrackenae* — *Culiseta particeps*
+- *Cupido amyntula* — *Elkalyce amyntula*
+- *Cupido comyntas* — *Elkalyce comyntas*
+- *Curculio spec* — *Curculio spencei*
+- *Curtonotus carinatus* — *Amara carinata*
+- *Cuterebra aldrichi* — *Cuterebra lepivora*
+- *Cuterebra nitida* — *Cuterebra approximata*
+- *Cybister ellipticus* — *Cybister fimbriolatus*
+- *Cychrus alternatus* — *Scaphinotus ventricosus*
+- *Cychrus constrictus* — *Scaphinotus interruptus*
+- *Cychrus cordatus* — *Scaphinotus cordatus*
+- *Cychrus interruptus* — *Scaphinotus interruptus*
+- *Cychrus obliquus* — *Scaphinotus obliquus*
+- *Cychrus oreophilus* — *Scaphinotus oreophilus*
+- *Cychrus punctatus* — *Scaphinotus punctatus*
+- *Cychrus striatopunctatus* — *Scaphinotus striatopunctatus*
+- *Cychrus striatus* — *Scaphinotus crenatus*
+- *Cychrus ventricosus* — *Scaphinotus ventricosus*
+- *Cyclocephala dimidiata* — *Cyclocephala melanocephala*
+- *Cyclocephala obesa* — *Cyclocephala quercina*
+- *Cyclodionaea acuminata* — *Leucostoma simplex*
+- *Cydia deshaisiana* — *Cydia saltitans*
+- *Cylindera pumila* — *Cylindera minuta*
+- *Cymatodera umbrina* — *Cymatodera oblita*
+- *Cynthia annabella* — *Vanessa annabella*
+- *Cyrtolobus fenestrata* — *Cyrtolobus fenestratus*
+- *Cyrtopeltis modesta* — *Engytatus modestus*
+- *Cyrtopeltis simplex* — *Usingerella simplex*
+- *Cyrtopogon nigricolor* — *Nannocyrtopogon nigricolor*
+- *Dactylocerca rubra* — *Chelicerca rubra*
+- *Dactylopius dudleyi* — *Spilococcus andersoni*
+- *Dampfius collaris* — *Heterocerus collaris*
+- *Danaus gilippus gilippus* — *Danaus gilippus*
+- *Dasineura cercocarpi* — *Dasineura cereocarpi*
+- *Dasineura silvestrii* — *Dasineura silvestris*
+- *Dasyllis sackeni* — *Laphria sackeni*
+- *Dasymolophilus subnuda* — *Tasiocera subnuda*
+- *Datana perspicua discalis* — *Datana perspicua*
+- *Datana perspicua mesillae* — *Datana perspicua*
+- *Datomicra pomonae* — *Atheta nigrita*
+- *Delphacodes propinqua* — *Toya propinqua*
+- *Delphiphylus affiguratus* — *Hoplomachus affiguratus*
+- *Deltaspis ivae* — *Neoxoplus ivae*
+- *Dermestes signatus* — *Trypodendron signatum*
+- *Deronectes deceptus* — *Clarkhydrus deceptus*
+- *Desmia maculalis* — *Desmia funeralis*
+- *Desmocerus auripennis auripennis* — *Desmocerus aureipennis*
+- *Desmocerus californicus californicus* — *Desmocerus californicus*
+- *Deuteragenia caliptera* — *Dipogon calipterus calipterus*
+- *Dexodes tenella* — *Eucelatoria tenella*
+- *Diadasia blaisdelli* — *Diadasia ochracea*
+- *Diadasia nitidicincta* — *Diadasia tropicalis*
+- *Diadasiella coquilletti* — *Anthophorula albicans*
+- *Diandrena puthua* — *Andrena puthua*
+- *Dianthidium provancheri* — *Dianthidium pudicum*
+- *Diaphorus repandus* — *Chrysotus repandus*
+- *Diaphorus tenuicollis* — *Pseudaptinus tenuicollis*
+- *Diarthronomyia californica* — *Rhopalomyia clinata*
+- *Diaspidiotus degeneratus* — *Dynaspidiotus degeneratus*
+- *Diastictis benigna* — *Macaria benigna*
+- *Diaulinus carlylei* — *Diglyphus carlylei*
+- *Dibrachys daphne* — *Doganlaria daphne*
+- *Dicheirus australinus* — *Dicheirus piceus*
+- *Dicheirus beniciensis* — *Dicheirus dilatatus dilatatus*
+- *Dicheirus blaisdelli* — *Dicheirus dilatatus angulatus*
+- *Dicheirus brunneus* — *Dicheirus pilosus*
+- *Dicheirus firmus* — *Dicheirus dilatatus dilatatus*
+- *Dicheirus multiplex* — *Dicheirus dilatatus dilatatus*
+- *Dicheirus paralellus* — *Dicheirus piceus*
+- *Dichelonycha crotchii* — *Dichelonyx fulgida crotchi*
+- *Dichelonycha muscula* — *Dichelonyx muscula*
+- *Dichelonycha pusilla* — *Dichelonyx pusillus*
+- *Dichelonycha vaga* — *Dichelonyx vaga*
+- *Dichelonycha valida* — *Dichelonyx valida*
+- *Dichelotarsus lutosus* — *Podabrus lutosus*
+- *Dicranomyia rhipidioides* — *Dicranomyia marmorata*
+- *Dicyphus californicus* — *Tupiocoris californicus*
+- *Dicyphus phaceliae* — *Tupiocoris phaceliae*
+- *Dienoplus clypeatus* — *Harpactus clypeatus*
+- *Dienoplus mendicus* — *Harpactus mendicus*
+- *Dienoplus pictifrons* — *Harpactus pictifrons*
+- *Dienoplus rugulosus* — *Harpactus rugulosus*
+- *Dieunomia nevadensis arizonensis* — *Dieunomia nevadensis*
+- *Digrammia hebetata* — *Digrammia rippertaria rippertaria*
+- *Digrammia napensis* — *Semiothisa napensis*
+- *Dikraneura elongata* — *Notus elongatus*
+- *Dimetrota cerebrosa* — *Atheta fenyesi*
+- *Dimetrota immerita* — *Atheta fenyesi*
+- *Dimetrota incredula* — *Atheta fenyesi*
+- *Dimetrota opinata* — *Atheta fenyesi*
+- *Dimetrota resima* — *Atheta fenyesi*
+- *Dimetrota sectator* — *Atheta hampshirensis*
+- *Dimetrota vigilans* — *Atheta fenyesi*
+- *Dinotus agrili* — *Acaenacis agrili*
+- *Dioctria doanei* — *Eudioctria doanei*
+- *Dioctria media* — *Eudioctria media*
+- *Dioctria parvulus* — *Metadioctria parvulus*
+- *Dioctria rubidus* — *Metadioctria rubida*
+- *Diogmites pulcher* — *Cyrtopogon pulcher*
+- *Dione incarnata* — *Dione vanillae incarnata*
+- *Dioryctria delectella* — *Dioryctria zimmermani*
+- *Dioxyna picciola* — *Campiglossa picciola*
+- *Dioxyna sorocula* — *Campiglossa sororcula*
+- *Diphyllostoma fimbriata* — *Diphyllostoma fimbriatum*
+- *Diplax flavicosta* — *Sympetrum madidum*
+- *Diplolepis bassetti* — *Torymus fonscolombei*
+- *Diplolepis bicolor* — *Plutothrix bicolorata*
+- *Diplolepis gracilis* — *Torymus graminis*
+- *Diplolepis polita* — *Biorhiza pallida*
+- *Diplotaxis californica* — *Diplotaxis subangulata*
+- *Dipogon caliptera* — *Dipogon calipterus calipterus*
+- *Ditrichophora montana* — *Gymnoclasiopa montana*
+- *Dixa chilensis* — *Nothodixa chilensis*
+- *Dohrniphora gaudialis* — *Diplonevra setigera*
+- *Dolichopsyllus bluei* — *Dactylopsylla bluei*
+- *Drapetis nitida* — *Crossopalpus unipila*
+- *Drepanulatrix faeminaria* — *Drepanulatrix foeminaria*
+- *Drosophila busckii* — *Drosophila buskii*
+- *Drosophila imigrans* — *Drosophila immigrans*
+- *Dryudella spinolae* — *Dryudella tricolor*
+- *Duplachionaspis spartinae* — *Haliaspis spartinae*
+- *Duvita pasadenae* — *Battaristis pasadenae*
+- *Dymasia dymas chara* — *Dymasia dymas*
+- *Dyschirius basalis* — *Dyschirius integer*
+- *Dyschirius convexus* — *Dyschirius tridentatus*
+- *Dyschirius marinus* — *Akephorus marinus*
+- *Dyschirius obesus* — *Akephorus obesus*
+- *Dysstroma mancipata hulstata* — *Dysstroma mancipata hulsata*
+- *Echidnoglossa aemula* — *Colusa aemula*
+- *Echidnoglossa clavicauda* — *Colusa clavicauda*
+- *Echidnoglossa concinna* — *Colusa concinna*
+- *Echidnoglossa defecta* — *Colusa defecta*
+- *Echidnoglossa leviventris* — *Colusa leviventris*
+- *Echidnoglossa ludibunda* — *Colusa ludibunda*
+- *Echidnoglossa occidua* — *Colusa occidua*
+- *Echidnoglossa quadripennis* — *Colusa quadripennis*
+- *Echidnoglossa strangulans* — *Colusa strangulans*
+- *Echidnoglossa tenuicornis* — *Colusa tenuicornis*
+- *Egira rubrica rubrica* — *Egira rubrica*
+- *Eichochaitophorus populifolii* — *Chaitophorus populifolii*
+- *Elachiptera decipiens* — *Ceratobarys decipiens*
+- *Elachiptera nigriceps* — *Ceratobarys nigriceps*
+- *Elaphidion albofasciatum* — *Anelaphus albofasciatus*
+- *Elaphidion imbelle* — *Meganoplium imbelle*
+- *Elaphidion lineare* — *Aneflomorpha linearis*
+- *Eleodes laticollis* — *Eleodes acuticauda*
+- *Eleodes obscura* — *Eleodes tenebricosa*
+- *Ellychnia californica* — *Photinus californicus*
+- *Ellychnia corrusca* — *Photinus corruscus*
+- *Ellychnia megista* — *Photinus megista*
+- *Elmis seriata* — *Heterlimnius seriatus*
+- *Elophila obliteralis* — *Synclita obliteralis*
+- *Emphoropsis murihirta murina* — *Habropoda miserabilis*
+- *Empicoris orthoneuron* — *Empicoris errabundus*
+- *Empimorpha comantis* — *Empis comantis*
+- *Emplenota pacifica* — *Aleochara pacifica*
+- *Emplenota quadrifer* — *Aleochara litoralis*
+- *Empoasca abrupta* — *Hebata abrupta*
+- *Empoasca alboneura* — *Hebata alboneura*
+- *Empoasca alboscripta* — *Hebata alboscripta*
+- *Empoasca arator* — *Matsumurasca arator*
+- *Empoasca ariadnae* — *Hebata ariadnae*
+- *Empoasca aspersa* — *Hebata aspersa*
+- *Empoasca aureoviridis* — *Kybos aureoviridis*
+- *Empoasca barbara* — *Coccineasca barbara*
+- *Empoasca biarca* — *Coccineasca biarca*
+- *Empoasca calcara* — *Matsumurasca calcara*
+- *Empoasca clypeata* — *Kybos clypeatus*
+- *Empoasca dactylata* — *Hebata dactylata*
+- *Empoasca decora* — *Hebata decora*
+- *Empoasca denaria* — *Hebata denaria*
+- *Empoasca elongata* — *Asialebra elongata*
+- *Empoasca mexicana* — *Hebata mexicana*
+- *Empoasca morrisoni* — *Kybos morrisoni*
+- *Empoasca neaspersa* — *Hebata neaspersa*
+- *Empoasca occidentalis* — *Matsumurasca occidentalis*
+- *Empoasca ponderosa* — *Coccineasca ponderosa*
+- *Empoasca rufa* — *Baguoidea rufa*
+- *Empoasca ruficeps* — *Hebata ruficeps*
+- *Empoasca saluta* — *Kybos saluta*
+- *Empoasca unica* — *Kyboasca unica*
+- *Enaphorus rufulus* — *Pseudaptinus rufulus*
+- *Encoptolophus californicus* — *Chimarocephala californica*
+- *Encoptolophus robustus* — *Nebulatettix robustus*
+- *Encoptolophus subgracilis* — *Nebulatettix subgracilis*
+- *Encyrtus barbatus* — *Encyrtus aurantii*
+- *Encyrtus californicus* — *Encyrtus fusca*
+- *Encyrtus fuscus* — *Encyrtus fusca*
+- *Enemera simularia* — *Sericosema simularia*
+- *Enicomira minor* — *Themira minor*
+- *Ennearthron convergens* — *Ceracis californicus*
+- *Ennearthron discolor* — *Ceracis californicus*
+- *Enochrus conjunctus* — *Enochrus hamiltoni*
+- *Eois delicata* — *Idaea bonifata*
+- *Epacmus fumosus* — *Aphoebantus fumosus*
+- *Epacmus pellucidus* — *Aphoebantus pellucidus*
+- *Epeorus californicus* — *Ironodes californicus*
+- *Epermenia alameda* — *Epermenia cicutaella*
+- *Ephestiodes nigrella* — *Ephestiodes gilvescentella*
+- *Epibates marginatus* — *Thevenetimyia marginata*
+- *Epimelissodes obliqua* — *Svastra obliqua*
+- *Episyron biguttatus* — *Episyron biguttatus biguttatus*
+- *Episyron quinquenotatus* — *Episyron quinquenotatus quinquenotatus*
+- *Epithectis citrinella* — *Taygete citrinella*
+- *Epuraea luteola* — *Haptoncus luteolus*
+- *Epuraea nubila* — *Epuraea avara*
+- *Erax canus* — *Efferia cana*
+- *Erax inflatus* — *Efferia inflata*
+- *Erax productus* — *Efferia producta*
+- *Erebomyia akidoptera* — *Erebomyia inaequalis*
+- *Eremobina hanhami* — *Eremobina claudens*
+- *Ergates pauper* — *Trichocnemis pauper*
+- *Ergates spiculatus* — *Trichocnemis spiculatus*
+- *Erinnyis domingonis* — *Erinnyis obscura*
+- *Eriocera saturata* — *Hexatoma saturata*
+- *Eriococcus bahiae* — *Eriococcus texanus*
+- *Eriococcus howardi* — *Eriococcus quercus*
+- *Erioptera bipartita* — *Hoplolabis bipartita*
+- *Erioptera pilipes* — *Trimicra pilipes*
+- *Erioptera sparsa* — *Symplecta sparsa*
+- *Eristalis aeneus* — *Eristalinus aeneus*
+- *Eristalis latifrons* — *Eristalis stipator*
+- *Eristalis nemorum* — *Eristalis arbustorum*
+- *Eristalis texanus* — *Palpada texana*
+- *Errhomenellus friscanus* — *Friscanus friscanus*
+- *Erynnis pacuvius callidus* — *Erynnis brizo callidus*
+- *Erynnis pacuvius pernigra* — *Erynnis pacuvius lilius*
+- *Erynnis tristis tatius* — *Erynnis tristis*
+- *Erythmelus flandersi* — *Erythmelus picinus*
+- *Erythraphycus argyrocomus* — *Metaphycus argyrocomus*
+- *Erythraphycus calvus* — *Metaphycus calvus*
+- *Erythroneura ligata caetra* — *Erythroneura caetra*
+- *Esperia sulphurella* — *Dafa sulphurella*
+- *Essigella claremontiana* — *Essigella californica*
+- *Eteobalea enchrysa* — *Stagmatophora enchrysa*
+- *Euaresta adspersa* — *Euaresta bullans*
+- *Euarestoides acutangulus* — *Euarestoides acutangula*
+- *Euarestoides arnaudi* — *Trypanaresta flava*
+- *Euarestoides flavus* — *Trypanaresta flava*
+- *Eucera strenua* — *Xenoglossa strenua*
+- *Eucera venusta carinata* — *Protohalonia carinata*
+- *Euceraphis flava* — *Oestlundiella flava*
+- *Eucerceris insignis* — *Eucerceris provancheri*
+- *Euchloe hyantis lotta* — *Euchloe lotta*
+- *Euchromius californicalis* — *Euchromius ocellea*
+- *Eucinetus infumatus* — *Nycteus infumatus*
+- *Eucomys californicus* — *Encyrtus fusca*
+- *Eucordylea elucidella* — *Coleotechnites elucidella*
+- *Eucordylea mackiei* — *Coleotechnites mackiei*
+- *Eucosma costastrigulana* — *Pelochrista costastrigulana*
+- *Eucosma excusabilis* — *Pelochrista juncticiliana*
+- *Eucosma hasseanthi* — *Pelochrista hasseanthi*
+- *Eucosma hazelana* — *Pelochrista hazelana*
+- *Eucosma hennei* — *Pelochrista hennei*
+- *Eucosma langstoni* — *Pelochrista russeola*
+- *Eucosma sandiego* — *Pelochrista sandiego*
+- *Eucosma tahoensis* — *Pelochrista biquadrana*
+- *Eucosma tahoensis subditiva* — *Pelochrista biquadrana*
+- *Eucosma williamsi* — *Pelochrista eburata*
+- *Eucryptusa bakeri* — *Dianusa pasadenae*
+- *Eudonia rectilinea* — *Eudonia rectilineata*
+- *Eulithis powellata* — *Gandaritis powellata*
+- *Eumenes crucifera crucifera* — *Eumenes crucifera*
+- *Euparagia scutellaris* — *Euparagia maculiceps*
+- *Eupelmus bardus* — *Brasema bardus*
+- *Eupelmus vetsicularis* — *Eupelmus vesicularis*
+- *Eupeodes abberrantis* — *Lapposyrphus aberrantis*
+- *Euphalerus cercocarpi* — *Nyctiphalerus cercocarpi*
+- *Euphalerus jugovenosus* — *Nyctiphalerus jugovenosus*
+- *Euphalerus vermiculosus* — *Nyctiphalerus vermiculosus*
+- *Euphilotes battoides bernardino* — *Philotes bernardino*
+- *Euphilotes bernardino* — *Philotes bernardino*
+- *Euphilotes glaucon* — *Euphilotes battoides*
+- *Euphilotes glaucon intermedia* — *Philotes intermedia*
+- *Euphydryas anicia* — *Occidryas anicia*
+- *Euphydryas anicia veazieae* — *Occidryas anicia veazieae*
+- *Euphydryas anicia wheeleri* — *Occidryas anicia wheeleri*
+- *Euphydryas aurinia* — *Eurodryas aurinia*
+- *Euphydryas chalcedona* — *Occidryas chalcedona*
+- *Euphydryas chalcedona dwinellei* — *Occidryas chalcedona*
+- *Euphydryas chalcedona macglashanii* — *Occidryas chalcedona macglashanii*
+- *Euphydryas colon* — *Occidryas colon*
+- *Euphydryas editha* — *Occidryas editha*
+- *Euphydryas editha augusta* — *Occidryas editha*
+- *Euphydryas editha baroni* — *Cercyonis pegala baroni*
+- *Euphydryas editha bayensis* — *Occidryas editha*
+- *Euphydryas editha lawrencei* — *Occidryas editha lawrencei*
+- *Euphydryas editha monoensis* — *Occidryas editha monoensis*
+- *Euphydryas editha quino* — *Occidryas chalcedona quino*
+- *Euphydryas editha rubicunda* — *Occidryas rubicunda*
+- *Euphydryas editha wrighti* — *Occidryas editha*
+- *Euphyes vestris kiowah* — *Euphyes vestris*
+- *Eupithecia balboata* — *Eupithecia joanata*
+- *Eupithecia bonita* — *Eupithecia segregata*
+- *Eupithecia deserticola* — *Eupithecia jamesi*
+- *Eupithecia emmedonia* — *Prorella emmedonia*
+- *Eupithecia vistata* — *Eupithecia scabrogata*
+- *Eupteromalus americanus* — *Trichomalopsis americanus*
+- *Eurema nicippe* — *Abaeis nicippe*
+- *Eurydinota lividicorpus* — *Sceptrothelys deione*
+- *Euryrhopalus saccharicola* — *Blepyrus saccharicola*
+- *Euryrhopalus tenuiscapus* — *Blepyrus tenuiscapus*
+- *Eurytoma californica nana* — *Gametis jucunda*
+- *Eurytoma phoenix* — *Eurytoma orchidearum*
+- *Eusandalum cyaneum* — *Eusandalum cyanea*
+- *Eusattus politus* — *Eusattus pallidus*
+- *Euscelis maculipenis* — *Euscelidius schenckii*
+- *Euscelis variegata* — *Euscelidius variegatus*
+- *Euscrobipalpa arenaceariella* — *Scrobipalpa arenaceariella*
+- *Eusemion longipenne* — *Eusemion longipennis*
+- *Eusimulium obtusum* — *Simulium argus*
+- *Eustroma semiatrata* — *Antepirrhoe semiatrata*
+- *Eutelus mayetiolae* — *Mesopolobus mayetiolae*
+- *Eutettix pannosus* — *Norvellina pannosa*
+- *Euthrips longirostrum* — *Tenothrips longirostrum*
+- *Euthrips occidentalis* — *Frankliniella occidentalis*
+- *Euthrips orchidii* — *Chaetanaphothrips orchidii*
+- *Euvrilletta californica* — *Euvrilletta occidentalis*
+- *Euxesta compta* — *Acrosticta compta*
+- *Euxoa delicata* — *Euxoa henrietta*
+- *Evagetes padrinus* — *Evagetes padrinus padrinus*
+- *Everes amyntula* — *Elkalyce amyntula*
+- *Everes comyntas* — *Elkalyce comyntas*
+- *Evippe abdita* — *Agnippe abdita*
+- *Exaireta spinigera* — *Exaireta spiniger*
+- *Exochomus quadripustulatus* — *Brumus quadripustulatus*
+- *Fala ptychophora* — *Fala ptycophora*
+- *Falagria cavipennis* — *Trachyota cavipennis*
+- *Falagriota asperula* — *Falagriota occidua*
+- *Falagriota evanescens* — *Falagriota occidua*
+- *Falagriota lucida* — *Falagriota occidua*
+- *Falagriota picina* — *Falagriota occidua*
+- *Faronus isabellae* — *Sonoma isabellae*
+- *Fissicrambus haytiellus* — *Fissicrambus fissiradiellus*
+- *Forcipomyia colemani* — *Forcipomyia acidicola*
+- *Forcipomyia occidentalis* — *Forcipomyia hygrophila*
+- *Forsebia cinis* — *Melipotis jucunda*
+- *Frankliniella conspicua* — *Frankliniella occidentalis*
+- *Fungivora bohartorum* — *Mycetophila bohartorum*
+- *Furchadiaspis zamiae* — *Furchadaspis zamiae*
+- *Gastropacha mildei* — *Phyllodesma americana californica*
+- *Gaurax araneae* — *Pseudogaurax signatus*
+- *Gelechia abradescens* — *Chionodes psiloptera*
+- *Gelechia acrina* — *Chionodes acrina*
+- *Gelechia arbutina* — *Pseudochelaria arbutina*
+- *Gelechia braunella arborei* — *Chionodes braunella*
+- *Gelechia chrysopyla* — *Chionodes chrysopyla*
+- *Gelechia demissae* — *Filatima demissae*
+- *Gelechia diversella* — *Arla diversella*
+- *Gelechia figurella* — *Chionodes figurella*
+- *Gelechia langei* — *Chionodes retiniella*
+- *Gelechia manzanitae* — *Pseudochelaria manzanitae*
+- *Gelechia marinensis* — *Chionodes ceanothiella*
+- *Gelechia vanduzeei* — *Chionodes occidentella*
+- *Geron cinctura* — *Apolysis cinctura*
+- *Geron trochilus* — *Apolysis trochila*
+- *Glabellula nanella* — *Glabellula fasciata*
+- *Glaucopsyche lygdamus australis* — *Glaucopsyche xerces behrii*
+- *Glaucopsyche lygdamus orcus* — *Cupido orcus*
+- *Glaucopsyche lygdamus xerces* — *Glaucopsyche xerces*
+- *Glaucopsyche piasus sagittigera* — *Phaedrotes sagittigera*
+- *Gloridonus venditarius* — *Gloridonus venditaria*
+- *Glycerius curticollis* — *Bradycellus curticollis*
+- *Glycerius obtusus* — *Bradycellus obtusus*
+- *Glycerius politus* — *Bradycellus politus*
+- *Gnathoncus insolarcus* — *Gnathoncus interceptus*
+- *Gnophomyia comstocki* — *Idiognophomyia comstocki*
+- *Gnorimoschema elmorei* — *Keiferia elmorei*
+- *Gnorimoschema laguna* — *Chionodes kincaidella*
+- *Gnorimoschema neopetrella* — *Exceptia neopetrella*
+- *Gnorimoschema potentella* — *Scrobipalpula potentella*
+- *Gnorimoschema tetradymiella* — *Tecia tetradymiella*
+- *Gomphus confraternus* — *Phanogomphus kurilis*
+- *Gomphus kurilis* — *Phanogomphus kurilis*
+- *Gomphus sobrinus* — *Phanogomphus kurilis*
+- *Gonatocerus aureus* — *Lymaenon aureus*
+- *Gonatocerus bonariensis* — *Cosmocomoidea bonariensis*
+- *Gonatocerus enicmophilus* — *Cosmocomoidea bonariensis*
+- *Gonatocerus impar* — *Cosmocomoidea impar*
+- *Gonatocerus incomptus* — *Cosmocomoidea incomptus*
+- *Gonatocerus morrilli* — *Cosmocomoidea morrilli*
+- *Gonatocerus novifasciatus* — *Cosmocomoidea novifasciatus*
+- *Gonomyia coloradica* — *Idiocera coloradica*
+- *Gonomyia hesperius* — *Ellipteroides hesperius*
+- *Gonomyodes doaneana* — *Gonomyopsis doaneana*
+- *Gorytes coquillettii* — *Arigorytes coquillettii*
+- *Gorytes diversus* — *Hoplisoides diversus*
+- *Gorytes eximius* — *Hapalomellinus albitomentosus*
+- *Gossyparia spuria* — *Eriococcus spurius*
+- *Grammia behrii* — *Apantesis behrii*
+- *Grammia hewletti* — *Apantesis hewletti*
+- *Grammia incorrupta* — *Apantesis incorrupta*
+- *Grammia nevadensis* — *Apantesis nevadensis*
+- *Grammia ornata* — *Apantesis ornata*
+- *Grammia ursina* — *Apantesis ursina*
+- *Grammia virgo* — *Apantesis virgo*
+- *Grapholitha bracteatana* — *Cydia bracteatana*
+- *Grapholitha imitativa* — *Grapholita imitativa*
+- *Grisdalemyia aldrichi* — *Cleonice aldrichi*
+- *Gymnetron tetrum* — *Rhinusa tetra*
+- *Gyrinus affinus* — *Gyrinus affinis*
+- *Gyrohypnus infumatus* — *Neohypnus dimidiatus*
+- *Gyrohypnus mollinus* — *Neohypnus pusillus*
+- *Gyrolasia flavimedia* — *Euderomphale flavimedia*
+- *Gyronychina longipennis* — *Apimela longipennis*
+- *Habrocytus medicaginis* — *Pteromalus sequester*
+- *Habroscelimorpha gabbii* — *Eunota gabbii*
+- *Halictoides ilicifoliae* — *Hesperapis ilicifoliae*
+- *Halictus latifrontosus* — *Patellapis retigera*
+- *Haliplus subguttatus* — *Haliplus fulvus*
+- *Haltica linnaei* — *Longitarsus linnaei*
+- *Haploderus linearis* — *Aploderus linearis*
+- *Haptoncus californicus* — *Epuraea californica*
+- *Harmolita jonesi* — *Tetramesa jonesi*
+- *Harpactus howardi* — *Harpactus pictifrons*
+- *Harpalus bicolor* — *Harpalus compar*
+- *Harrisina brillians* — *Harrisina metallica*
+- *Hedychridium solierellae* — *Hedychridium solierelle*
+- *Heimbra opaca* — *Heimbra opacus*
+- *Helaeomyia petrolei* — *Diasemocera petrolei*
+- *Helichus columbianus* — *Helichus striatus foveatus*
+- *Helichus immsi* — *Postelichus immsi*
+- *Helichus productus* — *Postelichus productus*
+- *Helicopsyche californica* — *Helicopsyche borealis*
+- *Heliothis armigera* — *Helicoverpa armigera*
+- *Heliothis luteitinctus* — *Heliothis phloxiphaga*
+- *Heliothis zea* — *Helicoverpa zea*
+- *Heliothodes joachin* — *Heliothodes diminutiva*
+- *Hellinsia subochraceus australis* — *Hellinsia subochraceus*
+- *Helophorus obscurus* — *Helophorus lecontei*
+- *Hemaris senta* — *Hemaris thetis*
+- *Hemiargus ceraunus gyas* — *Echinargus isola*
+- *Hemiargus isola* — *Echinargus isola*
+- *Hemiberlesia cyanophylli* — *Abgrallaspis cyanophylli*
+- *Hemipenthes bigradatus* — *Hemipenthes bigradata*
+- *Hemipenthes eumenes* — *Hemipenthes seminigra*
+- *Hemipenthes lepidotus* — *Hemipenthes lepidota*
+- *Hemipenthes pullatus* — *Hemipenthes pullata*
+- *Hemipenthes sinuosus* — *Hemipenthes sinuosa*
+- *Hemipepsis ustulata* — *Hemipepsis ustulata ustulata*
+- *Hendecaneura filiana* — *Sonia filiana*
+- *Hendecaneura fraternana* — *Sonia vovana*
+- *Heraclides rumiko* — *Papilio rumiko*
+- *Herbstiella cockerelli* — *Stelis cockerelli*
+- *Heriades albicinctum* — *Chelostoma californicum*
+- *Hesperia colorado* — *Hesperia comma colorado*
+- *Hesperia colorado dodgei* — *Hesperia harpalus dodgei*
+- *Hesperia colorado harpalus* — *Hesperia harpalus*
+- *Hesperia colorado idaho* — *Hesperia harpalus*
+- *Hesperia colorado leussleri* — *Hesperia harpalus*
+- *Hesperia colorado tildeni* — *Hesperia harpalus tildeni*
+- *Hesperia comma dodgei* — *Hesperia harpalus dodgei*
+- *Hesperia comma leussleri* — *Hesperia harpalus*
+- *Hesperia comma ochracea* — *Hesperia harpalus*
+- *Hesperia comma tildeni* — *Hesperia harpalus tildeni*
+- *Hesperobium pacificum* — *Homaeotarsus californicus*
+- *Hesperoleon infuscatus* — *Scotoleon infuscatus*
+- *Hesperolinus angustus* — *Linohesperus nanus*
+- *Hesperolinus pomonae* — *Linohesperus nanus*
+- *Hesperophasia nigripennis* — *Kirbya nigripennis*
+- *Hesperophasiopsis californica* — *Kirbya californica*
+- *Hesperopsis libya* — *Pholisora libya*
+- *Hesperotychus macclayi* — *Tychus macclayi*
+- *Hesperotychus nanus* — *Tychus nanus*
+- *Hetaerius californicus* — *Haeterius californicus*
+- *Hetaerius loripes* — *Haeterius tristriatus*
+- *Hetaerius morsus* — *Haeterius morsus*
+- *Hetaerius wheeleri* — *Haeterius wheeleri*
+- *Hetaerius zelus* — *Haeterius zelus*
+- *Heteranassa fraterna* — *Elousa fraterna*
+- *Heteranassa mima* — *Elousa mima*
+- *Heterlimnius koebelei* — *Heterlimnius corpulentus*
+- *Heterocerus sinuosus* — *Heterocerus sinensis*
+- *Heteropogon senilis* — *Heteropogon senile*
+- *Hister sellatus* — *Spilodiscus sellatus*
+- *Holoneurus strobilophilus* — *Asynapta strobilophila*
+- *Hoplandrothrips sycamorensis* — *Hoplandrothrips armiger*
+- *Hoplia oregona* — *Hoplia callipyge*
+- *Hoplisoides spilopterus* — *Hoplisoides nebulosus spilopterus*
+- *Hoplitella pentamera* — *Hoplitis howardi*
+- *Hoplitina hesperia* — *Hoplitis howardi*
+- *Hoplopsyllus minutus* — *Euhoplopsyllus glacialis foxi*
+- *Hoplopsyllus powersi* — *Euhoplopsyllus glacialis foxi*
+- *Hoplopsyllus tenuidigitus* — *Euhoplopsyllus glacialis foxi*
+- *Hyalomyodes californica* — *Strongygaster californica*
+- *Hydriomena multipunctata* — *Archirhoe multipunctata*
+- *Hydriomena resecta* — *Fletcherana roseata*
+- *Hydrobius seriatus* — *Hydrobius fuscipes*
+- *Hydrocharis lineatus* — *Hydrochara lineata*
+- *Hydrocharis rickseckeri* — *Hydrochara rickseckeri*
+- *Hydrochasma leucoproctum* — *Aquachasma leucoproctum*
+- *Hydroporus hirtellus* — *Hydroporus longiusculus*
+- *Hydroporus latebrosus* — *Sanfilippodytes latebrosus*
+- *Hydroporus vilis* — *Sanfilippodytes vilis*
+- *Hydropsyche oslari* — *Ceratopsyche oslari*
+- *Hydrosmecta jugalis* — *Atheta benigna*
+- *Hydrosmectina macra* — *Hydrosmecta macra*
+- *Hydrotaea dissimilis* — *Hydrotaea acuta*
+- *Hygroceleuthus afflictus* — *Dolichopus afflictus*
+- *Hygrotus hydropicus* — *Clemnius hydropicus*
+- *Hylaeus bisinuatus* — *Hylaeus leptocephalus*
+- *Hylaeus mesillae cressoni* — *Hylaeus mesillae cressonii*
+- *Hylemya sombrosa* — *Phorbia sombrosa*
+- *Hylephila phyleus* — *Hylephila phylaeus*
+- *Hylephila phyleus muertovalle* — *Hylephila phylaeus*
+- *Hylurgops subcostulatus* — *Pachysquamus subcostulatus*
+- *Hypena abalienalis* — *Hypena abalinealis*
+- *Hypena modesta* — *Hypena modestoides*
+- *Hypera punctata* — *Brachypera zoilus*
+- *Hyperaspis elliptica* — *Hyperaspis postica*
+- *Hyperplatys californica* — *Hyperplatys californicus*
+- *Hypherpes lassulus* — *Pterostichus lassulus*
+- *Hypherpes protensiformis* — *Pterostichus protensiformis*
+- *Hysterosia komonana* — *Phtheochroa fulviplicana*
+- *Icaricia icarioides evius* — *Icaricia icarioides*
+- *Icaricia icarioides icarioides* — *Icaricia icarioides*
+- *Idiocerus amoenus* — *Idiocerus amoemus*
+- *Idiocerus cauterus* — *Idiocerus snowi*
+- *Idiocerus friscanus* — *Idiocerus couleanus*
+- *Idoemea californica* — *Styloxus fulleri californicus*
+- *Illice dorsimacula* — *Cisthene dorsimacula*
+- *Illice liberomacula* — *Cisthene liberomacula*
+- *Illice unifascia perrosea* — *Cisthene perrosea*
+- *Incisalia fotis fotis* — *Callophrys fotis fotis*
+- *Incisalia polios* — *Callophrys polios*
+- *Iratiquedius mutator* — *Quedius mutator*
+- *Iridomyrmex humilis* — *Linepithema humile*
+- *Isomalus nigrellus* — *Renardia nigrella*
+- *Isosoma bromi* — *Eurytoma bromi*
+- *Isosoma bromicolum* — *Tetramesa bromicola*
+- *Judolia sexpilota* — *Judolia sexspilota*
+- *Karschomyia praecipua* — *Karshomyia praecipua*
+- *Kleidocerus didymus* — *Kleidocerys resedae resedae*
+- *Labarrus cincticulus* — *Labarrus lividus lividus*
+- *Lacconotus pinicola* — *Lacconotus pinicolus*
+- *Laccophilus decipiens* — *Laccophilus maculosus decipiens*
+- *Lachnosterna errans* — *Phyllophaga errans*
+- *Lacinipolia illaudabilis* — *Lacinipolia strigicollis*
+- *Lacinipolia subalba* — *Lacinipolia acutipennis*
+- *Laemophloeus alternans* — *Leptophloeus alternans*
+- *Laemophloeus ferrugineus* — *Cryptolestes ferrugineus*
+- *Laemophloeus minutus* — *Cryptolestes pusillus*
+- *Laemophloeus pusillus* — *Cryptolestes pusillus*
+- *Laemophloeus turcicus* — *Cryptolestes turcicus*
+- *Laetilia dilatifasciella* — *Laetilia coccidivora*
+- *Laevicephalus angelus* — *Giprus angelus*
+- *Lamennaisia ambigua* — *Lamennaisia ambiguus*
+- *Lampropterus cyanipennis* — *Pilema cyanipenne*
+- *Lampropterus ruficollis* — *Pilema ruficolle*
+- *Lamprospilus orcidia* — *Thecla orcidia*
+- *Lapethus discretus* — *Mychocerus discretus*
+- *Laphria sackeni* — *Laphria asackeni*
+- *Lasiocampa medusa* — *Gloveria medusa*
+- *Lasioglossum allonotum* — *Lasioglossum allonotus*
+- *Lasioglossum imbrex* — *Lasioglossum helianthi*
+- *Lasioglossum megastictum* — *Lasioglossum megastictus*
+- *Lasioglossum pavonotum* — *Lasioglossum pavonotus*
+- *Lasioglossum perichlarum* — *Lasioglossum perichlarus*
+- *Lasioglossum pruinosiforme* — *Lasioglossum semicaeruleum*
+- *Lasioglossum pullilabre* — *Lasioglossum pullilabris*
+- *Lasioglossum spec* — *Lasioglossum speculum*
+- *Lasioglossum timberlakei* — *Lasioglossum californicum*
+- *Lasiopogon drabicola* — *Lasiopogon drabicolus*
+- *Lasioptera diplaci* — *Neolasioptera diplaci*
+- *Lasioptera verbenae* — *Neolasioptera verbenae*
+- *Lathrobium californicum* — *Pseudolathra californica*
+- *Lathrobium jacobinum* — *Lobrathium jacobinum*
+- *Lathrobium puncticeps* — *Lobrathium lecontei*
+- *Lathrotropis relicta* — *Lobrathium jacobinum*
+- *Lathrotropis vafra* — *Lobrathium vafrum*
+- *Lathrotropis validiceps* — *Lobrathium validiceps*
+- *Lebia barbarae* — *Lebia cyanipennis*
+- *Lebia furcata* — *Lebia vittata*
+- *Lebia pacifica* — *Lebia guttula*
+- *Lebia papago* — *Lebia viridis*
+- *Lebia ruficollis* — *Lebia cyanipennis*
+- *Lecanium pruinosum* — *Parthenolecanium pruinosum*
+- *Lecanium pubescens* — *Eulecanium pubescens*
+- *Lechriops californicus* — *Lechriops californica*
+- *Lejops chrysostomus* — *Anasimyia chrysostomus*
+- *Lejops curvipes* — *Polydontomyia curvipes*
+- *Lejops polygrammus* — *Asemosyrphus polygrammus*
+- *Lema trilineata* — *Lema daturaphila*
+- *Lepesoma raucus* — *Dyslobus ursinus*
+- *Leptacinus brunnescens* — *Linohesperus brunnescens*
+- *Leptacmaeops auricollis* — *Cortodera cubitalis*
+- *Leptacmaeops basalis dichroma* — *Cortodera cubitalis*
+- *Leptacmaeops cuneata* — *Cortodera cubitalis*
+- *Leptacmaeops temporalis* — *Cortodera cubitalis*
+- *Leptalia fuscicollis* — *Leptalia macilenta*
+- *Leptolinus grandiceps* — *Stictolinus grandiceps*
+- *Leptolinus parcus* — *Hesperolinus parcus*
+- *Leptomydas concinnus* — *Pseudonomoneura hirta*
+- *Leptomydas hirta* — *Pseudonomoneura hirta*
+- *Leptophlebia rufivenosa* — *Paraleptophlebia rufivenosa*
+- *Leptosylla segnis* — *Leptopsylla segnis*
+- *Leptothorax gallae* — *Temnothorax gallae*
+- *Leptothorax nitens* — *Temnothorax nitens*
+- *Leptothrips russelli* — *Leptothrips fasciculatus*
+- *Leptura coquilletti* — *Stenostrophia coquilletti*
+- *Leptura pernigra* — *Toxoleptura pernigra*
+- *Leptura propinqua* — *Etorofus propinquus*
+- *Leptura soror* — *Etorofus soror*
+- *Lestomyia redlandae* — *Lestomyia sabulona*
+- *Lethe portlandia* — *Enodia portlandia*
+- *Leucania februalis* — *Leucania humidicola*
+- *Leucania phragmatidicola* — *Leucania phragmitidicola*
+- *Leucopis atrifacies* — *Leucotaraxis atrifacies*
+- *Leucospis affinis affinis* — *Leucospis affinis*
+- *Liasemum mokelumne* — *Asemum nitidum*
+- *Libellula lydia* — *Plathemis lydia*
+- *Ligyrus californicus* — *Ligyrus gibbosus*
+- *Limnebius congener* — *Limnebius alutaceus*
+- *Limnophila apiculata* — *Idioptera apiculata*
+- *Limnophila damula* — *Dactylolabis damula*
+- *Limnophila edentata* — *Idioptera edentata*
+- *Limnophila strepens* — *Euphylidorea flavapila*
+- *Limnophila subaptera* — *Tricyphona subaptera*
+- *Limnophora aequifrons* — *Lispoides aequifrons*
+- *Limonia brevivena* — *Dicranomyia brevivena*
+- *Limonia communis* — *Geranomyia communis*
+- *Limonia domestica* — *Rhipidia domestica*
+- *Limonia halterata* — *Dicranomyia halterata*
+- *Limonia humidicola* — *Dicranomyia humidicola*
+- *Limonia kernensis* — *Dicranomyia kernensis*
+- *Limonia linsdalei* — *Dicranomyia linsdalei*
+- *Limonius pilosus* — *Cidnopus pilosus*
+- *Limotettix cuneatus* — *Ophiolix cuneatus*
+- *Limothrips setariae* — *Limothrips angulicornis*
+- *Lindorus lophanthae* — *Rhyzobius lophanthae*
+- *Lineaspis cupressi* — *Cupidaspis cupressi*
+- *Lipeurus fuliginosus major* — *Naubates fuliginosus*
+- *Lipeurus macrocephalus* — *Mulcticola macrocephalus*
+- *Lipocosma albibasalis* — *Lipocosma albinibasalis*
+- *Lipodonta veris* — *Hydrosmecta callidula*
+- *Lipolexis chenopodiaphidis* — *Diaeretiella rapae*
+- *Lipolexis salicaphidis* — *Adialytus salicaphis*
+- *Lipoptena depressa* — *Lipoptenella depressa*
+- *Lispa salina* — *Lispe salina*
+- *Lissagria longicollis* — *Lissagria laeviuscula*
+- *Lissagria minuscula* — *Lissagria laeviuscula*
+- *Lissagria robusta* — *Lissagria laeviuscula*
+- *Lita deoia* — *Prolita deoia*
+- *Lita geniata* — *Prolita geniata*
+- *Lita incicur* — *Prolita incicur*
+- *Lita recens* — *Prolita recens*
+- *Litaneutria obscura* — *Litaneutria ocularis*
+- *Lithurgus apicalis* — *Lithurgopsis apicalis*
+- *Loderus genucinctus* — *Dolerus vestigialis*
+- *Lomachaeta cirrhomeris* — *Lomachaeta chionothrix*
+- *Lon melane melane* — *Lon melane*
+- *Lophocampa argentata argentata* — *Lophocampa argentata*
+- *Lopidea bullata fusca* — *Lopidea bullata*
+- *Lopidea mohave* — *Lopidea garryae*
+- *Lordithon oregonus* — *Bobitobus oregonus*
+- *Lordotus canalis* — *Geminaria canalis*
+- *Loricera californica* — *Loricera pilicornis pilicornis*
+- *Lorita abornana* — *Lorita scarificata*
+- *Loxostege triumphalis* — *Loxostege immerens*
+- *Loyolanthidium ehrhorni* — *Anthidiellum ehrhorni*
+- *Loyolanthidium robertsoni* — *Anthidiellum robertsoni*
+- *Lycaena antaegon* — *Plebejus acmoin*
+- *Lycaena antiacis* — *Nomiades antiacis*
+- *Lycaena arota* — *Tharsalea arota*
+- *Lycaena arota nubila* — *Tharsalea arota nubila*
+- *Lycaena arota virginiensis* — *Tharsalea arota virginiensis*
+- *Lycaena dione* — *Gaeides dione*
+- *Lycaena dorcas florus* — *Epidemia dorcas florus*
+- *Lycaena gargano* — *Polyommatus dolus gargano*
+- *Lycaena helloides* — *Epidemia helloides*
+- *Lycaena hermes* — *Hermelycaena hermes*
+- *Lycaena hyllus* — *Hyllolycaena hyllus*
+- *Lycaena rubidus* — *Tharsalea rubidus*
+- *Lycaena sonorensis* — *Philotes sonorensis*
+- *Lycaena tehama* — *Cupido cilla*
+- *Lyctus planicollis* — *Lyctus carbonarius*
+- *Lygaeus pusio* — *Lygaeospilus pusio*
+- *Lygaeus pyrrhopterus* — *Melanopleurus pyrrhopterus*
+- *Lygus sallei* — *Proba sallei*
+- *Lymnaeum laticeps* — *Bembidion laticeps*
+- *Lymneops angusticeps* — *Bembidion laticeps*
+- *Lynchia hirsuta* — *Icosta hirsuta*
+- *Lysiphlebus abutilaphidis* — *Lysiphlebus testaceipes*
+- *Lysiphlebus baccharaphidis* — *Lysiphlebus testaceipes*
+- *Lysiphlebus coquilletti* — *Lysiphlebus testaceipes*
+- *Lysiphlebus piceiventris* — *Lysiphlebus testaceipes*
+- *Lytta nuttallii* — *Lytta nuttalli*
+- *Macaria fieldi* — *Digrammia fieldi*
+- *Macaria metanemaria* — *Letispe metanemaria*
+- *Machimus occidentalis* — *Proctacanthus occidentalis*
+- *Macropodina ampla* — *Cremastocheilus planatus*
+- *Macropsis magnus* — *Momoria magna*
+- *Macrosiagon cruentum* — *Macrosiagon cruentus*
+- *Macrosiphoniella glabrum* — *Macrosiphoniella glabra*
+- *Macrosiphum ambrosiae* — *Uroleucon ambrosiae ambrosiae*
+- *Macrosiphum laevigatae* — *Macrosiphum californicum*
+- *Macrotylus intermedius* — *Macrotylus paykullii*
+- *Malachius viridis* — *Cordylepherus viridis*
+- *Malacosoma constricta constricta* — *Malacosoma constricta*
+- *Mallophora fautricoides* — *Mallophora fautrix*
+- *Mallophora megachile* — *Megaphorus megachile*
+- *Mallota sackeni* — *Imatisma sackeni*
+- *Mechanitis caloifornica* — *Mechanitis polymnia*
+- *Mechanitis isthmia* — *Mechanitis polymnia*
+- *Mecyna luscitialis* — *Mecyna luscitalis*
+- *Megacephala carolina* — *Tetracha carolina*
+- *Megachile angelica* — *Megachile subnigra angelica*
+- *Megachile blaisdelli* — *Megachile subnigra*
+- *Megachile brevis onobrychidis* — *Megachile onobrychidis*
+- *Megachile gabrielensis* — *Megachile pascoensis*
+- *Megachile mendica coquilletti* — *Megachile coquilletti*
+- *Megachile moschata* — *Megachile subnigra*
+- *Megachile parallela rita* — *Megachile parallela*
+- *Megachile redlandica* — *Megachile alata*
+- *Megachile subanograe* — *Megachile sublaurita*
+- *Megalothrips hesperus* — *Bactrothrips hesperus*
+- *Megarhyssa nortoni nortoni* — *Megarhyssa nortoni*
+- *Megathymus yuccae martini* — *Megathymus coloradensis martini*
+- *Megathymus yuccae navajo* — *Megathymus coloradensis*
+- *Megograpta marginata* — *Toxomerus marginatus*
+- *Melanagromyza malefica* — *Melanagromyza burgessi*
+- *Melanalia tetricula* — *Oxypoda tetricula*
+- *Melanodexiopsis pacifica* — *Melanodexia grandis*
+- *Melanolestes abdominalis* — *Melanolestes picipes*
+- *Melanophila californica* — *Phaenops californica*
+- *Melanophila intrusa* — *Phaenops intrusa*
+- *Melanoplus consanguineus* — *Melanoplus devastator devastator*
+- *Melanoplus femur-rubrum femur-rubrum* — *Melanoplus femurrubrum*
+- *Melanoplus pinctus* — *Oedaleonotus pinctus*
+- *Melanostoma chaetopoda* — *Platycheirus hesperius*
+- *Melanostoma tigrina* — *Platycheirus stegnus*
+- *Melanotrichus malvastri* — *Brooksetta malvastri*
+- *Melecta californica* — *Xeromelecta californica*
+- *Meligethes rufimanus* — *Brassicogethes aeneus*
+- *Melissodes metenua* — *Melissodes metenuus*
+- *Melissodes nigracauda* — *Melissodes nigrocaudus*
+- *Melissodes tepida timberlakei* — *Melissodes tepidus timberlakei*
+- *Melissodes tepida yumensis* — *Melissodes tepidus yumensis*
+- *Melitaea augusta* — *Occidryas editha*
+- *Melitaea chalcedona* — *Occidryas chalcedona*
+- *Melitaea editha* — *Occidryas editha*
+- *Melitaea gabbii* — *Chlosyne gabbii*
+- *Melitaea hertha* — *Melitaea leucippe*
+- *Melitaea leanira* — *Thessalia leanira*
+- *Melitaea nubigena* — *Occidryas editha nubigena*
+- *Melitaea palla* — *Chlosyne palla*
+- *Menopon incerta* — *Myrsidea incerta*
+- *Merisus cognatus* — *Homoporus cognatus*
+- *Mesothemis illota* — *Sympetrum illotum*
+- *Messor andrei* — *Veromessor andrei*
+- *Messor chamberlini* — *Veromessor chamberlini*
+- *Messor pergandei* — *Veromessor pergandei*
+- *Messor stoddardi* — *Veromessor stoddardi*
+- *Metadelphax propinqua* — *Toya propinqua*
+- *Metadioctria parvula* — *Metadioctria parvulus*
+- *Metanema cervinaria* — *Tetracis cervinaria*
+- *Metanotalia maderensis* — *Metanotalia maderense*
+- *Metaphycus aurantiacus* — *Metaphycus alberti*
+- *Metaphycus bartletti* — *Metaphycus lounsburyi*
+- *Metasyrphus lapponicus* — *Lapposyrphus lapponicus*
+- *Metasyrphus subsimus* — *Eupeodes subsimus*
+- *Meteorus coquilletti* — *Meteorus rubens*
+- *Metopia leucocephala* — *Metopia argyrocephala*
+- *Metoponia rubriceps* — *Inopus rubriceps*
+- *Metriocnemus stylatus* — *Parametriocnemus stylatus*
+- *Metrius sericeus* — *Metrius contractus sericeus*
+- *Metrocampa margaritaria* — *Campaea margaritaria*
+- *Micrandrena pacifica* — *Andrena melanochroa*
+- *Micrella monelli* — *Chaitophorus monelli*
+- *Microcalyptris lotella* — *Acalyptris lotella*
+- *Microcylloepus pusillus foveatus* — *Microcylloepus pusillus*
+- *Microdon senilis* — *Microdon lanceolatus*
+- *Microlestes glabratus* — *Microlestes minutulus*
+- *Microphorus ravidus* — *Schistostoma ravidum*
+- *Microterys flavus* — *Microterys nietneri*
+- *Microterys saissetiae* — *Afrencyrtus saissetiae*
+- *Microterys titiani* — *Microterys sylvius*
+- *Miscophinus californicus* — *Miscophus californicus*
+- *Miscophinus nigriceps* — *Miscophus nigriceps*
+- *Mompha iridella* — *Stagmatophora iridella*
+- *Monobia bicolor* — *Odynerus erythrogaster*
+- *Monochamus clamator clamator* — *Monochamus clamator*
+- *Monochamus fulvomaculatus* — *Monochamus obtusus fulvomaculatus*
+- *Monochamus mutator* — *Monochamus maculosus*
+- *Monodontomerus saltuosus* — *Monodontomerus viridiscapus*
+- *Monomorium minimum* — *Monomorium carbonarium*
+- *Monophadnoides geniculatus* — *Monophadnoides rubi*
+- *Monopsyllus wagneri* — *Aetheca wagneri*
+- *Monotoma famelica* — *Monotoma picipes*
+- *Mycodiplosis conicola* — *Resseliella conicola*
+- *Mycodiplosis coryloides* — *Resseliella coryloides*
+- *Myelopsis minutulella* — *Myelopsis minutularia*
+- *Myelopsis piazzella* — *Myelopsis alatella*
+- *Myllaena esuriens* — *Myllaena fenyesi*
+- *Myllaena molesta* — *Myllaena audax*
+- *Myllaena umbra* — *Myllaena decreta*
+- *Myllaena vegeta* — *Myllaena audax*
+- *Myoleja unifasciata* — *Euleia unifasciata*
+- *Myopsocus maculosus* — *Loensia maculosa*
+- *Myriophora aequaliseta* — *Megaselia aequaliseta*
+- *Myrmeleon agriope* — *Myrmeleon rusticus*
+- *Myrmeleon distans* — *Myrmeleon rusticus*
+- *Mythicomyia angusta* — *Pieza angusta*
+- *Mythicomyia mutabilis* — *Mythenteles propleuralis*
+- *Mythicomyia napaea* — *Paraconsors napaea*
+- *Myzinum maculatum* — *Tiphia maculata*
+- *Myzinum quinquecinctum* — *Myzinum quinquecincta*
+- *Myzocallis alhambra* — *Neomyzocallis punctata*
+- *Myzocallis arundinariae* — *Takecallis arundinariae*
+- *Myzocallis californicus* — *Tuberculatus californicus*
+- *Myzocallis davidsoni* — *Agrioaphis castanicola*
+- *Napaia gracilis* — *Chloealtis gracilis*
+- *Narthecius striaticeps* — *Narthecius simulator*
+- *Nebria tenuipes* — *Nebria eschscholtzii*
+- *Nectarosiphon morrisoni* — *Illinoia morrisoni*
+- *Necydalis diversicollis californica* — *Necydalis californica*
+- *Neleucania bicolorata* — *Neleucania praegracilis*
+- *Nematus oligospilus* — *Euura oligospila*
+- *Nemocestes sordidus* — *Nemocestes puncticollis*
+- *Neoborus fasciolus* — *Tropidosteptes fasciolus*
+- *Neochthebius vandykei* — *Ochthebius vandykei*
+- *Neoclytus tularensis* — *Neoclytus conjunctus*
+- *Neococcidencyrtus alula* — *Neococcidencyrtus poutiersi*
+- *Neogalea esula* — *Neogalea sunia*
+- *Neogrotella macdunnoughi* — *Neogrotella mcdunnoughi*
+- *Neohaematopinus laeviusculus* — *Linognathoides laeviusculus*
+- *Neohermes infuscatus* — *Protochauliodes minimus*
+- *Neopachylopus aeneipunctatus* — *Hypocaccus aeneipunctatus*
+- *Neopachylopus sulcifrons* — *Hypocaccus sulcifrons*
+- *Neopelomyia longicera* — *Neopelomyia longicerca*
+- *Nephus guttulatus* — *Scymnobius guttulatus*
+- *Nephus sordidus* — *Scymnobius sordidus*
+- *Neuroterus saltarius* — *Pseudoneuroterus saliens*
+- *Nicrophorus guttulus labreae* — *Nicrophorus guttula*
+- *Nitops pallipennis* — *Carpophilus pallipennis*
+- *Nomenia obsoleta* — *Venusia obsoleta*
+- *Noserus plicatus* — *Phellopsis porcata*
+- *Notarctia proxima* — *Apantesis proxima*
+- *Notiodes aeratus* — *Endalus aeratus*
+- *Notiodes disgregus* — *Endalus disgregus*
+- *Notiodes punctatus* — *Endalus punctatus*
+- *Notiophilus obscurus* — *Notiophilus sierranus*
+- *Notiphila aenigma* — *Notiphila olivacea*
+- *Notocyphus dorsalis* — *Notocyphus dorsalis dorsalis*
+- *Notoxus alamedae* — *Notoxus lustrellus*
+- *Novius cardinalis* — *Rodolia cardinalis*
+- *Nudobius corticalis* — *Nudobius pugetanus*
+- *Nymphalis vaualbum* — *Polygonia vaualbum*
+- *Oberea schaumii* — *Oberea quadricallosa*
+- *Ochleroptera bipunctata* — *Clitemnestra bipunctata*
+- *Ochlodes yuma* — *Ochlodes sylvanoides yuma*
+- *Ochodaeus californicus* — *Parochodaeus californicus*
+- *Ochrosidia pasadenae* — *Cyclocephala pasadenae*
+- *Ochthebius holmbergi* — *Ochthebius marinus*
+- *Ochthebius reticulus* — *Ochthebius recticulus*
+- *Ochthedromus angulifer* — *Bembidion anguliferum*
+- *Ochthedromus bifossulatus* — *Bembidion bifossulatum*
+- *Ochthedromus connivens* — *Bembidion connivens*
+- *Ochthedromus cruralis* — *Bembidion quadrimaculatum dubitans*
+- *Ochthedromus dubitans* — *Bembidion quadrimaculatum dubitans*
+- *Ochthedromus ephippigerus* — *Bembidion ephippigerum*
+- *Ochthedromus grandicollis* — *Bembidion lecontei*
+- *Ochthedromus insulatus* — *Bembidion insulatum*
+- *Ochthedromus iridescens* — *Bembidion iridescens*
+- *Ochthedromus mundus* — *Bembidion mundum*
+- *Ochthedromus striola* — *Bembidion striola*
+- *Ochthedromus tesselatus* — *Bembidion conspersum*
+- *Ochthedromus vilis* — *Bembidion vile*
+- *Ochthera melanderi* — *Ochthera cuprilineata*
+- *Octotemnus denudatus* — *Octotemnus laevis*
+- *Ocyptamus diversifasciatus* — *Pseudoscaeva diversifasciatus*
+- *Ocyptamus lemur* — *Hypocritanus lemur*
+- *Odontopsyllus wymani* — *Catallagia wymani*
+- *Odynerus giffardi* — *Rhynchalastor blandus*
+- *Odynerus rufobasilaris* — *Leptochilus rufinodus*
+- *Oeciacus vicarius* — *Cimex vicarius*
+- *Oecleus cabazonus* — *Oecleus subreflexus*
+- *Oedaleonotus fratercula* — *Aeoloplides fratercula*
+- *Oedaleonotus pictus* — *Melanoplus pictus*
+- *Oedenops nudus* — *Paralimna nuda*
+- *Oeme gracilis* — *Paranoplium gracile*
+- *Oeneis chryxus ivallda* — *Oeneis ivallda*
+- *Oidaematophorus confusus* — *Hellinsia confusus*
+- *Oidaematophorus phoebus* — *Hellinsia phoebus*
+- *Okanagana californica* — *Tibicinoides vanduzeei*
+- *Okanagana consobrina* — *Tibicinoides vanduzeei*
+- *Okanagana striatipes* — *Tibicinoides striatipes*
+- *Okanagana tristis tristis* — *Okanagana tristis*
+- *Okanagana uncinata* — *Tibicinoides uncinata*
+- *Okanagana utahensis* — *Tibicinoides utahensis*
+- *Okanagana vanduzeei* — *Tibicinoides vanduzeei*
+- *Oliarus aridus* — *Oliaridus aridus*
+- *Oliarus californica* — *Oliaridus californicus*
+- *Oliarus hesperia* — *Oliaridus hesperius*
+- *Oligia marina* — *Aseptis marina*
+- *Oligocentria pallida* — *Ianassa pallida*
+- *Oligodranes lugens* — *Apolysis lugens*
+- *Oligopterus cuneicollis* — *Sunius cuneicollis*
+- *Oligota congruens* — *Oligota parva*
+- *Olla abdominalis* — *Olla v-nigrum*
+- *Olla plagiata* — *Olla v-nigrum*
+- *Omalium fucicola* — *Omalium laeviusculum*
+- *Omus argutus* — *Omus californicus californicus*
+- *Omus blaisdelli* — *Omus californicus intermedius*
+- *Omus cribripennis* — *Omus californicus californicus*
+- *Omus debiliceps* — *Omus californicus californicus*
+- *Omus dunni* — *Omus californicus californicus*
+- *Omus elongatus* — *Omus californicus californicus*
+- *Omus hornii* — *Omus californicus californicus*
+- *Omus lacertus* — *Omus californicus californicus*
+- *Omus laevis* — *Omus californicus californicus*
+- *Omus lecontei* — *Omus californicus californicus*
+- *Omus maritimus* — *Omus californicus californicus*
+- *Omus parvicollis* — *Omus californicus intermedius*
+- *Omus peropacus* — *Omus californicus californicus*
+- *Omus pollens* — *Omus californicus californicus*
+- *Omus procerus* — *Omus californicus intermedius*
+- *Omus pullatus* — *Omus californicus californicus*
+- *Omus regularis* — *Omus californicus californicus*
+- *Omus sculptilis* — *Omus californicus californicus*
+- *Omus semilucens* — *Omus californicus californicus*
+- *Omus sequoiarum* — *Omus californicus californicus*
+- *Omus spissipes* — *Omus californicus intermedius*
+- *Omus subsericeus* — *Omus californicus californicus*
+- *Omus tularensis* — *Omus californicus californicus*
+- *Omus turbulentus* — *Omus californicus californicus*
+- *Omus vanlooi* — *Omus californicus californicus*
+- *Oncopeltus sanguineolentus* — *Oncopeltus sanguinolentus*
+- *Opsebius diligens* — *Turbopsebius diligens*
+- *Optioservus canus* — *Heterlimnius canus*
+- *Optioservus divergens* — *Heterlimnius divergens*
+- *Optioservus quadrimaculatus* — *Heterlimnius quadrimaculatus*
+- *Optioservus seriatus* — *Heterlimnius seriatus*
+- *Orchopeas wickhami* — *Orchopeas howardi*
+- *Orcus chalybeus* — *Halmus chalybeus*
+- *Ordobrevia nubifera* — *Ordobrevia nubifer*
+- *Oreodytes abbreviatus* — *Nectoporus abbreviatus*
+- *Oreodytes picturatus* — *Deuteronectes picturatus*
+- *Oreodytes rhyacophilus* — *Nectoporus rhyacophilus*
+- *Oreodytes rivalis* — *Nectoporus sanmarkii*
+- *Ornithoica promiscua* — *Ornithoica vicina*
+- *Orthocis aterrimus* — *Orthocis punctatus*
+- *Orthopodomyia signifera* — *Orthopodomyia signifer*
+- *Orthoris captiosa* — *Rhoptobaris scolopax*
+- *Orthoris crotchii* — *Rhoptobaris scolopax*
+- *Orus pallidus* — *Orus punctatus*
+- *Orus sonomae* — *Orus punctatus*
+- *Osmia aprilina atrovirens* — *Osmia cyanella*
+- *Osmia bakeri* — *Osmia melanopleura*
+- *Osmia basilissa* — *Osmia cobaltina*
+- *Osmia brevior* — *Osmia cyanella*
+- *Osmia casta* — *Osmia nigrifrons*
+- *Osmia claremontensis* — *Osmia sedula*
+- *Osmia cockerelli* — *Osmia dakotensis*
+- *Osmia coerulescens* — *Osmia caerulescens*
+- *Osmia cyanosoma* — *Osmia tristella*
+- *Osmia davidsoniella* — *Osmia texana*
+- *Osmia francisconis* — *Osmia enixa*
+- *Osmia integra nigrigena* — *Osmia integra*
+- *Osmia nassa* — *Osmia californica*
+- *Osmia parallela* — *Osmia cyanopoda*
+- *Osmia pasadenae* — *Osmia coloradensis*
+- *Osmia phaceliae* — *Osmia nanula*
+- *Osmia physariae* — *Osmia giliarum*
+- *Osmia platyura* — *Hoplitis fulgida*
+- *Osmia putata* — *Osmia atrocyanea*
+- *Osmia remotula* — *Hoplitis remotula*
+- *Osmia titusi* — *Osmia phenax*
+- *Osmia visenda* — *Osmia albolateralis visenda*
+- *Oxybelus uniglumis quadrinotatus* — *Oxybelus uniglumis*
+- *Oxypoda opacicollis* — *Homalota opacicollis*
+- *Oxypoda opica* — *Acrotona opica*
+- *Oxytelus niger* — *Anotylus niger*
+- *Oxytelus vegrandis* — *Anotylus vegrandis*
+- *Ozodiceromyia nigrimana* — *Ozodiceromyia nigrimanus*
+- *Ozognathus misellus* — *Ozognathus cornutus*
+- *Pachybrachis bivittatus* — *Agroiconota bivittata*
+- *Pactopus hornii* — *Pactopus horni*
+- *Paedisca atomosana* — *Pelochrista atomosana*
+- *Paedisca basipunctana* — *Epinotia subplicana*
+- *Paedisca grandiflavana* — *Pelochrista grandiflavana*
+- *Paedisca hirsutana* — *Epiblema hirsutana*
+- *Paedisca maculatana* — *Pelochrista maculatana*
+- *Paedisca pulveratana* — *Pelochrista pulveratana*
+- *Palpita atrisquamalis* — *Palpita gracilalis*
+- *Pamphila juba* — *Hesperia juba*
+- *Pangonia hera* — *Brennania hera*
+- *Panurginus morrisoni* — *Panurginus melanocephalus*
+- *Papilio philenor* — *Battus philenor*
+- *Papilio rudkini* — *Papilio polyxenes*
+- *Parabolocratus atascaderus* — *Hecalus atascaderus*
+- *Paracalocerinus tertius* — *Tetracnemus tertius*
+- *Paradejeania rutilioides nigrescens* — *Paradejeania nigrescens*
+- *Paradelius rubra* — *Paradelius ruber*
+- *Paraleucoptera heinrichi* — *Leucoptera heinrichi*
+- *Paralimna multipunctata* — *Paralimna thomae*
+- *Parallelina campanifera* — *Grammoptera rhodopus*
+- *Parandra marginicollis* — *Neandra marginicollis*
+- *Paranoplium gracile gracile* — *Paranoplium gracile*
+- *Paraphasia nigra* — *Phasia nigra*
+- *Paraprosalpia genalis* — *Alliopsis genalis*
+- *Parasemidalis flaviceps* — *Conwentzia barretti*
+- *Paratettix aztecus* — *Teredorus aztecus*
+- *Paratettix mexicanus* — *Clypeotettix mexicanus*
+- *Paratettix toltecus* — *Platythorus toltecus*
+- *Paratrioza lavaterae* — *Bactericera lavaterae*
+- *Paratrioza maculipennis* — *Bactericera maculipennis*
+- *Paravilla edititoides* — *Paravilla editioides*
+- *Parnassius behrii* — *Parnassius smintheus*
+- *Paropulopa californica* — *Tiaja californica*
+- *Paropulopa friscana* — *Tiaja friscana*
+- *Paropulopa interrupta* — *Tiaja interrupta*
+- *Paroxyna farinata* — *Campiglossa farinata*
+- *Paroxyna genalis* — *Campiglossa genalis*
+- *Paroxyna murina* — *Campiglossa murina*
+- *Paroxyna variabilis* — *Campiglossa variabilis*
+- *Pasadenus deltus* — *Limbanus deltus*
+- *Passadena constantella* — *Passadena flavidorsella*
+- *Pauridia peregrina* — *Coccidoxenoides perminutus*
+- *Pedicia hynesiana* — *Tricyphona hynesiana*
+- *Pedinaspis bucephala* — *Psorthaspis planata*
+- *Pegomyia fuscinervis* — *Eutrichota nigrifemur*
+- *Pelecomalium binotatum* — *Pelecomalium testaceum*
+- *Pelochrista expolitana* — *Pelochrista metariana*
+- *Pelochrista langstoni* — *Pelochrista russeola*
+- *Peltodytes dispersus* — *Peltodytes simplex*
+- *Pemphigus fraxini-dipetalae* — *Prociphilus americanus*
+- *Pemphigus populi-globuli* — *Pemphigus populiglobuli*
+- *Pemphigus populi-venae* — *Pemphigus populi-venais*
+- *Pemphigus radicicola* — *Smynthurodes betae*
+- *Pemphigus ranunculi* — *Thecabius affinis*
+- *Pemphredon errans* — *Pemphredon confertim*
+- *Pemphus opacus* — *Scaphinotus velutinus*
+- *Penenirmus auritus* — *Picophilopterus auritus*
+- *Penstemonia brevifolia* — *Penstemonia dammersi*
+- *Pentaneura comosa* — *Pentaneura inconspicus*
+- *Pentaneura inconspicua* — *Pentaneura inconspicus*
+- *Pentaneura thryptica* — *Zavrelimyia thryptica*
+- *Pepsis chrysothemis chrysothemis* — *Pepsis chrysothemis*
+- *Pepsis formosa* — *Pepsis grossa*
+- *Pepsis pallidolimbata smithi* — *Pepsis pallidolimbata*
+- *Perdita arcuata* — *Macrotera arcuata*
+- *Perdita arcuata dinognatha* — *Macrotera arcuata*
+- *Perdita dinognatha* — *Macrotera arcuata*
+- *Perdita interserta ciliata* — *Perdita ciliata*
+- *Perdita ruficauda* — *Perdita trisignata*
+- *Pericoma californica* — *Pneumia californica*
+- *Perigonica fermata* — *Perigonica tertia*
+- *Perilampus chrysopae* — *Perilampus chrysis*
+- *Peripsocus californicus* — *Ectopsocus californicus*
+- *Perissopompilus phoenix* — *Hesperopompilus phoenix*
+- *Perla californica* — *Calineuria californica*
+- *Perla luctuosa* — *Calliperla luctuosa*
+- *Peromyscopsylla hemisphaerium* — *Peromyscopsylla hesperomys adelpha*
+- *Pezotettix enigma* — *Oedaleonotus enigma*
+- *Phacophallus tricolor* — *Phacophallus pallidipennis*
+- *Phaenicia sericata* — *Lucilia sericata*
+- *Phaenobremia doutti* — *Aphidoletes aphidimyza*
+- *Phalacropsylla cummingi* — *Meringis cummingi*
+- *Phallospinophyllus setosus* — *Phallospinophylus setosus*
+- *Phaneta parvula* — *Eucosma parvula*
+- *Phasiane irrorata* — *Digrammia irrorata*
+- *Pheidole teneriffana* — *Pheidole indica*
+- *Pheidole vaslitii* — *Pheidole hyatti*
+- *Pheosia portlandia* — *Pheosia californica*
+- *Pherbellia parallela* — *Ditaeniella parallela*
+- *Philanthus anna* — *Philanthus multimaculatus*
+- *Philanthus politus pacificus* — *Philanthus pacificus*
+- *Philhydrus normatus* — *Helochares normatus*
+- *Philonthus atrolucens* — *Bisnius filicornis*
+- *Philonthus scutellatus* — *Philonthus longicornis*
+- *Philonthus sordidus* — *Bisnius sordidus*
+- *Philotecnus nigricollis* — *Tecnophilus croceicollis croceicollis*
+- *Philotecnus ruficollis* — *Tecnophilus croceicollis croceicollis*
+- *Phlaeothrips armiger* — *Hoplandrothrips armiger*
+- *Phlebotomus stewarti* — *Micropygomyia stewarti*
+- *Phobetus centralis* — *Phobetus comatus*
+- *Phobetus sloopi* — *Phobetus comatus*
+- *Phobolosia reincarnata* — *Phobolosia anfracta*
+- *Phorbia lupini* — *Delia lupini*
+- *Phorocera fuscimacula* — *Patelloa fuscimacula*
+- *Phorocera pluriseriata* — *Patelloa pluriseriata*
+- *Phortica picta* — *Phortica pictus*
+- *Photinus californica* — *Photinus californicus*
+- *Phrixocnemis obesus* — *Ceuthophilus californianus*
+- *Phthirus pubis* — *Pthirus pubis*
+- *Phyciodes campestris campestris* — *Phyciodes campestris*
+- *Phyciodes mylitta* — *Eresia aveyrona mylitta*
+- *Phyciodes pratensis* — *Phyciodes campestris*
+- *Phyciodes pulchella* — *Phyciodes tharos*
+- *Phyciodes pulchella montana* — *Phyciodes montana*
+- *Phyllogaster inermis* — *Tetramerinx inermis*
+- *Phyllolabis clavigera* — *Phyllolabis claviger*
+- *Phyllonorycter felinelle* — *Phyllonorycter platani*
+- *Phylloxera popularia* — *Phylloxerina popularia*
+- *Phymatodes decussatus decussatus* — *Phymatodes decussatus*
+- *Phymatodes harfordi* — *Phymatodes obliquus*
+- *Phymatodes hirtellus hirtellus* — *Phymatodes hirtellus*
+- *Phymatodes lecontei* — *Phymatodes grandis*
+- *Phymatopus behrensi* — *Phymatopus behrensii*
+- *Physcus stanfordi* — *Coccobius stanfordi*
+- *Physoconops sylvosus* — *Gyroconops sylvosus*
+- *Phytobia promissa* — *Calycomyza promissa*
+- *Phytomyza minuscula* — *Phytomyza ancholiae*
+- *Phytosus opacus* — *Pontomalota opaca*
+- *Pieris napi oleracea* — *Pieris oleracea*
+- *Pilimas beameri* — *Stonemyia californica*
+- *Pima albocostalis* — *Pima albocostalialis*
+- *Pima occidentalis* — *Pima albiplagiatella*
+- *Pinalitus californicus* — *Proba californica*
+- *Pineus börneri Annand, 1928* — *Pineus boerneri*
+- *Pipiza californica* — *Heringia californica*
+- *Pipiza grandifemoralis* — *Pipiza crassipes*
+- *Pipunculus industrius* — *Eudorylas industrius*
+- *Pipunculus vagabunda* — *Tomosvaryella vagabunda*
+- *Pisonopsis clypeata occidentalis* — *Pisonopsis clypeata*
+- *Plagiotrochus suberi* — *Plagiotrochus amenti*
+- *Planococcus azaleae* — *Crisicoccus azaleae*
+- *Plastophora tristis* — *Megaselia tristis*
+- *Platambus glabrellus* — *Agabinus glabrellus*
+- *Platidius incisus* — *Diplous californicus*
+- *Platidius latipennis* — *Diplous californicus*
+- *Platidius sierranus* — *Diplous californicus*
+- *Platphalonidia lavana* — *Platphalonia lavana*
+- *Platycerus latus* — *Platyceroides latus*
+- *Platycerus opacus* — *Platyceroides opacus*
+- *Platycheirus quadratus* — *Platycheirus quadrata*
+- *Platycotis vittatus* — *Platycotis vittata*
+- *Platydema oregonensis* — *Platydema oregonense*
+- *Platymetopius majestus* — *Scaphytopius majestus*
+- *Platymetopius trilineatus* — *Scaphytopius trilineatus*
+- *Platynota chiquitana* — *Platynota stultana*
+- *Platynus bicolor* — *Dyscolus bicolor*
+- *Platynus bicoloratus* — *Platynus brunneomarginatus*
+- *Platynus cupreus* — *Agonum cupreum*
+- *Platynus erasus* — *Agonum ferruginosum*
+- *Platynus fallianus* — *Agonum deplanatum*
+- *Platynus fraterculus* — *Agonum propinquum*
+- *Platynus funebris* — *Anchomenus funebris*
+- *Platynus maculicollis* — *Colpodes maculicollis*
+- *Platynus variolatus* — *Agonum variolatum*
+- *Platypalpus inculta* — *Crossopalpus inculta*
+- *Platypedia ampliata* — *Neoplatypedia ampliata*
+- *Platypedia areolata similis* — *Platypedia similis*
+- *Platypezina pacifica* — *Grossoseta pacifica*
+- *Platyprepia virginalis* — *Arctia virginalis*
+- *Platyptilia antirrhina* — *Stenoptilodes antirrhina*
+- *Platyptilia baueri* — *Paraplatyptilia baueri*
+- *Platyptilia marmarodactyla* — *Anstenoptilia marmarodactyla*
+- *Platyptilia pasadenensis* — *Anstenoptilia marmarodactyla*
+- *Platyptilus albiciliatus* — *Paraplatyptilia albiciliatus*
+- *Platyura pullata* — *Neoplatyura pullata*
+- *Plebejus acmoin acmoin* — *Plebejus acmoin*
+- *Plebejus acmon* — *Plebejus acmoin*
+- *Plebejus emigdionis* — *Plebulina emigdionis*
+- *Plebejus glandon* — *Agriades glandon*
+- *Plebejus icarioides* — *Icaricia icarioides*
+- *Plebejus icarioides evius* — *Cupido pheres*
+- *Plebejus icarioides missionensis* — *Icaricia icarioides missionensis*
+- *Plebejus icarioides moroensis* — *Icaricia icarioides moroensis*
+- *Plebejus icarioides pardalis* — *Cupido pardalis*
+- *Plebejus idas* — *Lycaeides idas*
+- *Plebejus lepidus* — *Plebejus lupini*
+- *Plebejus lupini monticola* — *Plebejus monticola*
+- *Plebejus melissa* — *Lycaeides melissa*
+- *Plebejus melissa annetta* — *Lycaena annetta*
+- *Plebejus melissa paradoxa* — *Lycaeides melissa paradoxa*
+- *Plebejus missionensis* — *Icaricia icarioides missionensis*
+- *Plebejus neurona* — *Lycaena neurona*
+- *Ploas fenestrata* — *Conophorus fenestratus*
+- *Ploas serrata* — *Conophorus melanoceratus*
+- *Poanes hobomok* — *Lon hobomok*
+- *Poanes melane* — *Lon melane*
+- *Pocalta brevis* — *Paracotalpa ursina ursina*
+- *Podagrion brasiliense* — *Podagrion brasiliensis*
+- *Podalonia communis* — *Podalonia atriceps*
+- *Poecilium lividum* — *Phymatodes lividus*
+- *Poecilobrium chalybeum* — *Poecilobrium chalybaeum*
+- *Poecilobrium chalybeum* — *Poecilobrium chalybaeum*
+- *Poladryas arachne* — *Poladryas minuta*
+- *Poliaenus schaefferi* — *Poliaenus obscurus schaefferi*
+- *Polistomyia subdivisa* — *Trichopoda subdivisa*
+- *Polites peckius* — *Polites coras*
+- *Polites sonora* — *Polites mystic sonora*
+- *Polycentropus variegatus* — *Plectrocnemia variegata*
+- *Polyderis rufotestacea* — *Nothoderis rufotestacea*
+- *Polygonia gracilis zephyrus* — *Polygonia zephyrus*
+- *Polygonus leo arizonensis* — *Polygonus leo*
+- *Polyphylla incolumis* — *Polyphylla crinita*
+- *Polyphylla incolumnis robustula* — *Polyphylla nigra*
+- *Polyphylla ruficollis* — *Polyphylla decemlineata*
+- *Polyplax abscisa* — *Polyplax alaskensis*
+- *Pompilioides angularis* — *Pompilus angularis angularis*
+- *Pompilioides estellina* — *Anoplius estellina*
+- *Pompiloides clystera* — *Anoplius clystera*
+- *Pompilus angularis* — *Pompilus angularis angularis*
+- *Pompilus anomalus* — *Pompilus anomalus anomalus*
+- *Pompilus arctus* — *Arachnospila arctus*
+- *Pompilus hilli* — *Hesperopompilus hilli*
+- *Ponometia macdunnoughi* — *Ponometia mcdunnoughi*
+- *Pontomalota nigriceps* — *Pontomalota opaca*
+- *Priocnemioides unifasciatus californicus* — *Entypus unifasciatus californicus*
+- *Priocnemis navajo* — *Priocnemis notha navajo*
+- *Priocnemis notha* — *Priocnemis notha notha*
+- *Priophorus morio* — *Cladius brullei*
+- *Pristomerus pacificus* — *Pristomerus spinator*
+- *Pristonychus complanatus* — *Laemostenus complanatus*
+- *Prochoerodes transversata* — *Prochoerodes lineola lineola*
+- *Prociphilus alnifoliae arbutifoliae* — *Prociphilus caryae arbutifoliae*
+- *Prociphilus fitchii* — *Prociphilus caryae fitchii*
+- *Prodoxus pulverulentus* — *Prodoxus marginatus*
+- *Prodoxus reticulata* — *Greya reticulata*
+- *Promecognathus contractus* — *Promecognathus crassus*
+- *Promecognathus corpulentus* — *Promecognathus crassus*
+- *Promecognathus debilis* — *Promecognathus laevissimus*
+- *Pronuba maculata* — *Tegeticula maculata*
+- *Prospaltella perniciosi* — *Encarsia perniciosi*
+- *Prospaltella quercicola* — *Encarsia quercicola*
+- *Prospherysa similis* — *Tachinomyia similis*
+- *Protandrena pauper* — *Pseudopanurgus pauper*
+- *Protobalandricus spectabilis* — *Disholcaspis spectabilis*
+- *Protoplasa vanduzeei* — *Protanyderus vanduzeei*
+- *Protorthodes akalus* — *Trichopolia incincta*
+- *Protorthodes alfkenii* — *Trichopolia alfkenii*
+- *Protorthodes curtica* — *Trichopolia curtica*
+- *Protorthodes melanopis* — *Trichopolia melanopis*
+- *Protorthodes oviduca* — *Trichopolia oviduca*
+- *Protorthodes perforata* — *Trichopolia perforata*
+- *Protorthodes rufula* — *Trichopolia rufula*
+- *Protorthodes variabilis* — *Nudorthodes variabilis*
+- *Psallus delicatus* — *Plagiognathus delicatus*
+- *Psamatodes abydata* — *Macaria abydata*
+- *Psammaecius confertus* — *Hoplisoides confertus*
+- *Psammodius mcclayi* — *Tesarius mcclayi*
+- *Psen edentatus* — *Mimesa edentata*
+- *Psen punctifrons* — *Mimesa punctifrons*
+- *Pseneo spicatus* — *Pseneo longiventris*
+- *Psephenus veluticollis* — *Psephenus falli*
+- *Pseudaletia unipuncta* — *Mythimna unipuncta*
+- *Pseudanarta actura ate* — *Pseudanarta actura*
+- *Pseuderimerus femoratus* — *Erimerus femoratus*
+- *Pseuderimerus mayetiolae* — *Erimerus mayetiolae*
+- *Pseuderimerus semiflavus* — *Erimerus semiflavus*
+- *Pseudiglyphomyia unguttatipennis* — *Cirrospilus unguttatipennis*
+- *Pseudleptomastix flatulescens* — *Pseudleptomastix squammulata*
+- *Pseudococcobius clauseni* — *Metaphycus clauseni*
+- *Pseudococcobius fumipennis* — *Metaphycus fumipennis*
+- *Pseudodoros clavatus* — *Dioprosopa clavatus*
+- *Pseudohemihyalea edwardsii* — *Hemihyalea edwardsii*
+- *Pseudomelecta pasadenensis* — *Xeromelecta californica*
+- *Pseudoplisus californicus* — *Gorytes californicus*
+- *Pseudoplisus ocellatus* — *Gorytes ocellatus*
+- *Pseudoplisus phaleratus* — *Saygorytes phaleratus*
+- *Pseudorus prolixipennis* — *Scopaeus prolixipennis*
+- *Pseudoscaeva diversifasciata* — *Pseudoscaeva diversifasciatus*
+- *Pseudota praesaga* — *Atheta praesaga*
+- *Psilopa girschneri* — *Diasemocera girschneri*
+- *Psilopa petrolei* — *Diasemocera petrolei*
+- *Psocus californicus* — *Blaste oregona*
+- *Psylla americana curta* — *Cacopsylla curta*
+- *Psylla fatsiae* — *Cacopsylla fatsiae*
+- *Psylla notapennis* — *Cacopsylla notapennis*
+- *Psylla pararibesiae* — *Cacopsylla pararibesiae*
+- *Psylla phoradendri* — *Freysuila phorodendrae*
+- *Psylla striata* — *Cacopsylla striata*
+- *Pterophorus agraphodactylus* — *Hellinsia agraphodactylus*
+- *Pterophorus baccharides* — *Hellinsia grandis*
+- *Pterostichus alamedae* — *Pterostichus vicinus*
+- *Pterostichus cursitor* — *Poecilus cursitor*
+- *Pterostichus diabolus* — *Pterostichus californicus*
+- *Pterostichus diplophryus* — *Poecilus diplophryus*
+- *Pterostichus laetulus* — *Poecilus laetulus*
+- *Pterostichus mimus* — *Pterostichus congestus*
+- *Pterotaea serrataria* — *Pterotaea melanocarpa melanocarpa*
+- *Pterourus multicaudata pusillus* — *Papilio multicaudata*
+- *Pterourus multicaudatus* — *Papilio multicaudata*
+- *Ptilium columbianum* — *Ptiliolum columbianum*
+- *Ptinobius agrili* — *Cleonymus agrili*
+- *Ptinobius californicus* — *Cleonymus californicus*
+- *Pulvinaria ehrhorni* — *Pulvinaria occidentalis*
+- *Pulvinaria mesembryanthemi* — *Pulvinariella mesembryanthemi*
+- *Puren connexus* — *Purenleon connexus*
+- *Pyrameis cardui* — *Vanessa cardui*
+- *Pyrameis carye* — *Vanessa carye*
+- *Pyramica tetragnatha* — *Strumigenys tetragnatha*
+- *Pyrausta californicalis californicalis* — *Pyrausta californicalis*
+- *Pyrausta insequalis* — *Pyrausta subsequalis*
+- *Pyrausta perrubralis perrubralis* — *Pyrausta perrubralis*
+- *Pyrgus albescens* — *Burnsius communis albescens*
+- *Pyrgus communis* — *Burnsius communis*
+- *Pyrgus oileus* — *Burnsius oileus*
+- *Pyrotrichus cribripennis* — *Enoploderes vitticollis*
+- *Rabdophaga rigidae* — *Thecodiplosis pinirigidae*
+- *Racheospila glaucomarginaria* — *Nemoria glaucomarginaria*
+- *Raphidia astuta* — *Agulla astuta*
+- *Raphidia occulta* — *Agulla bicolor*
+- *Ratzeburgia hyalinipennis* — *Eusandalum hyalinipennis*
+- *Recurvaria bacchariella* — *Coleotechnites bacchariella*
+- *Recurvaria invictella* — *Coleotechnites invictella*
+- *Recurvaria stanfordia* — *Coleotechnites stanfordia*
+- *Reichenbachia fundata* — *Reichenbachia albionica*
+- *Rhabdophaga occidentalis* — *Rabdophaga occidentalis*
+- *Rhaphidolabis vanduzeei* — *Dicranota vanduzeei*
+- *Rhegmoclema scrobicollis* — *Rhegmoclemina scrobicollis*
+- *Rhicnoessa angustipennis* — *Tethina angustipennis*
+- *Rhicnoessa lavendula* — *Tethina angustipennis*
+- *Rhicnoessa prognatha* — *Tethina prognatha*
+- *Rhicnoessa variseta* — *Tethina variseta*
+- *Rhigopsis scutellata* — *Rhigopsis effracta*
+- *Rhipiphorus vierecki* — *Ripiphorus vierecki*
+- *Rhopalosiphum rufiabdominalis* — *Rhopalosiphum rufiabdominale*
+- *Rhopalus tigrinus* — *Brachycarenus tigrinus*
+- *Rhyacophila vepulsa* — *Rhyacophila narvae*
+- *Rhynocoris ventralis annulipes* — *Rhynocoris ventralis*
+- *Rhynocoris ventralis femoralis* — *Rhynocoris ventralis*
+- *Rhynocoris ventralis ventralis* — *Rhynocoris ventralis*
+- *Rhytidodus decimasquartus* — *Rhytidodus decimaquartus*
+- *Rileya americana* — *Leschenaultia americana*
+- *Ripersia smithii* — *Trionymus smithii*
+- *Roederiodes retroversus* — *Roederiodes wirthi*
+- *Rubsaamenia keeni* — *Asynapta hopkinsi*
+- *Rusticoclytus nauticus* — *Xylotrechus nauticus*
+- *Sabinata aldrichi* — *Tripanurga aldrichi*
+- *Sacium decolor* — *Arthrolips decolor*
+- *Saemundssonia procax* — *Saemundssonia grylle*
+- *Saissetia hemisphaerica* — *Saissetia coffeae*
+- *Saissetia nigra* — *Parasaissetia nigra*
+- *Saissetia oleae* — *Saissetia oleae oleae*
+- *Salebius tarsalis* — *Salebius octodentatus*
+- *Samia cecropia* — *Hyalophora cecropia*
+- *Sannina pacifica* — *Synanthedon exitiosa*
+- *Saperda horni* — *Saperda hornii*
+- *Saperda populnea populnea* — *Saperda populnea*
+- *Saphenista latipunctana* — *Phalonidia latipunctana*
+- *Saprinus aeneipunctatus* — *Hypocaccus aeneipunctatus*
+- *Saprinus behrensii* — *Geomysaprinus pectoralis*
+- *Saprinus obsolescens* — *Hypocaccus lucidulus*
+- *Saprinus recticollis* — *Hypocaccus lucidulus*
+- *Saprinus rubidulus* — *Hypocaccus lucidulus*
+- *Saprinus smithi* — *Geomysaprinus paeminosus*
+- *Saprinus sulcifrons* — *Hypocaccus sulcifrons*
+- *Sapromyza occidentalis* — *Homoneura occidentalis*
+- *Sapromyza univittata* — *Minettia univittata*
+- *Sarcophaga opifera* — *Blaesoxipha opifera*
+- *Sarrothripa revayana* — *Nycteola revayana*
+- *Satyrium auretorum* — *Satyrium calanus*
+- *Satyrium auretorum spadix* — *Thecla spadix*
+- *Satyrium californica* — *Strymon acadica*
+- *Satyrium saepium* — *Strymon saepium*
+- *Satyrium saepium chalcis* — *Thecla chalcis*
+- *Satyrium saepium chlorophora* — *Strymon saepium chlorophora*
+- *Satyrium semiluna* — *Satyrium fuliginosa semiluna*
+- *Satyrium sylvinus* — *Strymon sylvinus*
+- *Satyrium sylvinus dryope* — *Thecla dryope*
+- *Satyrium sylvinus putnami* — *Thecla putnami*
+- *Satyrium tetra* — *Thecla tetra*
+- *Satyrium titus* — *Harkenclenus titus*
+- *Scaphoideus scrupulosus* — *Twiningia scrupulosa*
+- *Scaphytopius delongi* — *Scaphytopius acutus delongi*
+- *Scapteriscus vicinus* — *Neoscapteriscus vicinus*
+- *Scarites californicus* — *Scarites subterraneus*
+- *Sceliphron servillei* — *Sceliphron caementarium*
+- *Schinia baueri* — *Schinia oleagina*
+- *Schinia megarena* — *Schinia tertia*
+- *Schinia ochreifascia* — *Schinia velaris*
+- *Schinia suetus californicus* — *Schinia suetus*
+- *Schizolachnus pini-radiatae* — *Cinara piniradiatae*
+- *Schizura concinna* — *Oedemasia concinna*
+- *Schizura ipomoeae* — *Schizura ipomaeae*
+- *Schizura unicornis* — *Coelodasys unicornis*
+- *Schizura unicornis conspecta* — *Coelodasys conspecta*
+- *Sciapus californicus* — *Amblypsilopus californicus*
+- *Sciopithes angustulus* — *Phacepholis obscurus*
+- *Scleropogon duncani* — *Stenopogon duncani*
+- *Scleropogon jubatus* — *Stenopogon jubatus*
+- *Scolops californica* — *Scolops californicus*
+- *Scolops fumida* — *Scolops fumidus*
+- *Scoparia obispalis* — *Scoparia basalis*
+- *Scrobipalpula lutescella* — *Scrobipalpulopsis lutescella*
+- *Scutellista caerulea* — *Scutellista caeruleus*
+- *Scutellista cyanea* — *Scutellista caeruleus*
+- *Scydmaenus cautus* — *Stenichnus sparsus*
+- *Scydmaenus pacificus* — *Brachycepsis pacifica*
+- *Scythropus lateralis* — *Pachyrhinus elegans*
+- *Selidosema aethalodaria* — *Hulstina wrightiaria*
+- *Semanotus amplus amplus* — *Semanotus amplus*
+- *Semiothisa californiaria* — *Digrammia californiaria*
+- *Semiothisa muscariata* — *Digrammia muscariata*
+- *Semiothisa neptaria* — *Digrammia neptaria*
+- *Semium subglabrum* — *Semium subglaber*
+- *Serica praetermissa* — *Serica ligulata praetermissa*
+- *Serica pruinosa* — *Serica pruinipennis*
+- *Serica prunipennis* — *Serica pruinipennis*
+- *Sericothrips apteris* — *Apterothrips apteris*
+- *Sericothrips moultoni* — *Neohydatothrips moultoni*
+- *Sericothrips stanfordii* — *Apterothrips apteris*
+- *Serratella teresa* — *Matriella teresa*
+- *Setiostoma fernaldella* — *Rectiostoma fernaldella*
+- *Signiphora thoreauini* — *Signiphora flavella*
+- *Silaon similis* — *Solierella plenoculoides similis*
+- *Silpha ramosa* — *Heterosilpha ramosa*
+- *Silvestrina koebelei* — *Diadiplosis koebelei*
+- *Silvius laticallus* — *Silvius notatus*
+- *Simulium clarum* — *Simulium piperi*
+- *Simulium tribulatum* — *Simulium vittatum*
+- *Simulium vandalicum* — *Simulium tuberosum*
+- *Siphocoryne essigi* — *Cavariella pastinacae*
+- *Siphona plusiae* — *Jimimyia plusiae*
+- *Siphonella neglecta* — *Malloewia neglecta*
+- *Siphophyto opaca* — *Clausicella opaca*
+- *Siphophyto setigera* — *Clausicella setigera*
+- *Sirex nigricornis* — *Sirex juvencus*
+- *Sirex varipes* — *Sirex juvencus*
+- *Sitobion pteridis* — *Macrosiphum pteridis*
+- *Sitobion walkeri* — *Macrosiphum walkeri*
+- *Sitones margaritosus* — *Sitona vittatus*
+- *Sitones occidentalis* — *Sitona vittatus*
+- *Sitones procerus* — *Sitona vittatus*
+- *Sitones sordidus* — *Sitona vittatus*
+- *Smerinthus astarte* — *Smerinthus cerisyi*
+- *Smerinthus ophthalmica* — *Smerinthus cerisyi*
+- *Smerinthus opthalmica* — *Smerinthus cerisyi*
+- *Smerinthus pallida* — *Smerinthus ocellata*
+- *Smicronyx celaenus* — *Smicronyx defricans*
+- *Solenopsis truncorum* — *Solenopsis carolinensis*
+- *Somatium oviformis* — *Holobus oviformis*
+- *Sonoma subsimilis* — *Sonoma cavifrons*
+- *Spallanzania antennalis* — *Chaetocrania antennalis*
+- *Spathopus anomalipes* — *Ecrizotes anomalipes*
+- *Speranza confederata* — *Macaria confederata*
+- *Speranza coortaria* — *Macaria coortaria*
+- *Speranza decorata* — *Macaria decorata*
+- *Speranza extemporata* — *Macaria extemporata*
+- *Speranza guenearia* — *Macaria guenearia*
+- *Speranza marcescaria* — *Macaria marcescaria*
+- *Speranza plumosata* — *Macaria plumosata*
+- *Speranza quadrilinearia* — *Macaria quadrilinearia*
+- *Speranza semivolata* — *Macaria semivolata*
+- *Speyeria adiaste atossa* — *Speyeria egleis atossa*
+- *Speyeria adiaste clemencei* — *Speyeria egleis clemencei*
+- *Speyeria cybele leto* — *Speyeria leto*
+- *Speyeria hesperis* — *Speyeria atlantis hesperis*
+- *Speyeria zerene gunderi* — *Speyeria coronis gunderi*
+- *Speyeria zerene monticola* — *Speyeria zerene*
+- *Sphaerophoria micrura* — *Fazia micrura*
+- *Sphaerophoria philantha* — *Sphaerophoria philanthus*
+- *Sphenophorus australis* — *Calandra australis*
+- *Sphenophorus monterensis* — *Calandra monterensis*
+- *Sphenophorus phoeniciensis* — *Calandra phoeniciensis*
+- *Sphenophorus tardus* — *Calandra tarda*
+- *Sphenophorus typhae* — *Calandra typhae*
+- *Sphex craspedotus* — *Ammophila nasalis*
+- *Sphex ferrugineus* — *Sphex sericeus*
+- *Sphex parapolitus* — *Ammophila parapolita*
+- *Sphex procerus* — *Ammophila procera*
+- *Sphex pubidorsus* — *Prionyx thomae*
+- *Spinoliella euphorbiae* — *Calliopsis helianthi*
+- *Spissistilus festina* — *Spissistilus festinus*
+- *Spogostylum vandykei* — *Dicranoclista vandykei*
+- *Stachiella octomaculatus* — *Trichodectes octomaculatus*
+- *Stagmomantis wheelerii* — *Stagmomantis carolina*
+- *Stamnodes catastrophata* — *Stamnodes annellata*
+- *Stegasta bosqueella* — *Stegasta basqueella*
+- *Stegophylla querci* — *Stegophylla davisi*
+- *Stenaspilates metzaria* — *Pero radiosaria*
+- *Stenocantharus bullatus* — *Scaphinotus bullatus*
+- *Stenocellus californicus* — *Bradycellus californicus*
+- *Stenocellus lineatus* — *Bradycellus lineatus*
+- *Stenocellus nubicollis* — *Bradycellus nubifer*
+- *Stenocellus puncticollis* — *Bradycellus puncticollis*
+- *Stenocellus purgatus* — *Bradycellus purgatus*
+- *Stenocellus sejunctus* — *Bradycellus sejunctus*
+- *Stenocorus hesperus* — *Stenocorus nubifer*
+- *Stenocorus lateralis* — *Stenocorus nubifer*
+- *Stenocorus pacificus* — *Stenocorus nubifer*
+- *Stenocorus parviceps* — *Stenocorus nubifer*
+- *Stenocorus tenellus* — *Stenocorus nubifer*
+- *Stenocorus truncatulus* — *Stenocorus nubifer*
+- *Stenodynerus blandus* — *Rhynchalastor blandus*
+- *Stenodynerus cochisensis* — *Rhynchalastor cochisensis*
+- *Stenodynerus kennicottianus* — *Rhynchalastor kennicottianus*
+- *Stenodynerus microstictus* — *Rhynchalastor microstictus*
+- *Stenolophus dolosus* — *Agonoleptus dolosus*
+- *Stenolophus tener* — *Anthracus tener*
+- *Stenolophus unicolor* — *Stenolophus discophorus*
+- *Stenopelmatus fuscus* — *Ammopelmatus fuscus*
+- *Stenopelmatus intermedius* — *Ammopelmatus intermedius*
+- *Stenopelmatus longispina* — *Ammopelmatus longispina*
+- *Stenosphenus novatus* — *Stenosphenus cribripennis novatus*
+- *Stenus pacificus* — *Stenus colonus pacificus*
+- *Stenus pertinax* — *Euconnus pertinax*
+- *Stenusa californica* — *Silusa californica*
+- *Stereopalpus incanus* — *Stereopalpus pruinosus*
+- *Stereopalpus subalbicans* — *Stereopalpus guttatus*
+- *Stethorus picipes* — *Stethorus punctum picipes*
+- *Stictiella bituberculata* — *Glenostictia bituberculata*
+- *Stictiella megacera* — *Glenostictia megacera*
+- *Stictiella nubilosa* — *Stictiella pulchella nubilosa*
+- *Stictiella pulla* — *Glenostictia pulla*
+- *Stictotarsus aequinoctialis* — *Nectoboreus aequinoctialis*
+- *Stictotarsus decemsignatus* — *Clarkhydrus decemsignatus*
+- *Stictotarsus deceptus* — *Clarkhydrus deceptus*
+- *Stictotarsus eximius* — *Clarkhydrus eximius*
+- *Stictotarsus funereus* — *Nectoboreus funereus*
+- *Stictotarsus griseostriatus* — *Boreonectes griseostriatus*
+- *Stictotarsus striatellus* — *Leconectes striatellus*
+- *Stigmus fulvipes coquilletti* — *Stigmus inordinatus*
+- *Stomopteryx metadesma* — *Aproaerema metadesma*
+- *Streptopalpia minusculalis* — *Epitamyra minusculalis*
+- *Stricticollis tobias* — *Stricticomus tobias*
+- *Strigota intrudens* — *Strigota seducens*
+- *Strigota obliquata* — *Acrotona obliquata*
+- *Strigota placata* — *Strigota ambigua*
+- *Strymon columella* — *Callicista columella*
+- *Strymon istapa* — *Callicista columella istapa*
+- *Strymon melinus pudica* — *Thecla pudica*
+- *Strymon yojoa* — *Thecla yojoa*
+- *Sweltsa fraterna* — *Alloperla fraterna*
+- *Sylvicola fuscatus* — *Sylvicola fuscata*
+- *Sympetrum occidentale* — *Sympetrum semicinctum*
+- *Symphoromyia modesta* — *Symphoromyia varicornis*
+- *Sympiesis coloni* — *Pnigalio coloni*
+- *Sympiesis stigmata* — *Sympiesis stigmatus*
+- *Sympiesomorphelleus californicus* — *Miotropis californicus*
+- *Sympistis fortis* — *Austramathes fortis*
+- *Symplecta pilipes* — *Trimicra pilipes*
+- *Symydobius agrifoliae* — *Neosymydobius agrifoliae*
+- *Symydobius chrysolepis* — *Neosymydobius chrysolepis*
+- *Symydobius macrostachyae* — *Chaitophorus macrostachyae*
+- *Symydobius salicicorticis* — *Chaitophorus macrostachyae*
+- *Synaphaeta annulata* — *Synaphaeta guexi*
+- *Synaxis brunneilinearia* — *Metanema brunneilinearia*
+- *Synaxis formosa* — *Tetracis formosa*
+- *Synaxis hirsutaria* — *Tetracis hirsutaria*
+- *Synaxis jubararia* — *Tetracis jubararia*
+- *Synaxis mosesiani* — *Tetracis mosesiani*
+- *Synaxis pallulata* — *Tetracis pallulata*
+- *Syncopacma adversa* — *Aproaerema adversa*
+- *Synergus confertus* — *Ceroptres confertus*
+- *Syntexis libocedrii* — *Syntexix libocedrii*
+- *Syntomaspis caerulea* — *Torymus fullawayi*
+- *Syntomaspis californica* — *Torymus californica*
+- *Syrphus americanus* — *Eupeodes americanus*
+- *Syrphus diversifasciatus* — *Pseudoscaeva diversifasciatus*
+- *Syrphus diversipes* — *Meliscaeva cinctella*
+- *Syrphus protritus* — *Epistrophe nitidicollis*
+- *Tabanus procyon* — *Hybomitra procyon*
+- *Tachypompilus unicolor* — *Tachypompilus unicolor unicolor*
+- *Tachys andinus* — *Pericompsus andinus*
+- *Tachys anthrax* — *Elaphropus anthrax*
+- *Tachys capax* — *Elaphropus capax*
+- *Tachys nanus* — *Tachyta nana*
+- *Tachysphex mundus aequalis* — *Tachysphex aequalis*
+- *Tachysphex spinosus* — *Tachysphex ashmeadii*
+- *Tachyta nana inornata* — *Tachyta inornata*
+- *Tachytes elongatus* — *Tachytes distinctus*
+- *Tachytes obscurus* — *Tachytes chrysopyga obscurus*
+- *Tachytes rufofasciatus* — *Tachytes amazonus*
+- *Tachyura dolosa* — *Elaphropus dolosus*
+- *Tachyura sedula* — *Elaphropus sedulus*
+- *Tachyusa vespertina* — *Tachyusa faceta*
+- *Taeniopteryx grinnelli* — *Taenionema grinnelli*
+- *Tamalia inquilina* — *Tamalia inquilinus*
+- *Tanaocerus koebelei albatus* — *Tanaocerus koebelei*
+- *Tanaomastix claripennis* — *Gyranusoidea claripennis*
+- *Targaspidiotus bigeloviae* — *Targionia bigeloviae*
+- *Tarnetrum corruptum* — *Sympetrum corruptum*
+- *Tarnetrum illotum* — *Sympetrum illotum*
+- *Tarphiota hirsutula* — *Tarphiota geniculata*
+- *Tarphiota litorina* — *Tarphiota geniculata*
+- *Tarphiota pallidipes* — *Tarphiota fucicola*
+- *Tegeticula maculata extranea* — *Tegeticula maculata*
+- *Tegeticula maculata maculata* — *Tegeticula maculata*
+- *Telamona pyramidata* — *Palonica pyramidata pyramidata*
+- *Telephorus ochropa* — *Rhagonycha testacea*
+- *Telmatoscopus albipunctatus* — *Clogmia albipunctata*
+- *Telphusa baldiana* — *Teleiopsis baldiana*
+- *Tendipes chaetoala* — *Cryptochironomus chaetoala*
+- *Tenthredo nivalis* — *Tenthredo nigripleuris*
+- *Tephrosia californiaria* — *Drepanulatrix monicaria*
+- *Teretrius obliquulus* — *Neoteretrius obliquulus*
+- *Tethina steyskali* — *Tethina milichioides*
+- *Tetragoneuria canis* — *Epitheca canis*
+- *Tetralicia ceanothi* — *Aleuropleurocelus ceanothi*
+- *Tetralina alutacea* — *Brachyusa alutacea*
+- *Tetrallus bernhaueri* — *Platandria bernhaueri*
+- *Tetralonia poetica* — *Eucera cordleyi*
+- *Tetramerinx femorata* — *Limnophora femorata*
+- *Tetraopes sandix* — *Tetraopes sublaevis*
+- *Tetrastichus bruchophagi* — *Baryscapus bruchophagi*
+- *Tetrastichus californicus* — *Baryscapus racemariae*
+- *Tetrastichus carinatus* — *Tetrastichus capitatus*
+- *Tetrastichus gigas* — *Baryscapus gigas*
+- *Tetrastichus hibus* — *Aprostocetus hibus*
+- *Tetrastichus spilopteris* — *Aprostocetus pattersonae*
+- *Thalpius microcephalus* — *Pseudaptinus microcephalus*
+- *Thalpius rufulus* — *Pseudaptinus rufulus*
+- *Thamnotettix bullatus* — *Scleroracus bullatus*
+- *Thamnotettix commissus* — *Colladonus commissus*
+- *Thamnotettix gutturosa* — *Allygianus gutturosus*
+- *Thamnotettix helvinus* — *Lebradea helvina*
+- *Thamnotettix januatus* — *Colladonus januatus*
+- *Thamnotettix lenis* — *Sorhoanus lenis*
+- *Thamnotettix mendicus* — *Colladonus mendicus*
+- *Thamnotettix montanus reductus* — *Colladonus reductus*
+- *Thamnotettix rupinatus* — *Colladonus rupinatus*
+- *Thamnotettix vetulus* — *Gloridonus vetulus*
+- *Tharsalea arota arota* — *Tharsalea arota*
+- *Thecla dumetorum* — *Callophrys dumetorum*
+- *Thecla nelsoni* — *Mitoura nelsoni*
+- *Thereva aurata* — *Thereva corinneae*
+- *Thereva vanduzeei* — *Acrosathe vanduzeei*
+- *Thermonectus basillaris latecinctus* — *Thermonectus basillaris*
+- *Thesalia rubriceps* — *Pidonia gnathoides*
+- *Thevenemyia notata* — *Thevenetimyia notata*
+- *Thinodromia inchoata* — *Chersodromia inchoata*
+- *Thinusa obscura* — *Thinusa maritima*
+- *Thlipsogaster syndesmus* — *Bombylius syndesmus*
+- *Thomasia crucis* — *Chaitophorus crucis*
+- *Thoracaphis umbellulariae* — *Euthoracaphis umbellulariae*
+- *Thoron opacus* — *Telenomus opacus*
+- *Thrassis bacchi consimilis* — *Thrassis bacchi*
+- *Thripoctenus russelli* — *Ceranisus russelli*
+- *Thriposoma grafi* — *Baryscapus grafi*
+- *Thyanta custator accerra* — *Thyanta accerra*
+- *Thyce angustula* — *Amblonoxia palpalis*
+- *Thyce blaisdelle nitidula* — *Amblonoxia palpalis*
+- *Thyce blaisdelli* — *Amblonoxia palpalis*
+- *Thyce crinicollis* — *Amblonoxia carpenteri*
+- *Thyce fieldi* — *Amblonoxia fieldi*
+- *Thyce fossiger* — *Amblonoxia palpalis*
+- *Thyce fossiger aperta* — *Amblonoxia palpalis*
+- *Thyce fossiger brevitarsus* — *Amblonoxia palpalis*
+- *Thyce fossiger ochreata* — *Amblonoxia palpalis*
+- *Thyce harfordi* — *Amblonoxia harfordi*
+- *Thyce harfordi nanella* — *Amblonoxia harfordi*
+- *Thyce longipalpis* — *Amblonoxia harfordi*
+- *Thyce pistoria* — *Amblonoxia carpenteri*
+- *Thyce pulverea* — *Amblonoxia palpalis*
+- *Thyce riversi* — *Amblonoxia riversi*
+- *Thyce rotundicauda* — *Amblonoxia palpalis*
+- *Thyce simplicipes* — *Amblonoxia fieldi*
+- *Thyce squamosa* — *Amblonoxia harfordi*
+- *Thyce vestita* — *Amblonoxia palpalis*
+- *Thymelicus erynnioides* — *Hesperia columbia*
+- *Tibicen cupreosparsa* — *Tibicinoides cupreosparsa*
+- *Tinea leucocapitella* — *Tinea niveocapitella*
+- *Tipula megatergata* — *Tipula sternata*
+- *Tipula tingi* — *Tipula praecisa*
+- *Tischeria bifurcata* — *Dishkeya bifurcata*
+- *Tischeria consanguinea* — *Coptotriche consanguinea*
+- *Tischeria mediostriata* — *Coptotriche mediostriata*
+- *Togodolentus genuinus* — *Togodolentus wrighti*
+- *Tortistilus albidosparsa* — *Tortistilus albidosparsus*
+- *Tortistilus pacifica* — *Tortistilus pacificus*
+- *Tortricodes fragariana* — *Decodes fragariana*
+- *Torymus anthidii* — *Microdontomerus anthidii*
+- *Torymus californicus* — *Torymus californica*
+- *Toxomerus geminatus* — *Toxomerus gemminata*
+- *Toxotropis approximatus* — *Ormiscus approximatus*
+- *Toxotus lateralis* — *Stenocorus nubifer*
+- *Tragidion annulatum peninsulare* — *Tragidion annulatum*
+- *Tragosoma pilosicornis* — *Tragosoma pilosicorne*
+- *Tramea calverti* — *Tramea darwini*
+- *Trechus laevigatus* — *Tachys laevigatus*
+- *Trialeurodes wellmanae* — *Trialeurodes vittatus*
+- *Trichastylopsis albidus* — *Trichalphus albidus*
+- *Trichocellus cognatus* — *Dicheirotrichus cognatus*
+- *Trichoclea edwardsii* — *Anarta edwardsii*
+- *Trichocnemis spiculatus spiculatus* — *Trichocnemis spiculatus*
+- *Trichodectes equi* — *Werneckiella equi*
+- *Trichodectes ovis* — *Damalinia ovis*
+- *Trichogramma pretiosum* — *Trichogramma pretiosa*
+- *Trichothrips ilex* — *Liothrips ilex*
+- *Tricorythodes minutus* — *Tricorythodes explicatus*
+- *Tricrania stansburii* — *Tricrania stansburyi*
+- *Tridactylus apicialis* — *Neotridactylus apicialis*
+- *Triepeolus heterurus* — *Triepeolus utahensis*
+- *Triepeolus lestes* — *Triepeolus subalpinus*
+- *Triepeolus vandykei* — *Triepeolus paenepectoralis*
+- *Trigonura californica* — *Phasgonophora californica*
+- *Trimerinoides adfinis* — *Diasemocera adfinis*
+- *Trimerotropis albolineata* — *Conozoa rebellis*
+- *Trimerotropis caeruleipennis* — *Trimerotropis pseudofasciata*
+- *Triodites mus* — *Aphoebantus mus*
+- *Trioza collaris* — *Calinda collaris*
+- *Trioza occidentalis* — *Phylloplecta occidentalis*
+- *Trioza phoradendri* — *Trioza phorodendrae*
+- *Trioza phorodendrae acuminata* — *Trioza acuminata*
+- *Tripudia inquaesita* — *Tripudia damozela*
+- *Trirachipsylla digitiformis* — *Carteretta carteri*
+- *Trogophloeus armatus* — *Carpelimus armatus*
+- *Trogophloeus prominens* — *Carpelimus prominens*
+- *Trogophloeus sculptilis* — *Carpelimus sculptilis*
+- *Tropisternus ellipticus* — *Tropisternus affinis*
+- *Trox suberosus* — *Omorgus suberosus*
+- *Trypeta angustigena* — *Trypeta tortile*
+- *Trypeta aplopappi* — *Aciurina aplopappi*
+- *Trypeta baccharis* — *Tephritis baccharis*
+- *Trypoxylon arizonense* — *Trypoxylon californicum*
+- *Tuta totalis* — *Phthorimaea totalis*
+- *Tychus sonomae* — *Lucifotychus sonomae*
+- *Uhleriella pasadena* — *Cochlorhinus pasadenus*
+- *Uhleriella ziczac* — *Cochlorhinus ziczac*
+- *Vanessa californica* — *Nymphalis californica*
+- *Volucella hagii* — *Copestylum haagii*
+- *Volucella mexicana* — *Copestylum mexicanum*
+- *Walshomyia cupressi* — *Oligotrophus cupressi*
+- *Xantholinus nanus* — *Linohesperus nanus*
+- *Xenoglossa pruinosa* — *Peponapis pruinosa*
+- *Xenoglossodes pomonae* — *Tetraloniella pomonae*
+- *Xenos auriferi* — *Xenos pecki*
+- *Xerophloea robusta* — *Xerophloea foveolata*
+- *Xerosaprinus acilinea* — *Saprinus acilinea*
+- *Xerosaprinus coerulescens* — *Saprinus coerulescens*
+- *Xerosaprinus effusus* — *Saprinus effusus*
+- *Xerosaprinus fimbriatus* — *Saprinus fimbriatus*
+- *Xerosaprinus lubricus* — *Saprinus lubricus*
+- *Xerosaprinus martini* — *Saprinus martini*
+- *Xerosaprinus orbiculatus* — *Saprinus orbiculatus*
+- *Xerosaprinus plenus* — *Saprinus plenus*
+- *Xerosaprinus psyche* — *Saprinus psyche*
+- *Xerosaprinus vestitus* — *Saprinus vestitus*
+- *Xerosaprinus vitiosus* — *Saprinus vitiosus*
+- *Xestoleptura crassipes shastana* — *Xestoleptura crassipes*
+- *Xyleborinus saxesenii* — *Xyleborinus saxeseni*
+- *Xylocopa sonorina* — *Xylocopa brasilianorum sonorina*
+- *Zacesta rufipes* — *Hesperapis rufipes*
+- *Zale lunata lunata* — *Zale lunata*
+- *Zanclognatha jacchusalis jacchusalis* — *Zanclognatha jacchusalis*
+- *Zarhipis alamedae* — *Zarhipis integripennis*
+- *Zarhipis amictus* — *Zarhipis integripennis*
+- *Zarhipis brevicollis* — *Zarhipis integripennis*
+- *Zavrelimyia smithae* — *Paramerina smithae*
+- *Zenillia scolex* — *Hyphantrophaga scolex*
+- *Zodion obscurum* — *Zodion fulvifrons*
+- *Zodion reclusum* — *Zodion fulvifrons*
+- *Zophodia grossulariella* — *Zophodia convolutella*

@@ -1,0 +1,60 @@
+{
+  "completed_at": "2026-10-27T18:07:12.490502+00:00",
+  "service": "GBIF Species Match API v2",
+  "endpoint": "https://api.gbif.org/v2/species/match",
+  "checklist": "Catalogue of Life eXtended Release",
+  "checklist_key": "7ddf754f-d193-4cc9-b351-99906754a03b",
+  "documentation": "https://techdocs.gbif.org/en/data-processing/taxonomy-interpretation",
+  "source_doi": "10.15468/dl.vgv5ee",
+  "source": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records.csv.gz",
+  "source_sha256": "03cf11091e847a8aafbd65c26adf72ac9136aabae886f108a26b563acf8233ad",
+  "output": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_taxonomy_resolved.csv.gz",
+  "input_name_fields": [
+    "scientificName",
+    "taxonRank",
+    "order",
+    "family"
+  ],
+  "request_context": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta"
+  },
+  "automatic_acceptance": "User approved all service-returned named species-or-finer candidates on 2026-10-27, regardless of match type, confidence, taxonomic status or missing classification. Preserve original diagnostics; no invented keys. Genus/higher matches remain unresolved. Exact user-reviewed corrections take precedence.",
+  "approval_provenance": "User instruction: accept all of the corrections from the service and maintain the information provided via the matching service",
+  "resolved_taxon_name_definition": "Accepted canonical name without authorship, preserving subspecies/variety rank when matched. resolved_species_name/key provide species-level roll-up. Original columns unchanged.",
+  "query_combinations": 16084,
+  "name_combinations_by_status": {
+    "resolved_exact": 12868,
+    "resolved_synonym": 2298,
+    "review_higher_taxon": 291,
+    "resolved_service_accepted": 615,
+    "resolved_manual": 12
+  },
+  "manual_correction_file": "analysis/regional-candidate-pool/reviewed_taxonomic_corrections.csv",
+  "manual_correction_sha256": "a49926f9a317417f3941e826dd677902fa6371c3194abb2b25761e87c45ff5b9",
+  "manually_reviewed_occurrences_by_name": {
+    "Icaricia acmon": 8227,
+    "Junonia grisea": 15601,
+    "Euarestoides acutangula": 97,
+    "Hylaeus mesillae cressonii": 514,
+    "Clogmia albipunctata": 1518,
+    "Brephidium exilis": 87,
+    "Arta epicaenalis": 173,
+    "Hemipenthes sinuosa": 226,
+    "Coenonympha california": 1823,
+    "Pseudoneuroterus saliens": 788,
+    "Argynnis coreana": 244,
+    "Biorhiza pallida": 848
+  },
+  "manual_key_policy": "No COL XR key invented for user-reviewed names. A key is retained only if the API candidate canonical species name matches the reviewed name; otherwise resolved keys stay blank.",
+  "occurrence_records_by_status": {
+    "resolved_exact": 1282408,
+    "resolved_synonym": 85351,
+    "review_higher_taxon": 7995,
+    "resolved_service_accepted": 11729,
+    "resolved_manual": 30146
+  },
+  "distinct_resolved_species_keys": 13640,
+  "limitations": "Automated nomenclatural matching does not validate specimen identifications, geographic plausibility or conservation status. Input scientificName is the GBIF-interpreted name, not a re-identification of verbatim names. No rows dropped; BOLD eligibility still pending. Full responses and timestamps are cached locally because the live checklist can change."
+}

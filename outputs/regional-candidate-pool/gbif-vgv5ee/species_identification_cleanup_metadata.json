@@ -1,0 +1,28 @@
+{
+  "completed_at": "2026-10-27T18:09:19.278306+00:00",
+  "source": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_taxonomy_resolved.csv.gz",
+  "source_sha256": "1e5ea731b0c37b33127350a84ba03d06761b8eaa4b28f141ac376ddc903f92e8",
+  "output": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_taxonomy_resolved_clean.csv.gz",
+  "counts": {
+    "input_records": 1417629,
+    "removed_records": 8754,
+    "retained_records": 1408875
+  },
+  "retained_records_by_resolution_status": {
+    "resolved_exact": 1281708,
+    "resolved_synonym": 85322,
+    "resolved_service_accepted": 11699,
+    "resolved_manual": 30146
+  },
+  "remaining_review_records": 0,
+  "proposed_name_pairs": 0,
+  "review_occurrences_with_higher_taxon_candidate": 0,
+  "review_occurrences_with_unchanged_species_candidate": 0,
+  "name_source_precedence": "verbatimScientificName; if blank verbatimIdentification; if blank scientificName",
+  "exclusion_patterns": {
+    "placeholders": "\\b(?:sp|spp|spec|species|indet|unidentified|unknown|morphospecies)\\b|\\bBOLD\\s*:",
+    "group_complex": "\\b(?:group|complex|aggregate|agg)\\b",
+    "uninomial": "[A-Z][A-Za-z-]+(?:\\s+\\([A-Z][A-Za-z-]+\\))?"
+  },
+  "notes": "Exclude original genus/placeholder identifications and records lacking an accepted species-level resolution, including service matches only to genus or higher. This exclusion does not assert that the original species identification was wrong. Standalone sp. in a secondary field does not override a binomial primary name. All retained source columns unchanged. All named species-level service results are user-approved. Genus-only/higher service matches are excluded from this version. Previous source and audit files retained; use the clean output for current work."
+}

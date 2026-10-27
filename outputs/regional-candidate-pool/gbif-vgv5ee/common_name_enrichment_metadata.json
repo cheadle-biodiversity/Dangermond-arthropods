@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-10-27T18:12:35.846999+00:00",
+  "source_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_taxonomy_resolved_clean.csv.gz",
+  "source_sha256": "3751870113fc1504d7ebdfd26ca12a1fc6e33900cdef84a3ede79f2799e32249",
+  "output": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_v2.csv.gz",
+  "common_name_source": "Entomological Society of America Common Names of Insects Database",
+  "source_page": "https://entsoc.org/publications/common-names",
+  "source_download_url": "https://www.entsoc.org/sites/default/files/common%20name%20proposals/Common_names_list_7-2-26.xlsx",
+  "source_file": "data/raw/common-names/esa/2026-10-27/Common_names_list_7-2-26.xlsx",
+  "source_file_sha256": "f99c255998a1e3b5ef49a6a7b0193475ecee00ff4bc49ba3a172e9a8b8127e9a",
+  "source_file_label": "Filename 7-2-26; internal heading Updated 3/4/25, retained as supplied.",
+  "source_retrieved_on": "2026-10-27",
+  "source_species_name_rows": 2313,
+  "counts": {
+    "records": 1408875,
+    "records_with_common_name": 463959
+  },
+  "resolved_species_names": 13634,
+  "occurrence_records_by_resolution_status": {
+    "resolved_exact": 1281708,
+    "resolved_synonym": 85322,
+    "resolved_service_accepted": 11699,
+    "resolved_manual": 30146
+  },
+  "match_rule": "Exact resolved taxon name first, then exact parent species; otherwise exact ESA match to a binomial alias from the approved GBIF/COL XR crosswalk or explicit user synonym. Subspecies-only names are not generalized to the parent species. No fuzzy, genus or family name transfer. Multiple ESA names retained with semicolons. No source match leaves proposed_common_name blank.",
+  "coverage_note": "ESA only for this version; BugGuide was not used. A blank means no match in this downloaded ESA list, not proof that no common name exists.",
+  "matching_service_provenance": "All prior scientific-name match columns, original names, statuses, confidence, identifiers, request URLs and diagnostics are preserved. Full API responses remain cached locally.",
+  "resolved_taxon_names": 14316,
+  "taxon_names_with_common_name": 857,
+  "species_with_a_common_name_at_some_rank": 805
+}

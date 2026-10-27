@@ -1,0 +1,56 @@
+ecoregion_l4_code,ecoregion_l4_name,occurrence_records,distinct_resolved_species_names,ecoregion_intersects_preserve
+6a,Tuscan Flows,4101,653,False
+6aa,Eastern Hills,16449,1001,False
+6ab,Pleasant Valley/Kettleman Plain,1012,300,False
+6ac,Temblor Range/Elk Hills,790,155,False
+6ad,Grapevine Transition,539,136,False
+6ae,Tehachapi Foothills,3341,865,False
+6af,Salinas Valley,1870,491,False
+6ag,Northern Santa Lucia Range,12290,1265,False
+6ah,Santa Lucia Coastal Forest and Woodland,10254,1286,False
+6ai,Interior Santa Lucia Range,34468,1394,False
+6aj,Southern Santa Lucia Range,17489,1665,False
+6ak,Paso Robles Hills and Valleys,1996,599,False
+6al,Salinas-Cholame Hills,337,161,False
+6am,Cuyama Valley,744,299,False
+6an,Carrizo Plain,3614,491,False
+6ao,Caliente Range,1446,424,False
+6ap,Solomon-Purisima-Santa Ynez Hills,9141,1521,True
+6aq,Santa Maria/Santa Ynez Valleys,6451,1005,False
+6ar,Upper Sacramento River Alluvium,1065,257,False
+6b,Northern Sierran Foothills,28421,2091,False
+6c,Southern Sierran Foothills,12271,1855,False
+6d,Camanche Terraces,1344,376,False
+6e,Tehama Terraces,2330,446,False
+6f,Foothill Ridges and Valleys,8579,1199,False
+6g,North Coast Range Eastern Slopes,10116,1278,False
+6h,Western Valley Foothills/Dunnigan Hills,8245,399,False
+6i,Clear Lake Hills and Valleys,1994,469,False
+6j,Mayacmas Mountains,8665,1306,False
+6k,Napa-Sonoma-Lake Volcanic Highlands,18539,1402,False
+6l,Napa-Sonoma-Russian River Valleys,29007,1714,False
+6m,Sonoma-Mendocino Mixed Forest,1942,505,False
+6n,Bodega Coastal Hills,5439,647,False
+6o,Marin Hills,31064,1800,False
+6p,Bay Flats,18679,757,False
+6q,Suisun Terraces and Low Hills,25736,1274,False
+6r,East Bay Hills/Western Diablo Range,95077,3191,False
+6s,San Francisco Peninsula,45194,1881,False
+6t,Bay Terraces/Lower Santa Clara Valley,96745,2897,False
+6u,Livermore Hills and Valleys,7214,974,False
+6v,Upper Santa Clara Valley,8218,864,False
+6w,Monterey Bay Plains and Terraces,44103,2197,False
+6x,Leeward Hills/Western Diablo Range,34635,1520,False
+6y,Gabilan Range,10320,1038,False
+6z,Diablo Range,10030,1368,False
+85a,Santa Barbara Coastal Plain and Terraces,34414,1852,True
+85b,Oxnard Plain and Valleys,13032,1122,False
+85c,Venturan-Angeleno Coastal Hills,86301,3088,False
+85d,Los Angeles Plain,207822,4089,False
+85e,Diegan Coastal Terraces,120450,3112,False
+85f,Diegan Coastal Hills and Valleys,110975,2958,False
+85g,Diegan Western Granitic Foothills,22424,2011,False
+85h,Morena/Boundary Mountain Chaparral,3508,714,False
+85k,Inland Valleys,93480,3262,False
+85l,Inland Hills,19395,1361,False
+85m,Santa Ana Mountains,5770,964,False

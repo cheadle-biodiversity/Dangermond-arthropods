@@ -1,0 +1,41 @@
+{
+  "completed_at": "2026-10-27T18:21:57.469418+00:00",
+  "source_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_v2.csv.gz",
+  "source_dataset_sha256": "379daf8a7fd084285d8115ce05b7b5cd010eb76106cc3ba4a6ba0abd5e196512",
+  "output_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_v3.csv.gz",
+  "records": 1408875,
+  "columns_added": [
+    "analysis_ecoregion_l4_code",
+    "analysis_ecoregion_l4_name",
+    "analysis_ecoregion_l4_match_status"
+  ],
+  "epa_source": "data/raw/epa/region9_level_iv/2026-10-27/extracted/reg9_eco_l4.shp",
+  "epa_archive_sha256": "d0e3ea158af5f65a6496bdd66a9753b758eed4f1e3bdbdd87f6e1fb05f26de1e",
+  "epa_source_manifest": "data/raw/epa/region9_level_iv/2026-10-27/archive_manifest.json",
+  "source_crs": "PROJCS[\"USA_Contiguous_Albers_Equal_Area_Conic_USGS_version\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102039\"]]",
+  "assignment_crs": "EPSG:4326",
+  "source_polygon_features": 1441,
+  "distinct_level_iv_regions": 247,
+  "assignment_rule": "Dissolve disconnected pieces by US_L4CODE; transform full EPA Region 9 polygons to WGS84; point covered_by polygon includes boundary. No nearest-neighbor, buffer, snapping or uncertainty threshold. No rows filtered.",
+  "multiple_match_rule": "Retain each occurrence once; semicolon-separated codes/names in corresponding order. Regional summary counts credit a boundary occurrence to each matching region.",
+  "match_status_counts": {
+    "matched_single": 1408875
+  },
+  "distinct_assigned_region_codes": 55,
+  "level_iii_disagreement_records": 0,
+  "preserve_ecoregion_codes": [
+    "6ap",
+    "85a"
+  ],
+  "preserve_ecoregion_occurrence_counts": {
+    "6ap": 9141,
+    "85a": 34414
+  },
+  "interpretation": "Assigns actual Level IV location to the complete regional pool. It does not restrict records to the two Level IV regions intersecting Dangermond. A regional assignment does not establish occurrence on the preserve or identify beach/backdune habitat. Coordinate uncertainty remains in original columns and is not propagated into region assignment.",
+  "software_versions": {
+    "pandas": "3.0.3",
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2",
+    "pyproj": "3.7.2"
+  }
+}

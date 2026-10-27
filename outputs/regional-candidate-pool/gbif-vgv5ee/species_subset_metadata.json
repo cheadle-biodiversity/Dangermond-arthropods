@@ -1,0 +1,51 @@
+{
+  "created_on": "2026-10-27",
+  "source_doi": "10.15468/dl.vgv5ee",
+  "parent_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/filtered_insect_records.csv.gz",
+  "parent_dataset_sha256": "cc29e0c7b56ee0625e188e4f08146d9edd1df0689f620cef772bb3a949418b4b",
+  "output_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records.csv.gz",
+  "selection_rule": "Interpreted taxonRank SPECIES or a finer rank, positive speciesKey and nonblank species. Includes subspecies and varieties resolved to a named species; excludes genus-only and species-aggregate IDs.",
+  "accepted_ranks": [
+    "ABERRATION",
+    "BIOVAR",
+    "CHEMOFORM",
+    "CHEMOVAR",
+    "CONVARIETY",
+    "CULTIVAR",
+    "CULTIVAR_GROUP",
+    "FORM",
+    "FORMA_SPECIALIS",
+    "GREX",
+    "INFRASPECIFIC_NAME",
+    "INFRASUBSPECIFIC_NAME",
+    "MORPHOVAR",
+    "NATIO",
+    "PATHOVAR",
+    "PHAGOVAR",
+    "PROLES",
+    "SEROVAR",
+    "SPECIES",
+    "STRAIN",
+    "SUBFORM",
+    "SUBSPECIES",
+    "SUBVARIETY",
+    "VARIETY"
+  ],
+  "counts": {
+    "input_records": 1594367,
+    "excluded_rank_above_species": 176736,
+    "excluded_species_rank_without_resolved_species": 2,
+    "retained_records": 1417629
+  },
+  "records_by_rank": {
+    "SPECIES": 1374339,
+    "SUBSPECIES": 43282,
+    "VARIETY": 8
+  },
+  "records_by_ecoregion": {
+    "6": 696463,
+    "85": 721166
+  },
+  "distinct_gbif_species_keys": 13934,
+  "scope": "All parent fields and filters retained; no new deduplication, BOLD, identification-qualifier or conservation-status screening. Candidate occurrence pool, not evidence of occurrence on the preserve."
+}

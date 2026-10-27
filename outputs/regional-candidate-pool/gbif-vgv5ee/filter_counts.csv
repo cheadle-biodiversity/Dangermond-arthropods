@@ -1,0 +1,6 @@
+stage,records_retained,records_removed_at_stage
+0_original_records,4665086,0
+1_genus_or_below,3401713,1263373
+2_usable_coordinates,3401713,0
+3_insecta,2935477,466236
+4_target_level_iii_ecoregions,1594367,1341110

@@ -1,0 +1,6 @@
+measure,count
+input_records,1594367
+excluded_rank_above_species,176736
+excluded_species_rank_without_resolved_species,2
+retained_records,1417629
+distinct_gbif_species_keys,13934

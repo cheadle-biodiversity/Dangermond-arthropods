@@ -2,6 +2,7 @@
 
 | Folder | Contents |
 |---|---|
+| `final/` | Final Level III and Level IV occurrence tables, shared 60-column descriptors, README and dataset provenance/checksums. |
 | `raw/gbif/` | Original GBIF download ZIPs, grouped by request date, with DOI and query metadata. |
 | `raw/ecdysis/` | Original Ecdysis Darwin Core Archive ZIPs and checksum manifests. |
 | `raw/epa/` | Dated EPA ecoregion archives, metadata, symbology and extracted GIS files. |
@@ -62,3 +63,13 @@ The Ecdysis tables used by that analysis are in
 files and their source checksums. `reference/source_manifest.json`
 records the existing CIBI extract and preserve boundary; those two
 inputs were already present and have not been represented as new downloads.
+
+## Final regional occurrence tables
+
+The current deliverables are in [`final/`](final/). Both datasets have
+60 identical columns. Level III contains 1,408,875 occurrences for
+regions 6/85; Level IV contains 43,555 for regions 6ap/85a. These are
+full regional pools and the Level IV table is a subset of Level III.
+See `final/column_metadata.md` or `.csv` for field definitions, and
+`final/dataset_metadata.json` for provenance, scope and checksums.
+Large `.csv.gz` files remain local and Git-ignored; metadata are versioned.

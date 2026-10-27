@@ -1,0 +1,8 @@
+EPA Region 9 Level IV overlay; source downloaded 2026-10-27.
+Source manifest: /Users/seltmann/Documents/Dangermond-arthropods/data/raw/epa/region9_level_iv/2026-10-27/archive_manifest.json
+Boundary: /Users/seltmann/Documents/Dangermond-arthropods/analysis/reference-data/jldp_boundary.geojson
+Source polygons: 1441
+Positive-area intersecting regions: 2
+Percent of preserve covered: 99.9992651495392
+Areas calculated in the EPA source's Albers equal-area CRS.
+Ecoregion boundaries do not delineate individual beach or backdune habitats.

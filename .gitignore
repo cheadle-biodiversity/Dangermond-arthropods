@@ -48,6 +48,15 @@ analysis/scripts/08-species-mcp-overlap/output/_checkpoint_in_progress.rds
 # Large generated results remain available locally; regenerate from source data.
 analysis/scripts/08-species-mcp-overlap/output/species_mcp_polygons.geojson
 analysis/scripts/06-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv
+outputs/regional-candidate-pool/**/*.csv.gz
+outputs/regional-candidate-pool/**/*.partial
+outputs/regional-candidate-pool/**/taxonomy_api_cache.jsonl
+outputs/regional-candidate-pool/**/taxonomy_name_resolution.csv
+data/final/*.csv.gz
+data/final/*.partial
+
+# Record-level habitat evidence; summarized annotations remain versioned.
+outputs/habitat-notes/**/*.csv.gz
 
 # Local credentials and R sessions
 .Renviron

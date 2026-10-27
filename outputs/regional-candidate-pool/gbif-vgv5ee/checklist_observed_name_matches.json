@@ -1,0 +1,1241 @@
+{
+  "[\"Paropsisterna m-fuscum\", \"SPECIES\", \"Coleoptera\", \"Chrysomelidae\"]": {
+    "input": [
+      "Paropsisterna m-fuscum",
+      "SPECIES",
+      "Coleoptera",
+      "Chrysomelidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Paropsisterna+m-fuscum&taxonRank=SPECIES&order=Coleoptera&family=Chrysomelidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.707033+00:00",
+    "response": {
+      "usage": {
+        "key": "RDS6K",
+        "name": "Paropsisterna Motschoulsky in Schrenck, 1860",
+        "canonicalName": "Paropsisterna",
+        "authorship": "Motschoulsky in Schrenck, 1860",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Paropsisterna</i> Motschoulsky in Schrenck, 1860"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "C2L",
+          "name": "Coleoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "DDHNW",
+          "name": "Polyphaga",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZYT4",
+          "name": "Cucujiformia",
+          "rank": "SERIES_ZOOLOGY"
+        },
+        {
+          "key": "KV5BH",
+          "name": "Chrysomeloidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "87S",
+          "name": "Chrysomelidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "JC7",
+          "name": "Chrysomelinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "RDS6K",
+          "name": "Paropsisterna",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 12,
+        "timings": {
+          "sciNameMatch": 13
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Monomorium argatogyna\", \"SPECIES\", \"Hymenoptera\", \"Formicidae\"]": {
+    "input": [
+      "Monomorium argatogyna",
+      "SPECIES",
+      "Hymenoptera",
+      "Formicidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Monomorium+argatogyna&taxonRank=SPECIES&order=Hymenoptera&family=Formicidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.712579+00:00",
+    "response": {
+      "usage": {
+        "key": "63CSW",
+        "name": "Monomorium Mayr, 1855",
+        "canonicalName": "Monomorium",
+        "authorship": "Mayr, 1855",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Monomorium</i> Mayr, 1855"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "HYM",
+          "name": "Hymenoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "KZPW7",
+          "name": "Apocrita",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZMNP",
+          "name": "Aculeata",
+          "rank": "INFRAORDER"
+        },
+        {
+          "key": "VGRS7",
+          "name": "Formicoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "CLRKP",
+          "name": "Formicidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "CMD7Z",
+          "name": "Myrmicinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "CMS44",
+          "name": "Solenopsidini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "63CSW",
+          "name": "Monomorium",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 17,
+        "timings": {
+          "sciNameMatch": 17
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Dasymutilla coccineohirta\", \"SPECIES\", \"Hymenoptera\", \"Mutillidae\"]": {
+    "input": [
+      "Dasymutilla coccineohirta",
+      "SPECIES",
+      "Hymenoptera",
+      "Mutillidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Dasymutilla+coccineohirta&taxonRank=SPECIES&order=Hymenoptera&family=Mutillidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.690907+00:00",
+    "response": {
+      "usage": {
+        "key": "MYK4T",
+        "name": "Dasymutilla Ashmead, 1899",
+        "canonicalName": "Dasymutilla",
+        "authorship": "Ashmead, 1899",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Dasymutilla</i> Ashmead, 1899"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "HYM",
+          "name": "Hymenoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "KZPW7",
+          "name": "Apocrita",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZMNP",
+          "name": "Aculeata",
+          "rank": "INFRAORDER"
+        },
+        {
+          "key": "VP",
+          "name": "Vespoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "CZW",
+          "name": "Mutillidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "MYK4T",
+          "name": "Dasymutilla",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 21,
+        "timings": {
+          "sciNameMatch": 21
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Lepidanthrax homologus\", \"SPECIES\", \"Diptera\", \"Bombyliidae\"]": {
+    "input": [
+      "Lepidanthrax homologus",
+      "SPECIES",
+      "Diptera",
+      "Bombyliidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Lepidanthrax+homologus&taxonRank=SPECIES&order=Diptera&family=Bombyliidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.674888+00:00",
+    "response": {
+      "usage": {
+        "key": "3T9NR",
+        "name": "Lepidanthrax homologus Hall, 1976",
+        "canonicalName": "Lepidanthrax homologus",
+        "authorship": "Hall, 1976",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Lepidanthrax",
+        "specificEpithet": "homologus",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Lepidanthrax</i> <i>homologus</i> Hall, 1976"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "D2P",
+          "name": "Diptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "622GM",
+          "name": "Bombyliidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "87CDF",
+          "name": "Anthracinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "BY5ZP",
+          "name": "Villini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "BY2MN",
+          "name": "Lepidanthrax",
+          "rank": "GENUS"
+        },
+        {
+          "key": "3T9NR",
+          "name": "Lepidanthrax homologus",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 12,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 12,
+          "nameParse": 1,
+          "luceneMatch": 11
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Helicobia rapax (Walker, 1849)\", \"SPECIES\", \"Diptera\", \"Sarcophagidae\"]": {
+    "input": [
+      "Helicobia rapax (Walker, 1849)",
+      "SPECIES",
+      "Diptera",
+      "Sarcophagidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Helicobia+rapax+%28Walker%2C+1849%29&taxonRank=SPECIES&order=Diptera&family=Sarcophagidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.699380+00:00",
+    "response": {
+      "usage": {
+        "key": "3K7YZ",
+        "name": "Helicobia rapax (Walker, 1849)",
+        "canonicalName": "Helicobia rapax",
+        "authorship": "(Walker, 1849)",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Helicobia",
+        "specificEpithet": "rapax",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Helicobia</i> <i>rapax</i> (Walker, 1849)"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "D2P",
+          "name": "Diptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "FYF",
+          "name": "Sarcophagidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "8HBTM",
+          "name": "Sarcophaginae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "BYF74",
+          "name": "Helicobia",
+          "rank": "GENUS"
+        },
+        {
+          "key": "3K7YZ",
+          "name": "Helicobia rapax",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 10,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 10,
+          "nameParse": 0,
+          "luceneMatch": 10
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Helicobia rapax\", \"SPECIES\", \"Diptera\", \"Sarcophagidae\"]": {
+    "input": [
+      "Helicobia rapax",
+      "SPECIES",
+      "Diptera",
+      "Sarcophagidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Helicobia+rapax&taxonRank=SPECIES&order=Diptera&family=Sarcophagidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.677107+00:00",
+    "response": {
+      "usage": {
+        "key": "3K7YZ",
+        "name": "Helicobia rapax (Walker, 1849)",
+        "canonicalName": "Helicobia rapax",
+        "authorship": "(Walker, 1849)",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Helicobia",
+        "specificEpithet": "rapax",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Helicobia</i> <i>rapax</i> (Walker, 1849)"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "D2P",
+          "name": "Diptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "FYF",
+          "name": "Sarcophagidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "8HBTM",
+          "name": "Sarcophaginae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "BYF74",
+          "name": "Helicobia",
+          "rank": "GENUS"
+        },
+        {
+          "key": "3K7YZ",
+          "name": "Helicobia rapax",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 9,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 9,
+          "nameParse": 0,
+          "luceneMatch": 9
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Hemipenthes sinuosa\", \"SPECIES\", \"Diptera\", \"Bombyliidae\"]": {
+    "input": [
+      "Hemipenthes sinuosa",
+      "SPECIES",
+      "Diptera",
+      "Bombyliidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Hemipenthes+sinuosa&taxonRank=SPECIES&order=Diptera&family=Bombyliidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.839345+00:00",
+    "response": {
+      "usage": {
+        "key": "3KRBQ",
+        "name": "Hemipenthes sinuosa (Wiedemann, 1821)",
+        "canonicalName": "Hemipenthes sinuosa",
+        "authorship": "(Wiedemann, 1821)",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Hemipenthes",
+        "specificEpithet": "sinuosa",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Hemipenthes</i> <i>sinuosa</i> (Wiedemann, 1821)"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "D2P",
+          "name": "Diptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "622GM",
+          "name": "Bombyliidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "87CDF",
+          "name": "Anthracinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "BY5ZP",
+          "name": "Villini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "BXYFX",
+          "name": "Hemipenthes",
+          "rank": "GENUS"
+        },
+        {
+          "key": "3KRBQ",
+          "name": "Hemipenthes sinuosa",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 8,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 8,
+          "nameParse": 1,
+          "luceneMatch": 7
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Simulium hippovorum Malloch, 1914\", \"SPECIES\", \"Diptera\", \"Simuliidae\"]": {
+    "input": [
+      "Simulium hippovorum Malloch, 1914",
+      "SPECIES",
+      "Diptera",
+      "Simuliidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Simulium+hippovorum+Malloch%2C+1914&taxonRank=SPECIES&order=Diptera&family=Simuliidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.845539+00:00",
+    "response": {
+      "usage": {
+        "key": "BXWWG",
+        "name": "Simulium Latreille, 1802",
+        "canonicalName": "Simulium",
+        "authorship": "Latreille, 1802",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Simulium</i> Latreille, 1802"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "D2P",
+          "name": "Diptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "6279F",
+          "name": "Simuliidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "BXWWG",
+          "name": "Simulium",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 13,
+        "timings": {
+          "sciNameMatch": 13
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Apodemia mormo\", \"SPECIES\", \"Lepidoptera\", \"Riodinidae\"]": {
+    "input": [
+      "Apodemia mormo",
+      "SPECIES",
+      "Lepidoptera",
+      "Riodinidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Apodemia+mormo&taxonRank=SPECIES&order=Lepidoptera&family=Riodinidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.855082+00:00",
+    "response": {
+      "usage": {
+        "key": "FRHG",
+        "name": "Apodemia mormo (Felder, 1859)",
+        "canonicalName": "Apodemia mormo",
+        "authorship": "(Felder, 1859)",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Apodemia",
+        "specificEpithet": "mormo",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Apodemia</i> <i>mormo</i> (Felder, 1859)"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "B6L67",
+          "name": "Lepidoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "5G9",
+          "name": "Papilionoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "FSJ",
+          "name": "Riodinidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "93MZQ",
+          "name": "Riodininae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "922L7",
+          "name": "Apodemia",
+          "rank": "GENUS"
+        },
+        {
+          "key": "FRHG",
+          "name": "Apodemia mormo",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 8,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 9,
+          "nameParse": 1,
+          "luceneMatch": 8
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Eleodes giganteus\", \"SPECIES\", \"Coleoptera\", \"Tenebrionidae\"]": {
+    "input": [
+      "Eleodes giganteus",
+      "SPECIES",
+      "Coleoptera",
+      "Tenebrionidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Eleodes+giganteus&taxonRank=SPECIES&order=Coleoptera&family=Tenebrionidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.880069+00:00",
+    "response": {
+      "usage": {
+        "key": "NN334",
+        "name": "Eleodes gigantea Mannerheim, 1843",
+        "canonicalName": "Eleodes gigantea",
+        "authorship": "Mannerheim, 1843",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "genericName": "Eleodes",
+        "specificEpithet": "gigantea",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Eleodes</i> <i>gigantea</i> Mannerheim, 1843"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "C2L",
+          "name": "Coleoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "DDHNW",
+          "name": "Polyphaga",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZYT4",
+          "name": "Cucujiformia",
+          "rank": "SERIES_ZOOLOGY"
+        },
+        {
+          "key": "KVWC5",
+          "name": "Tenebrionoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "KVV3T",
+          "name": "Tenebrionidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "DDMYD",
+          "name": "Blaptinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "DDMYF",
+          "name": "Amphidorini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "DDMYG",
+          "name": "Eleodes",
+          "rank": "GENUS"
+        },
+        {
+          "key": "NN334",
+          "name": "Eleodes gigantea",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "VARIANT",
+        "confidence": 100,
+        "timeTaken": 12,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 13,
+          "nameParse": 1,
+          "luceneMatch": 12
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Dinomus bachei\", \"SPECIES\", \"Coleoptera\", \"Tenebrionidae\"]": {
+    "input": [
+      "Dinomus bachei",
+      "SPECIES",
+      "Coleoptera",
+      "Tenebrionidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Dinomus+bachei&taxonRank=SPECIES&order=Coleoptera&family=Tenebrionidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.881794+00:00",
+    "response": {
+      "usage": {
+        "key": "NFLB8",
+        "name": "Dinomus Br\u00eame, 1842",
+        "canonicalName": "Dinomus",
+        "authorship": "Br\u00eame, 1842",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Dinomus</i> Br\u00eame, 1842"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "C2L",
+          "name": "Coleoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "DDHNW",
+          "name": "Polyphaga",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZYT4",
+          "name": "Cucujiformia",
+          "rank": "SERIES_ZOOLOGY"
+        },
+        {
+          "key": "KVWC5",
+          "name": "Tenebrionoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "KVV3T",
+          "name": "Tenebrionidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "DDMPJ",
+          "name": "Stenochiinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "DDMPY",
+          "name": "Cnodalonini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "NFLB8",
+          "name": "Dinomus",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 6,
+        "timings": {
+          "sciNameMatch": 7
+        }
+      },
+      "synonym": false
+    }
+  },
+  "[\"Agapostemon subtilior\", \"SPECIES\", \"Hymenoptera\", \"Halictidae\"]": {
+    "input": [
+      "Agapostemon subtilior",
+      "SPECIES",
+      "Hymenoptera",
+      "Halictidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Agapostemon+subtilior&taxonRank=SPECIES&order=Hymenoptera&family=Halictidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:37.894040+00:00",
+    "response": {
+      "usage": {
+        "key": "TZ762",
+        "name": "Agapostemon subtilior Cockerell, 1898",
+        "canonicalName": "Agapostemon subtilior",
+        "authorship": "Cockerell, 1898",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "status": "SYNONYM",
+        "genericName": "Agapostemon",
+        "specificEpithet": "subtilior",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Agapostemon</i> <i>subtilior</i> Cockerell, 1898"
+      },
+      "acceptedUsage": {
+        "key": "65MHJ",
+        "name": "Agapostemon texanus Cresson, 1872",
+        "canonicalName": "Agapostemon texanus",
+        "authorship": "Cresson, 1872",
+        "rank": "SPECIES",
+        "code": "ZOOLOGICAL",
+        "genericName": "Agapostemon",
+        "specificEpithet": "texanus",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Agapostemon</i> <i>texanus</i> Cresson, 1872"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "HYM",
+          "name": "Hymenoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "KZPW7",
+          "name": "Apocrita",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZMNP",
+          "name": "Aculeata",
+          "rank": "INFRAORDER"
+        },
+        {
+          "key": "625GP",
+          "name": "Apoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "625H4",
+          "name": "Halictidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "JMV",
+          "name": "Halictinae",
+          "rank": "SUBFAMILY"
+        },
+        {
+          "key": "KV7",
+          "name": "Halictini",
+          "rank": "TRIBE"
+        },
+        {
+          "key": "CTJNL",
+          "name": "Caenohalictina",
+          "rank": "SUBTRIBE"
+        },
+        {
+          "key": "QJR",
+          "name": "Agapostemon",
+          "rank": "GENUS"
+        },
+        {
+          "key": "65MHJ",
+          "name": "Agapostemon texanus",
+          "rank": "SPECIES"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "EXACT",
+        "confidence": 100,
+        "timeTaken": 12,
+        "timings": {
+          "nameNRank": 0,
+          "sciNameMatch": 12,
+          "nameParse": 0,
+          "luceneMatch": 12
+        }
+      },
+      "synonym": true
+    }
+  },
+  "[\"Dasymutilla sackenii\", \"SPECIES\", \"Hymenoptera\", \"Mutillidae\"]": {
+    "input": [
+      "Dasymutilla sackenii",
+      "SPECIES",
+      "Hymenoptera",
+      "Mutillidae"
+    ],
+    "url": "https://api.gbif.org/v2/species/match?scientificName=Dasymutilla+sackenii&taxonRank=SPECIES&order=Hymenoptera&family=Mutillidae&kingdom=Animalia&phylum=Arthropoda&class=Insecta&checklistKey=7ddf754f-d193-4cc9-b351-99906754a03b",
+    "retrieved_at": "2026-10-27T19:17:38.009067+00:00",
+    "response": {
+      "usage": {
+        "key": "MYK4T",
+        "name": "Dasymutilla Ashmead, 1899",
+        "canonicalName": "Dasymutilla",
+        "authorship": "Ashmead, 1899",
+        "rank": "GENUS",
+        "code": "ZOOLOGICAL",
+        "status": "ACCEPTED",
+        "type": "SCIENTIFIC",
+        "formattedName": "<i>Dasymutilla</i> Ashmead, 1899"
+      },
+      "classification": [
+        {
+          "key": "CS5HF",
+          "name": "Eukaryota",
+          "rank": "DOMAIN"
+        },
+        {
+          "key": "N",
+          "name": "Animalia",
+          "rank": "KINGDOM"
+        },
+        {
+          "key": "RT",
+          "name": "Arthropoda",
+          "rank": "PHYLUM"
+        },
+        {
+          "key": "L2655",
+          "name": "Hexapoda",
+          "rank": "SUBPHYLUM"
+        },
+        {
+          "key": "H6",
+          "name": "Insecta",
+          "rank": "CLASS"
+        },
+        {
+          "key": "HYM",
+          "name": "Hymenoptera",
+          "rank": "ORDER"
+        },
+        {
+          "key": "KZPW7",
+          "name": "Apocrita",
+          "rank": "SUBORDER"
+        },
+        {
+          "key": "KZMNP",
+          "name": "Aculeata",
+          "rank": "INFRAORDER"
+        },
+        {
+          "key": "VP",
+          "name": "Vespoidea",
+          "rank": "SUPERFAMILY"
+        },
+        {
+          "key": "CZW",
+          "name": "Mutillidae",
+          "rank": "FAMILY"
+        },
+        {
+          "key": "MYK4T",
+          "name": "Dasymutilla",
+          "rank": "GENUS"
+        }
+      ],
+      "diagnostics": {
+        "matchType": "HIGHERRANK",
+        "confidence": 100,
+        "timeTaken": 14,
+        "timings": {
+          "sciNameMatch": 14
+        }
+      },
+      "synonym": false
+    }
+  }
+}
