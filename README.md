@@ -115,6 +115,23 @@ paths have been corrected for this local folder layout, and Step 9
 now points to the fresh EPA download. The separate `Apoidea/` workflow has code but no saved
 checklist outputs in this checkout.
 
+## Habitat evidence for Level IV candidate species
+
+The first-pass [habitat and life-history annotations](data/final/habitat-notes/README.md)
+combine regional occurrence coordinates, the public CDFW ds2957 vegetation map,
+USGS SIM 3472 geology, original publisher habitat notes and local Ecdysis field
+descriptions. Perko's Beach and the lighthouse backdunes remain separate contexts.
+Mapped occurrences show collection-location associations; they do not establish
+that a species is a dune or beach specialist. The vegetation map predates the 2022
+restoration, and both maps cover only local parts of the regional candidate pool.
+
+Enriched copies retain all species in the original Level IV checklists. A limited
+set of coastal beetle and cricket accounts have cited life-history notes;
+unreviewed species remain explicitly marked. See the
+[methods and sources](analysis/habitat-notes/README.md), summary statistics and
+record-level evidence in `outputs/habitat-notes/2026-10-27/`. The original checklists
+and earlier Hill results are preserved.
+
 ## Hill diversity analysis
 
 The Hill-number workflow and all inputs used for the earlier report

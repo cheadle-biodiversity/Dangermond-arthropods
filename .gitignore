@@ -54,8 +54,10 @@ outputs/regional-candidate-pool/**/taxonomy_api_cache.jsonl
 outputs/regional-candidate-pool/**/taxonomy_name_resolution.csv
 data/final/*.csv.gz
 data/final/*.partial
+data/final/**/*.csv.gz
+data/final/**/*.partial
 
-# Record-level habitat evidence; summarized annotations remain versioned.
+# Large habitat record audits and caches; summaries and provenance remain versioned.
 outputs/habitat-notes/**/*.csv.gz
 
 # Local credentials and R sessions
