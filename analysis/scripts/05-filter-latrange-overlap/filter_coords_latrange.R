@@ -15,7 +15,7 @@
 #   5) For each species, compute min/max latitude
 #   6) Keep only species whose latitude range overlaps with the
 #      Dangermond Preserve's latitude range, read from the authoritative
-#      boundary polygon (../reference-data/jldp_boundary.geojson) rather
+#      boundary polygon (../../reference-data/jldp_boundary.geojson) rather
 #      than a hardcoded number (see "Boundary source" note below)
 #   7) Save the overlap species dataset as a CSV
 #
@@ -48,7 +48,7 @@
 # BOUNDARY SOURCE (changed from an earlier hardcoded version of this
 # script): lat_min/lat_max used to be hardcoded as 34.442106/34.574661.
 # Once an authoritative boundary file for the Preserve
-# (../reference-data/jldp_boundary.geojson — see that folder's README
+# (../../reference-data/jldp_boundary.geojson — see that folder's README
 # for provenance/validation) became available, those hardcoded numbers
 # turned out to be close but not exact: off by roughly 20-50 meters on
 # each end from the polygon's true bounding box (34.442303/34.574189).
@@ -72,7 +72,7 @@ outdir <- "./output"
 outfile_coords  <- file.path(outdir, "dwc_coords_complete.csv")
 outfile_overlap <- file.path(outdir, "dwc_latrange_overlap.csv")
 
-boundary_file <- "../reference-data/jldp_boundary.geojson"
+boundary_file <- "../../reference-data/jldp_boundary.geojson"
 # ------------------------------------------------------------
 
 # Create output directory if it doesn't exist

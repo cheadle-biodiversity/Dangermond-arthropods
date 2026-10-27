@@ -27,7 +27,7 @@
 # 1. Reads the EPA Level III Ecoregions of Region 9 shapefile (85 polygons;
 #    provided by the user — see "Data source" below for why this had to be
 #    user-supplied rather than downloaded directly in this pipeline).
-# 2. Reprojects the Preserve boundary (`../reference-data/jldp_boundary.geojson`,
+# 2. Reprojects the Preserve boundary (`../../reference-data/jldp_boundary.geojson`,
 #    WGS84) into the ecoregion shapefile's own CRS (USA Contiguous Albers
 #    Equal Area Conic, NAD83) — the correct direction for this step, since
 #    an equal-area CRS is what makes the overlap-area calculation below
@@ -69,8 +69,8 @@ suppressMessages({
 })
 
 # ---- Paths (relative to this script's folder) ----
-infile_ecoregions <- "raw_download/reg9_eco_l3.shp"
-infile_boundary    <- "../reference-data/jldp_boundary.geojson"
+infile_ecoregions <- "../../../data/raw/epa/region9_level_iii/2026-10-27/extracted/reg9_eco_l3.shp"
+infile_boundary    <- "../../reference-data/jldp_boundary.geojson"
 outdir             <- "output"
 outfile_summary    <- file.path(outdir, "preserve_ecoregions.csv")
 outfile_geojson    <- file.path(outdir, "preserve_ecoregions.geojson")

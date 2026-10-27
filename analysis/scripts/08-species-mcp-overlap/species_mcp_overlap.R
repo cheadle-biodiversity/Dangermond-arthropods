@@ -105,7 +105,7 @@ library(sf)
 # USER INPUTS — update paths if needed
 # ------------------------------------------------------------
 infile        <- "../05-filter-latrange-overlap/output/dwc_coords_complete.csv"
-boundary_file <- "../reference-data/jldp_boundary.geojson"
+boundary_file <- "../../reference-data/jldp_boundary.geojson"
 
 outdir <- "./output"
 outfile_summary      <- file.path(outdir, "species_mcp_overlap_summary.csv")

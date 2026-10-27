@@ -14,7 +14,7 @@
 #      latitude band) — every output below is scoped to these species
 #      only
 #   3) Load the authoritative Preserve boundary polygon
-#      (../reference-data/jldp_boundary.geojson)
+#      (../../reference-data/jldp_boundary.geojson)
 #   4) Compute every record's true geodesic distance to the Preserve
 #      (0 if the point falls inside the boundary)
 #   5) For each in-extent species, produce two comparable outputs (full
@@ -92,7 +92,7 @@ library(sf)
 # ------------------------------------------------------------
 infile_coords  <- "../05-filter-latrange-overlap/output/dwc_coords_complete.csv"
 infile_overlap <- "../05-filter-latrange-overlap/output/dwc_latrange_overlap.csv"
-boundary_file  <- "../reference-data/jldp_boundary.geojson"
+boundary_file  <- "../../reference-data/jldp_boundary.geojson"
 
 outdir <- "./output"
 outfile_all_distances     <- file.path(outdir, "dwc_distance_to_boundary.csv")

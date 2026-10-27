@@ -1,0 +1,666 @@
+series,records,expected_taxa
+Ecdysis: named species,0,0.0
+Ecdysis: named species,1,1.0000000000097349
+Ecdysis: named species,2,1.913083362008674
+Ecdysis: named species,3,2.7538391659638166
+Ecdysis: named species,5,4.263512761159017
+Ecdysis: named species,6,4.9498968898585565
+Ecdysis: named species,8,6.218045518333519
+Ecdysis: named species,9,6.809350944031659
+Ecdysis: named species,11,7.924276360622803
+Ecdysis: named species,12,8.453250101439613
+Ecdysis: named species,14,9.464403804707395
+Ecdysis: named species,15,9.949697471689875
+Ecdysis: named species,17,10.885767315392886
+Ecdysis: named species,18,11.338437403144432
+Ecdysis: named species,20,12.21682012760918
+Ecdysis: named species,21,12.643746315466466
+Ecdysis: named species,23,13.475552289862724
+Ecdysis: named species,24,13.881254151508724
+Ecdysis: named species,26,14.673984822161184
+Ecdysis: named species,27,15.061601642067973
+Ecdysis: named species,29,15.820606465482683
+Ecdysis: named species,30,16.192436154240884
+Ecdysis: named species,31,16.559415288836952
+Ecdysis: named species,33,17.27952633410319
+Ecdysis: named species,34,17.632979261945053
+Ecdysis: named species,36,18.3274029877816
+Ecdysis: named species,37,18.668635796707946
+Ecdysis: named species,39,19.339740745415398
+Ecdysis: named species,40,19.669831766711244
+Ecdysis: named species,42,20.31959472883804
+Ecdysis: named species,43,20.639452823711263
+Ecdysis: named species,45,21.26955389083903
+Ecdysis: named species,46,21.57995741332878
+Ecdysis: named species,48,22.191844902304762
+Ecdysis: named species,49,22.493468900512667
+Ecdysis: named species,51,23.08840559149031
+Ecdysis: named species,52,23.381841562481164
+Ecdysis: named species,54,23.96093886566927
+Ecdysis: named species,55,24.246709596140576
+Ecdysis: named species,57,24.8109535881338
+Ecdysis: named species,58,25.08952461503067
+Ecdysis: named species,59,25.365790637982666
+Ecdysis: named species,61,25.911585028785016
+Ecdysis: named species,62,26.181198374669815
+Ecdysis: named species,64,26.7140594882543
+Ecdysis: named species,65,26.977384258934258
+Ecdysis: named species,67,27.498005858626676
+Ecdysis: named species,68,27.755372823198154
+Ecdysis: named species,70,28.26438673779679
+Ecdysis: named species,71,28.51609787100537
+Ecdysis: named species,73,29.014082255513244
+Ecdysis: named species,74,29.260414498399623
+Ecdysis: named species,76,29.747900700273192
+Ecdysis: named species,77,29.989109095191406
+Ecdysis: named species,79,30.466587393279855
+Ecdysis: named species,80,30.70290771098335
+Ecdysis: named species,82,31.170832136470143
+Ecdysis: named species,83,31.402483088493444
+Ecdysis: named species,85,31.86127549442159
+Ecdysis: named species,86,32.08846060491608
+Ecdysis: named species,88,32.53851411779122
+Ecdysis: named species,89,32.76142331528707
+Ecdysis: named species,90,32.9829472647278
+Ecdysis: named species,92,33.42191625481463
+Ecdysis: named species,93,33.63939870309764
+Ecdysis: named species,95,34.07045012761495
+Ecdysis: named species,96,34.284054242978314
+Ecdysis: named species,98,34.70750448688607
+Ecdysis: named species,99,34.91738368511448
+Ecdysis: named species,101,35.333530491158434
+Ecdysis: named species,102,35.53982927280691
+Ecdysis: named species,104,35.94895330703351
+Ecdysis: named species,105,36.15180799000597
+Ecdysis: named species,107,36.554174215743465
+Ecdysis: named species,108,36.753713580032404
+Ecdysis: named species,110,37.14957247062148
+Ecdysis: named species,111,37.345918329002366
+Ecdysis: named species,113,37.73550694418714
+Ecdysis: named species,114,37.928774650232725
+Ecdysis: named species,116,38.3123175969483
+Ecdysis: named species,117,38.50261649968891
+Ecdysis: named species,118,38.69194912297183
+Ecdysis: named species,120,39.06776064695968
+Ecdysis: named species,121,39.25426162631037
+Ecdysis: named species,123,39.62450782241977
+Ecdysis: named species,124,39.80827401957393
+Ecdysis: named species,126,40.1731437572935
+Ecdysis: named species,127,40.35426724901608
+Ecdysis: named species,129,40.71394013087689
+Ecdysis: named species,130,40.89250850610308
+Ecdysis: named species,132,41.24715543655988
+Ecdysis: named species,133,41.423252068801965
+Ecdysis: named species,135,41.77303577657092
+Ecdysis: named species,136,41.94674007446568
+Ecdysis: named species,138,42.29181559374029
+Ecdysis: named species,139,42.463203232204506
+Ecdysis: named species,141,42.80371834726241
+Ecdysis: named species,142,42.97286148139685
+Ecdysis: named species,144,43.308957138531746
+Ecdysis: named species,145,43.47592460202747
+Ecdysis: named species,147,43.807735292123944
+Ecdysis: named species,148,43.97259278172456
+Ecdysis: named species,149,44.136761028764674
+Ecdysis: named species,151,44.463057143732144
+Ecdysis: named species,152,44.625198428265065
+Ecdysis: named species,154,44.947500239454925
+Ecdysis: named species,155,45.10767358753164
+Ecdysis: named species,157,45.42609650876642
+Ecdysis: named species,158,45.584358339718676
+Ecdysis: named species,160,45.89901271090818
+Ecdysis: named species,161,46.055416974909086
+Ecdysis: named species,163,46.36640832849685
+Ecdysis: named species,164,46.521006635612
+Ecdysis: named species,166,46.82843594678243
+Ecdysis: named species,167,46.98127768825472
+Ecdysis: named species,169,47.285241610188486
+Ecdysis: named species,170,47.43637407254961
+Ecdysis: named species,172,47.73696515787121
+Ecdysis: named species,173,47.88643363040619
+Ecdysis: named species,175,48.18374053991728
+Ecdysis: named species,176,48.33158841601099
+Ecdysis: named species,177,48.47890542246097
+Ecdysis: named species,179,48.77196498837054
+Ecdysis: named species,180,48.917716471608436
+Ecdysis: named species,182,49.20768468764565
+Ecdysis: named species,183,49.351909980209356
+Ecdysis: named species,185,49.63886389636944
+Ecdysis: named species,186,49.78160073385958
+Ecdysis: named species,188,50.06561428664801
+Ecdysis: named species,189,50.20689888714487
+Ecdysis: named species,191,50.48804305420524
+Ecdysis: named species,192,50.627910193548075
+Ecdysis: named species,194,50.90625314022994
+Ecdysis: named species,195,51.04473622337341
+Ecdysis: named species,197,51.32034344172959
+Ecdysis: named species,198,51.45747457043466
+Ecdysis: named species,200,51.73040901116365
+Ecdysis: named species,201,51.86621904827833
+Ecdysis: named species,203,52.1365412459973
+Ecdysis: named species,204,52.27105987650757
+Ecdysis: named species,206,52.53882806876358
+Ecdysis: named species,207,52.67208385780321
+Ecdysis: named species,208,52.80492486193282
+Ecdysis: named species,210,53.069374546211115
+Ecdysis: named species,211,53.20098914865147
+Ecdysis: named species,213,53.463012407154835
+Ecdysis: named species,214,53.593426769876764
+Ecdysis: named species,216,53.853074969634264
+Ecdysis: named species,217,53.982314308328725
+Ecdysis: named species,219,54.2396369710152
+Ecdysis: named species,220,54.36772560178325
+Ecdysis: named species,222,54.622770494798175
+Ecdysis: named species,223,54.74973187856907
+Ecdysis: named species,225,55.00254510171218
+Ecdysis: named species,226,55.128401886514816
+Ecdysis: named species,228,55.37902795444832
+Ecdysis: named species,229,55.5038020156331
+Ecdysis: named species,231,55.752283936347425
+Ecdysis: named species,232,55.875996414843485
+Ecdysis: named species,234,56.12237576428894
+Ecdysis: named species,235,56.245047103005135
+Ecdysis: named species,236,56.36737582236548
+Ecdysis: named species,238,56.61101407449462
+Ecdysis: named species,239,56.73232788502641
+Ecdysis: named species,241,56.97395539958573
+Ecdysis: named species,242,57.09427324709053
+Ecdysis: named species,244,57.333927319816816
+Ecdysis: named species,245,57.453267560884136
+Ecdysis: named species,247,57.69098433858754
+Ecdysis: named species,248,57.80936476974867
+Ecdysis: named species,250,58.045179307131775
+Ecdysis: named species,251,58.1626171925418
+Ecdysis: named species,253,58.39656350609513
+Ecdysis: named species,254,58.51307560376939
+Ecdysis: named species,256,58.745186722862954
+Ecdysis: named species,257,58.86078930953205
+Ecdysis: named species,259,59.09109732480098
+Ecdysis: named species,260,59.20580621945383
+Ecdysis: named species,262,59.43434232858543
+Ecdysis: named species,263,59.54817291473138
+Ecdysis: named species,265,59.77496746576216
+Ecdysis: named species,266,59.88793471247157
+Ecdysis: named species,267,60.000617437081495
+Ecdysis: named species,269,60.22513572645576
+Ecdysis: named species,270,60.33697445988209
+Ecdysis: named species,272,60.55981892447177
+Ecdysis: named species,273,60.67082774407797
+Ecdysis: named species,275,60.892026182356005
+Ecdysis: named species,276,61.00221881298224
+Ecdysis: named species,278,61.221798334879345
+Ecdysis: named species,279,61.331188165124416
+Ecdysis: named species,281,61.54917522360955
+Ecdysis: named species,282,61.657775321139134
+Ecdysis: named species,284,61.87419574188521
+Ecdysis: named species,285,61.98201886780024
+Ecdysis: named species,287,62.19689787702635
+Ecdysis: named species,288,62.303956499343386
+Ecdysis: named species,290,62.517318749914025
+Ecdysis: named species,291,62.62362505619636
+Ecdysis: named species,293,62.835494652067304
+Ecdysis: named species,294,62.94106056124892
+Ecdysis: named species,295,63.04638227522623
+Ecdysis: named species,297,63.256298253787975
+Ecdysis: named species,298,63.36089506371974
+Ecdysis: named species,300,63.56937262122557
+Ecdysis: named species,301,63.6732558610141
+Ecdysis: named species,303,63.88031742874483
+Ecdysis: named species,304,63.98349819779567
+Ecdysis: named species,306,64.18916574699026
+Ecdysis: named species,307,64.2916549190297
+Ecdysis: named species,309,64.49594997792828
+Ecdysis: named species,310,64.59775820923855
+Ecdysis: named species,312,64.8007018790037
+Ecdysis: named species,313,64.90183961611817
+Ecdysis: named species,315,65.1034525857176
+Ecdysis: named species,316,65.20393007261752
+Ecdysis: named species,318,65.40423263275213
+Ecdysis: named species,319,65.50405991760714
+Ecdysis: named species,321,65.70307197376792
+Ecdysis: named species,322,65.80225891526203
+Ecdysis: named species,324,66.0
+GBIF: named species assignments,0,0.0
+GBIF: named species assignments,1,0.999999998923698
+GBIF: named species assignments,25,18.611204510937146
+GBIF: named species assignments,50,31.415292619002383
+GBIF: named species assignments,74,41.77660927186512
+GBIF: named species assignments,99,51.47110037285756
+GBIF: named species assignments,123,60.05797183376133
+GBIF: named species assignments,148,68.43348299477408
+GBIF: named species assignments,173,76.33955324015932
+GBIF: named species assignments,197,83.55869432318217
+GBIF: named species assignments,222,90.74607461228359
+GBIF: named species assignments,246,97.36538217156448
+GBIF: named species assignments,271,104.00043667390455
+GBIF: named species assignments,295,110.1451063897551
+GBIF: named species assignments,320,116.33296215499135
+GBIF: named species assignments,324,117.30413004208407
+GBIF: named species assignments,345,122.3220433336793
+GBIF: named species assignments,369,127.89932040237673
+GBIF: named species assignments,394,133.54282589297821
+GBIF: named species assignments,418,138.8120398096706
+GBIF: named species assignments,443,144.15626289085435
+GBIF: named species assignments,468,149.36223196197102
+GBIF: named species assignments,492,154.23767126897545
+GBIF: named species assignments,517,159.19615760858284
+GBIF: named species assignments,541,163.84726502556614
+GBIF: named species assignments,566,168.5845952110049
+GBIF: named species assignments,590,173.03436330085685
+GBIF: named species assignments,615,177.57242269293795
+GBIF: named species assignments,640,182.01611444149057
+GBIF: named species assignments,664,186.19738668486488
+GBIF: named species assignments,689,190.4686392758662
+GBIF: named species assignments,713,194.49165385061806
+GBIF: named species assignments,738,198.6051026357
+GBIF: named species assignments,762,202.48293067877466
+GBIF: named species assignments,787,206.45127074400637
+GBIF: named species assignments,812,210.3499412556535
+GBIF: named species assignments,836,214.02962957422193
+GBIF: named species assignments,861,217.7994302891567
+GBIF: named species assignments,885,221.35994552080012
+GBIF: named species assignments,910,225.01005975363796
+GBIF: named species assignments,935,228.60231167705786
+GBIF: named species assignments,959,231.99829661663688
+GBIF: named species assignments,984,235.48284507769043
+GBIF: named species assignments,1008,238.77883625799788
+GBIF: named species assignments,1033,242.1625813999804
+GBIF: named species assignments,1057,245.3648601802352
+GBIF: named species assignments,1082,248.65401380521135
+GBIF: named species assignments,1107,251.89710459707337
+GBIF: named species assignments,1131,254.96842676052415
+GBIF: named species assignments,1156,258.1252052033815
+GBIF: named species assignments,1180,261.11605568827224
+GBIF: named species assignments,1205,264.1913837461799
+GBIF: named species assignments,1229,267.1062205770086
+GBIF: named species assignments,1254,270.10453762332827
+GBIF: named species assignments,1279,273.0651519249354
+GBIF: named species assignments,1303,275.87281174258334
+GBIF: named species assignments,1328,278.7624282555097
+GBIF: named species assignments,1352,281.5036861164655
+GBIF: named species assignments,1377,284.3258895646064
+GBIF: named species assignments,1402,287.11498951833585
+GBIF: named species assignments,1426,289.7621499271901
+GBIF: named species assignments,1451,292.4887372823972
+GBIF: named species assignments,1475,295.0773265746884
+GBIF: named species assignments,1500,297.74434776198575
+GBIF: named species assignments,1524,300.2770911656446
+GBIF: named species assignments,1549,302.88728281523277
+GBIF: named species assignments,1574,305.46947233295293
+GBIF: named species assignments,1598,307.9226236806657
+GBIF: named species assignments,1623,310.4517634614449
+GBIF: named species assignments,1647,312.855107201451
+GBIF: named species assignments,1672,315.3334917220047
+GBIF: named species assignments,1697,317.78681626403284
+GBIF: named species assignments,1721,320.11893284252494
+GBIF: named species assignments,1746,322.5246900338591
+GBIF: named species assignments,1770,324.81209093890874
+GBIF: named species assignments,1795,327.1722266763263
+GBIF: named species assignments,1819,329.41672181635977
+GBIF: named species assignments,1844,331.7330634293697
+GBIF: named species assignments,1869,334.0277296431693
+GBIF: named species assignments,1893,336.2106196354991
+GBIF: named species assignments,1918,338.46404785587754
+GBIF: named species assignments,1942,340.60811422400434
+GBIF: named species assignments,1967,342.8218746692625
+GBIF: named species assignments,1991,344.92858139720965
+GBIF: named species assignments,2016,347.10415556706675
+GBIF: named species assignments,2041,349.26079100507707
+GBIF: named species assignments,2065,351.3136720813922
+GBIF: named species assignments,2090,353.43420504794125
+GBIF: named species assignments,2114,355.4530539129869
+GBIF: named species assignments,2139,357.53877117506585
+GBIF: named species assignments,2164,359.60719895711094
+GBIF: named species assignments,2188,361.57691026967495
+GBIF: named species assignments,2213,363.61233835423593
+GBIF: named species assignments,2237,365.55091707175427
+GBIF: named species assignments,2262,367.55447047763926
+GBIF: named species assignments,2286,369.4629688609705
+GBIF: named species assignments,2311,371.43571577064307
+GBIF: named species assignments,2336,373.3931393612479
+GBIF: named species assignments,2360,375.25808892004807
+GBIF: named species assignments,2385,377.18621976475504
+GBIF: named species assignments,2409,379.02350580257723
+GBIF: named species assignments,2434,380.9232853955428
+GBIF: named species assignments,2458,382.7337898574059
+GBIF: named species assignments,2483,384.6061148230866
+GBIF: named species assignments,2508,386.4647640927151
+GBIF: named species assignments,2532,388.23640286039154
+GBIF: named species assignments,2557,390.0688727147734
+GBIF: named species assignments,2581,391.8157657480444
+GBIF: named species assignments,2606,393.62285208732794
+GBIF: named species assignments,2631,395.41728261206833
+GBIF: named species assignments,2655,397.12820874694296
+GBIF: named species assignments,2680,398.89839033942883
+GBIF: named species assignments,2704,400.5863820079993
+GBIF: named species assignments,2729,402.3330243915131
+GBIF: named species assignments,2753,403.9987478913108
+GBIF: named species assignments,2778,405.72252992837764
+GBIF: named species assignments,2803,407.4349006109383
+GBIF: named species assignments,2827,409.0681942434973
+GBIF: named species assignments,2852,410.75867517002933
+GBIF: named species assignments,2876,412.3712500304986
+GBIF: named species assignments,2901,414.04045007937486
+GBIF: named species assignments,2926,415.6990189327904
+GBIF: named species assignments,2950,417.2813812693139
+GBIF: named species assignments,2975,418.91954144970714
+GBIF: named species assignments,2999,420.48257730755984
+GBIF: named species assignments,3024,422.10087698971086
+GBIF: named species assignments,3048,423.64510194176194
+GBIF: named species assignments,3073,425.24406735941267
+GBIF: named species assignments,3098,426.8333643451101
+GBIF: named species assignments,3122,428.35011306746355
+GBIF: named species assignments,3147,429.9208314439604
+GBIF: named species assignments,3171,431.41997546495384
+GBIF: named species assignments,3196,432.9725912828237
+GBIF: named species assignments,3220,434.45457874754516
+GBIF: named species assignments,3245,435.9895498286044
+GBIF: named species assignments,3270,437.5156892540077
+GBIF: named species assignments,3294,438.9725786731805
+GBIF: named species assignments,3319,440.48173221325067
+GBIF: named species assignments,3343,441.92251672691003
+GBIF: named species assignments,3368,443.41510032437145
+GBIF: named species assignments,3393,444.89938515713936
+GBIF: named species assignments,3417,446.31658612349065
+GBIF: named species assignments,3442,447.7849004383675
+GBIF: named species assignments,3466,449.18695327341527
+GBIF: named species assignments,3491,450.63967600895035
+GBIF: named species assignments,3515,452.02693791530567
+GBIF: named species assignments,3540,453.46443446562273
+GBIF: named species assignments,3565,454.8942991341139
+GBIF: named species assignments,3589,456.25987277707645
+GBIF: named species assignments,3614,457.6750387688167
+GBIF: named species assignments,3638,459.02666344662066
+GBIF: named species assignments,3663,460.4274648041953
+GBIF: named species assignments,3687,461.7654556030195
+GBIF: named species assignments,3712,463.1522148435705
+GBIF: named species assignments,3737,464.53193041778457
+GBIF: named species assignments,3761,465.84990464629817
+GBIF: named species assignments,3786,467.21604442850486
+GBIF: named species assignments,3810,468.52112906864954
+GBIF: named species assignments,3835,469.87398879175396
+GBIF: named species assignments,3860,471.22018370416333
+GBIF: named species assignments,3884,472.50632846049444
+GBIF: named species assignments,3909,473.8396713228548
+GBIF: named species assignments,3933,475.11360961670806
+GBIF: named species assignments,3958,476.434372111564
+GBIF: named species assignments,3982,477.6963604404753
+GBIF: named species assignments,4007,479.0048053470022
+GBIF: named species assignments,4032,480.30706423825677
+GBIF: named species assignments,4056,481.55147338369306
+GBIF: named species assignments,4081,482.84179544328276
+GBIF: named species assignments,4105,484.074862320753
+GBIF: named species assignments,4130,485.3534895004846
+GBIF: named species assignments,4155,486.6262406116932
+GBIF: named species assignments,4179,487.8426091449326
+GBIF: named species assignments,4204,489.1040161984087
+GBIF: named species assignments,4228,490.30960237752817
+GBIF: named species assignments,4253,491.5598884472886
+GBIF: named species assignments,4277,492.7549030153666
+GBIF: named species assignments,4302,493.99428414186053
+GBIF: named species assignments,4327,495.2281825580485
+GBIF: named species assignments,4351,496.4076166602164
+GBIF: named species assignments,4376,497.63092363013016
+GBIF: named species assignments,4400,498.80028645706466
+GBIF: named species assignments,4425,500.01320146388105
+GBIF: named species assignments,4449,501.17268152142026
+GBIF: named species assignments,4474,502.37539785732935
+GBIF: named species assignments,4499,503.5729833216502
+GBIF: named species assignments,4523,504.717882790801
+GBIF: named species assignments,4548,505.90555022996114
+GBIF: named species assignments,4572,507.04101482973664
+GBIF: named species assignments,4597,508.2189429115974
+GBIF: named species assignments,4622,509.39196899062284
+GBIF: named species assignments,4646,510.51350341238265
+GBIF: named species assignments,4671,511.67704961627066
+GBIF: named species assignments,4695,512.7895632889058
+GBIF: named species assignments,4720,513.9437948477969
+GBIF: named species assignments,4744,515.0474439466253
+GBIF: named species assignments,4769,516.1925210365168
+GBIF: named species assignments,4794,517.332987603496
+GBIF: named species assignments,4818,518.4235348628594
+GBIF: named species assignments,4843,519.5550796283936
+GBIF: named species assignments,4867,520.6371336357679
+GBIF: named species assignments,4892,521.759904770233
+GBIF: named species assignments,4916,522.8336055781872
+GBIF: named species assignments,4941,523.9477467219021
+GBIF: named species assignments,4966,525.057538725218
+GBIF: named species assignments,4990,526.1188804965443
+GBIF: named species assignments,5015,527.2202511444184
+GBIF: named species assignments,5039,528.2735726814183
+GBIF: named species assignments,5064,529.3666548201012
+GBIF: named species assignments,5089,530.4555579858468
+GBIF: named species assignments,5113,531.4970040702389
+GBIF: named species assignments,5138,532.5778116447495
+GBIF: named species assignments,5162,533.6115453745647
+GBIF: named species assignments,5187,534.6843801630843
+GBIF: named species assignments,5211,535.7105175905685
+GBIF: named species assignments,5236,536.7754985895779
+GBIF: named species assignments,5261,537.8365171983903
+GBIF: named species assignments,5285,538.8513946590099
+GBIF: named species assignments,5310,539.9047321924497
+GBIF: named species assignments,5334,540.9122889851369
+GBIF: named species assignments,5359,541.958055317615
+GBIF: named species assignments,5384,543.0
+GBIF: barcode BINs,0,0.0
+GBIF: barcode BINs,1,1.0000000010029764
+GBIF: barcode BINs,50,38.696645822964335
+GBIF: barcode BINs,100,66.50754508933109
+GBIF: barcode BINs,150,89.880555133993
+GBIF: barcode BINs,200,110.66533210858073
+GBIF: barcode BINs,250,129.64990414887984
+GBIF: barcode BINs,300,147.25695257532013
+GBIF: barcode BINs,324,155.29993162163487
+GBIF: barcode BINs,349,163.42932845811342
+GBIF: barcode BINs,399,179.00552257190637
+GBIF: barcode BINs,449,193.77869781826644
+GBIF: barcode BINs,499,207.85157450637914
+GBIF: barcode BINs,549,221.3056885552885
+GBIF: barcode BINs,599,234.2073456395289
+GBIF: barcode BINs,648,246.36797592490848
+GBIF: barcode BINs,698,258.32947550047635
+GBIF: barcode BINs,748,269.8783846615496
+GBIF: barcode BINs,798,281.04875285564526
+GBIF: barcode BINs,848,291.8701830606756
+GBIF: barcode BINs,898,302.3686220564284
+GBIF: barcode BINs,947,312.36581322519055
+GBIF: barcode BINs,997,322.28983800404023
+GBIF: barcode BINs,1047,331.9519596376794
+GBIF: barcode BINs,1097,341.3685366650339
+GBIF: barcode BINs,1147,350.55432460502914
+GBIF: barcode BINs,1197,359.5226886129707
+GBIF: barcode BINs,1246,368.1124572602974
+GBIF: barcode BINs,1296,376.685146508786
+GBIF: barcode BINs,1346,385.0736061797863
+GBIF: barcode BINs,1396,393.2871694549708
+GBIF: barcode BINs,1446,401.3344280773183
+GBIF: barcode BINs,1496,409.22331140587255
+GBIF: barcode BINs,1545,416.80783363876327
+GBIF: barcode BINs,1595,424.4042607354623
+GBIF: barcode BINs,1645,431.862647728811
+GBIF: barcode BINs,1695,439.18888670424116
+GBIF: barcode BINs,1745,446.3884732583223
+GBIF: barcode BINs,1795,453.4665423696304
+GBIF: barcode BINs,1844,460.2897870663398
+GBIF: barcode BINs,1894,467.141140528195
+GBIF: barcode BINs,1944,473.8844359327555
+GBIF: barcode BINs,1994,480.5236553761485
+GBIF: barcode BINs,2044,487.0625480788498
+GBIF: barcode BINs,2094,493.50464875990957
+GBIF: barcode BINs,2143,499.7272164199296
+GBIF: barcode BINs,2193,505.9873364002083
+GBIF: barcode BINs,2243,512.1600808253809
+GBIF: barcode BINs,2293,518.2482797459313
+GBIF: barcode BINs,2343,524.2546169502908
+GBIF: barcode BINs,2393,530.1816403816481
+GBIF: barcode BINs,2442,535.9155070780334
+GBIF: barcode BINs,2492,541.6925184837551
+GBIF: barcode BINs,2542,547.39709062238
+GBIF: barcode BINs,2592,553.0313153439303
+GBIF: barcode BINs,2642,558.5971879356742
+GBIF: barcode BINs,2692,564.0966131908013
+GBIF: barcode BINs,2741,569.4233369966448
+GBIF: barcode BINs,2791,574.7964887175715
+GBIF: barcode BINs,2841,580.1083858197328
+GBIF: barcode BINs,2891,585.3606244537059
+GBIF: barcode BINs,2941,590.5547342420689
+GBIF: barcode BINs,2991,595.6921821502197
+GBIF: barcode BINs,3040,600.6732647798158
+GBIF: barcode BINs,3090,605.7026216838378
+GBIF: barcode BINs,3140,610.6793501486137
+GBIF: barcode BINs,3190,615.6047003572658
+GBIF: barcode BINs,3240,620.4798751277502
+GBIF: barcode BINs,3290,625.3060323753818
+GBIF: barcode BINs,3339,629.9891847815286
+GBIF: barcode BINs,3389,634.7215389465325
+GBIF: barcode BINs,3439,639.4080821560668
+GBIF: barcode BINs,3489,644.0498152233475
+GBIF: barcode BINs,3539,648.6477042447239
+GBIF: barcode BINs,3589,653.2026822603395
+GBIF: barcode BINs,3639,657.7156507959085
+GBIF: barcode BINs,3688,662.0984424324521
+GBIF: barcode BINs,3738,666.5307757685756
+GBIF: barcode BINs,3788,670.9236135600639
+GBIF: barcode BINs,3838,675.2777457685838
+GBIF: barcode BINs,3888,679.5939374197012
+GBIF: barcode BINs,3938,683.8729296574397
+GBIF: barcode BINs,3987,688.0309435563048
+GBIF: barcode BINs,4037,692.2383790808744
+GBIF: barcode BINs,4087,696.4106922040078
+GBIF: barcode BINs,4137,700.5485387851924
+GBIF: barcode BINs,4187,704.6525554383734
+GBIF: barcode BINs,4237,708.7233603345078
+GBIF: barcode BINs,4286,712.6811058208748
+GBIF: barcode BINs,4336,716.6879064170706
+GBIF: barcode BINs,4386,720.6632349877166
+GBIF: barcode BINs,4436,724.6076431963206
+GBIF: barcode BINs,4486,728.5216675844399
+GBIF: barcode BINs,4536,732.4058301547919
+GBIF: barcode BINs,4585,736.1838271770473
+GBIF: barcode BINs,4635,740.0103490438622
+GBIF: barcode BINs,4685,743.8084836404377
+GBIF: barcode BINs,4735,747.5787002232208
+GBIF: barcode BINs,4785,751.3214559801013
+GBIF: barcode BINs,4835,755.0371964682527
+GBIF: barcode BINs,4884,758.6528305470422
+GBIF: barcode BINs,4934,762.3163516612867
+GBIF: barcode BINs,4984,765.95412013314
+GBIF: barcode BINs,5034,769.5665390446525
+GBIF: barcode BINs,5084,773.1540017133567
+GBIF: barcode BINs,5134,776.7168920051365
+GBIF: barcode BINs,5183,780.1850455345932
+GBIF: barcode BINs,5233,783.7003794873192
+GBIF: barcode BINs,5283,787.1922319264678
+GBIF: barcode BINs,5333,790.6609520701013
+GBIF: barcode BINs,5383,794.1068811198008
+GBIF: barcode BINs,5433,797.5303524928725
+GBIF: barcode BINs,5482,800.8638801365796
+GBIF: barcode BINs,5532,804.2438397949707
+GBIF: barcode BINs,5582,807.602291695634
+GBIF: barcode BINs,5632,810.9395406709407
+GBIF: barcode BINs,5682,814.2558848940062
+GBIF: barcode BINs,5732,817.5516161048771
+GBIF: barcode BINs,5781,820.7617090808969
+GBIF: barcode BINs,5831,824.0174628414688
+GBIF: barcode BINs,5881,827.2534365205748
+GBIF: barcode BINs,5931,830.4698979848205
+GBIF: barcode BINs,5981,833.6671095377014
+GBIF: barcode BINs,6031,836.8453280685042
+GBIF: barcode BINs,6080,839.9417977264596
+GBIF: barcode BINs,6130,843.0831475018991
+GBIF: barcode BINs,6180,846.2062391618404
+GBIF: barcode BINs,6230,849.3113095057245
+GBIF: barcode BINs,6280,852.3985906324285
+GBIF: barcode BINs,6330,855.4683100570232
+GBIF: barcode BINs,6379,858.4598117178052
+GBIF: barcode BINs,6429,861.4954128599121
+GBIF: barcode BINs,6479,864.5141043300578
+GBIF: barcode BINs,6529,867.516096587559
+GBIF: barcode BINs,6579,870.5015960893666
+GBIF: barcode BINs,6629,873.4708053864551
+GBIF: barcode BINs,6678,876.3650172930065
+GBIF: barcode BINs,6728,879.3025547395218
+GBIF: barcode BINs,6778,882.2243833830694
+GBIF: barcode BINs,6828,885.130691185627
+GBIF: barcode BINs,6878,888.021662671161
+GBIF: barcode BINs,6928,890.8974790103548
+GBIF: barcode BINs,6977,893.701246957305
+GBIF: barcode BINs,7027,896.5475778530749
+GBIF: barcode BINs,7077,899.3792743865235
+GBIF: barcode BINs,7127,902.1965051610476
+GBIF: barcode BINs,7177,904.9994358144459
+GBIF: barcode BINs,7227,907.788229078731
+GBIF: barcode BINs,7277,910.5630448562758
+GBIF: barcode BINs,7326,913.2689548120347
+GBIF: barcode BINs,7376,916.0165561435003
+GBIF: barcode BINs,7426,918.750640341023
+GBIF: barcode BINs,7476,921.4713566641814
+GBIF: barcode BINs,7526,924.1788518583144
+GBIF: barcode BINs,7576,926.8732701914489
+GBIF: barcode BINs,7625,929.5012497199147
+GBIF: barcode BINs,7675,932.1701921231704
+GBIF: barcode BINs,7725,934.8264735120486
+GBIF: barcode BINs,7775,937.4702288728453
+GBIF: barcode BINs,7825,940.1015909871412
+GBIF: barcode BINs,7875,942.7206904722754
+GBIF: barcode BINs,7924,945.2756346234112
+GBIF: barcode BINs,7974,947.8708312323314
+GBIF: barcode BINs,8024,950.4541421005493
+GBIF: barcode BINs,8074,953.0256896990136
+GBIF: barcode BINs,8124,955.5855945535332
+GBIF: barcode BINs,8174,958.1339752897533
+GBIF: barcode BINs,8223,960.6203202486097
+GBIF: barcode BINs,8273,963.1462259451379
+GBIF: barcode BINs,8323,965.660950127939
+GBIF: barcode BINs,8373,968.1646042314634
+GBIF: barcode BINs,8423,970.657297969266
+GBIF: barcode BINs,8473,973.1391393753697
+GBIF: barcode BINs,8522,975.5609175532641
+GBIF: barcode BINs,8572,978.0215836330588
+GBIF: barcode BINs,8622,980.4717096591769
+GBIF: barcode BINs,8672,982.9113972852994
+GBIF: barcode BINs,8722,985.3407466403075
+GBIF: barcode BINs,8772,987.7598563547458
+GBIF: barcode BINs,8821,990.120743021491
+GBIF: barcode BINs,8871,992.5198635086226
+GBIF: barcode BINs,8921,994.9090296748375
+GBIF: barcode BINs,8971,997.2883344689021
+GBIF: barcode BINs,9021,999.6578694752562
+GBIF: barcode BINs,9071,1002.0177249420053
+GBIF: barcode BINs,9120,1004.3210779263611
+GBIF: barcode BINs,9170,1006.6620290393871
+GBIF: barcode BINs,9220,1008.9935618583581
+GBIF: barcode BINs,9270,1011.3157615455048
+GBIF: barcode BINs,9320,1013.6287120406123
+GBIF: barcode BINs,9370,1015.932496083874
+GBIF: barcode BINs,9419,1018.1813897635129
+GBIF: barcode BINs,9469,1020.4672637389524
+GBIF: barcode BINs,9519,1022.7442109188089
+GBIF: barcode BINs,9569,1025.01230947236
+GBIF: barcode BINs,9619,1027.2716364700957
+GBIF: barcode BINs,9669,1029.5222679016163
+GBIF: barcode BINs,9718,1031.7195224811903
+GBIF: barcode BINs,9768,1033.9531567364047
+GBIF: barcode BINs,9818,1036.1783156458628
+GBIF: barcode BINs,9868,1038.395071077248
+GBIF: barcode BINs,9918,1040.6034939051628
+GBIF: barcode BINs,9968,1042.8036540280552
+GBIF: barcode BINs,10017,1044.9518609145532
+GBIF: barcode BINs,10067,1047.135863352548
+GBIF: barcode BINs,10117,1049.311805750038
+GBIF: barcode BINs,10167,1051.4797542761526
+GBIF: barcode BINs,10217,1053.6397742006957
+GBIF: barcode BINs,10267,1055.791929908968
+GBIF: barcode BINs,10316,1057.8934738558205
+GBIF: barcode BINs,10366,1060.030244971648
+GBIF: barcode BINs,10416,1062.1593386315642
+GBIF: barcode BINs,10466,1064.2808158382154
+GBIF: barcode BINs,10516,1066.3947367777407
+GBIF: barcode BINs,10566,1068.501160832803
+GBIF: barcode BINs,10615,1070.5582394000503
+GBIF: barcode BINs,10665,1072.649991731306
+GBIF: barcode BINs,10715,1074.7344194971938
+GBIF: barcode BINs,10765,1076.8115790058455
+GBIF: barcode BINs,10815,1078.8815258227933
+GBIF: barcode BINs,10865,1080.9443147825525
+GBIF: barcode BINs,10915,1083.0

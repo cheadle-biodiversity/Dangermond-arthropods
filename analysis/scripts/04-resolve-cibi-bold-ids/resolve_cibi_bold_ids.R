@@ -91,7 +91,7 @@ suppressMessages({
 # If the file doesn't exist, this step runs as a pass-through — see
 # header comment above.
 infile_occurrences <- "../03-merge-deduplicate/output/dwc_merged_deduplicated.csv"
-infile_reference   <- "../reference-data/cibi_barcode_identifications.csv"
+infile_reference   <- "../../reference-data/cibi_barcode_identifications.csv"
 outdir              <- "output"
 outfile             <- file.path(outdir, "dwc_merged_cibi_resolved.csv")
 summary_outfile     <- file.path(outdir, "cibi_resolution_summary.csv")

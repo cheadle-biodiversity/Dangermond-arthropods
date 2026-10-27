@@ -11,7 +11,14 @@ __pycache__/
 venv/
 
 # Large downloaded source data and archives
-data/raw/**
+data/raw/**/*
+# Keep source documentation and small provenance records visible in Git.
+!data/raw/**/
+!data/raw/**/README.md
+!data/raw/**/archive_manifest.json
+!data/raw/**/planned_predicate.json
+!data/raw/**/download_metadata.json
+!data/raw/**/doi.txt
 *.zip
 *DwcA
 *DwC-A*
@@ -37,3 +44,15 @@ analysis/scripts/05-filter-latrange-overlap/output/dwc_latrange_overlap.csv
 analysis/scripts/06-boundary-distance/output/dwc_distance_to_boundary.csv
 analysis/scripts/08-species-mcp-overlap/output/_checkpoint_after_loop.rds
 analysis/scripts/08-species-mcp-overlap/output/_checkpoint_in_progress.rds
+
+# Large generated results remain available locally; regenerate from source data.
+analysis/scripts/08-species-mcp-overlap/output/species_mcp_polygons.geojson
+analysis/scripts/06-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv
+
+# Local credentials and R sessions
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+.env
+.env.local

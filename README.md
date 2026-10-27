@@ -5,16 +5,90 @@ This repository gathers arthropod occurrence data, source notes, literature, ana
 ## Repository layout
 
 - `analysis/` - R Markdown and other analysis notebooks.
+- `analysis/hill-diversity/` - reproducible Hill-number profiles and record rarefaction for the saved 2026 preserve inventory.
 - `Apoidea/` - self-contained Python workflow for the Central Coast non-bee Apoidea checklist.
 - `data/raw/gbif/` - GBIF occurrence download files.
 - `data/raw/cibi/` - CIBI/source download files from the 2025-11-19 export.
 - `data/raw/ecdysis/` - Ecdysis Darwin Core Archive export files.
+- `data/raw/epa/` - dated EPA ecoregion downloads and their metadata.
 - `data/local/` - local SQLite databases ignored by git.
 - `data/reference/` - small reference tables used by analyses.
 - `docs/field-logistics/` - preserve visit, directions, and overnight logistics documents.
 - `docs/source-notes/` - notes and citations for merged source datasets.
 - `outputs/` - generated reports and printable screening files.
+- `outputs/hill-diversity/2026-10-26/` - Hill figures, diversity tables and record-level audit.
 - `references/papers/` - supporting literature PDFs.
+
+## Current work: potential insect fauna
+
+The next analysis will use a fresh GBIF download and the local Ecdysis
+inventory to identify insect species that may occur at Dangermond.
+Recorded species and candidate species will be reported separately.
+The existing range-envelope and ecoregion results provide starting
+points for screening; fitted species distribution models are a later
+stage of the work.
+
+- **GBIF refresh:** awaiting a new user-requested download. Save the
+  original ZIP in `data/raw/gbif/2026-10-27/`, with its GBIF download
+  page or DOI. The user reports that this request selects Arthropoda
+  across the USA. Additional filters will be checked against the
+  download metadata when it arrives. Keep the full archive and filter
+  to Insecta during analysis; distinguish specimens from observations.
+- **Ecdysis:** `data/raw/ecdysis/SymbOutput_2026-10-26_124013_DwC-A.zip`.
+  This export contains 459 records, including 423 Insecta records.
+  Other arthropods and the gastropod remain in the original archive.
+- **Previous analysis:** saved outputs use the September 2026
+  California Arthropoda download, DOI `10.15468/dl.vgv5ee`. They have
+  not yet been refreshed with the new GBIF or Ecdysis data.
+
+## Data sources and file handling
+
+| Source | Location | Role |
+|---|---|---|
+| GBIF occurrence downloads | `data/raw/gbif/` | Regional collection and observation records; retain each download's DOI and filters. |
+| Ecdysis Darwin Core Archive | `data/raw/ecdysis/` | Local survey records, identifications, collection events and associated media metadata. |
+| CIBI/BOLD barcode identifications | `analysis/reference-data/cibi_barcode_identifications.csv` | Identifications used to resolve matching BOLD-placeholder records. |
+| Dangermond Preserve boundary | `analysis/reference-data/jldp_boundary.geojson` | Preserve membership, distances and spatial overlap. |
+| EPA Level III ecoregions | `data/raw/epa/region9_level_iii/2026-10-27/` | Fresh Region 9 shapefile, metadata and symbology; broad regional context for candidate species. |
+| California arthropod database | `data/local/` | Local SQLite input for the exploratory notebook; an external fallback location is also supported. |
+| Literature and source notes | `references/papers/`, `docs/source-notes/` | Ecological context, conservation screening and dataset citations. |
+
+Keep downloaded archives unchanged in `data/raw/`, organized by source
+and download date where appropriate. Large raw data, local databases,
+intermediate tables and large generated spatial files are ignored by
+Git. Small source notes, manifests, DOI records, scripts and summary
+outputs remain versioned. See [`data/README.md`](data/README.md).
+
+The numbered analysis currently reads GBIF alone at its merge step;
+the Ecdysis input still needs to be connected. Shared reference-file
+paths have been corrected for this local folder layout, and Step 9
+now points to the fresh EPA download. The separate `Apoidea/` workflow has code but no saved
+checklist outputs in this checkout.
+
+## Hill diversity analysis
+
+The Hill-number workflow and all inputs used for the earlier report
+analysis have been transferred into this repository. It compares
+empirical diversity in the Ecdysis inventory and a saved GBIF extract
+within the preserve, with separate profiles for named species, barcode
+BINs and orders. Perko's Beach and the lighthouse localities are kept
+separate in the July comparison.
+
+- **Code and instructions:** [`analysis/hill-diversity/`](analysis/hill-diversity/README.md).
+- **GBIF source snapshot:** `data/raw/gbif/preserve_2026-10-26/`, including
+  original JSON responses, occurrence tables, scope decisions, query
+  metadata and the boundary used for that extract.
+- **Ecdysis source:** the original ZIP and its extracted tables in
+  `data/raw/ecdysis/`.
+- **Results:** [`outputs/hill-diversity/2026-10-26/`](outputs/hill-diversity/2026-10-26/),
+  including figures, summary tables, taxon frequencies and a record audit.
+
+The relocated workflow reproduces the existing analysis of 458 Ecdysis
+arthropod records and 14,601 GBIF terrestrial-associated arthropod
+records. This is the October 26 preserve snapshot, separate from the
+incoming USA-wide GBIF download. It calculates empirical Hill numbers
+and exact record-based richness rarefaction; coverage-based iNEXT,
+extrapolation and SDM-derived presumed-species profiles remain future work.
 
 ## Special-status insect screening list
 

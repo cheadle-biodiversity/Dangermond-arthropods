@@ -1,5 +1,10 @@
 # Analysis Pipeline
 
+For the separate record-based Hill diversity workflow, see
+[`hill-diversity/README.md`](hill-diversity/README.md). Its complete
+October 26 source snapshot and results are now in this repository.
+The incoming USA-wide Arthropoda download will be a new snapshot.
+
 A numbered, reproducible R pipeline for Dangermond Preserve Arthropoda
 occurrence data, from GBIF download through spatial summary analyses.
 Each step lives in its own folder under `scripts/`, with its own

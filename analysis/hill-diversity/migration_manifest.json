@@ -1,0 +1,260 @@
+{
+  "transferred_on": "2026-10-27",
+  "files": [
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_basis_of_record.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_basis_of_record.csv",
+      "bytes": 100,
+      "sha256": "caf627153e42d7c091274b1ef19f2bc7711434d36dfaa01c6f3d26590b46a5c8"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_tables.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_tables.json",
+      "bytes": 23619,
+      "sha256": "36d46391273e0ac06f9522c1b6625a835bf02146916ced4be3dd866d204089d5"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_basis_normalized_institution_order.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_basis_normalized_institution_order.csv",
+      "bytes": 4729,
+      "sha256": "8dc43cf34a66ff8b347c391701059dbec00ed83998edd57d96153d8da1edff3c"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/download_manifest.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/download_manifest.json",
+      "bytes": 4214,
+      "sha256": "5614c8606d3b0d5184794b69a95557b8462b9bab055370dd6bd04283eaa92985"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/dataset_and_publisher_metadata.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/dataset_and_publisher_metadata.json",
+      "bytes": 505100,
+      "sha256": "ff37097ddbe1f113bbc16a483575a3f549e5f83c7d37420a4bbc465f32abdbe1"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/GBIF_summary.md",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/GBIF_summary.md",
+      "bytes": 5927,
+      "sha256": "de241679cf6d0788ce5ebe603407d4f2d05b91073924ec713711750447e67f0f"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/gbif_all_arthropods_within_preserve.jsonl.gz",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/gbif_all_arthropods_within_preserve.jsonl.gz",
+      "bytes": 6963088,
+      "sha256": "677114eca061443a92cdcf5a343c7f6aac9339ab3bdb151580fbdb0444ff940a"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/initial_query.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/initial_query.json",
+      "bytes": 461,
+      "sha256": "4766020f598825e992712b741b4e2a76ab9d414691656b93d2a3a97e99fd32bf"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/checksums_sha256.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/checksums_sha256.json",
+      "bytes": 1967,
+      "sha256": "f4f0e4c67263657db5c99e18a15b295e1771346e97c378ed29f58a7a67a6fbf9"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_publisher.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_publisher.csv",
+      "bytes": 671,
+      "sha256": "7db3f1d9df12715facb767da3f42003fef823fb5bc3438045370db35d02dd354"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/all_arthropods_within_preserve.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/all_arthropods_within_preserve.csv",
+      "bytes": 12594391,
+      "sha256": "fe4fba5a91f079dae8a49078bf824f734dd7f6c96669e7317e6d5f9180c8b398"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_institution_code.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_institution_code.csv",
+      "bytes": 292,
+      "sha256": "bea0b28b67b96efb896192ee024da53a76038ffd4efb15aa981521e292353141"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_institution.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_institution.csv",
+      "bytes": 483,
+      "sha256": "25a5bd3b86e7786cc3ac72d542016f3f32ebddb63275b834b539a82979832128"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_order.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_order.csv",
+      "bytes": 463,
+      "sha256": "84a8c44f704a1a666bd93533685e5986c307fd8bd4f643b44e15f5b830d53a61"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_dataset.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_dataset.csv",
+      "bytes": 597,
+      "sha256": "ce1544af87c424e01cf021de241f5e10ffbc62d27a3f83038b50aa43042c6505"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/summary_by_basis_institution_order.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/summary_by_basis_institution_order.csv",
+      "bytes": 3719,
+      "sha256": "87c93f1050f7e0aebbda1af8089c9afa7700d60b07547aee5596b8f815c39c00"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/terrestrial_arthropod_occurrences.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/terrestrial_arthropod_occurrences.csv",
+      "bytes": 12561034,
+      "sha256": "09b42fbed55783a40d842b3eaac357bab8bfb81936a39499e46268842ee0551e"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/gbif_bounding_box_source.jsonl.gz",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/gbif_bounding_box_source.jsonl.gz",
+      "bytes": 9934961,
+      "sha256": "f41dd450cd95066a2d1420d821a5a064df3bf8cc1d7f0cfaab6ddaca4b11f33b"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/preserve_boundary.geojson",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/preserve_boundary.geojson",
+      "bytes": 13862,
+      "sha256": "d3da8007806df8eb57ddbe70365fbe595cc26d7c65f2eafb65fdc39a4037bd3c"
+    },
+    {
+      "file": "data/raw/gbif/preserve_2026-10-26/excluded_or_unresolved_arthropods.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_GBIF_2026-10-26/excluded_or_unresolved_arthropods.csv",
+      "bytes": 33818,
+      "sha256": "bb18ab88717b1e13ba0efe36beee1b1f9606084375670b23e4594766779efafb"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/identifications.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/identifications.csv",
+      "bytes": 82900,
+      "sha256": "789bdbee5b12318e939366f4654971763b3cdc34ff4f5ea5169bab0fd01068c6"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/occurrences.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/occurrences.csv",
+      "bytes": 459974,
+      "sha256": "af5d6ef958966a4522c13baff1bb7af88502b142b6d5103294fe949d8500fdab"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/identifiers.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/identifiers.csv",
+      "bytes": 107,
+      "sha256": "2ca1acd28dd7266aef0ed83f79dda5c20528457ad311d8ffe7128d9573494c59"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/eml.xml",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/eml.xml",
+      "bytes": 6848,
+      "sha256": "79567ede5993ef41daaa5949f17bf03c8cc7c46d20f4e91eee82f7b705eb36f3"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/CITEME.txt",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/CITEME.txt",
+      "bytes": 382,
+      "sha256": "11f67df23b842c45c8072c8ad3fcf3d09b6141f06c58dcfe4050b33b3ed17cd5"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/meta.xml",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/meta.xml",
+      "bytes": 10496,
+      "sha256": "4658ccc1863e43834b87b8547054495664cc1f1fa56694eba4f6822126a2f18a"
+    },
+    {
+      "file": "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/multimedia.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/work/new_archive/multimedia.csv",
+      "bytes": 88982,
+      "sha256": "8352adcab589c55df901f5026d498053b4c5fa3d54d5643a80df03950b432e52"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/make_hill_curves.py",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/make_hill_curves.py",
+      "bytes": 13025,
+      "sha256": "8d88ba1c4a4337dcaf6d297b4a30a3aa8c3ab73f56d875e0858f68a03063c7ad",
+      "relocated_to": "analysis/hill-diversity/make_hill_curves.py"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_curves_notes.md",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_curves_notes.md",
+      "bytes": 5037,
+      "sha256": "478b6b258aee3647f95e127b22cebf41ee892454b5981e809da2c2d24fc73fc8"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/record_rarefaction.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/record_rarefaction.csv",
+      "bytes": 32144,
+      "sha256": "2afedb464f1f702ff3c6bf35cae3b3af510f44b49cf986dc404b6db3b0ec24f0"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/requirements.txt",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/requirements.txt",
+      "bytes": 46,
+      "sha256": "cdaedac051825ae5b595cda317e583c3ab5bf1d072f2bdff97b62c71c9fdf068",
+      "relocated_to": "analysis/hill-diversity/requirements.txt"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_profiles_Percos_vs_lighthouse.png",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_profiles_Percos_vs_lighthouse.png",
+      "bytes": 171511,
+      "sha256": "68b05840ebad1e52bb82630d558e07e981c526a74efcb72b734aa382306f6ec0"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_profiles_Percos_vs_lighthouse.pdf",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_profiles_Percos_vs_lighthouse.pdf",
+      "bytes": 29783,
+      "sha256": "c7f55e823c7fab70bc274e3e064061e4fc3af173bd886e4e916759a6d3089db0"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/taxon_record_frequencies.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/taxon_record_frequencies.csv",
+      "bytes": 125903,
+      "sha256": "214a3ff0e2b255383ed5708ef0981bda060483beae76d885c05b2321094c9dcb"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.pdf",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_diversity_overview.pdf",
+      "bytes": 41713,
+      "sha256": "584d7396bfb71936181b33382cb6a062bf6104776cde530c7f925859cb4f5bd1"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/analysis_metadata.json",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/analysis_metadata.json",
+      "bytes": 2498,
+      "sha256": "8223a81a4acdb7e5b9f9e563a1f75d70e7508501425382dd51b30c28d862abf2"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/analysis_record_audit.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/analysis_record_audit.csv",
+      "bytes": 1997300,
+      "sha256": "5cbda8a199a8f44c9d0e21974922fcdb229ddf2f442c813382d3d84268905d1b"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.png",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_diversity_overview.png",
+      "bytes": 403218,
+      "sha256": "7c59e728b20c12414b38cf7054efccff4868f56397f496cd7b0c9ffe98f5745b"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.svg",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_diversity_overview.svg",
+      "bytes": 157947,
+      "sha256": "b653d953e2d41ed243a396cee85f3b72da303faf5a0a353426857ad99f4deb85"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/hill_profiles.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/hill_profiles.csv",
+      "bytes": 84698,
+      "sha256": "b38ab7e222ea43cb21b4950b1e73b9679fb45a5b51364f1b6c70cf740b499e22"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/Hill_profiles_Percos_vs_lighthouse.svg",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/Hill_profiles_Percos_vs_lighthouse.svg",
+      "bytes": 71854,
+      "sha256": "5981cd549519eb2105e813125bce8e72bf3f120f9f846f2ff7b954276011ea0a"
+    },
+    {
+      "file": "outputs/hill-diversity/2026-10-26/hill_summary.csv",
+      "original_file": "/Users/seltmann/Documents/Codex/2026-10-26/referenced-chatgpt-conversation-this-is-an/outputs/Dangermond_Hill_curves_2026-10-26/hill_summary.csv",
+      "bytes": 844,
+      "sha256": "610472610f0e97102f0435929b29cf8a9d554e71eb72163044708f0eca6bcab3"
+    }
+  ],
+  "note": "Original source files retained; workflow paths and Perko's labels updated after checksum verification."
+}

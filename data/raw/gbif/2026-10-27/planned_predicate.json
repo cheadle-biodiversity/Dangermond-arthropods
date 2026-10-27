@@ -1,0 +1,15 @@
+{
+  "type": "and",
+  "predicates": [
+    {
+      "type": "equals",
+      "key": "TAXON_KEY",
+      "value": "54"
+    },
+    {
+      "type": "equals",
+      "key": "COUNTRY",
+      "value": "US"
+    }
+  ]
+}

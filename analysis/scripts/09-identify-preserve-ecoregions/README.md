@@ -25,7 +25,17 @@ records, not fine-grained vegetation mapping — so "same habitat type as
 the Preserve" is operationalized here as "same Level III ecoregion as the
 Preserve."
 
-## Data source — why this had to be user-supplied
+## Current local source — 27 October 2026
+
+The original EPA Region 9 Level III ZIP, metadata and symbology have
+now been downloaded successfully into
+`data/raw/epa/region9_level_iii/2026-10-27/` at the repository root.
+The script reads that folder's `extracted/reg9_eco_l3.shp`; source URLs
+and SHA-256 checksums are in its `archive_manifest.json`. The downloaded
+shapefile opens with `sf` and two polygons intersect the preserve.
+The former `raw_download/` files remain as historical inputs.
+
+## Earlier data acquisition — why this was user-supplied
 
 The three EPA files for Region 9 —
 
