@@ -1,0 +1,5 @@
+level,ecoregion_code,ecoregion_name,checklist_species,regional_occurrences,species_documented_on_preserve,file
+III,6,Central California Foothills and Coastal Mountains,10135,691304,189,checklist_level_iii_6.csv
+III,85,Southern California/Northern Baja Coast,8450,717571,160,checklist_level_iii_85.csv
+IV,6ap,Solomon-Purisima-Santa Ynez Hills,1521,9141,165,checklist_level_iv_6ap.csv
+IV,85a,Santa Barbara Coastal Plain and Terraces,1852,34414,115,checklist_level_iv_85a.csv

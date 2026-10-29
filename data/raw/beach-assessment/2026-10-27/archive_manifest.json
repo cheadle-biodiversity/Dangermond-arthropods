@@ -1,0 +1,20 @@
+[
+  {
+    "file": "dugan_marrifini_2022_datacite.json",
+    "url": "https://api.datacite.org/dois/10.25494/P6989J",
+    "sha256": "d0506ef11821a79426fab32f1025442b3dcfdc194d9e97528aa7ac5c7249b401",
+    "retrieved_on": "2026-10-27"
+  },
+  {
+    "file": "dugan_marrifini_2022_eml.xml",
+    "url": "https://cn.dataone.org/cn/v2/resolve/doi%3A10.25494%2FP6989J",
+    "sha256": "b92ed2adc75c1d0fec08ed8b8e6dd9cc5510b27a3931d759c8dc0091696d6a26",
+    "retrieved_on": "2026-10-27"
+  },
+  {
+    "file": "Dugan_et_al_2022_beaches_surf_zones.pdf",
+    "url": "https://caseagrant.ucsd.edu/sites/default/files/FinalMPAReportBeachesSurfZones2022.pdf",
+    "sha256": "8d9b76647c793bab501a3af4537409b7125a98eac35ee05b56ef9d2a53b9969e",
+    "retrieved_on": "2026-10-27"
+  }
+]

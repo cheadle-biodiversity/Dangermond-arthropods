@@ -1,0 +1,8 @@
+column,description
+common_name,ESA-derived species common name; blank if unavailable. Subspecies-specific common names are not promoted to the whole species.
+order,Service classification where available; otherwise original GBIF classification. Weighted modal pair resolves conflicting classifications; conflicts are logged.
+family,Same classification policy as order.
+resolved_scientific_name,Resolved species-level canonical name; subspecies rolled up to species.
+occurrence_count,"Number of eligible regional occurrence records, not individuals. The same record contributes separately to its Level III and IV checklists."
+collected_or_observed_on_dangermond,"Yes when a named record supports occurrence on the property; otherwise blank, not evidence of absence. Includes qualified identifications, with qualifiers in evidence table."
+life_history_notes,Level III only: retained blank legacy field. Removed from Level IV at user request.

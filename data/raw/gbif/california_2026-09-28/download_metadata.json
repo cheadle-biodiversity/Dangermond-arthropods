@@ -1,0 +1,40 @@
+{
+  "key": "0010070-260921141020460",
+  "doi": "10.15468/dl.vgv5ee",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+  "request": {
+    "predicate": {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "equals",
+          "key": "TAXON_KEY",
+          "value": "54"
+        },
+        {
+          "type": "equals",
+          "key": "GADM_GID",
+          "value": "USA.5_1"
+        },
+        {
+          "type": "equals",
+          "key": "HAS_GEOSPATIAL_ISSUE",
+          "value": "false"
+        }
+      ]
+    },
+    "sendNotification": false,
+    "format": "DWCA",
+    "type": "OCCURRENCE",
+    "verbatimExtensions": [],
+    "interpretedExtensions": []
+  },
+  "created": "2026-09-28T03:08:29.105+00:00",
+  "modified": "2026-09-28T03:39:39.301+00:00",
+  "eraseAfter": "2027-03-28T03:08:29.030+00:00",
+  "status": "SUCCEEDED",
+  "downloadLink": "https://api.gbif.org/v1/occurrence/download/request/0010070-260921141020460.zip",
+  "size": 1998695574,
+  "totalRecords": 4665086,
+  "numberDatasets": 483
+}

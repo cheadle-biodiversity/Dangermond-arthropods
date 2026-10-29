@@ -1,0 +1,1 @@
+Superseded record-format comparison: included GBIF species parents assigned to unnamed BIN records. Replaced with explicit species determinations and separate DNA records at user request. Raw history is ignored by Git.

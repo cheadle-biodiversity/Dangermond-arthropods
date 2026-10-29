@@ -1,0 +1,24 @@
+{
+  "retrieved_on": "2026-10-27",
+  "source_page": "https://www.epa.gov/eco-research/ecoregion-download-files-region",
+  "files": [
+    {
+      "file": "reg9_eco_l4.zip",
+      "source_url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/Ecoregions/reg9/reg9_eco_l4.zip",
+      "bytes": 10498170,
+      "sha256": "d0e3ea158af5f65a6496bdd66a9753b758eed4f1e3bdbdd87f6e1fb05f26de1e"
+    },
+    {
+      "file": "reg9_eco_l4.htm",
+      "source_url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/Ecoregions/reg9/reg9_eco_l4.htm",
+      "bytes": 188861,
+      "sha256": "5b33be261441325bd49c32f1a738bb2a69b5744db340e73c7e519dfd8288ff3b"
+    },
+    {
+      "file": "reg9_eco_l4.lyr",
+      "source_url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/Ecoregions/reg9/reg9_eco_l4.lyr",
+      "bytes": 129024,
+      "sha256": "dad02d6a39b5f4cc8c0bdd42edb74f85dcd9b6bc8c513ca50006de76080a0fd5"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "retrieved_on": "2026-10-27",
+  "files": [
+    {
+      "file": "cdfw_zip.zip",
+      "url": "https://filelib.wildlife.ca.gov/Public/BDB/GIS/BIOS/Public_Datasets/2900_2999/ds2957.zip",
+      "citation": "CDFW/WRA vegetation ds2957",
+      "rights": "CC BY 4.0 per source metadata",
+      "bytes": 6846200,
+      "sha256": "320f3c9559f623e245321355f28010419707cd399720e00b736b08571da342ba"
+    },
+    {
+      "file": "cdfw_metadata.html",
+      "url": "https://filelib.wildlife.ca.gov/public/BDB/GIS/BIOS/metadata/DS2957.html",
+      "citation": "CDFW ds2957 metadata",
+      "rights": "Source metadata",
+      "bytes": 126472,
+      "sha256": "fa51202306239a4283d944ac88ef1bd481e9fd5d69258e0caf9264020acbc4b1"
+    },
+    {
+      "file": "SMPtC_Shapefiles.zip",
+      "url": "https://www.sciencebase.gov/catalog/file/get/5d76b9a7e4b0c4f70d01ff80?f=__disk__0b%2Fa9%2F29%2F0ba9299b45d9dbecf4c3cf66aa25bcf5e3b44cbb",
+      "citation": "Sweetkind et al. 2021; data DOI 10.5066/P9FU7SJL",
+      "rights": "USGS source data",
+      "bytes": 6991968,
+      "sha256": "165b2352ccb481a169e5712557b053567fb3c366091b00090828b7393739aa78"
+    },
+    {
+      "file": "usgs_catalog.json",
+      "url": "https://www.sciencebase.gov/catalog/item/5d76b9a7e4b0c4f70d01ff80?format=json",
+      "citation": "USGS data catalog",
+      "rights": "Source metadata",
+      "bytes": 25910,
+      "sha256": "ad97412a8b72f12f4c3e0030f295f6e860998ef22fbe89d29242225ade5856a0"
+    },
+    {
+      "file": "usgs_pamphlet.pdf",
+      "url": "https://pubs.usgs.gov/sim/3472/sim3472_pamphlet.pdf",
+      "citation": "Sweetkind et al. 2021; SIM 3472",
+      "rights": "USGS source publication",
+      "bytes": 4430925,
+      "sha256": "7e49d72d4fd52bf9dea20cd5930ed40734a1c9b089020c0f99df83fba1a9020f"
+    },
+    {
+      "file": "coastal_staphylinidae.pdf",
+      "url": "https://www.vliz.be/imisdocs/publications/238809.pdf",
+      "citation": "Frank and Ahn 2011; DOI 10.3897/zookeys.107.1651",
+      "rights": "Retains source publication license",
+      "bytes": 7697599,
+      "sha256": "372adfc074cbef9687bd01604d98d0f89fb3210de056efcec51da80906a86c9a"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "restored_on": "2026-10-27",
+  "columns": [
+    "common_name",
+    "order",
+    "family",
+    "resolved_scientific_name",
+    "occurrence_count",
+    "collected_or_observed_on_dangermond",
+    "life_history_notes"
+  ],
+  "source": "data/final/checklists/",
+  "archived_annotations": "outputs/habitat-notes/2026-10-27/archived-annotations/",
+  "files": {
+    "checklist_level_iv_85a_habitat_notes.csv": "e18a64d9ba0cb03ab05b03b92f04f0a610d3c65f5cadba291a697401ac5e4b0e",
+    "column_metadata.csv": "847eb3bbeeb412560de97c27e8687cabf6be6c598e12626c7657ce76b3f86202",
+    "checklist_level_iv_6ap_habitat_notes.csv": "3f5499f136ee799e63d87a15c51caa10d51602b61c2445a49d6bc049daaf8616"
+  }
+}

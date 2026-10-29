@@ -1,0 +1,24 @@
+[
+  {
+    "file": "Matsuda_et_al_2015_USGS.pdf",
+    "url": "https://sdmmp.com/upload/SDMMP_Repository/0/vgtn1f4x5dw9m0k2y6zcb83s7prqh.pdf",
+    "status": "cached",
+    "sha256": "b0cc33e6398ffac95040c11bb96d4977164bea1345acc4c1c0585dada1209c42",
+    "retrieved_on": "2026-10-27"
+  },
+  {
+    "file": "Naughton_et_al_2020.pdf",
+    "url": "https://escholarship.org/content/qt7t9699pf/qt7t9699pf.pdf",
+    "status": "Not PDF; not cached"
+  },
+  {
+    "file": "Holway_Suarez_2006.pdf",
+    "url": "https://app.sib.illinois.edu/suarez/local/suarez/uploads/2020/01/HolwaySuarez2006BiolCon.pdf",
+    "status": "503 Server Error: Service Unavailable for url: https://app.sib.illinois.edu/suarez/local/suarez/uploads/2020/01/HolwaySuarez2006BiolCon.pdf"
+  },
+  {
+    "file": "Suarez_et_al_2001.pdf",
+    "url": "https://app.sib.illinois.edu/suarez/local/suarez/uploads/2020/01/Suarez_etal2001PNAS.pdf",
+    "status": "503 Server Error: Service Unavailable for url: https://app.sib.illinois.edu/suarez/local/suarez/uploads/2020/01/Suarez_etal2001PNAS.pdf"
+  }
+]

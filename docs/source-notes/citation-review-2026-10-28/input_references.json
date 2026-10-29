@@ -1,0 +1,6652 @@
+{
+  "references": [
+    {
+      "i": 66336,
+      "e": 66593,
+      "text": "Baker, ….. (2026). DNA barcoding of more than one million insect specimens indicates that at least one third of California's insect biodiversity remains undiscovered. Ecography. Preprint. https://www.authorea.com/doi/full/10.22541/au.176494887.72780666/v1 \n",
+      "links": []
+    },
+    {
+      "i": 66593,
+      "e": 66814,
+      "text": "Griffith, G.E., Omernik, J.M., Johnson, C.B., and Turner, D.S., 2014, Ecoregions of Arizona (poster): U.S. Geological Survey Open-File Report 2014–1141, with map, scale 1:1,325,000, http://dx.doi.org/10.3133/ofr20141141.\n",
+      "links": []
+    },
+    {
+      "i": 66814,
+      "e": 67045,
+      "text": "Holway, D. A., & Suarez, A. V. (2006). Homogenization of ant communities in mediterranean California: The effects of urbanization and invasion. Biological Conservation, 127(3), 319–326. https://doi.org/10.1016/j.biocon.2005.05.016\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1016/j.biocon.2005.05.016",
+          "url": "https://doi.org/10.1016/j.biocon.2005.05.016"
+        }
+      ]
+    },
+    {
+      "i": 67045,
+      "e": 67354,
+      "text": "Hsu, F.-C., Hsu, G.-C., Lee, C.-C., Lin, C.-C., Ho, C.-K., & Yang, C.-C. S. (2024). Free ride without raising a thumb: A citizen science project reveals the pattern of active ant hitchhiking on vehicles and its ecological implications. Ecological Entomology, 49(5), 739–743. https://doi.org/10.1111/een.13336\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/een.13336",
+          "url": "https://doi.org/10.1111/een.13336"
+        }
+      ]
+    },
+    {
+      "i": 67354,
+      "e": 67583,
+      "text": "Naughton, I., Boser, C., Tsutsui, N. D., & Holway, D. A. (2020). Direct evidence of native ant displacement by the Argentine ant in island ecosystems. Biological Invasions, 22, 681–691. https://doi.org/10.1007/s10530-019-02121-7\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1007/s10530-019-02121-7",
+          "url": "https://doi.org/10.1007/s10530-019-02121-7"
+        }
+      ]
+    },
+    {
+      "i": 67583,
+      "e": 67877,
+      "text": "Boser, C. L., Hanna, C., Holway, D. A., Faulkner, K. R., Naughton, I., Merrill, K., Randall, J. M., Cory, C., Choe, D.-H., & Morrison, S. A. (2017). Protocols for Argentine ant eradication in conservation areas. Journal of Applied Entomology, 141(7), 540–550. https://doi.org/10.1111/jen.12372\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/jen.12372",
+          "url": "https://doi.org/10.1111/jen.12372"
+        }
+      ]
+    },
+    {
+      "i": 67877,
+      "e": 68144,
+      "text": "Matsuda, T., Brehme, C. S., & Fisher, R. N. (2015). Assessing presence of Argentine ants using the bait method. Survey protocol. U.S. Geological Survey, Western Ecological Research Center. https://sdmmp.com/upload/SDMMP_Repository/0/vgtn1f4x5dw9m0k2y6zcb83s7prqh.pdf\n",
+      "links": [
+        {
+          "text": "https://sdmmp.com/upload/SDMMP_Repository/0/vgtn1f4x5dw9m0k2y6zcb83s7prqh.pdf",
+          "url": "https://sdmmp.com/upload/SDMMP_Repository/0/vgtn1f4x5dw9m0k2y6zcb83s7prqh.pdf"
+        }
+      ]
+    },
+    {
+      "i": 68144,
+      "e": 68349,
+      "text": "Menke, S. B., & Holway, D. A. (2006). Abiotic factors control invasion by Argentine ants at the community scale. Journal of Animal Ecology, 75(2), 368–376. https://doi.org/10.1111/j.1365-2656.2006.01056.x\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/j.1365-2656.2006.01056.x",
+          "url": "https://doi.org/10.1111/j.1365-2656.2006.01056.x"
+        }
+      ]
+    },
+    {
+      "i": 68349,
+      "e": 68623,
+      "text": "Suarez, A. V., Holway, D. A., & Case, T. J. (2001). Patterns of spread in biological invasions dominated by long-distance jump dispersal: Insights from Argentine ants. Proceedings of the National Academy of Sciences, 98(3), 1095–1100. https://doi.org/10.1073/pnas.98.3.1095\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1073/pnas.98.3.1095",
+          "url": "https://doi.org/10.1073/pnas.98.3.1095"
+        }
+      ]
+    },
+    {
+      "i": 68623,
+      "e": 68804,
+      "text": "Ratnasingham, S. & Hebert, P. D. N. (2007). BOLD: The Barcode of Life Data System (www.barcodinglife.org). Molecular Ecology Notes 7, 355-364. DOI: 10.1111/j.1471-8286.2007.01678.x\n",
+      "links": []
+    },
+    {
+      "i": 68804,
+      "e": 69005,
+      "text": "Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., ... & Vieglais, D. (2012). Darwin Core: an evolving community-developed biodiversity data standard. PloS one, 7(1), e29715.\n",
+      "links": []
+    },
+    {
+      "i": 69005,
+      "e": 69227,
+      "text": "Chatzimanolis, S., & Caterino, M. S. (2008). Phylogeography and conservation genetics of Californian coastal terrestrial communities: a comparative study using three beetles. Insect Conservation and Diversity, 1, 222–232.\n",
+      "links": [
+        {
+          "text": "Phylogeography and conservation genetics of Californian coastal terrestrial communities: a comparative study using three beetles",
+          "url": "https://www.researchgate.net/publication/227984484_Phylogeography_and_conservation_genetics_of_Californian_coastal_terrestrial_communities_a_comparative_study_using_three_beetles"
+        }
+      ]
+    },
+    {
+      "i": 69227,
+      "e": 69415,
+      "text": "Craig, P. C. (1970). The behavior and distribution of the intertidal sand beetle, Thinopinus pictus (Coleoptera: Staphylinidae). Ecology, 51(6), 1012–1017. https://doi.org/10.2307/1933627\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.2307/1933627",
+          "url": "https://doi.org/10.2307/1933627"
+        }
+      ]
+    },
+    {
+      "i": 69415,
+      "e": 69631,
+      "text": "Hopkins, H. (2014). A revision of the genus Arenivaga (Rehn) (Blattodea, Corydiidae), with descriptions of new species and key to the males of the genus. ZooKeys, 384, 1–256. https://doi.org/10.3897/zookeys.384.6197\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.3897/zookeys.384.6197",
+          "url": "https://doi.org/10.3897/zookeys.384.6197"
+        }
+      ]
+    },
+    {
+      "i": 69631,
+      "e": 69815,
+      "text": "University of California, Riverside, Center for Invasive Species Research. (n.d.). Red Bug: Scantius aegyptius. Accessed 26 October 2026. https://cisr.ucr.edu/invasive-species/red-bug\n",
+      "links": [
+        {
+          "text": "https://cisr.ucr.edu/invasive-species/red-bug",
+          "url": "https://cisr.ucr.edu/invasive-species/red-bug"
+        }
+      ]
+    },
+    {
+      "i": 69815,
+      "e": 69999,
+      "text": "Xerces Society. (n.d.). Obscure Bumble Bee: Bombus caliginosus. Accessed 26 October 2026. https://xerces.org/endangered-species/species-profiles/at-risk-bumble-bees/obscure-bumble-bee\n",
+      "links": [
+        {
+          "text": "https://xerces.org/endangered-species/species-profiles/at-risk-bumble-bees/obscure-bumble-bee",
+          "url": "https://xerces.org/endangered-species/species-profiles/at-risk-bumble-bees/obscure-bumble-bee"
+        }
+      ]
+    },
+    {
+      "i": 69999,
+      "e": 70163,
+      "text": "Antoine, C. M., & Forrest, J. R. K. (2021). Nesting habitat of ground-nesting bees: a review. Ecological Entomology, 46, 143–159. https://doi.org/10.1111/een.12986\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/een.12986",
+          "url": "https://doi.org/10.1111/een.12986"
+        }
+      ]
+    },
+    {
+      "i": 70163,
+      "e": 70399,
+      "text": "Bonte, D. (2005). Anthropogenic induced changes in nesting densities of the dune-specialised digger wasp Bembix rostrata (Hymenoptera: Sphecidae). European Journal of Entomology, 102, 809–812. https://www.eje.cz/pdfs/eje/2005/04/34.pdf\n",
+      "links": [
+        {
+          "text": "https://www.eje.cz/pdfs/eje/2005/04/34.pdf",
+          "url": "https://www.eje.cz/pdfs/eje/2005/04/34.pdf"
+        }
+      ]
+    },
+    {
+      "i": 70399,
+      "e": 70573,
+      "text": "California Conservation Genomics Project. (n.d.). Trigonoscuta spp (Dune Weevils). Accessed 26 October 2026. https://www.ccgproject.org/species/trigonoscuta-spp-dune-weevils\n",
+      "links": [
+        {
+          "text": "https://www.ccgproject.org/species/trigonoscuta-spp-dune-weevils",
+          "url": "https://www.ccgproject.org/species/trigonoscuta-spp-dune-weevils"
+        }
+      ]
+    },
+    {
+      "i": 70573,
+      "e": 70872,
+      "text": "Dugan, J. E., Hubbard, D. M., McCrary, M. D., & Pierson, M. O. (2003). The response of macrofauna communities and shorebirds to macrophyte wrack subsidies on exposed sandy beaches of southern California. Estuarine, Coastal and Shelf Science, 58, 25–40. https://doi.org/10.1016/S0272-7714(03)00045-3\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1016/S0272-7714(03)00045-3",
+          "url": "https://doi.org/10.1016/S0272-7714(03)00045-3"
+        }
+      ]
+    },
+    {
+      "i": 70872,
+      "e": 71098,
+      "text": "Dugan, J., & Marrifini, M. (2022). California coast, ecosystem surveys of sandy beaches and surf zones August 2019–February 2020 [Data set]. California Ocean Protection Council Data Repository. https://doi.org/10.25494/P6989J\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.25494/P6989J",
+          "url": "https://doi.org/10.25494/P6989J"
+        }
+      ]
+    },
+    {
+      "i": 71098,
+      "e": 71534,
+      "text": "Dugan, J. E., Marraffini, M., Ladd, M., Hubbard, D. M., Hamilton, S., Marin-Jarrin, J., Colwell, M., Neuman, K., Lindquist, K., Robinette, D., Page, H. M., Madden, J., Koval, G., & Nielsen, K. J. (2022). Evaluating performance of California’s MPA network through the lens of sandy beach and surf zone ecosystems. Final report. California Sea Grant. https://caseagrant.ucsd.edu/sites/default/files/FinalMPAReportBeachesSurfZones2022.pdf\n",
+      "links": [
+        {
+          "text": "https://caseagrant.ucsd.edu/sites/default/files/FinalMPAReportBeachesSurfZones2022.pdf",
+          "url": "https://caseagrant.ucsd.edu/sites/default/files/FinalMPAReportBeachesSurfZones2022.pdf"
+        }
+      ]
+    },
+    {
+      "i": 71534,
+      "e": 71757,
+      "text": "Kukuk, P. F. (2002). Nest reuse in a communal halictine bee, Lasioglossum (Chilalictus) hemichalceum (Hymenoptera: Halictidae). Journal of the Kansas Entomological Society, 75(1), 3–7. https://www.jstor.org/stable/25086033\n",
+      "links": [
+        {
+          "text": "https://www.jstor.org/stable/25086033",
+          "url": "https://www.jstor.org/stable/25086033"
+        }
+      ]
+    },
+    {
+      "i": 71757,
+      "e": 71957,
+      "text": "Moore, I. (1974). Notes on Phaleria rotundata LeConte with description of the larva (Coleoptera: Tenebrionidae). The Great Lakes Entomologist, 7(4), Article 1. https://doi.org/10.22543/0090-0222.1233\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.22543/0090-0222.1233",
+          "url": "https://doi.org/10.22543/0090-0222.1233"
+        }
+      ]
+    },
+    {
+      "i": 71957,
+      "e": 72216,
+      "text": "Suzumura, A. L., Kobayashi, N., & Ôhara, M. (2019). Revision of the beach-dwelling species of Cercyon Leach (Coleoptera: Hydrophilidae) of the West Coast of North America. The Coleopterists Bulletin, 73(3), 473–493. https://doi.org/10.1649/0010-065X-73.3.473\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1649/0010-065X-73.3.473",
+          "url": "https://doi.org/10.1649/0010-065X-73.3.473"
+        }
+      ]
+    },
+    {
+      "i": 72216,
+      "e": 72516,
+      "text": "James, G. J., Moore, I., & Legner, E. F. (1971). The larval and pupal stages of four species of Cafius (Coleoptera: Staphylinidae) with notes on their biology and ecology. Transactions of the San Diego Society of Natural History, 16(12), 279–290. https://research.nhm.org/dataimages/parker/sdnhm.pdf\n",
+      "links": [
+        {
+          "text": "https://research.nhm.org/dataimages/parker/sdnhm.pdf",
+          "url": "https://research.nhm.org/dataimages/parker/sdnhm.pdf"
+        }
+      ]
+    },
+    {
+      "i": 72516,
+      "e": 72781,
+      "text": "Hubbard, D. M., Dugan, J. E., Schooler, N. K., & Viola, S. M. (2014). Local extirpations and regional declines of endemic upper beach invertebrates in southern California. Estuarine, Coastal and Shelf Science, 150, 67–75. https://doi.org/10.1016/j.ecss.2013.06.017\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1016/j.ecss.2013.06.017",
+          "url": "https://doi.org/10.1016/j.ecss.2013.06.017"
+        }
+      ]
+    },
+    {
+      "i": 72781,
+      "e": 72958,
+      "text": "Maddison, W. (1995). Jumping spiders of America North of Mexico: Terralonus. Tree of Life Web Project. https://tolweb.org/accessory/NA_Jumping_Spiders%3A_Terralonus?acc_id=2130\n",
+      "links": [
+        {
+          "text": "https://tolweb.org/accessory/NA_Jumping_Spiders%3A_Terralonus?acc_id=2130",
+          "url": "https://tolweb.org/accessory/NA_Jumping_Spiders%3A_Terralonus?acc_id=2130"
+        }
+      ]
+    },
+    {
+      "i": 72958,
+      "e": 73164,
+      "text": "Evans, H. E., & Matthews, R. W. (1968). North American Bembix, a revised key and suggested grouping. Annals of the Entomological Society of America, 61(5), 1284–1299. https://doi.org/10.1093/aesa/61.5.1284\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1093/aesa/61.5.1284",
+          "url": "https://doi.org/10.1093/aesa/61.5.1284"
+        }
+      ]
+    },
+    {
+      "i": 73164,
+      "e": 73403,
+      "text": "Bousquet, Y., Thomas, D. B., Bouchard, P., Smith, A. D., Aalbu, R. L., Johnston, M. A., & Steiner, W. E., Jr. (2018). Catalogue of Tenebrionidae (Coleoptera) of North America. ZooKeys, 728, 1–455. https://doi.org/10.3897/zookeys.728.20602\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.3897/zookeys.728.20602",
+          "url": "https://doi.org/10.3897/zookeys.728.20602"
+        }
+      ]
+    },
+    {
+      "i": 73403,
+      "e": 73574,
+      "text": "Perry, E. J. (2010). Hoplia Beetle. UC Statewide Integrated Pest Management Program, Pest Notes, Publication 7499. https://ipm.ucanr.edu/home-and-landscape/hoplia-beetle/\n",
+      "links": [
+        {
+          "text": "https://ipm.ucanr.edu/home-and-landscape/hoplia-beetle/",
+          "url": "https://ipm.ucanr.edu/home-and-landscape/hoplia-beetle/"
+        }
+      ]
+    },
+    {
+      "i": 73574,
+      "e": 73855,
+      "text": "Sandoval, C. (2007). Survey of Globose Dune Beetle at 30732 Pacific Coast Highway (Broad Beach). Field report, 9 November 2007, Appendix B in Biological Resources Assessment. California Coastal Commission archive. https://documents.coastal.ca.gov/reports/2008/6/W16a-6-2008-a1.pdf\n",
+      "links": [
+        {
+          "text": "https://documents.coastal.ca.gov/reports/2008/6/W16a-6-2008-a1.pdf",
+          "url": "https://documents.coastal.ca.gov/reports/2008/6/W16a-6-2008-a1.pdf"
+        }
+      ]
+    },
+    {
+      "i": 73855,
+      "e": 74092,
+      "text": "Montana Natural Heritage Program and Montana Fish, Wildlife & Parks. (n.d.). Western Tiger Beetle — Cicindela oregona oregona. Montana Field Guide. Accessed 26 October 2026. https://fieldguide.mt.gov/speciesDetail.aspx?elcode=IICOL02364\n",
+      "links": [
+        {
+          "text": "https://fieldguide.mt.gov/speciesDetail.aspx?elcode=IICOL02364",
+          "url": "https://fieldguide.mt.gov/speciesDetail.aspx?elcode=IICOL02364"
+        }
+      ]
+    },
+    {
+      "i": 74092,
+      "e": 74315,
+      "text": "Page, M. L., & Williams, N. M. (2023). Evidence of exploitative competition between honey bees and native bees in two California landscapes. Journal of Animal Ecology, 92, 1802–1814. https://doi.org/10.1111/1365-2656.13973\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/1365-2656.13973",
+          "url": "https://doi.org/10.1111/1365-2656.13973"
+        }
+      ]
+    },
+    {
+      "i": 74315,
+      "e": 74575,
+      "text": "Travis, D. J., Kohn, J. R., Holway, D. A., & Hung, K.-L. J. (2025). Pollen exploitation by non-native, feral honey bees: Potential consequences for interspecific competition. Insect Conservation and Diversity, 18, 1109–1119. https://doi.org/10.1111/icad.12858\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/icad.12858",
+          "url": "https://doi.org/10.1111/icad.12858"
+        }
+      ]
+    },
+    {
+      "i": 74575,
+      "e": 74841,
+      "text": "University of California Agriculture and Natural Resources. (n.d.). What About Honey Bees? The Pollinator Project. Accessed 26 October 2026. https://ucanr.edu/site/pollinator-project-pollinator-attractiveness-southern-california-ornamentals/what-about-honey?about=1\n",
+      "links": [
+        {
+          "text": "https://ucanr.edu/site/pollinator-project-pollinator-attractiveness-southern-california-ornamentals/what-about-honey?about=1",
+          "url": "https://ucanr.edu/site/pollinator-project-pollinator-attractiveness-southern-california-ornamentals/what-about-honey?about=1"
+        }
+      ]
+    },
+    {
+      "i": 74841,
+      "e": 75031,
+      "text": "University of California Statewide Integrated Pest Management Program. (2009). Eucalyptus Tortoise Beetles. Pest Notes. https://ipm.ucanr.edu/home-and-landscape/eucalyptus-tortoise-beetles/\n",
+      "links": [
+        {
+          "text": "https://ipm.ucanr.edu/home-and-landscape/eucalyptus-tortoise-beetles/",
+          "url": "https://ipm.ucanr.edu/home-and-landscape/eucalyptus-tortoise-beetles/"
+        }
+      ]
+    },
+    {
+      "i": 75031,
+      "e": 75198,
+      "text": "World Spider Catalog. (2026). Marinarozelotes barbatus (L. Koch, 1866). Natural History Museum Bern. Accessed 26 October 2026. https://www.wsc.nmbe.ch/spec-data/18743\n",
+      "links": [
+        {
+          "text": "https://www.wsc.nmbe.ch/spec-data/18743",
+          "url": "https://www.wsc.nmbe.ch/spec-data/18743"
+        }
+      ]
+    },
+    {
+      "i": 75198,
+      "e": 75412,
+      "text": "AntWeb. (2026). Cardiocondyla mauritanica, specimen CASENT0724085: California locality and introduced status. California Academy of Sciences. Accessed 26 October 2026. https://www.antweb.org/specimen/CASENT0724085\n",
+      "links": [
+        {
+          "text": "https://www.antweb.org/specimen/CASENT0724085",
+          "url": "https://www.antweb.org/specimen/CASENT0724085"
+        }
+      ]
+    },
+    {
+      "i": 75412,
+      "e": 75706,
+      "text": "Chao, A., Gotelli, N. J., Hsieh, T. C., Sander, E. L., Ma, K. H., Colwell, R. K., & Ellison, A. M. (2014). Rarefaction and extrapolation with Hill numbers: a framework for sampling and estimation in species diversity studies. Ecological Monographs, 84, 45–67. https://doi.org/10.1890/13-0133.1\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1890/13-0133.1",
+          "url": "https://doi.org/10.1890/13-0133.1"
+        }
+      ]
+    },
+    {
+      "i": 75706,
+      "e": 75921,
+      "text": "Cheadle Biodiversity. (2026). Dangermond-arthropods: Analysis pipeline. GitHub repository, master branch, accessed 26 October 2026. https://github.com/cheadle-biodiversity/Dangermond-arthropods/tree/master/analysis\n",
+      "links": [
+        {
+          "text": "https://github.com/cheadle-biodiversity/Dangermond-arthropods/tree/master/analysis",
+          "url": "https://github.com/cheadle-biodiversity/Dangermond-arthropods/tree/master/analysis"
+        }
+      ]
+    },
+    {
+      "i": 75921,
+      "e": 76166,
+      "text": "Calabrese, J. M., Certain, G., Kraan, C., & Dormann, C. F. (2014). Stacking species distribution models and adjusting bias by linking them to macroecological models. Global Ecology and Biogeography, 23, 99–112. https://doi.org/10.1111/geb.12102\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/geb.12102",
+          "url": "https://doi.org/10.1111/geb.12102"
+        }
+      ]
+    },
+    {
+      "i": 76166,
+      "e": 76364,
+      "text": "Ratnasingham, S., & Hebert, P. D. N. (2013). A DNA-based registry for all animal species: The Barcode Index Number (BIN) system. PLoS ONE, 8(7), e66213. https://doi.org/10.1371/journal.pone.0066213\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1371/journal.pone.0066213",
+          "url": "https://doi.org/10.1371/journal.pone.0066213"
+        }
+      ]
+    },
+    {
+      "i": 76364,
+      "e": 76559,
+      "text": "Knapp, D. A. (2014). Effects of an Exotic Plant Invasion on Arthropod Assemblages. Doctoral dissertation, University of California, Santa Barbara. https://alexandria.ucsb.edu/downloads/mp48sd085\n",
+      "links": [
+        {
+          "text": "https://alexandria.ucsb.edu/downloads/mp48sd085",
+          "url": "https://alexandria.ucsb.edu/downloads/mp48sd085"
+        }
+      ]
+    },
+    {
+      "i": 76559,
+      "e": 76797,
+      "text": "Fisher, K., Watrous, K. M., Williams, N. M., Richardson, L. L., & Woodard, S. H. (2022). A contemporary survey of bumble bee diversity across the state of California. Ecology and Evolution, 12(3), e8505. https://doi.org/10.1002/ece3.8505\n",
+      "links": []
+    },
+    {
+      "i": 76797,
+      "e": 77011,
+      "text": "Koch, J., Strange, J., & Williams, P. (2012). Bumble Bees of the Western United States. Pollinator Partnership and U.S. Forest Service. https://xerces.org/sites/default/files/2018-05/12-053_01_Western_BB_guide.pdf\n",
+      "links": []
+    },
+    {
+      "i": 77011,
+      "e": 77251,
+      "text": "Rossi, N., Doussot, C., Woodgate, J. L., Lihoreau, M., & Chittka, L. (2026). Male bumblebees sustain mate-seeking by adjusting foraging to environmental conditions. Behavioral Ecology, 37(4), arag054. https://doi.org/10.1093/beheco/arag054\n",
+      "links": []
+    },
+    {
+      "i": 77251,
+      "e": 77425,
+      "text": "California Department of Fish and Wildlife. (n.d.). Invasive to Avoid: Iceplant. Accessed 26 October 2026. https://wildlife.ca.gov/Conservation/Plants/Dont-Plant-Me/Iceplant\n",
+      "links": []
+    },
+    {
+      "i": 77425,
+      "e": 77592,
+      "text": "California Invasive Plant Council. (2005). Cotula coronopifolia: Plant assessment form. https://www.cal-ipc.org/plants/paf/cotula-coronopifolia-plant-assessment-form/\n",
+      "links": []
+    },
+    {
+      "i": 77592,
+      "e": 77757,
+      "text": "California Invasive Plant Council. (n.d.). Cakile maritima: Plant profile. Accessed 26 October 2026. https://www.cal-ipc.org/plants/profile/cakile-maritima-profile/\n",
+      "links": []
+    },
+    {
+      "i": 77757,
+      "e": 77953,
+      "text": "O’Connor, S., Park, K. J., & Goulson, D. (2017). Location of bumblebee nests is predicted by counts of nest-searching queens. Ecological Entomology, 42, 731–736. https://doi.org/10.1111/een.12440\n",
+      "links": []
+    },
+    {
+      "i": 77953,
+      "e": 78087,
+      "text": "GBIF.org. 2026. GBIF occurrence download, requested 28 September 2026. https://doi.org/10.15468/dl.vgv5ee. Retrieved 27 October 2026.\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.15468/dl.vgv5ee",
+          "url": "https://doi.org/10.15468/dl.vgv5ee"
+        }
+      ]
+    },
+    {
+      "i": 78087,
+      "e": 78274,
+      "text": "GBIF Secretariat. n.d. Taxonomy interpretation: species matching and taxonomic processing. https://techdocs.gbif.org/en/data-processing/taxonomy-interpretation. Accessed 27 October 2026.\n",
+      "links": [
+        {
+          "text": "https://techdocs.gbif.org/en/data-processing/taxonomy-interpretation",
+          "url": "https://techdocs.gbif.org/en/data-processing/taxonomy-interpretation"
+        }
+      ]
+    },
+    {
+      "i": 78274,
+      "e": 78489,
+      "text": "U.S. Environmental Protection Agency (EPA). n.d. Ecoregion download files by region: Region 9 Level III and IV ecoregions. https://www.epa.gov/eco-research/ecoregion-download-files-region. Accessed 27 October 2026.\n",
+      "links": [
+        {
+          "text": "https://www.epa.gov/eco-research/ecoregion-download-files-region",
+          "url": "https://www.epa.gov/eco-research/ecoregion-download-files-region"
+        }
+      ]
+    },
+    {
+      "i": 78489,
+      "e": 78660,
+      "text": "Entomological Society of America (ESA). n.d. Common Names of Insects Database. https://entsoc.org/publications/common-names. Source spreadsheet retrieved 27 October 2026.\n",
+      "links": [
+        {
+          "text": "https://entsoc.org/publications/common-names",
+          "url": "https://entsoc.org/publications/common-names"
+        }
+      ]
+    },
+    {
+      "i": 78660,
+      "e": 78872,
+      "text": "Cornell, H. V., and Harrison, S. P. 2014. What are species pools and when are they important? Annual Review of Ecology, Evolution, and Systematics 45:45–67. https://doi.org/10.1146/annurev-ecolsys-120213-091759.\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1146/annurev-ecolsys-120213-091759",
+          "url": "https://doi.org/10.1146/annurev-ecolsys-120213-091759"
+        }
+      ]
+    },
+    {
+      "i": 78872,
+      "e": 79171,
+      "text": "Lessard, J.-P., Borregaard, M. K., Fordyce, J. A., Rahbek, C., Weiser, M. D., Dunn, R. R., and Sanders, N. J. 2012. Strong influence of regional species pools on continent-wide structuring of local communities. Proceedings of the Royal Society B 279:266–274. https://doi.org/10.1098/rspb.2011.0552.\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1098/rspb.2011.0552",
+          "url": "https://doi.org/10.1098/rspb.2011.0552"
+        }
+      ]
+    },
+    {
+      "i": 79171,
+      "e": 79388,
+      "text": "Omernik, J. M., and Griffith, G. E. 2014. Ecoregions of the conterminous United States: Evolution of a hierarchical spatial framework. Environmental Management 54:1249–1266. https://doi.org/10.1007/s00267-014-0364-1.\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1007/s00267-014-0364-1",
+          "url": "https://doi.org/10.1007/s00267-014-0364-1"
+        }
+      ]
+    },
+    {
+      "i": 79388,
+      "e": 79589,
+      "text": "Soberón, J., and Peterson, A. T. 2005. Interpretation of models of fundamental ecological niches and species’ distributional areas. Biodiversity Informatics 2:1–10. https://doi.org/10.17161/bi.v2i0.4.\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.17161/bi.v2i0.4",
+          "url": "https://doi.org/10.17161/bi.v2i0.4"
+        }
+      ]
+    },
+    {
+      "i": 79590,
+      "e": 79807,
+      "text": "California Natural Diversity Database (CNDDB). (2026). Special Animals List. October 2026. California Department of Fish and Wildlife, Sacramento, CA. https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline=\n",
+      "links": [
+        {
+          "text": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline=",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 79807,
+      "e": 79972,
+      "text": "U.S. Fish and Wildlife Service. (2026). Save the Monarch. Updated 21 September 2026; accessed 27 October 2026. https://www.fws.gov/our-work/pollinators/save-monarch\n",
+      "links": [
+        {
+          "text": "https://www.fws.gov/our-work/pollinators/save-monarch",
+          "url": "https://www.fws.gov/our-work/pollinators/save-monarch"
+        }
+      ]
+    },
+    {
+      "i": 79972,
+      "e": 80153,
+      "text": "Butterflies and Moths of North America (BAMONA). (n.d.). Wandering Skipper: Panoquina errans. Accessed 27 October 2026. https://www.butterfliesandmoths.org/species/Panoquina-errans\n",
+      "links": [
+        {
+          "text": "https://www.butterfliesandmoths.org/species/Panoquina-errans",
+          "url": "https://www.butterfliesandmoths.org/species/Panoquina-errans"
+        }
+      ]
+    },
+    {
+      "i": 80153,
+      "e": 80370,
+      "text": "Shanks, S. (n.d.). Ammopelmatus muwu: Point Conception Jerusalem Cricket. Species account. California Department of Fish and Game, Natural Diversity Database. https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=107616\n",
+      "links": [
+        {
+          "text": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=107616",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=107616"
+        }
+      ]
+    },
+    {
+      "i": 80370,
+      "e": 80636,
+      "text": "Blecha, J., Cleveland, C., Innis, D., & Vogler, W. (2007). Fauna of the Guadalupe-Nipomo Dunes. Prepared for the Dunes Collaborative, Guadalupe, California. Point Conception Jerusalem cricket account, p. 49. https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=223918\n",
+      "links": [
+        {
+          "text": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=223918",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=223918"
+        }
+      ]
+    },
+    {
+      "i": 80636,
+      "e": 80901,
+      "text": "Katzer, A. M., Boydston, E. E., Akresh, M. E., Briggs, J. S., Cooper, K., Barve, V., Lee, L., & Morelli, T. L. (2025). Biodiversity on public lands: How community science can help. Conservation Science and Practice, 7(5), e70016. https://doi.org/10.1111/csp2.70016\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1111/csp2.70016",
+          "url": "https://doi.org/10.1111/csp2.70016"
+        }
+      ]
+    },
+    {
+      "i": 80901,
+      "e": 81151,
+      "text": "Lowe, S. K., Mason, B. M., Morales, N. A., & Callaghan, C. T. (2026). Participatory citizen science data complements agency-collected data for species inventories. Ecological Solutions and Evidence, 7, e70173. https://doi.org/10.1002/2688-8319.70173\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1002/2688-8319.70173",
+          "url": "https://doi.org/10.1002/2688-8319.70173"
+        }
+      ]
+    },
+    {
+      "i": 81151,
+      "e": 81487,
+      "text": "Turley, N. E., Kania, S. E., Petitta, I. R., Otruba, E. A., Biddinger, D. J., Butzler, T. M., Sesler, V. V., & López-Uribe, M. M. (2024). Bee monitoring by community scientists: comparing a collections-based program with iNaturalist. Annals of the Entomological Society of America, 117(4), 220–233. https://doi.org/10.1093/aesa/saae014\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1093/aesa/saae014",
+          "url": "https://doi.org/10.1093/aesa/saae014"
+        }
+      ]
+    },
+    {
+      "i": 81487,
+      "e": 81680,
+      "text": "Chao, A., & Jost, L. (2012). Coverage-based rarefaction and extrapolation: standardizing samples by completeness rather than size. Ecology, 93(12), 2533–2547. https://doi.org/10.1890/11-1952.1\n",
+      "links": [
+        {
+          "text": "https://doi.org/10.1890/11-1952.1",
+          "url": "https://doi.org/10.1890/11-1952.1"
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "i": 1,
+      "e": 55,
+      "text": " Advancing Insect Conservation at Dangermond Preserve\n",
+      "links": []
+    },
+    {
+      "i": 55,
+      "e": 57,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57,
+      "e": 58,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 58,
+      "e": 59,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 59,
+      "e": 101,
+      "text": "Katja C. Seltmann & Christopher J. Evelyn\n",
+      "links": []
+    },
+    {
+      "i": 101,
+      "e": 128,
+      "text": "Contact: seltmann@ucsb.edu\n",
+      "links": []
+    },
+    {
+      "i": 128,
+      "e": 144,
+      "text": "30 October 2026\n",
+      "links": []
+    },
+    {
+      "i": 144,
+      "e": 145,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 145,
+      "e": 146,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 146,
+      "e": 147,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 147,
+      "e": 148,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 148,
+      "e": 149,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 149,
+      "e": 150,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 150,
+      "e": 152,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 152,
+      "e": 153,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 153,
+      "e": 154,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 154,
+      "e": 188,
+      "text": "Project overview and deliverables\n",
+      "links": []
+    },
+    {
+      "i": 188,
+      "e": 916,
+      "text": "The project comprises three distinct deliverables. Spatial modeling of species distributions combines occurrence records, expected-fauna analyses, model outputs and field surveys to assess where arthropod diversity may occur and guide future survey effort. The Dangermond Preserve DataONE pipeline to GBIF deliverable documents the initial publishing pathway, work undertaken to improve data flow, and final status and next steps. Collections infrastructure at Dangermond addresses specimen workflows, digitization, supplies and equipment. Methods, results and recommendations are grouped under the deliverable they support, with supporting data, images, procedures and the original project timeline retained in the appendices.\n",
+      "links": []
+    },
+    {
+      "i": 916,
+      "e": 961,
+      "text": "1. Spatial modeling of species distributions\n",
+      "links": []
+    },
+    {
+      "i": 961,
+      "e": 1610,
+      "text": "This deliverable combines spatial occurrence data and regional expected-fauna analyses to create a checklist of insect species that could occur at Dangermond Preserve. It also assesses how observations, including iNaturalist records, and specimen collecting have expanded the documented insect inventory to date. As the project progressed, the distinctive ant communities of the backdunes near Point Conception Lighthouse prompted additional surveys, including targeted searches for invasive Argentine ants. Focus was on finding charismatic megafauna, species of special concern and restoration priorities in the iceplant removal by the lighthouse.\n",
+      "links": []
+    },
+    {
+      "i": 1610,
+      "e": 1652,
+      "text": "1.1 Occurrence data and checklist methods\n",
+      "links": []
+    },
+    {
+      "i": 1652,
+      "e": 1688,
+      "text": "1.1.1 Sources of occurrence records\n",
+      "links": []
+    },
+    {
+      "i": 1688,
+      "e": 2230,
+      "text": "The regional candidate pool was derived from a GBIF download (GBIF.org 2026; DOI: 10.15468/dl.vgv5ee), submitted on 28 September 2026 and retrieved on 27 October 2026. The initial download contains 4,665,086 occurrence records. Records of museum specimens (preserved specimens), human observations (e.g. iNaturalist) and DNA barcoded records (material examined) were all included. A second dataset was developed using records obtained during this project, named UCSB Summer 2026 survey. These records have subsequently been uploaded to GBIF.\n",
+      "links": []
+    },
+    {
+      "i": 2230,
+      "e": 2258,
+      "text": "1.1.2 Checklist preparation\n",
+      "links": []
+    },
+    {
+      "i": 2258,
+      "e": 2796,
+      "text": "Records were filtered to identifications at genus rank or below (3,401,713 records), valid geographic coordinates (3,401,713), insects (2,935,477), and the two EPA Level III ecoregions intersecting Dangermond Preserve (1,594,367). A second species-level filter required a positive GBIF species key and a nonblank species name (1,417,629). Subsequent name review removed 798 genus/higher-taxon placeholders or species-group/complex labels and 7,956 records without a species-level resolution, leaving a final dataset of 1,408,875 records.\n",
+      "links": []
+    },
+    {
+      "i": 2796,
+      "e": 3089,
+      "text": "Regional candidates were selected by overlaying occurrence coordinates on the EPA Region 9 ecoregion polygons (U.S. EPA n.d.). Boundary points were included; no buffer or nearest-region assignment was used. Separate lists represent Level III regions 6 and 85 and Level IV regions 6ap and 85a.\n",
+      "links": []
+    },
+    {
+      "i": 3089,
+      "e": 3513,
+      "text": "Each checklist contains a common name, order, family, resolved scientific name, regional occurrence count, documented preserve occurrence and life-history notes. A preserve-occurrence flag (Yes) distinguishes regional candidates from documented local records. All eligible records with resolved species determinations were retained, including 2,428 regional records from BOLD-associated sources from a DNA barcoding effort.\n",
+      "links": []
+    },
+    {
+      "i": 3513,
+      "e": 3557,
+      "text": "1.1.3 Taxonomic resolution and common names\n",
+      "links": []
+    },
+    {
+      "i": 3557,
+      "e": 4071,
+      "text": "Taxonomic names were matched through the GBIF Species Match API v2 against Catalogue of Life eXtended Release (COL XR; checklist key 7ddf754f-d193-4cc9-b351-99906754a03b), updating species names to currently accepted species. Subspecies were grouped under their resolved parent species for the checklists. Order and family names were retained. Common names were assigned from the Entomological Society of America database using supported scientific-name matches, with unmatched entries remaining blank (ESA n.d.).\n",
+      "links": []
+    },
+    {
+      "i": 4071,
+      "e": 4072,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 4072,
+      "e": 4118,
+      "text": "1.1.5 Rationale for the regional species pool\n",
+      "links": []
+    },
+    {
+      "i": 4118,
+      "e": 5682,
+      "text": "These checklists are a first-pass regional screening of species that have a high likelihood of being found at Dangermond Preserve. The approach follows the regional species-pool concept, which relates local communities to the wider set of species potentially available to colonize them and explicitly considers the geographic scale used to define that pool (Cornell and Harrison 2014). An insect precedent is the comparison of local ant communities with geographically defined source pools by Lessard et al. (2012); that study also demonstrated that the choice of pool definition affects ecological interpretation. Here, EPA ecoregions provide a practical, repeatable approximation of a regional pool. Their nested hierarchy was developed for ecological assessment: Level III supplies broader regional context, while Level IV offers a more geographically restricted comparison (Omernik and Griffith 2014). Soberón and Peterson (2005) also identify ecoregions as possible geographic units for considering species’ accessibility, while distinguishing accessibility from habitat suitability. Membership in a shared ecoregion does not establish that suitable habitat exists on the preserve or assign a probability of occurrence. Habitat requirements, host availability, biotic interactions and dispersal barriers can restrict local occurrence (Soberón and Peterson 2005), and uneven recording effort can leave plausible species undocumented. The checklists are therefore starting hypotheses for refinement through targeted surveys and species-level ecological review.\n",
+      "links": []
+    },
+    {
+      "i": 5682,
+      "e": 5716,
+      "text": "1.2 Regional candidate checklists\n",
+      "links": []
+    },
+    {
+      "i": 5716,
+      "e": 5751,
+      "text": "1.2.1 Checklist summary statistics\n",
+      "links": []
+    },
+    {
+      "i": 5751,
+      "e": 6077,
+      "text": "There are 1,408,875 occurrence records representing 13,634 distinct resolved species found in preserve-intersecting Level III ecoregions. Restricting that pool to the two Level IV regions intersecting the preserve yields 43,555 records and 2,550 distinct species. The following table summarizes the four completed checklists.\n",
+      "links": []
+    },
+    {
+      "i": 6077,
+      "e": 6078,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 6081,
+      "e": 6108,
+      "text": "Ecoregion (level and code)\n",
+      "links": []
+    },
+    {
+      "i": 6109,
+      "e": 6128,
+      "text": "Occurrence records\n",
+      "links": []
+    },
+    {
+      "i": 6129,
+      "e": 6146,
+      "text": "Distinct species\n",
+      "links": []
+    },
+    {
+      "i": 6147,
+      "e": 6178,
+      "text": "Species documented on preserve\n",
+      "links": []
+    },
+    {
+      "i": 6180,
+      "e": 6239,
+      "text": "III 6 — Central California Foothills and Coastal Mountains\n",
+      "links": []
+    },
+    {
+      "i": 6240,
+      "e": 6248,
+      "text": "691,304\n",
+      "links": []
+    },
+    {
+      "i": 6249,
+      "e": 6256,
+      "text": "10,135\n",
+      "links": []
+    },
+    {
+      "i": 6257,
+      "e": 6261,
+      "text": "189\n",
+      "links": []
+    },
+    {
+      "i": 6263,
+      "e": 6312,
+      "text": "III 85 — Southern California/Northern Baja Coast\n",
+      "links": []
+    },
+    {
+      "i": 6313,
+      "e": 6321,
+      "text": "717,571\n",
+      "links": []
+    },
+    {
+      "i": 6322,
+      "e": 6328,
+      "text": "8,450\n",
+      "links": []
+    },
+    {
+      "i": 6329,
+      "e": 6333,
+      "text": "160\n",
+      "links": []
+    },
+    {
+      "i": 6335,
+      "e": 6378,
+      "text": "IV 6ap — Solomon-Purisima-Santa Ynez Hills\n",
+      "links": []
+    },
+    {
+      "i": 6379,
+      "e": 6385,
+      "text": "9,141\n",
+      "links": []
+    },
+    {
+      "i": 6386,
+      "e": 6392,
+      "text": "1,521\n",
+      "links": []
+    },
+    {
+      "i": 6393,
+      "e": 6397,
+      "text": "165\n",
+      "links": []
+    },
+    {
+      "i": 6399,
+      "e": 6449,
+      "text": "IV 85a — Santa Barbara Coastal Plain and Terraces\n",
+      "links": []
+    },
+    {
+      "i": 6450,
+      "e": 6457,
+      "text": "34,414\n",
+      "links": []
+    },
+    {
+      "i": 6458,
+      "e": 6464,
+      "text": "1,852\n",
+      "links": []
+    },
+    {
+      "i": 6465,
+      "e": 6469,
+      "text": "115\n",
+      "links": []
+    },
+    {
+      "i": 6470,
+      "e": 6693,
+      "text": "The two Level IV lists share 823 species; their combined total is therefore 2,550 species rather than the sum of their individual checklist totals. The Level III lists likewise overlap and together contain 13,634 species. \n",
+      "links": []
+    },
+    {
+      "i": 6693,
+      "e": 6723,
+      "text": "1.2.2 Order-level composition\n",
+      "links": []
+    },
+    {
+      "i": 6723,
+      "e": 6964,
+      "text": "Distinct species counts by insect order are shown for both Level III and Level IV checklists. The table includes 24 orders for region 6, 23 for region 85, 19 for region 6ap, and 20 for region 85a. Mecoptera and arachnid orders are excluded.\n",
+      "links": []
+    },
+    {
+      "i": 6964,
+      "e": 6965,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 6968,
+      "e": 6981,
+      "text": "Insect order\n",
+      "links": []
+    },
+    {
+      "i": 6982,
+      "e": 6994,
+      "text": "Level III 6\n",
+      "links": []
+    },
+    {
+      "i": 6995,
+      "e": 7008,
+      "text": "Level III 85\n",
+      "links": []
+    },
+    {
+      "i": 7009,
+      "e": 7022,
+      "text": "Level IV 6ap\n",
+      "links": []
+    },
+    {
+      "i": 7023,
+      "e": 7036,
+      "text": "Level IV 85a\n",
+      "links": []
+    },
+    {
+      "i": 7038,
+      "e": 7052,
+      "text": "Archaeognatha\n",
+      "links": []
+    },
+    {
+      "i": 7053,
+      "e": 7055,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 7056,
+      "e": 7058,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7059,
+      "e": 7061,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7062,
+      "e": 7064,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7066,
+      "e": 7076,
+      "text": "Blattodea\n",
+      "links": []
+    },
+    {
+      "i": 7077,
+      "e": 7080,
+      "text": "25\n",
+      "links": []
+    },
+    {
+      "i": 7081,
+      "e": 7084,
+      "text": "23\n",
+      "links": []
+    },
+    {
+      "i": 7085,
+      "e": 7087,
+      "text": "5\n",
+      "links": []
+    },
+    {
+      "i": 7088,
+      "e": 7090,
+      "text": "9\n",
+      "links": []
+    },
+    {
+      "i": 7092,
+      "e": 7103,
+      "text": "Coleoptera\n",
+      "links": []
+    },
+    {
+      "i": 7104,
+      "e": 7110,
+      "text": "2,827\n",
+      "links": []
+    },
+    {
+      "i": 7111,
+      "e": 7117,
+      "text": "2,144\n",
+      "links": []
+    },
+    {
+      "i": 7118,
+      "e": 7122,
+      "text": "683\n",
+      "links": []
+    },
+    {
+      "i": 7123,
+      "e": 7127,
+      "text": "697\n",
+      "links": []
+    },
+    {
+      "i": 7129,
+      "e": 7140,
+      "text": "Dermaptera\n",
+      "links": []
+    },
+    {
+      "i": 7141,
+      "e": 7143,
+      "text": "7\n",
+      "links": []
+    },
+    {
+      "i": 7144,
+      "e": 7147,
+      "text": "12\n",
+      "links": []
+    },
+    {
+      "i": 7148,
+      "e": 7150,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7151,
+      "e": 7153,
+      "text": "6\n",
+      "links": []
+    },
+    {
+      "i": 7155,
+      "e": 7163,
+      "text": "Diptera\n",
+      "links": []
+    },
+    {
+      "i": 7164,
+      "e": 7170,
+      "text": "1,294\n",
+      "links": []
+    },
+    {
+      "i": 7171,
+      "e": 7177,
+      "text": "1,183\n",
+      "links": []
+    },
+    {
+      "i": 7178,
+      "e": 7182,
+      "text": "100\n",
+      "links": []
+    },
+    {
+      "i": 7183,
+      "e": 7187,
+      "text": "168\n",
+      "links": []
+    },
+    {
+      "i": 7189,
+      "e": 7200,
+      "text": "Embioptera\n",
+      "links": []
+    },
+    {
+      "i": 7201,
+      "e": 7203,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7204,
+      "e": 7206,
+      "text": "5\n",
+      "links": []
+    },
+    {
+      "i": 7207,
+      "e": 7209,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7210,
+      "e": 7212,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7214,
+      "e": 7228,
+      "text": "Ephemeroptera\n",
+      "links": []
+    },
+    {
+      "i": 7229,
+      "e": 7232,
+      "text": "90\n",
+      "links": []
+    },
+    {
+      "i": 7233,
+      "e": 7236,
+      "text": "12\n",
+      "links": []
+    },
+    {
+      "i": 7237,
+      "e": 7239,
+      "text": "8\n",
+      "links": []
+    },
+    {
+      "i": 7240,
+      "e": 7242,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7244,
+      "e": 7254,
+      "text": "Hemiptera\n",
+      "links": []
+    },
+    {
+      "i": 7255,
+      "e": 7261,
+      "text": "1,138\n",
+      "links": []
+    },
+    {
+      "i": 7262,
+      "e": 7268,
+      "text": "1,090\n",
+      "links": []
+    },
+    {
+      "i": 7269,
+      "e": 7272,
+      "text": "86\n",
+      "links": []
+    },
+    {
+      "i": 7273,
+      "e": 7277,
+      "text": "159\n",
+      "links": []
+    },
+    {
+      "i": 7279,
+      "e": 7291,
+      "text": "Hymenoptera\n",
+      "links": []
+    },
+    {
+      "i": 7292,
+      "e": 7298,
+      "text": "1,838\n",
+      "links": []
+    },
+    {
+      "i": 7299,
+      "e": 7305,
+      "text": "1,683\n",
+      "links": []
+    },
+    {
+      "i": 7306,
+      "e": 7310,
+      "text": "170\n",
+      "links": []
+    },
+    {
+      "i": 7311,
+      "e": 7315,
+      "text": "237\n",
+      "links": []
+    },
+    {
+      "i": 7317,
+      "e": 7329,
+      "text": "Lepidoptera\n",
+      "links": []
+    },
+    {
+      "i": 7330,
+      "e": 7336,
+      "text": "2,038\n",
+      "links": []
+    },
+    {
+      "i": 7337,
+      "e": 7343,
+      "text": "1,768\n",
+      "links": []
+    },
+    {
+      "i": 7344,
+      "e": 7348,
+      "text": "337\n",
+      "links": []
+    },
+    {
+      "i": 7349,
+      "e": 7353,
+      "text": "453\n",
+      "links": []
+    },
+    {
+      "i": 7355,
+      "e": 7364,
+      "text": "Mantodea\n",
+      "links": []
+    },
+    {
+      "i": 7365,
+      "e": 7368,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 7369,
+      "e": 7372,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 7373,
+      "e": 7375,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7376,
+      "e": 7378,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 7380,
+      "e": 7392,
+      "text": "Megaloptera\n",
+      "links": []
+    },
+    {
+      "i": 7393,
+      "e": 7396,
+      "text": "16\n",
+      "links": []
+    },
+    {
+      "i": 7397,
+      "e": 7399,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7400,
+      "e": 7402,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7403,
+      "e": 7405,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7407,
+      "e": 7418,
+      "text": "Neuroptera\n",
+      "links": []
+    },
+    {
+      "i": 7419,
+      "e": 7422,
+      "text": "75\n",
+      "links": []
+    },
+    {
+      "i": 7423,
+      "e": 7426,
+      "text": "54\n",
+      "links": []
+    },
+    {
+      "i": 7427,
+      "e": 7429,
+      "text": "8\n",
+      "links": []
+    },
+    {
+      "i": 7430,
+      "e": 7432,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7434,
+      "e": 7442,
+      "text": "Odonata\n",
+      "links": []
+    },
+    {
+      "i": 7443,
+      "e": 7446,
+      "text": "90\n",
+      "links": []
+    },
+    {
+      "i": 7447,
+      "e": 7450,
+      "text": "83\n",
+      "links": []
+    },
+    {
+      "i": 7451,
+      "e": 7454,
+      "text": "40\n",
+      "links": []
+    },
+    {
+      "i": 7455,
+      "e": 7458,
+      "text": "41\n",
+      "links": []
+    },
+    {
+      "i": 7460,
+      "e": 7471,
+      "text": "Orthoptera\n",
+      "links": []
+    },
+    {
+      "i": 7472,
+      "e": 7476,
+      "text": "195\n",
+      "links": []
+    },
+    {
+      "i": 7477,
+      "e": 7481,
+      "text": "160\n",
+      "links": []
+    },
+    {
+      "i": 7482,
+      "e": 7485,
+      "text": "42\n",
+      "links": []
+    },
+    {
+      "i": 7486,
+      "e": 7489,
+      "text": "48\n",
+      "links": []
+    },
+    {
+      "i": 7491,
+      "e": 7500,
+      "text": "Phasmida\n",
+      "links": []
+    },
+    {
+      "i": 7501,
+      "e": 7504,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 7505,
+      "e": 7507,
+      "text": "7\n",
+      "links": []
+    },
+    {
+      "i": 7508,
+      "e": 7510,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7511,
+      "e": 7513,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7515,
+      "e": 7526,
+      "text": "Plecoptera\n",
+      "links": []
+    },
+    {
+      "i": 7527,
+      "e": 7530,
+      "text": "84\n",
+      "links": []
+    },
+    {
+      "i": 7531,
+      "e": 7534,
+      "text": "21\n",
+      "links": []
+    },
+    {
+      "i": 7535,
+      "e": 7537,
+      "text": "8\n",
+      "links": []
+    },
+    {
+      "i": 7538,
+      "e": 7540,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7542,
+      "e": 7551,
+      "text": "Psocodea\n",
+      "links": []
+    },
+    {
+      "i": 7552,
+      "e": 7556,
+      "text": "133\n",
+      "links": []
+    },
+    {
+      "i": 7557,
+      "e": 7560,
+      "text": "76\n",
+      "links": []
+    },
+    {
+      "i": 7561,
+      "e": 7563,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7564,
+      "e": 7567,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 7569,
+      "e": 7583,
+      "text": "Raphidioptera\n",
+      "links": []
+    },
+    {
+      "i": 7584,
+      "e": 7587,
+      "text": "11\n",
+      "links": []
+    },
+    {
+      "i": 7588,
+      "e": 7590,
+      "text": "5\n",
+      "links": []
+    },
+    {
+      "i": 7591,
+      "e": 7593,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 7594,
+      "e": 7596,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7598,
+      "e": 7611,
+      "text": "Siphonaptera\n",
+      "links": []
+    },
+    {
+      "i": 7612,
+      "e": 7615,
+      "text": "49\n",
+      "links": []
+    },
+    {
+      "i": 7616,
+      "e": 7619,
+      "text": "24\n",
+      "links": []
+    },
+    {
+      "i": 7620,
+      "e": 7622,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7623,
+      "e": 7625,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7627,
+      "e": 7640,
+      "text": "Strepsiptera\n",
+      "links": []
+    },
+    {
+      "i": 7641,
+      "e": 7643,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7644,
+      "e": 7646,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7647,
+      "e": 7649,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7650,
+      "e": 7652,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7654,
+      "e": 7667,
+      "text": "Thysanoptera\n",
+      "links": []
+    },
+    {
+      "i": 7668,
+      "e": 7671,
+      "text": "58\n",
+      "links": []
+    },
+    {
+      "i": 7672,
+      "e": 7675,
+      "text": "41\n",
+      "links": []
+    },
+    {
+      "i": 7676,
+      "e": 7678,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7679,
+      "e": 7681,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7683,
+      "e": 7695,
+      "text": "Trichoptera\n",
+      "links": []
+    },
+    {
+      "i": 7696,
+      "e": 7700,
+      "text": "122\n",
+      "links": []
+    },
+    {
+      "i": 7701,
+      "e": 7704,
+      "text": "34\n",
+      "links": []
+    },
+    {
+      "i": 7705,
+      "e": 7708,
+      "text": "21\n",
+      "links": []
+    },
+    {
+      "i": 7709,
+      "e": 7711,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 7713,
+      "e": 7723,
+      "text": "Zygentoma\n",
+      "links": []
+    },
+    {
+      "i": 7724,
+      "e": 7726,
+      "text": "7\n",
+      "links": []
+    },
+    {
+      "i": 7727,
+      "e": 7729,
+      "text": "6\n",
+      "links": []
+    },
+    {
+      "i": 7730,
+      "e": 7732,
+      "text": "0\n",
+      "links": []
+    },
+    {
+      "i": 7733,
+      "e": 7735,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 7737,
+      "e": 7751,
+      "text": "Total species\n",
+      "links": []
+    },
+    {
+      "i": 7752,
+      "e": 7759,
+      "text": "10,133\n",
+      "links": []
+    },
+    {
+      "i": 7760,
+      "e": 7766,
+      "text": "8,449\n",
+      "links": []
+    },
+    {
+      "i": 7767,
+      "e": 7773,
+      "text": "1,521\n",
+      "links": []
+    },
+    {
+      "i": 7774,
+      "e": 7780,
+      "text": "1,852\n",
+      "links": []
+    },
+    {
+      "i": 7781,
+      "e": 7782,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 7782,
+      "e": 7810,
+      "text": "1.3 UCSB Summer 2026 survey\n",
+      "links": []
+    },
+    {
+      "i": 7810,
+      "e": 7835,
+      "text": "1.3.1 Dune survey design\n",
+      "links": []
+    },
+    {
+      "i": 7835,
+      "e": 8225,
+      "text": "The UCSB Summer 2026 survey is documented in the UCSB Invertebrate Zoology Collection Darwin Core Archive exported from Ecdysis on 26 October 2026. Records span 6, 7 and 13 July and 18–19 August 2026. Locality descriptions cover dunes near Point Conception Lighthouse, including iceplant restoration dune locations habitat, Perco’s Beach and a eucalyptus windrow north of Government Point.\n",
+      "links": []
+    },
+    {
+      "i": 8225,
+      "e": 8226,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 8229,
+      "e": 8231,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 8233,
+      "e": 8444,
+      "text": "Fig. ##: Two types of field sites were utilized during arthropod dune surveys in 2026, single-vist sites and repeat visit sites. Unsurprisingly, the number of species detected increased upon successive visits. \n",
+      "links": []
+    },
+    {
+      "i": 8445,
+      "e": 8446,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 8446,
+      "e": 8490,
+      "text": "1.3.2 Survey results and taxonomic coverage\n",
+      "links": []
+    },
+    {
+      "i": 8490,
+      "e": 9003,
+      "text": "The UCSB Summer 2026 survey generated 459 occurrence records: 311 preserved-specimen records and 148 human observations. The preserved specimens have distinct UCSB-IZC catalog numbers and are deposited in the UCSB Invertebrate Zoology Collection at the Cheadle Center. Collecting was conducted by hand, using plastic cups and insect nets. Records were digitized in Ecdysis, the Symbiota-based portal used by the collection and the data was published to GBIF via the Cheadle Centers GBIF publisher account (link).\n",
+      "links": []
+    },
+    {
+      "i": 9003,
+      "e": 9348,
+      "text": "The archive covers six sampling dates: July accounts for 441 records (293 preserved specimens and 148 observations), and August contributes 18 preserved-specimen records. The inventory includes 423 insect records, 31 arachnid records, four crustacean records and one gastropod record. Sampling localities and dates are documented in Appendix 3.\n",
+      "links": []
+    },
+    {
+      "i": 9348,
+      "e": 9371,
+      "text": "Identification support\n",
+      "links": []
+    },
+    {
+      "i": 9371,
+      "e": 10121,
+      "text": "Identifiers for this include Alex J. Harman, PhD, Schlinger Chair and Curator of Entomology at the Santa Barbara Museum of Natural History, specializes in tiger beetles and grasshoppers and contributed broadly to beetle determinations. Bennett Grappone, MSc, an entomologist at the same museum, has experience identifying flies and beetles and researches carrion-feeding arthropods. Franklyn Cala Riquelme, PhD, an arachnologist affiliated with the California Academy of Science whose research includes spider systematics and biogeography, contributed spider identifications. Katja Seltmann contributed determinations across bees, wasps and other invertebrates. Philip S. Ward, an ant systematist at UC Davis, contributed Formicidae identifications.\n",
+      "links": [
+        {
+          "text": "Alex J. Harman",
+          "url": "https://www.sbnature.org/collections-research/invertebrates/staff"
+        },
+        {
+          "text": "Bennett Grappone",
+          "url": "https://www.inaturalist.org/people/bennett_grappone"
+        },
+        {
+          "text": "Franklyn Cala Riquelme",
+          "url": "https://www.arachnerds.info/lab-members"
+        },
+        {
+          "text": "Katja Seltmann",
+          "url": "https://news.ucsb.edu/people/katja-seltmann"
+        },
+        {
+          "text": "Philip S. Ward",
+          "url": "https://agriculture.ucdavis.edu/people/philip-ward"
+        }
+      ]
+    },
+    {
+      "i": 10121,
+      "e": 10140,
+      "text": "Taxonomic coverage\n",
+      "links": []
+    },
+    {
+      "i": 10140,
+      "e": 10359,
+      "text": "The UCSB Summer 2026 survey records represent 125 distinct taxon IDs across all identification ranks. Coleoptera has the most distinct identifications (35), followed by Hymenoptera (34), Diptera (15) and Araneae (13). \n",
+      "links": []
+    },
+    {
+      "i": 10359,
+      "e": 10360,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 10360,
+      "e": 10425,
+      "text": "Table. Occurrence records and distinct identifications by order.\n",
+      "links": []
+    },
+    {
+      "i": 10425,
+      "e": 10426,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 10429,
+      "e": 10456,
+      "text": "Order / higher-taxon group\n",
+      "links": []
+    },
+    {
+      "i": 10457,
+      "e": 10469,
+      "text": "Unique taxa\n",
+      "links": []
+    },
+    {
+      "i": 10470,
+      "e": 10489,
+      "text": "Occurrence records\n",
+      "links": []
+    },
+    {
+      "i": 10491,
+      "e": 10503,
+      "text": "Hymenoptera\n",
+      "links": []
+    },
+    {
+      "i": 10504,
+      "e": 10507,
+      "text": "34\n",
+      "links": []
+    },
+    {
+      "i": 10508,
+      "e": 10512,
+      "text": "227\n",
+      "links": []
+    },
+    {
+      "i": 10514,
+      "e": 10525,
+      "text": "Coleoptera\n",
+      "links": []
+    },
+    {
+      "i": 10526,
+      "e": 10529,
+      "text": "35\n",
+      "links": []
+    },
+    {
+      "i": 10530,
+      "e": 10534,
+      "text": "131\n",
+      "links": []
+    },
+    {
+      "i": 10536,
+      "e": 10544,
+      "text": "Araneae\n",
+      "links": []
+    },
+    {
+      "i": 10545,
+      "e": 10548,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 10549,
+      "e": 10552,
+      "text": "29\n",
+      "links": []
+    },
+    {
+      "i": 10554,
+      "e": 10562,
+      "text": "Diptera\n",
+      "links": []
+    },
+    {
+      "i": 10563,
+      "e": 10566,
+      "text": "15\n",
+      "links": []
+    },
+    {
+      "i": 10567,
+      "e": 10570,
+      "text": "27\n",
+      "links": []
+    },
+    {
+      "i": 10572,
+      "e": 10582,
+      "text": "Hemiptera\n",
+      "links": []
+    },
+    {
+      "i": 10583,
+      "e": 10585,
+      "text": "9\n",
+      "links": []
+    },
+    {
+      "i": 10586,
+      "e": 10589,
+      "text": "14\n",
+      "links": []
+    },
+    {
+      "i": 10591,
+      "e": 10602,
+      "text": "Orthoptera\n",
+      "links": []
+    },
+    {
+      "i": 10603,
+      "e": 10605,
+      "text": "7\n",
+      "links": []
+    },
+    {
+      "i": 10606,
+      "e": 10609,
+      "text": "13\n",
+      "links": []
+    },
+    {
+      "i": 10611,
+      "e": 10623,
+      "text": "Lepidoptera\n",
+      "links": []
+    },
+    {
+      "i": 10624,
+      "e": 10626,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 10627,
+      "e": 10629,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 10631,
+      "e": 10641,
+      "text": "Zygentoma\n",
+      "links": []
+    },
+    {
+      "i": 10642,
+      "e": 10644,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10645,
+      "e": 10647,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 10649,
+      "e": 10659,
+      "text": "Amphipoda\n",
+      "links": []
+    },
+    {
+      "i": 10660,
+      "e": 10662,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10663,
+      "e": 10665,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10667,
+      "e": 10677,
+      "text": "Blattodea\n",
+      "links": []
+    },
+    {
+      "i": 10678,
+      "e": 10680,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10681,
+      "e": 10683,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10685,
+      "e": 10693,
+      "text": "Isopoda\n",
+      "links": []
+    },
+    {
+      "i": 10694,
+      "e": 10696,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10697,
+      "e": 10699,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10701,
+      "e": 10710,
+      "text": "Isoptera\n",
+      "links": []
+    },
+    {
+      "i": 10711,
+      "e": 10713,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10714,
+      "e": 10716,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10718,
+      "e": 10734,
+      "text": "Stylommatophora\n",
+      "links": []
+    },
+    {
+      "i": 10735,
+      "e": 10737,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10738,
+      "e": 10740,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10742,
+      "e": 10769,
+      "text": "Acari (order not assigned)\n",
+      "links": []
+    },
+    {
+      "i": 10770,
+      "e": 10772,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 10773,
+      "e": 10775,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 10777,
+      "e": 10783,
+      "text": "Total\n",
+      "links": []
+    },
+    {
+      "i": 10784,
+      "e": 10788,
+      "text": "125\n",
+      "links": []
+    },
+    {
+      "i": 10789,
+      "e": 10793,
+      "text": "459\n",
+      "links": []
+    },
+    {
+      "i": 10794,
+      "e": 10795,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 10795,
+      "e": 10796,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 10796,
+      "e": 10846,
+      "text": "1.4 Inventory comparisons and survey completeness\n",
+      "links": []
+    },
+    {
+      "i": 10846,
+      "e": 10898,
+      "text": "1.4.1 Representation of the regional candidate pool\n",
+      "links": []
+    },
+    {
+      "i": 10898,
+      "e": 11234,
+      "text": "The UCSB Summer 2026 survey documented 45 of the 2,550 candidate species (1.76%) based on the Level IV checklists. All candidate species are assumed potentially able to occur anywhere on Dangermond, without habitat or vegetation filters. 17 species found during the UCSB surveys were not previously recorded in the Level IV checklists.\n",
+      "links": []
+    },
+    {
+      "i": 11234,
+      "e": 11235,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 11238,
+      "e": 11264,
+      "text": "Candidate-list comparison\n",
+      "links": []
+    },
+    {
+      "i": 11265,
+      "e": 11272,
+      "text": "Result\n",
+      "links": []
+    },
+    {
+      "i": 11274,
+      "e": 11303,
+      "text": "Distinct Level IV candidates\n",
+      "links": []
+    },
+    {
+      "i": 11304,
+      "e": 11310,
+      "text": "2,550\n",
+      "links": []
+    },
+    {
+      "i": 11312,
+      "e": 11341,
+      "text": "Observed species-level units\n",
+      "links": []
+    },
+    {
+      "i": 11342,
+      "e": 11345,
+      "text": "62\n",
+      "links": []
+    },
+    {
+      "i": 11347,
+      "e": 11387,
+      "text": "Candidate species represented in survey\n",
+      "links": []
+    },
+    {
+      "i": 11388,
+      "e": 11391,
+      "text": "45\n",
+      "links": []
+    },
+    {
+      "i": 11393,
+      "e": 11429,
+      "text": "Candidates not documented in survey\n",
+      "links": []
+    },
+    {
+      "i": 11430,
+      "e": 11436,
+      "text": "2,505\n",
+      "links": []
+    },
+    {
+      "i": 11438,
+      "e": 11476,
+      "text": "Observed units outside candidate pool\n",
+      "links": []
+    },
+    {
+      "i": 11477,
+      "e": 11480,
+      "text": "17\n",
+      "links": []
+    },
+    {
+      "i": 11481,
+      "e": 11482,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 11482,
+      "e": 12027,
+      "text": "The 17 observed units outside the candidate pool are Amaurochrous vanduzeei, Amblyderus obesus, Apodemia mormo, Arenivaga sequoia, Chlorochroa uhleri, Conozoa texana, Dasymutilla coccineohirta, Dasymutilla sackenii, Dichocera lyrata, Dinomus bachei, Eleodes clavicornis, Helicobia rapax, Lepidanthrax homologus, Monomorium argatogyna, Paropsisterna m-fuscum, Stenopogon obispae and Stigmus inordinatus. Their absence from the regional checklists demonstrates the limited historical sampling for arthropods done on the California Central Coast. \n",
+      "links": []
+    },
+    {
+      "i": 12027,
+      "e": 12082,
+      "text": "1.4.2 Contributions of observations, specimens and DNA\n",
+      "links": []
+    },
+    {
+      "i": 12082,
+      "e": 12573,
+      "text": "The combined preserve-wide inventory from GBIF and the UCSB Summer 2026 survey contains 797 occurrence records determined to species or subspecies, representing 199 species after combining subspecies under species. The comparison separates 240 human-observation records, 510 preserved-specimen records and 47 DNA records. Datasets were combined by Darwin Core occurrenceIDs which are persistent identifiers retained when occurrence data is shared with GBIF from our data publication portal.\n",
+      "links": []
+    },
+    {
+      "i": 12573,
+      "e": 12575,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 12575,
+      "e": 13129,
+      "text": "Figure. Species-only contributions of human observations (green), preserved specimens (rust brown) and DNA records (blue). Panel A shows records determined to species; Panel B shows species unique to each format or shared by at least two formats; Panel C compares observed Hill profiles. Human observations give q = 0, 1 and 2 values of 66, 16.42 and 6.46; preserved specimens give 147, 94.95 and 63.72; DNA records give 24, 21.66 and 19.90. The pooled species-determined inventory has q = 0 of 199, q = 1 of 95.47 and q = 2 of 43.46 (Chao et al. 2014).\n",
+      "links": []
+    },
+    {
+      "i": 13129,
+      "e": 13130,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 13130,
+      "e": 13567,
+      "text": "Preserved specimens document 147 species, human observations 66 and DNA records 24. Of the 199 species in the combined inventory, 110 occur only in preserved-specimen records, 51 only in human observations and one only in DNA records; 37 occur in at least two formats. The DNA-only species is Ammopelmatus muwu. Twenty-three of the 24 DNA species are also represented by preserved specimens, and one species occurs in all three formats.\n",
+      "links": []
+    },
+    {
+      "i": 13567,
+      "e": 13920,
+      "text": "\tIn summary, preserved specimens document the broadest range of species and retain the highest diversity across the dataset. Human observations add species but are concentrated in a smaller set of frequently recorded insects. DNA records cover fewer named species, with records distributed more evenly among them. Each occurrence receives equal weight.\n",
+      "links": []
+    },
+    {
+      "i": 13920,
+      "e": 14562,
+      "text": "The DNA group comprises 44 species-determined material-sample records from the International Barcode of Life project (iBOL) and three from INSDC Sequences. For this analysis, higher-taxon identifications and unnamed BOLD barcode clusters were removed as we cannot compare them to the named species identified in the surveys. In the dataset there were 1,082 distinct DNA barcode clusters (BOLD BINs) across 10,887 occurrence records. These are molecular identification units, not necessarily 1,082 confirmed species. The full deduplicated input contains 14,508 insect records, but only the 797 eligible records enter all three figure panels. \n",
+      "links": [
+        {
+          "text": "International Barcode of Life project (iBOL)",
+          "url": "https://doi.org/10.15468/inygc6"
+        },
+        {
+          "text": "INSDC Sequences",
+          "url": "https://doi.org/10.15468/sbmztx"
+        }
+      ]
+    },
+    {
+      "i": 14562,
+      "e": 15463,
+      "text": "The Point Conception Jerusalem cricket (Ammopelmatus muwu) adds a locally important dune specialist to the inventory. It was described from dunes near the Point Conception Lighthouse (Shanks, n.d.); a regional synthesis reports its coastal range extending north to Oso Flaco Lake (Blecha et al., 2007). CNDDB assigns G1/S1, indicating critical imperilment globally and in California (CNDDB, 2026). Its restricted distribution and dependence on sandy dune habitat make protection of the lighthouse dune system a conservation priority. The DNA contribution therefore adds more than richness: it identifies a species with a strong historical connection to this landscape that was not represented among the species in the summer survey. The three GBIF sequence records carry a 1996 collection year, supporting targeted surveys to document its present distribution and retain vouchers linked to sequences.\n",
+      "links": [
+        {
+          "text": "Shanks, n.d.",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=107616"
+        },
+        {
+          "text": "Blecha et al., 2007",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=223918"
+        },
+        {
+          "text": "CNDDB, 2026",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        },
+        {
+          "text": "1996",
+          "url": "https://www.gbif.org/occurrence/6190367980"
+        }
+      ]
+    },
+    {
+      "i": 15463,
+      "e": 15528,
+      "text": "1.4.3 Expanding the inventory through BioBlitzes and iNaturalist\n",
+      "links": []
+    },
+    {
+      "i": 15528,
+      "e": 16203,
+      "text": "We recommend organized BioBlitzes and routine iNaturalist recording by preserve staff, researchers and visitors should increase the number and seasonal spread of documented occurrences and can add species to the inventory. In a study of the National Park Service BioBlitz, iNaturalist observations documented 141 native species absent from existing park lists (Katzer et al., 2025). A study of 39 Florida state parks also found that community observations complemented agency inventories, with especially large contributions from insects and birds (Lowe et al., 2026). Events should cover different seasons and habitats. Area entomologists were enthusiastic about this idea.\n",
+      "links": [
+        {
+          "text": "Katzer et al., 2025",
+          "url": "https://doi.org/10.1111/csp2.70016"
+        },
+        {
+          "text": "Lowe et al., 2026",
+          "url": "https://doi.org/10.1002/2688-8319.70173"
+        }
+      ]
+    },
+    {
+      "i": 16203,
+      "e": 16818,
+      "text": "Specimen collecting remains important, especially with insects that are often small in size. Preserved specimens contribute 510 species-determined records and 147 species, compared with 240 records and 66 species from human observations. These totals reflect the available sampling and identification effort, rather than a controlled comparison of efficiency. In Pennsylvania, trained community collectors documented more than twice the bee diversity represented by iNaturalist records over the same period, illustrating the value of specimens for taxa difficult to identify from photographs (Turley et al., 2024).\n",
+      "links": [
+        {
+          "text": "Turley et al., 2024",
+          "url": "https://doi.org/10.1093/aesa/saae014"
+        }
+      ]
+    },
+    {
+      "i": 16818,
+      "e": 16884,
+      "text": "1.5 Comparison of diversity at Perco’s Beach and the upland dunes\n",
+      "links": []
+    },
+    {
+      "i": 16884,
+      "e": 17628,
+      "text": "The UCSB Summer 2026 survey recorded broadly similar totals of insect species at the Beach and Upland sampling localities, but their record distributions differed substantially. Beach records were more evenly distributed among taxa, whereas Upland records were concentrated in a few frequently recorded species. Upland included 95 bumble bee records and 50 honey bee records, together accounting for 145 of 269 records (53.9%). Excluding these records substantially increased Upland evenness, although Beach records remained more evenly distributed. Both habitats contain diverse and partly different insect assemblages. Beach sampling produced a more even inventory, while Upland sampling was strongly influenced by repeated bee observations.\n",
+      "links": []
+    },
+    {
+      "i": 17628,
+      "e": 17683,
+      "text": "1.5.1 Habitat definitions, sampling methods and effort\n",
+      "links": []
+    },
+    {
+      "i": 17683,
+      "e": 18167,
+      "text": "Beach includes Sites 1–3: the coastal slope/sea-cliff site, the opposite-site beach and Perco’s Beach. Upland includes the high and middle dunes and the active iceplant restoration sites (Sites 4, 5 and 7–13). Effort is in person hours in surveys, not including sample preparation or identification. Recorded July effort totals 19.83 person-hours across six Beach windows and 27.50 across ten Upland windows. Nine August 18 Beach records lack effort and are identified only to order.\n",
+      "links": []
+    },
+    {
+      "i": 18167,
+      "e": 18226,
+      "text": "1.5.2 Diversity comparisons accounting for sampling effort\n",
+      "links": []
+    },
+    {
+      "i": 18226,
+      "e": 18714,
+      "text": "Beach areas yielded 54 identification units, comprising 42 named species and 12 unresolved genus morphotypes, compared with 58 Upland units comprising 35 named species and 23 genus morphotypes. Although Upland areas had slightly more total units, Beach had much higher exponential Shannon diversity (39.62 versus 18.17) and inverse Simpson diversity (29.27 versus 8.56). This shows a more even Beach record distribution and stronger dominance by a few frequently recorded taxa in Upland.\n",
+      "links": []
+    },
+    {
+      "i": 18714,
+      "e": 19278,
+      "text": "Exact richness rarefaction to 111 occurrence records gives 54.00 Beach units and 33.42 Upland units. The contrast persists when record counts are equalized. Hill numbers and sample-size comparisons follow Chao et al. (2014); this analysis applies empirical Hill numbers and finite-record richness interpolation. Record rarefaction does not standardize field hours, collection methods, identification resolution or sample completeness. The chronological effort curve uses complete recorded survey-window endpoints, with no within-visit or equal-hour interpolation.\n",
+      "links": [
+        {
+          "text": "Chao et al. (2014)",
+          "url": "https://doi.org/10.1890/13-0133.1"
+        }
+      ]
+    },
+    {
+      "i": 19278,
+      "e": 19280,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 19280,
+      "e": 19652,
+      "text": "Figure. Beach and upland insect diversity, including named species and unresolved genus morphotypes. A: observed Hill profiles, where q = 0 counts units, q = 1 is exponential Shannon diversity and q = 2 is inverse Simpson diversity. B: exact record-based richness rarefaction; the dotted line marks the common comparison of 111 records. Beach is green and Upland is rust.\n",
+      "links": []
+    },
+    {
+      "i": 19652,
+      "e": 19707,
+      "text": "1.5.3 Shared and habitat-specific identification units\n",
+      "links": []
+    },
+    {
+      "i": 19707,
+      "e": 20307,
+      "text": "Nineteen of the 93 units in the combined inventory were shared, giving 20.4% Jaccard similarity. Thirty-five were recorded only in Beach and 39 only in Upland. The shared component comprises 14 named species and five genus morphotypes. Shared species include Coelus ciliatus, Phaleria rotundata, Cafius canescens, Cafius seminitens, Bombus vosnesenskii and Apis mellifera. These records show overlap between the sampled assemblages and are consistent with connectivity across the beach–upland mosaic, although movement was not measured. A shared genus morphotype does not establish a shared species.\n",
+      "links": []
+    },
+    {
+      "i": 20307,
+      "e": 20309,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 20309,
+      "e": 20739,
+      "text": "Figure. Recorded survey effort and inventory overlap. A: chronological accumulation of identification units at complete July survey-window endpoints; person-hours are provisional because the July 1 team assignments overlap. Untimed August Beach records contain no eligible genus/species determinations. B: Beach-only, shared and Upland-only identification units. Lines connect visits and do not estimate discovery within a visit.\n",
+      "links": []
+    },
+    {
+      "i": 20739,
+      "e": 20789,
+      "text": "1.5.4 Interpretation and remaining inventory gaps\n",
+      "links": []
+    },
+    {
+      "i": 20789,
+      "e": 21320,
+      "text": "Beetles account for 66 of 111 eligible Beach records; Phaleria rotundata is the most frequently recorded named species (10 records). Beach records span five insect orders. Upland records span eight orders but emphasize Hymenoptera (186 of 269 eligible records). Bombus vosnesenskii (68) and Apis mellifera (50) together contribute 43.9% of Upland records. The upland inventory therefore covers more orders while its record frequencies are less even. A unit recorded only in one group is not necessarily restricted to that habitat.\n",
+      "links": []
+    },
+    {
+      "i": 21320,
+      "e": 21822,
+      "text": "Beach and upland surveys document different components of the preserve’s insect inventory, with limited observed overlap and some shared taxa. The Beach inventory is relatively even, whereas the Upland inventory includes repeated bee records and a larger set of unresolved genus bins. These differences support maintaining separate habitat strata in survey planning. They describe the collected and observed records and do not rank habitat health or establish differences in true population abundance.\n",
+      "links": []
+    },
+    {
+      "i": 21822,
+      "e": 21861,
+      "text": "Survey completeness and further effort\n",
+      "links": []
+    },
+    {
+      "i": 21861,
+      "e": 22334,
+      "text": "The new habitat groups and genus-inclusive units replace the earlier species-only site comparison and its exploratory doubling projections. The current analysis does not estimate the hours required for a complete inventory. Future comparisons should use repeated visits at fixed sites, matched person-hours and collection methods, and improved genus-level identifications. Verify the overlapping July 1 effort assignments before using records per hour to compare habitats.\n",
+      "links": []
+    },
+    {
+      "i": 22334,
+      "e": 22847,
+      "text": "A practical initial budget remains four seasonal daytime visits plus two dusk/night visits per fixed site. With two people working four hours per visit, this provides 48 field person-hours per site, plus travel, trap servicing, sorting, identification and curation. This is a planning allowance rather than an estimated completion threshold. Retain Beach and Upland sampling strata, and record protocol-specific effort and repeatable sampling units so future discovery and completeness estimates can be compared.\n",
+      "links": []
+    },
+    {
+      "i": 22847,
+      "e": 22872,
+      "text": "Habitat-based refinement\n",
+      "links": []
+    },
+    {
+      "i": 22872,
+      "e": 23070,
+      "text": "Additional analysis of candidate dune-specialist species, should look at arthropod occurrence within the boundaries of the recently assembled California coastal dune inventory (Baxter et al 2026). \n",
+      "links": []
+    },
+    {
+      "i": 23070,
+      "e": 23118,
+      "text": "1.6 Comparison of dunes and restored dune areas\n",
+      "links": []
+    },
+    {
+      "i": 23118,
+      "e": 23427,
+      "text": "The UCSB Summer 2026 survey documented distinct but partly shared insect inventories in dune and active-restoration areas. Restoration sites yielded more identification units overall, alongside substantially greater survey effort. The comparison below includes named species and unresolved genus morphotypes.\n",
+      "links": []
+    },
+    {
+      "i": 23427,
+      "e": 23482,
+      "text": "1.6.1 Habitat differences, sampling methods and effort\n",
+      "links": []
+    },
+    {
+      "i": 23482,
+      "e": 23897,
+      "text": "Records were grouped using the ResStatus column in the 28 October survey dataset. The value “dune” includes Site 4 (high dune) and Site 5 (middle dune); “Active restoration” includes Sites 7–13. This is therefore a comparison of the dune group with active-restoration areas, including both high and middle dunes. Sampling occurred during 1–13 July 2026 and combined the recorded collection and observation methods.\n",
+      "links": []
+    },
+    {
+      "i": 23897,
+      "e": 24408,
+      "text": "Effort uses personHours alone: this field already incorporates surveyorCount. Repeated effort values were counted once per team survey window, defined by group, date, start time, end time and team size. The July 1 high- and middle-dune records share the same survey window and contribute 2.25 person-hours together. Dune sampling totals 3.92 person-hours across two windows and two dates; active restoration totals 23.58 person-hours across eight windows and four dates, approximately six times as much effort.\n",
+      "links": []
+    },
+    {
+      "i": 24408,
+      "e": 25109,
+      "text": "Only insects identified to species, subspecies, genus or subgenus enter the diversity comparison. Species names follow the previously approved name crosswalk, with subspecies grouped under species. All genus-only records within a genus form one unresolved morphotype across both groups; subgenus-only records are also pooled under their genus. Thus the ten Dialictus records enter Lasioglossum sp. Each occurrence record has equal weight, and identification qualifiers are retained without separating records. Genus bins remain distinct from named-species units in the calculations but may represent those same species. The totals describe identification units rather than confirmed species richness.\n",
+      "links": []
+    },
+    {
+      "i": 25109,
+      "e": 25168,
+      "text": "1.6.2 Diversity comparisons accounting for sampling effort\n",
+      "links": []
+    },
+    {
+      "i": 25168,
+      "e": 25632,
+      "text": "The dune contains 20 identification units (15 named species and five genus morphotypes), compared with 47 (28 named species and 19 genus morphotypes) in the active restoration area. Exponential Shannon diversity is 10.73 versus 14.61 effective units, but inverse Simpson diversity is very similar at 6.64 versus 6.90. The restoration inventory therefore includes many infrequently recorded units, while its most frequent records remain concentrated in a few taxa.\n",
+      "links": []
+    },
+    {
+      "i": 25632,
+      "e": 26102,
+      "text": "Exact richness rarefaction to the smaller sample of 68 occurrence records gives 20.00 dune units and 22.87 restoration units. This smaller difference shows that unequal numbers of records contribute substantially to the pooled richness contrast. Hill numbers and sample-size comparisons follow the framework described by Chao et al. (2014). Rarefaction equalizes record count, while differences in field effort, collection methods and identification resolution remain. \n",
+      "links": [
+        {
+          "text": "Chao et al. (2014)",
+          "url": "https://doi.org/10.1890/13-0133.1"
+        }
+      ]
+    },
+    {
+      "i": 26102,
+      "e": 26104,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 26104,
+      "e": 26492,
+      "text": "Figure. Insect diversity in dune and active-restoration dune areas. A: observed Hill profiles. B: exact record-based richness rarefaction; the dotted line marks 68 records. C: chronological accumulation of identification units against recorded person-hours; points represent complete survey windows. D: shared and group-only units. Green denotes dune and rust denotes active restoration.\n",
+      "links": []
+    },
+    {
+      "i": 26492,
+      "e": 26547,
+      "text": "1.6.3 Shared and habitat-specific identification units\n",
+      "links": []
+    },
+    {
+      "i": 26547,
+      "e": 27082,
+      "text": "Nine of the 58 units in the combined inventory were shared, giving 15.5% Jaccard similarity. Eleven were recorded only in the dune group and 38 only in active restoration. Eight shared units are named species, including Coelus ciliatus, Apis mellifera, Bombus vosnesenskii, Eleodes clavicornis and Conozoa texana; the ninth is the unresolved Allacrotelsa morphotype. Shared records indicate overlap between the sampled assemblages and are consistent with some ecological connectivity, although movement between sites was not measured.\n",
+      "links": []
+    },
+    {
+      "i": 27082,
+      "e": 27673,
+      "text": "The dune records are strongly represented by beetles: 35 of 68 eligible records are Coleoptera, including 21 Coelus ciliatus records. Dune-only records include Arenivaga sequoia, Cafius canescens, Cafius seminitens and Phaleria rotundata. Active-restoration records are dominated by Hymenoptera (165 of 201 records), especially Bombus vosnesenskii (61) and Apis mellifera (38). Four named Bombus species were recorded there, compared with B. vosnesenskii alone in the dune group. These are differences in the observed inventories; a group-only record does not establish habitat restriction.\n",
+      "links": []
+    },
+    {
+      "i": 27673,
+      "e": 27723,
+      "text": "1.6.4 Interpretation and restoration implications\n",
+      "links": []
+    },
+    {
+      "i": 27723,
+      "e": 28124,
+      "text": "The results support retaining complementary dune and restoration habitats in management planning. The dune inventory captures a prominent beetle component, whereas restoration records emphasize bees and a broader set of infrequently recorded identification units. The shared fauna shows that the two inventories are not isolated, while the many group-only units underline the value of surveying both.\n",
+      "links": []
+    },
+    {
+      "i": 28124,
+      "e": 28716,
+      "text": "The larger restoration total accompanies more sites, more survey dates and approximately six times the recorded person-hours. Differences in collection emphasis and unresolved identifications also affect the comparison. These data establish a useful baseline but do not isolate the effect of restoration on insect diversity. Follow-up should pair repeated visits in both groups with comparable person-hours and collection methods, and prioritize identification of the unresolved genus material. This would distinguish persistent habitat differences from unequal detection and identification.\n",
+      "links": []
+    },
+    {
+      "i": 28716,
+      "e": 28761,
+      "text": "1.7 Ant diversity and invasive-ant follow-up\n",
+      "links": []
+    },
+    {
+      "i": 28761,
+      "e": 28786,
+      "text": "1.7.1 Ant survey methods\n",
+      "links": []
+    },
+    {
+      "i": 28789,
+      "e": 28799,
+      "text": "Table__: \n",
+      "links": []
+    },
+    {
+      "i": 28800,
+      "e": 28801,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28802,
+      "e": 28803,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28804,
+      "e": 28805,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28806,
+      "e": 28807,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28808,
+      "e": 28809,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28810,
+      "e": 28811,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28812,
+      "e": 28813,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28814,
+      "e": 28815,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28816,
+      "e": 28817,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28818,
+      "e": 28819,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28820,
+      "e": 28821,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28822,
+      "e": 28823,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28825,
+      "e": 28831,
+      "text": "Tran.\n",
+      "links": []
+    },
+    {
+      "i": 28832,
+      "e": 28839,
+      "text": "# Spp.\n",
+      "links": []
+    },
+    {
+      "i": 28840,
+      "e": 28848,
+      "text": "Habitat\n",
+      "links": []
+    },
+    {
+      "i": 28849,
+      "e": 28869,
+      "text": "Dominant Vegetation\n",
+      "links": []
+    },
+    {
+      "i": 28870,
+      "e": 28875,
+      "text": "CRHE\n",
+      "links": []
+    },
+    {
+      "i": 28876,
+      "e": 28881,
+      "text": "CAMA\n",
+      "links": []
+    },
+    {
+      "i": 28882,
+      "e": 28887,
+      "text": "FOLA\n",
+      "links": []
+    },
+    {
+      "i": 28888,
+      "e": 28893,
+      "text": "FONE\n",
+      "links": []
+    },
+    {
+      "i": 28894,
+      "e": 28899,
+      "text": "LIHU\n",
+      "links": []
+    },
+    {
+      "i": 28900,
+      "e": 28905,
+      "text": "MOER\n",
+      "links": []
+    },
+    {
+      "i": 28906,
+      "e": 28911,
+      "text": "PHHY\n",
+      "links": []
+    },
+    {
+      "i": 28912,
+      "e": 28917,
+      "text": "SOXY\n",
+      "links": []
+    },
+    {
+      "i": 28918,
+      "e": 28923,
+      "text": "TASE\n",
+      "links": []
+    },
+    {
+      "i": 28925,
+      "e": 28933,
+      "text": "School.\n",
+      "links": []
+    },
+    {
+      "i": 28934,
+      "e": 28936,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 28937,
+      "e": 28953,
+      "text": "Human structure\n",
+      "links": []
+    },
+    {
+      "i": 28954,
+      "e": 28969,
+      "text": "annual grasses\n",
+      "links": []
+    },
+    {
+      "i": 28970,
+      "e": 28971,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28972,
+      "e": 28974,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 28975,
+      "e": 28976,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28977,
+      "e": 28978,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28979,
+      "e": 28980,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28981,
+      "e": 28982,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28983,
+      "e": 28985,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 28986,
+      "e": 28987,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 28988,
+      "e": 28990,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 28992,
+      "e": 28995,
+      "text": "31\n",
+      "links": []
+    },
+    {
+      "i": 28996,
+      "e": 28998,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 28999,
+      "e": 29015,
+      "text": "Coastal prairie\n",
+      "links": []
+    },
+    {
+      "i": 29016,
+      "e": 29042,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29043,
+      "e": 29044,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29045,
+      "e": 29046,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29047,
+      "e": 29048,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29049,
+      "e": 29050,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29051,
+      "e": 29052,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29053,
+      "e": 29054,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29055,
+      "e": 29056,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29057,
+      "e": 29059,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29060,
+      "e": 29061,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29063,
+      "e": 29066,
+      "text": "37\n",
+      "links": []
+    },
+    {
+      "i": 29067,
+      "e": 29069,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29070,
+      "e": 29086,
+      "text": "Coastal prairie\n",
+      "links": []
+    },
+    {
+      "i": 29087,
+      "e": 29113,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29114,
+      "e": 29115,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29116,
+      "e": 29117,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29118,
+      "e": 29119,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29120,
+      "e": 29121,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29122,
+      "e": 29124,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29125,
+      "e": 29126,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29127,
+      "e": 29128,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29129,
+      "e": 29130,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29131,
+      "e": 29132,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29134,
+      "e": 29137,
+      "text": "39\n",
+      "links": []
+    },
+    {
+      "i": 29138,
+      "e": 29140,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29141,
+      "e": 29158,
+      "text": "Backdune/wetland\n",
+      "links": []
+    },
+    {
+      "i": 29159,
+      "e": 29185,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29186,
+      "e": 29187,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29188,
+      "e": 29189,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29190,
+      "e": 29191,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29192,
+      "e": 29193,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29194,
+      "e": 29195,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29196,
+      "e": 29197,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29198,
+      "e": 29199,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29200,
+      "e": 29202,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29203,
+      "e": 29204,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29206,
+      "e": 29209,
+      "text": "41\n",
+      "links": []
+    },
+    {
+      "i": 29210,
+      "e": 29212,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29213,
+      "e": 29230,
+      "text": "Backdune/wetland\n",
+      "links": []
+    },
+    {
+      "i": 29231,
+      "e": 29257,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29258,
+      "e": 29259,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29260,
+      "e": 29261,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29262,
+      "e": 29263,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29264,
+      "e": 29265,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29266,
+      "e": 29267,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29268,
+      "e": 29269,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29270,
+      "e": 29271,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29272,
+      "e": 29274,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29275,
+      "e": 29276,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29278,
+      "e": 29281,
+      "text": "45\n",
+      "links": []
+    },
+    {
+      "i": 29282,
+      "e": 29284,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29285,
+      "e": 29294,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29295,
+      "e": 29304,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29305,
+      "e": 29306,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29307,
+      "e": 29308,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29309,
+      "e": 29310,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29311,
+      "e": 29312,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29313,
+      "e": 29314,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29315,
+      "e": 29316,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29317,
+      "e": 29319,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29320,
+      "e": 29321,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29322,
+      "e": 29323,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29325,
+      "e": 29328,
+      "text": "47\n",
+      "links": []
+    },
+    {
+      "i": 29329,
+      "e": 29331,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29332,
+      "e": 29341,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29342,
+      "e": 29351,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29352,
+      "e": 29354,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29355,
+      "e": 29356,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29357,
+      "e": 29358,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29359,
+      "e": 29360,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29361,
+      "e": 29362,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29363,
+      "e": 29364,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29365,
+      "e": 29367,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29368,
+      "e": 29369,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29370,
+      "e": 29371,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29373,
+      "e": 29376,
+      "text": "49\n",
+      "links": []
+    },
+    {
+      "i": 29377,
+      "e": 29379,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29380,
+      "e": 29389,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29390,
+      "e": 29399,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29400,
+      "e": 29401,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29402,
+      "e": 29403,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29404,
+      "e": 29405,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29406,
+      "e": 29407,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29408,
+      "e": 29409,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29410,
+      "e": 29411,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29412,
+      "e": 29414,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29415,
+      "e": 29416,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29417,
+      "e": 29418,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29420,
+      "e": 29423,
+      "text": "51\n",
+      "links": []
+    },
+    {
+      "i": 29424,
+      "e": 29426,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29427,
+      "e": 29436,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29437,
+      "e": 29446,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29447,
+      "e": 29448,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29449,
+      "e": 29450,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29451,
+      "e": 29452,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29453,
+      "e": 29454,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29455,
+      "e": 29456,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29457,
+      "e": 29458,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29459,
+      "e": 29461,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29462,
+      "e": 29463,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29464,
+      "e": 29465,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29467,
+      "e": 29470,
+      "text": "53\n",
+      "links": []
+    },
+    {
+      "i": 29471,
+      "e": 29473,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29474,
+      "e": 29483,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29484,
+      "e": 29506,
+      "text": "iceplant & Ericameria\n",
+      "links": []
+    },
+    {
+      "i": 29507,
+      "e": 29508,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29509,
+      "e": 29510,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29511,
+      "e": 29512,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29513,
+      "e": 29515,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29516,
+      "e": 29517,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29518,
+      "e": 29519,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29520,
+      "e": 29522,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29523,
+      "e": 29524,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29525,
+      "e": 29526,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29528,
+      "e": 29531,
+      "text": "55\n",
+      "links": []
+    },
+    {
+      "i": 29532,
+      "e": 29534,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29535,
+      "e": 29544,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29545,
+      "e": 29554,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 29555,
+      "e": 29556,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29557,
+      "e": 29558,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29559,
+      "e": 29560,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29561,
+      "e": 29562,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29563,
+      "e": 29564,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29565,
+      "e": 29566,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29567,
+      "e": 29569,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29570,
+      "e": 29571,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29572,
+      "e": 29573,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29575,
+      "e": 29578,
+      "text": "57\n",
+      "links": []
+    },
+    {
+      "i": 29579,
+      "e": 29581,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29582,
+      "e": 29591,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29592,
+      "e": 29614,
+      "text": "iceplant & Ericameria\n",
+      "links": []
+    },
+    {
+      "i": 29615,
+      "e": 29617,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29618,
+      "e": 29619,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29620,
+      "e": 29621,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29622,
+      "e": 29623,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29624,
+      "e": 29625,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29626,
+      "e": 29627,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29628,
+      "e": 29629,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29630,
+      "e": 29631,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29632,
+      "e": 29634,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29636,
+      "e": 29639,
+      "text": "59\n",
+      "links": []
+    },
+    {
+      "i": 29640,
+      "e": 29642,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29643,
+      "e": 29652,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29653,
+      "e": 29672,
+      "text": "iceplant & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 29673,
+      "e": 29674,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29675,
+      "e": 29676,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29677,
+      "e": 29679,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29680,
+      "e": 29681,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29682,
+      "e": 29683,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29684,
+      "e": 29686,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29687,
+      "e": 29688,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29689,
+      "e": 29690,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29691,
+      "e": 29692,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29694,
+      "e": 29697,
+      "text": "61\n",
+      "links": []
+    },
+    {
+      "i": 29698,
+      "e": 29700,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29701,
+      "e": 29710,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29711,
+      "e": 29730,
+      "text": "iceplant & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 29731,
+      "e": 29732,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29733,
+      "e": 29734,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29735,
+      "e": 29737,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29738,
+      "e": 29739,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29740,
+      "e": 29741,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29742,
+      "e": 29743,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29744,
+      "e": 29746,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29747,
+      "e": 29748,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29749,
+      "e": 29750,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29752,
+      "e": 29755,
+      "text": "63\n",
+      "links": []
+    },
+    {
+      "i": 29756,
+      "e": 29758,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29759,
+      "e": 29768,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29769,
+      "e": 29791,
+      "text": "iceplant & salt grass\n",
+      "links": []
+    },
+    {
+      "i": 29792,
+      "e": 29793,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29794,
+      "e": 29795,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29796,
+      "e": 29797,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29798,
+      "e": 29800,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29801,
+      "e": 29802,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29803,
+      "e": 29804,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29805,
+      "e": 29806,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29807,
+      "e": 29808,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29809,
+      "e": 29810,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29812,
+      "e": 29815,
+      "text": "65\n",
+      "links": []
+    },
+    {
+      "i": 29816,
+      "e": 29818,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29819,
+      "e": 29828,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29829,
+      "e": 29847,
+      "text": "Lupinus & Cirsium\n",
+      "links": []
+    },
+    {
+      "i": 29848,
+      "e": 29850,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29851,
+      "e": 29852,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29853,
+      "e": 29854,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29855,
+      "e": 29857,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29858,
+      "e": 29859,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29860,
+      "e": 29861,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29862,
+      "e": 29863,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29864,
+      "e": 29865,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29866,
+      "e": 29867,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29869,
+      "e": 29872,
+      "text": "67\n",
+      "links": []
+    },
+    {
+      "i": 29873,
+      "e": 29875,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29876,
+      "e": 29885,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29886,
+      "e": 29904,
+      "text": "Lupinus & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 29905,
+      "e": 29906,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29907,
+      "e": 29908,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29909,
+      "e": 29911,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29912,
+      "e": 29913,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29914,
+      "e": 29915,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29916,
+      "e": 29917,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29918,
+      "e": 29919,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29920,
+      "e": 29921,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29922,
+      "e": 29923,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29925,
+      "e": 29928,
+      "text": "69\n",
+      "links": []
+    },
+    {
+      "i": 29929,
+      "e": 29931,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 29932,
+      "e": 29941,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29942,
+      "e": 29960,
+      "text": "Lupinus & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 29961,
+      "e": 29962,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29963,
+      "e": 29964,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29965,
+      "e": 29966,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29967,
+      "e": 29968,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29969,
+      "e": 29970,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29971,
+      "e": 29972,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29973,
+      "e": 29974,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29975,
+      "e": 29977,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 29978,
+      "e": 29979,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 29981,
+      "e": 29984,
+      "text": "71\n",
+      "links": []
+    },
+    {
+      "i": 29985,
+      "e": 29987,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 29988,
+      "e": 29997,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 29998,
+      "e": 30016,
+      "text": "Lupinus & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 30017,
+      "e": 30018,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30019,
+      "e": 30020,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30021,
+      "e": 30023,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 30024,
+      "e": 30025,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30026,
+      "e": 30027,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30028,
+      "e": 30030,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 30031,
+      "e": 30032,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30033,
+      "e": 30034,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30035,
+      "e": 30036,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30038,
+      "e": 30041,
+      "text": "75\n",
+      "links": []
+    },
+    {
+      "i": 30042,
+      "e": 30044,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 30045,
+      "e": 30057,
+      "text": "Yellow dune\n",
+      "links": []
+    },
+    {
+      "i": 30058,
+      "e": 30067,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 30068,
+      "e": 30069,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30070,
+      "e": 30071,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30072,
+      "e": 30073,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30074,
+      "e": 30075,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30076,
+      "e": 30077,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30078,
+      "e": 30079,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30080,
+      "e": 30082,
+      "text": "X\n",
+      "links": []
+    },
+    {
+      "i": 30083,
+      "e": 30084,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30085,
+      "e": 30086,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30087,
+      "e": 30088,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30088,
+      "e": 30089,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30092,
+      "e": 30094,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 30096,
+      "e": 30106,
+      "text": "Fig. ##: \n",
+      "links": []
+    },
+    {
+      "i": 30107,
+      "e": 30132,
+      "text": "1.7.2 Ant survey results\n",
+      "links": []
+    },
+    {
+      "i": 30132,
+      "e": 31481,
+      "text": "Ant transects conducted in August found a single site with the invasive Argentine ant (Linepithema humile) and a total of 9 ant species within an area <1km2. One additional species, is also non-native but is not considered invasive (SOURCE). Ants were found at 21 of the 24 transects surveyed, including the Old Schoolhouse site. Diversity was highest at the Old Schoolhouse with three species found present Cardiocondyla mauritanica, Pheidole hyatti, and Tapinoma sessile. Six other sites were found to have two species, all in backdune habitat. Two of these are in the Headland Bypass Dune and account for four total species. Crematogaster hespera and Formica neogagates occur at site (65_T33) dominated by Lupinus and Cirsium. Near the cliff edge (71_T36), Eriophyllum, Lupinus, Astragalus, and Ambrosia are the dominant plant and Formica lasioides and Monomorium ergatogyna occur together. Iceplant (Carpobrotus edulis) was the dominant vegetation at the remaining four sites with two species. Secondary vegetation included Isocoma (61_T31), where Formica lasioides, Pheidole hyatti were found. Ericameria (57_T29) Crematogaster hespera, Tapinoma sessile, and Formica neogagates, and (53_T27) Pheidole hyatti, respectively. The final site with two species, Crematogaster hespera and Pheidole hyatti, is dominated by Iceplant and sand (47_T24). \n",
+      "links": []
+    },
+    {
+      "i": 31481,
+      "e": 31482,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31485,
+      "e": 31493,
+      "text": "Habitat\n",
+      "links": []
+    },
+    {
+      "i": 31494,
+      "e": 31514,
+      "text": "Dominant vegetation\n",
+      "links": []
+    },
+    {
+      "i": 31515,
+      "e": 31523,
+      "text": "# Sites\n",
+      "links": []
+    },
+    {
+      "i": 31524,
+      "e": 31539,
+      "text": "Mean # species\n",
+      "links": []
+    },
+    {
+      "i": 31540,
+      "e": 31556,
+      "text": "Total # species\n",
+      "links": []
+    },
+    {
+      "i": 31558,
+      "e": 31570,
+      "text": "Yellow dune\n",
+      "links": []
+    },
+    {
+      "i": 31571,
+      "e": 31580,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 31581,
+      "e": 31583,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31584,
+      "e": 31586,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31587,
+      "e": 31588,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31590,
+      "e": 31599,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31600,
+      "e": 31609,
+      "text": "iceplant\n",
+      "links": []
+    },
+    {
+      "i": 31610,
+      "e": 31612,
+      "text": "5\n",
+      "links": []
+    },
+    {
+      "i": 31613,
+      "e": 31617,
+      "text": "1.2\n",
+      "links": []
+    },
+    {
+      "i": 31618,
+      "e": 31619,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31621,
+      "e": 31630,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31631,
+      "e": 31653,
+      "text": "iceplant & Ericameria\n",
+      "links": []
+    },
+    {
+      "i": 31654,
+      "e": 31656,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31657,
+      "e": 31659,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31660,
+      "e": 31661,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31663,
+      "e": 31672,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31673,
+      "e": 31692,
+      "text": "iceplant & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 31693,
+      "e": 31695,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31696,
+      "e": 31698,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31699,
+      "e": 31700,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31702,
+      "e": 31711,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31712,
+      "e": 31734,
+      "text": "iceplant & salt grass\n",
+      "links": []
+    },
+    {
+      "i": 31735,
+      "e": 31737,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31738,
+      "e": 31740,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31741,
+      "e": 31742,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31744,
+      "e": 31753,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31754,
+      "e": 31772,
+      "text": "Lupinus & Cirsium\n",
+      "links": []
+    },
+    {
+      "i": 31773,
+      "e": 31775,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31776,
+      "e": 31778,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31779,
+      "e": 31780,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31782,
+      "e": 31791,
+      "text": "Backdune\n",
+      "links": []
+    },
+    {
+      "i": 31792,
+      "e": 31810,
+      "text": "Lupinus & Isocoma\n",
+      "links": []
+    },
+    {
+      "i": 31811,
+      "e": 31813,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 31814,
+      "e": 31818,
+      "text": "1.3\n",
+      "links": []
+    },
+    {
+      "i": 31819,
+      "e": 31820,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31822,
+      "e": 31839,
+      "text": "Backdune/wetland\n",
+      "links": []
+    },
+    {
+      "i": 31840,
+      "e": 31866,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 31867,
+      "e": 31869,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31870,
+      "e": 31872,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31873,
+      "e": 31874,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31876,
+      "e": 31892,
+      "text": "Coastal prairie\n",
+      "links": []
+    },
+    {
+      "i": 31893,
+      "e": 31919,
+      "text": "annual grasses & iceplant\n",
+      "links": []
+    },
+    {
+      "i": 31920,
+      "e": 31922,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 31923,
+      "e": 31925,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31926,
+      "e": 31927,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31929,
+      "e": 31963,
+      "text": "Human structure (Coastal prairie)\n",
+      "links": []
+    },
+    {
+      "i": 31964,
+      "e": 31979,
+      "text": "annual grasses\n",
+      "links": []
+    },
+    {
+      "i": 31980,
+      "e": 31982,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 31983,
+      "e": 31985,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 31986,
+      "e": 31987,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31988,
+      "e": 31989,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31989,
+      "e": 31990,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31990,
+      "e": 31991,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 31994,
+      "e": 32222,
+      "text": "Table__: Nine ant species were detected during transect surveys on Dangermond Preserve during August 2026. The invasive Argentine Ant was detected at a single site, just adjacent to the railroad crossing near Point Conception. \n",
+      "links": []
+    },
+    {
+      "i": 32223,
+      "e": 32224,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 32225,
+      "e": 32226,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 32227,
+      "e": 32228,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 32230,
+      "e": 32246,
+      "text": "Scientific name\n",
+      "links": []
+    },
+    {
+      "i": 32247,
+      "e": 32259,
+      "text": "Common name\n",
+      "links": []
+    },
+    {
+      "i": 32260,
+      "e": 32281,
+      "text": "# Transects detected\n",
+      "links": []
+    },
+    {
+      "i": 32282,
+      "e": 32289,
+      "text": "Status\n",
+      "links": []
+    },
+    {
+      "i": 32291,
+      "e": 32307,
+      "text": "Pheidole hyatti\n",
+      "links": []
+    },
+    {
+      "i": 32308,
+      "e": 32331,
+      "text": "Hyatt's Big-headed Ant\n",
+      "links": []
+    },
+    {
+      "i": 32332,
+      "e": 32334,
+      "text": "9\n",
+      "links": []
+    },
+    {
+      "i": 32335,
+      "e": 32342,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32344,
+      "e": 32362,
+      "text": "Formica lasioides\n",
+      "links": []
+    },
+    {
+      "i": 32363,
+      "e": 32379,
+      "text": "Fuzzy Mound Ant\n",
+      "links": []
+    },
+    {
+      "i": 32380,
+      "e": 32382,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 32383,
+      "e": 32390,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32392,
+      "e": 32410,
+      "text": "Solenopsis xyloni\n",
+      "links": []
+    },
+    {
+      "i": 32411,
+      "e": 32429,
+      "text": "Southern Fire Ant\n",
+      "links": []
+    },
+    {
+      "i": 32430,
+      "e": 32432,
+      "text": "4\n",
+      "links": []
+    },
+    {
+      "i": 32433,
+      "e": 32440,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32442,
+      "e": 32464,
+      "text": "Crematogaster hespera\n",
+      "links": []
+    },
+    {
+      "i": 32465,
+      "e": 32493,
+      "text": "Acrobat Ant / Cocktail Ant \n",
+      "links": []
+    },
+    {
+      "i": 32494,
+      "e": 32496,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 32497,
+      "e": 32504,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32506,
+      "e": 32525,
+      "text": "Formica neogagates\n",
+      "links": []
+    },
+    {
+      "i": 32526,
+      "e": 32546,
+      "text": "New World Black Ant\n",
+      "links": []
+    },
+    {
+      "i": 32547,
+      "e": 32549,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 32550,
+      "e": 32557,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32559,
+      "e": 32581,
+      "text": "Monomorium ergatogyna\n",
+      "links": []
+    },
+    {
+      "i": 32582,
+      "e": 32610,
+      "text": "California Coastal Dune Ant\n",
+      "links": []
+    },
+    {
+      "i": 32611,
+      "e": 32613,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 32614,
+      "e": 32621,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32623,
+      "e": 32640,
+      "text": "Tapinoma sessile\n",
+      "links": []
+    },
+    {
+      "i": 32641,
+      "e": 32659,
+      "text": "Odorous House Ant\n",
+      "links": []
+    },
+    {
+      "i": 32660,
+      "e": 32662,
+      "text": "2\n",
+      "links": []
+    },
+    {
+      "i": 32663,
+      "e": 32670,
+      "text": "Native\n",
+      "links": []
+    },
+    {
+      "i": 32672,
+      "e": 32698,
+      "text": "Cardiocondyla mauritanica\n",
+      "links": []
+    },
+    {
+      "i": 32699,
+      "e": 32720,
+      "text": "Moorish Sneaking Ant\n",
+      "links": []
+    },
+    {
+      "i": 32721,
+      "e": 32723,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 32724,
+      "e": 32736,
+      "text": "Non-native \n",
+      "links": []
+    },
+    {
+      "i": 32738,
+      "e": 32757,
+      "text": "Linepithema humile\n",
+      "links": []
+    },
+    {
+      "i": 32758,
+      "e": 32772,
+      "text": "Argentine Ant\n",
+      "links": []
+    },
+    {
+      "i": 32773,
+      "e": 32775,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 32776,
+      "e": 32786,
+      "text": "Invasive \n",
+      "links": []
+    },
+    {
+      "i": 32787,
+      "e": 32788,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 32788,
+      "e": 32851,
+      "text": "1.7.3 Conservation interpretation and restoration implications\n",
+      "links": []
+    },
+    {
+      "i": 32851,
+      "e": 33633,
+      "text": "The August survey recorded nine ant species—seven native and two introduced—within less than 1 km², with ants detected on 21 of 24 transects. Native assemblages occurred across several dune vegetation settings, providing a baseline for tracking changes in native richness and composition. Conservation should focus on retaining these assemblages and limiting expansion of the Argentine ant, Linepithema humile. Coastal California studies link invasion to reduced native ant diversity and more similar communities among sites, and before-and-after evidence from the Channel Islands documents rapid native losses following invasion (Holway & Suarez, 2006; Naughton et al., 2020). The other introduced species, Cardiocondyla mauritanica, have unknown impacts on the local ant species.\n",
+      "links": [
+        {
+          "text": "Holway & Suarez, 2006",
+          "url": "https://doi.org/10.1016/j.biocon.2005.05.016"
+        },
+        {
+          "text": "Naughton et al., 2020",
+          "url": "https://doi.org/10.1007/s10530-019-02121-7"
+        }
+      ]
+    },
+    {
+      "i": 33633,
+      "e": 34641,
+      "text": "At Dangermond, Argentine ants were detected at one railroad-adjacent site, where no other ant species was recorded during that visit. This identifies a priority for repeat surveys; it does not establish local competitive exclusion or repeated introductions. Human-assisted transport is an established pathway for Argentine ant spread (Suarez et al. 2001), and active vehicle hitchhiking has been documented for other invasive ants in Taiwan (Hsu et al. 2024). Introduction by rail is likely, but further surveys are warranted. We suggest extending surveys along the tracks and developing a program to control Argentine ants along the railways. Moisture is another priority: experiments in southern California showed that added water increased Argentine ant abundance and invasion of native ant communities (Menke & Holway, 2006). Natural and artificial water sources near infrastructure therefore are a priority for targeted surveillance, and we suggest that irrigation be avoided in dune restoration plans.\n",
+      "links": [
+        {
+          "text": "Suarez et al. 2001",
+          "url": "https://doi.org/10.1073/pnas.98.3.1095"
+        },
+        {
+          "text": "Hsu et al. 2024",
+          "url": "https://doi.org/10.1111/een.13336"
+        },
+        {
+          "text": "Menke & Holway, 2006",
+          "url": "https://doi.org/10.1111/j.1365-2656.2006.01056.x"
+        }
+      ]
+    },
+    {
+      "i": 34641,
+      "e": 34668,
+      "text": "Field follow-up priorities\n",
+      "links": []
+    },
+    {
+      "i": 34668,
+      "e": 34945,
+      "text": "Combine the 24 transects, native species records and the Argentine ant detection on one map. Inspect the railway corridor and add survey points at drainage crossings, water sources, structures and maintenance staging areas, with comparable off-corridor habitat as a reference.\n",
+      "links": []
+    },
+    {
+      "i": 34945,
+      "e": 35287,
+      "text": "Repeat the native ant inventory. Revisit fixed 20-m transects using the same 15-minute searches, with repeat visits in dry and wetter periods. Record species identities, activity, survey time, temperature, moisture and vegetation, and retain vouchers. Track native richness and changes in composition alongside the extent of introduced ants.\n",
+      "links": []
+    },
+    {
+      "i": 35287,
+      "e": 35623,
+      "text": "Supplement searches with targeted detection. Use non-toxic food lures following the USGS bait protocol to improve Argentine ant detection (Matsuda et al., 2015). Keep lure exposure and sampling conditions consistent. Baits favor recruiting, dominant ants and cannot replace the broader searches needed to characterize native diversity.\n",
+      "links": [
+        {
+          "text": "Matsuda et al., 2015",
+          "url": "https://sdmmp.com/upload/SDMMP_Repository/0/vgtn1f4x5dw9m0k2y6zcb83s7prqh.pdf"
+        }
+      ]
+    },
+    {
+      "i": 35623,
+      "e": 36016,
+      "text": "Scope a funded response. If repeat surveys confirm a localized infestation, use its mapped extent to develop a targeted containment or control proposal with preserve managers. Budget for corridor surveys, treatment and repeated follow-up; track person-hours and costs. Retain untreated reference sites and monitor native ant responses as well as Argentine ant detections (Boser et al., 2017).\n",
+      "links": [
+        {
+          "text": "Boser et al., 2017",
+          "url": "https://doi.org/10.1111/jen.12372"
+        }
+      ]
+    },
+    {
+      "i": 36016,
+      "e": 36075,
+      "text": "1.8 Recorded and potential insects of conservation concern\n",
+      "links": []
+    },
+    {
+      "i": 36075,
+      "e": 36517,
+      "text": "Recorded species and regional candidates provide a starting point for targeted conservation surveys. The table distinguishes records within Dangermond from regional or habitat-based candidates. “Possible” does not establish presence. Status follows the October 2026 CNDDB Special Animals List, supplemented by USFWS (2026) and Koch et al. (2012). CNDDB tracking is broader than formal Species of Special Concern designation or legal listing.\n",
+      "links": [
+        {
+          "text": "CNDDB Special Animals List",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        },
+        {
+          "text": "USFWS (2026)",
+          "url": "https://www.fws.gov/our-work/pollinators/save-monarch"
+        },
+        {
+          "text": "Koch et al. (2012)",
+          "url": "https://www.ars.usda.gov/ARSUserFiles/20800500/BumbleBeeGuideWestern2012.pdf"
+        }
+      ]
+    },
+    {
+      "i": 36517,
+      "e": 36518,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 36521,
+      "e": 36543,
+      "text": "Taxon and common name\n",
+      "links": []
+    },
+    {
+      "i": 36544,
+      "e": 36562,
+      "text": "Preserve evidence\n",
+      "links": []
+    },
+    {
+      "i": 36563,
+      "e": 36583,
+      "text": "Conservation status\n",
+      "links": []
+    },
+    {
+      "i": 36584,
+      "e": 36611,
+      "text": "Survey or management focus\n",
+      "links": []
+    },
+    {
+      "i": 36613,
+      "e": 36631,
+      "text": "Ammopelmatus muwu\n",
+      "links": []
+    },
+    {
+      "i": 36631,
+      "e": 36666,
+      "text": "Point Conception Jerusalem cricket\n",
+      "links": []
+    },
+    {
+      "i": 36667,
+      "e": 36697,
+      "text": "Recorded: 3 GBIF DNA records.\n",
+      "links": [
+        {
+          "text": "GBIF DNA records",
+          "url": "https://www.gbif.org/occurrence/6190367980"
+        }
+      ]
+    },
+    {
+      "i": 36698,
+      "e": 36712,
+      "text": "CNDDB; G1/S1.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 36713,
+      "e": 36826,
+      "text": "Restricted coastal-dune specialist; lighthouse type locality. Prioritize habitat protection and renewed surveys.\n",
+      "links": []
+    },
+    {
+      "i": 36828,
+      "e": 36847,
+      "text": "Bombus caliginosus\n",
+      "links": []
+    },
+    {
+      "i": 36847,
+      "e": 36866,
+      "text": "Obscure bumble bee\n",
+      "links": []
+    },
+    {
+      "i": 36867,
+      "e": 36929,
+      "text": "Recorded: 7 UCSB survey records (6 specimens, 1 observation).\n",
+      "links": [
+        {
+          "text": "6 specimens",
+          "url": "https://ecdysis.org/collections/individual/index.php?occid=6815204"
+        }
+      ]
+    },
+    {
+      "i": 36930,
+      "e": 36943,
+      "text": "CNDDB; S1S2.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 36944,
+      "e": 37034,
+      "text": "Monitor lighthouse backdune flowers and nesting habitat; retain verified identifications.\n",
+      "links": []
+    },
+    {
+      "i": 37036,
+      "e": 37056,
+      "text": "Bombus californicus\n",
+      "links": []
+    },
+    {
+      "i": 37056,
+      "e": 37078,
+      "text": "California bumble bee\n",
+      "links": []
+    },
+    {
+      "i": 37079,
+      "e": 37134,
+      "text": "Recorded: UCSB survey, including lighthouse backdunes.\n",
+      "links": []
+    },
+    {
+      "i": 37135,
+      "e": 37223,
+      "text": "Additional monitoring priority; uncommon and potentially declining (Koch et al., 2012).\n",
+      "links": [
+        {
+          "text": "Koch et al., 2012",
+          "url": "https://www.ars.usda.gov/ARSUserFiles/20800500/BumbleBeeGuideWestern2012.pdf"
+        }
+      ]
+    },
+    {
+      "i": 37224,
+      "e": 37313,
+      "text": "Repeat seasonal flower surveys; account for treatments that combine it with B. fervidus.\n",
+      "links": []
+    },
+    {
+      "i": 37315,
+      "e": 37332,
+      "text": "Danaus plexippus\n",
+      "links": []
+    },
+    {
+      "i": 37332,
+      "e": 37350,
+      "text": "Monarch butterfly\n",
+      "links": []
+    },
+    {
+      "i": 37351,
+      "e": 37381,
+      "text": "Recorded: 1 GBIF observation.\n",
+      "links": [
+        {
+          "text": "GBIF observation",
+          "url": "https://www.gbif.org/occurrence/3399188272"
+        }
+      ]
+    },
+    {
+      "i": 37382,
+      "e": 37461,
+      "text": "Federal Proposed Threatened; CNDDB tracks California overwintering population.\n",
+      "links": [
+        {
+          "text": "Federal Proposed Threatened",
+          "url": "https://www.fws.gov/our-work/pollinators/save-monarch"
+        },
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 37462,
+      "e": 37580,
+      "text": "Track nectar use, breeding and seasonal aggregations separately; a sighting does not establish an overwintering site.\n",
+      "links": []
+    },
+    {
+      "i": 37582,
+      "e": 37598,
+      "text": "Bombus crotchii\n",
+      "links": []
+    },
+    {
+      "i": 37598,
+      "e": 37618,
+      "text": "Crotch’s bumble bee\n",
+      "links": []
+    },
+    {
+      "i": 37619,
+      "e": 37676,
+      "text": "Possible: Level IV records; not detected in this survey.\n",
+      "links": []
+    },
+    {
+      "i": 37677,
+      "e": 37715,
+      "text": "CNDDB; S2; CESA Candidate Endangered.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 37716,
+      "e": 37781,
+      "text": "Repeat spring–summer surveys in flower-rich scrub and grassland.\n",
+      "links": []
+    },
+    {
+      "i": 37783,
+      "e": 37799,
+      "text": "Coelus globosus\n",
+      "links": []
+    },
+    {
+      "i": 37799,
+      "e": 37819,
+      "text": "Globose dune beetle\n",
+      "links": []
+    },
+    {
+      "i": 37820,
+      "e": 37874,
+      "text": "Possible: Level IV records; not found in this survey.\n",
+      "links": []
+    },
+    {
+      "i": 37875,
+      "e": 37888,
+      "text": "CNDDB; S1S2.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 37889,
+      "e": 38001,
+      "text": "Target loose coastal dune sand beneath vegetation and debris; survey beach and lighthouse backdunes separately.\n",
+      "links": []
+    },
+    {
+      "i": 38003,
+      "e": 38026,
+      "text": "Trimerotropis occulens\n",
+      "links": []
+    },
+    {
+      "i": 38026,
+      "e": 38045,
+      "text": "Lompoc grasshopper\n",
+      "links": []
+    },
+    {
+      "i": 38046,
+      "e": 38117,
+      "text": "Possible: repository habitat screening; no preserve record documented.\n",
+      "links": []
+    },
+    {
+      "i": 38118,
+      "e": 38131,
+      "text": "CNDDB; S1S2.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 38132,
+      "e": 38209,
+      "text": "Search open sandy coastal terrace grassland and sparsely vegetated openings.\n",
+      "links": []
+    },
+    {
+      "i": 38211,
+      "e": 38241,
+      "text": "Cicindela hirticollis gravida\n",
+      "links": []
+    },
+    {
+      "i": 38241,
+      "e": 38266,
+      "text": "Sandy beach tiger beetle\n",
+      "links": []
+    },
+    {
+      "i": 38267,
+      "e": 38340,
+      "text": "Possible: Level IV records identify C. hirticollis, not this subspecies.\n",
+      "links": []
+    },
+    {
+      "i": 38341,
+      "e": 38375,
+      "text": "CNDDB tracks this subspecies; S2.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 38376,
+      "e": 38446,
+      "text": "Survey moist upper-beach sand and creek mouths; determine subspecies.\n",
+      "links": []
+    },
+    {
+      "i": 38448,
+      "e": 38470,
+      "text": "Cicindela latesignata\n",
+      "links": []
+    },
+    {
+      "i": 38470,
+      "e": 38497,
+      "text": "Western beach tiger beetle\n",
+      "links": []
+    },
+    {
+      "i": 38498,
+      "e": 38569,
+      "text": "Possible: repository habitat screening; no preserve record documented.\n",
+      "links": []
+    },
+    {
+      "i": 38570,
+      "e": 38581,
+      "text": "CNDDB; S1.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 38582,
+      "e": 38654,
+      "text": "Search exposed moist beach and estuary margins during suitable weather.\n",
+      "links": []
+    },
+    {
+      "i": 38656,
+      "e": 38673,
+      "text": "Panoquina errans\n",
+      "links": []
+    },
+    {
+      "i": 38673,
+      "e": 38691,
+      "text": "Wandering skipper\n",
+      "links": []
+    },
+    {
+      "i": 38692,
+      "e": 38751,
+      "text": "Possible: Level IV records; no preserve record documented.\n",
+      "links": []
+    },
+    {
+      "i": 38752,
+      "e": 38763,
+      "text": "CNDDB; S2.\n",
+      "links": [
+        {
+          "text": "CNDDB",
+          "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=109406&inline="
+        }
+      ]
+    },
+    {
+      "i": 38764,
+      "e": 38833,
+      "text": "Check saltgrass patches in coastal saltmarsh habitat (BAMONA, n.d.).\n",
+      "links": [
+        {
+          "text": "BAMONA, n.d.",
+          "url": "https://www.butterfliesandmoths.org/species/Panoquina-errans"
+        }
+      ]
+    },
+    {
+      "i": 38834,
+      "e": 38835,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 38835,
+      "e": 38836,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 38836,
+      "e": 38871,
+      "text": "1.9 Habitat and species highlights\n",
+      "links": []
+    },
+    {
+      "i": 38871,
+      "e": 38891,
+      "text": "1.9.1 Perco’s Beach\n",
+      "links": []
+    },
+    {
+      "i": 38891,
+      "e": 39829,
+      "text": "In search for endemic and charismatic megafaunal insects (especially tiger beetles) we went to the beach. Perco’s wrack-associated insect fauna complements Jenifer Dugan’s broader beach-biodiversity work. The linked statewide dataset includes 2019–2020 surveys of wrack, birds, surf-zone fish and physical beach conditions (Dugan & Marrifini, 2022). Its companion report describes marine wrack subsidies supporting beach food webs and finds positive associations of wrack cover with shorebird richness and abundance (Dugan et al., 2022). Perco’s records of Phaleria rotundata and predatory Cafius beetles add insect-level detail to this framework. Repeated insect surveys paired with wrack cover and composition, beach morphology and bird use would connect this inventory to ecosystem-condition assessment. This connection concerns Perco’s sandy beach; the lighthouse backdunes remain a complementary dune and floral-resource assemblage.\n",
+      "links": [
+        {
+          "text": "Dugan & Marrifini, 2022",
+          "url": "https://doi.org/10.25494/P6989J"
+        },
+        {
+          "text": "Dugan et al., 2022",
+          "url": "https://caseagrant.ucsd.edu/sites/default/files/FinalMPAReportBeachesSurfZones2022.pdf"
+        }
+      ]
+    },
+    {
+      "i": 39829,
+      "e": 39830,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 39830,
+      "e": 40845,
+      "text": "Perco’s Beach: wrack fauna and beach condition July records for Perco’s Beach comprise 106 occurrences and 55 distinct taxon IDs across all identification ranks. Of these, 38 taxon IDs are at species or subspecies rank. The fauna includes beach-specialist beetles, a sand-burrowing isopod and jumping spiders associated with the shore. At Perco’s, the combination of wrack-associated beetles, predators and Alloniscus supports a positive interpretation of beach ecological function. Natural wrack provides habitat and food resources, and southern California research shows that removing it through grooming reduces wrack-associated fauna (Dugan et al. 2003). The isopod adds evidence relevant to upper-beach habitat conservation (Hubbard et al. 2014). Together these findings support evidence of a functioning beach system, while a comparative health rating would require standardized measurements. These are very preliminary findings that could be reviewed or added into the larger beach sampling at the location.\n",
+      "links": []
+    },
+    {
+      "i": 40845,
+      "e": 40846,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 40846,
+      "e": 41157,
+      "text": "Phaleria rotundata — a beach darkling beetle (Tenebrionidae). Ten Perco’s records document this member of the wrack fauna. Moore (1974) describes it as a common southern California seashore insect occurring in both dry and decaying seaweed, indicating an assemblage associated with stranded marine vegetation. \n",
+      "links": [
+        {
+          "text": "Moore (1974)",
+          "url": "https://doi.org/10.22543/0090-0222.1233"
+        }
+      ]
+    },
+    {
+      "i": 41157,
+      "e": 41158,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 41158,
+      "e": 41667,
+      "text": "Cercyon fimbriatus — a beach-dwelling hydrophilid beetle. All five records are from Perco’s Beach on 13 July, in sand under Macrocystis wrack. Despite belonging to a family often called water scavenger beetles, this is part of a terrestrial, shore-dwelling group associated with seaweed wrack. The western North American revision identifies C. fimbriatus as the most widespread and common of the beach Cercyon species it treats (Suzumura et al. 2019). It is useful evidence of an occupied wrack microhabitat.\n",
+      "links": [
+        {
+          "text": "Suzumura et al. 2019",
+          "url": "https://doi.org/10.1649/0010-065X-73.3.473"
+        }
+      ]
+    },
+    {
+      "i": 41667,
+      "e": 41668,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 41668,
+      "e": 42123,
+      "text": "Cafius canescens and C. seminitens — predatory rove beetles (Staphylinidae). Perco’s has five records of C. canescens and one of C. seminitens. Both belong to the rove-beetle assemblage living in and under decaying seaweed. Studies of southern California Cafius document feeding principally on kelp-fly larvae and pupae, with additional predation and scavenging (James et al. 1971). Their presence represents a predatory component of the wrack food web. \n",
+      "links": [
+        {
+          "text": "James et al. 1971",
+          "url": "https://research.nhm.org/dataimages/parker/sdnhm.pdf"
+        }
+      ]
+    },
+    {
+      "i": 42123,
+      "e": 42124,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 42124,
+      "e": 42564,
+      "text": "Thinopinus pictus — the pictured rove beetle. The two Perco’s records are from foredune sand and sand beneath Macrocystis wrack. Adults and larvae are nocturnal predators, especially of beach hoppers; they remain buried for part of the night as well as during the day, so daytime searches can substantially underrepresent them (Craig 1970). This species provides a particularly clear example of a predator supported by the beach food web. \n",
+      "links": [
+        {
+          "text": "Craig 1970",
+          "url": "https://doi.org/10.2307/1933627"
+        }
+      ]
+    },
+    {
+      "i": 42564,
+      "e": 42565,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 42565,
+      "e": 43241,
+      "text": "Alloniscus perconvexus — an upper-beach isopod. This terrestrial crustacean is recorded beneath a log at Perco’s Beach. It burrows in upper-beach sand and uses driftwood and stranded vegetation as shelter and food-associated habitat. Unlike species with dispersive marine larvae, these upper-beach isopods have limited opportunities to recolonize after habitat loss. Regional surveys documented substantial losses of A. perconvexus and another upper-beach isopod from southern California beaches, with surviving populations concentrated on relatively undeveloped, minimally managed shores (Hubbard et al. 2014). High numbers were recorded 400 m northeast of Government Point.\n",
+      "links": [
+        {
+          "text": "Hubbard et al. 2014",
+          "url": "https://doi.org/10.1016/j.ecss.2013.06.017"
+        }
+      ]
+    },
+    {
+      "i": 43241,
+      "e": 43242,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 43242,
+      "e": 43740,
+      "text": "Terralonus, likely T. californicus — a coastal jumping spider (Salticidae). The likely species identification is T. californicus. Maddison’s account places T. californicus on seaside rocks and beaches, in contrast to inland habitats occupied by other Terralonus species (Maddison 1995). Two Perco’s records were collected on sand beneath Macrocystis wrack. This small, ground-dwelling jumping spider adds a shore-associated predator to the assemblage and is a strong candidate coastal specialist. \n",
+      "links": [
+        {
+          "text": "Maddison 1995",
+          "url": "https://tolweb.org/accessory/NA_Jumping_Spiders%3A_Terralonus?acc_id=2130"
+        }
+      ]
+    },
+    {
+      "i": 43740,
+      "e": 43741,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 43741,
+      "e": 44195,
+      "text": "Perco’s Beach: dune weevils and nesting sand wasps. All six Trigonoscuta records are from Perco’s sand, including sand at the edge of the iceplant. These broad-nosed weevils are flightless, and the California Conservation Genomics Project identifies habitat specialization and isolated lineages as reasons to investigate their diversity and endemism (California Conservation Genomics Project n.d.). These are candidates for a Dangermond endemic species.\n",
+      "links": [
+        {
+          "text": "California Conservation Genomics Project n.d.",
+          "url": "https://www.ccgproject.org/species/trigonoscuta-spp-dune-weevils"
+        }
+      ]
+    },
+    {
+      "i": 44195,
+      "e": 44639,
+      "text": "Bembix, provisionally B. americana comata — sand wasps. A nesting aggregation of more than 30 individuals was observed. Bembix females excavate individual nests in sand and supply their larvae with insect prey, principally flies; neighboring nests can form large aggregations without constituting a social colony (Evans and Matthews 1968; Bonte 2005). We recommend protecting Perco’s aggregation from concentrated foot traffic and disturbance.\n",
+      "links": [
+        {
+          "text": "Evans and Matthews 1968",
+          "url": "https://doi.org/10.1093/aesa/61.5.1284"
+        },
+        {
+          "text": "Bonte 2005",
+          "url": "https://www.eje.cz/pdfs/eje/2005/04/34.pdf"
+        }
+      ]
+    },
+    {
+      "i": 44639,
+      "e": 44640,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 44640,
+      "e": 45071,
+      "text": "Perco’s Beach: introduced sea rocket. European sea rocket (Cakile maritima) is non-native and rated Limited by the California Invasive Plant Council (n.d.). Perco’s records associate it with Anthophora, Lasioglossum, Bombus californicus, Apis mellifera and beetles; several describe insects near or beneath plants rather than confirmed flower visits. These records concern Perco’s Beach, separately from the lighthouse backdunes. \n",
+      "links": []
+    },
+    {
+      "i": 45071,
+      "e": 45120,
+      "text": "1.9.2 Backdunes near Point Conception Lighthouse\n",
+      "links": []
+    },
+    {
+      "i": 45120,
+      "e": 46092,
+      "text": "The lighthouse backdunes support sand cockroaches, darkling beetles, scarabs, ground-active spiders and nesting bees. Field observations suggested greater arthropod diversity in restored backdunes than in dense iceplant, with many encounters at iceplant edges or beneath sparse growth. The authors interpret these patches as possible sources of shade, shelter and structural heterogeneity; local effects on sand stabilization and diversity have not been measured. Research in California coastal dunes found that Carpobrotus invasion commonly reduced arthropod richness and abundance, with responses varying among feeding groups and sampling periods; experimental increases in its cover particularly affected sand-dwelling detritivores and predators (Knapp 2014). This supports distinguishing sparse edges from dense mats when planning restoration. Replacing iceplant with native dune vegetation should retain a mosaic of open sand, vegetation edges and refuge microsites.\n",
+      "links": [
+        {
+          "text": "Knapp 2014",
+          "url": "https://alexandria.ucsb.edu/downloads/mp48sd085"
+        }
+      ]
+    },
+    {
+      "i": 46092,
+      "e": 46093,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 46093,
+      "e": 46867,
+      "text": "Arenivaga cf. sequoia — a sand cockroach. Both Arenivaga vouchers are from high-dune sand in backdune habitat near Point Conception Lighthouse. One is provisionally compared with A. sequoia (“cf.”), and the other remains at genus. Arenivaga are native, sand-associated cockroaches with a largely concealed life in the substrate; their biology differs from household pest cockroaches. Hopkins (2014) documents A. sequoia in southern and western California and provides diagnostic characters, including a key to males. If confirmed, the identification would be relevant to California regional endemism; neither voucher currently establishes a species unique to Dangermond. Retaining the provisional identification is essential when discussing its possible range significance.\n",
+      "links": [
+        {
+          "text": "Hopkins (2014)",
+          "url": "https://doi.org/10.3897/zookeys.384.6197"
+        }
+      ]
+    },
+    {
+      "i": 46867,
+      "e": 46868,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 46868,
+      "e": 47755,
+      "text": "Coniontis and Hoplia — unresolved beetles of particular interest. A Coniontis darkling beetle (Tenebrionidae) and a Hoplia scarab beetle (Scarabaeidae) were each collected on 1 July in the lighthouse backdune locality; Hoplia was recorded on the ground by a road. Coniontis is a diverse western North American genus, with numerous geographically restricted species listed in the regional catalogue, so a genus-level determination cannot resolve its range or conservation significance (Bousquet et al. 2018). Hoplia is ecologically different: some California species have flower-feeding adults and soil-dwelling larvae that consume roots and decaying vegetation (Perry 2010). These traits illustrate the genus’s possible ecological roles rather than establish the biology of this unidentified specimen. Both vouchers merit specialist examination as candidates for restricted-range taxa. \n",
+      "links": [
+        {
+          "text": "Bousquet et al. 2018",
+          "url": "https://doi.org/10.3897/zookeys.728.20602"
+        },
+        {
+          "text": "Perry 2010",
+          "url": "https://ipm.ucanr.edu/home-and-landscape/hoplia-beetle/"
+        }
+      ]
+    },
+    {
+      "i": 47755,
+      "e": 47756,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 47756,
+      "e": 48203,
+      "text": "Coelus ciliatus. The ciliate dune beetle, C. ciliatus (Tenebrionidae), accounts for 23 lighthouse-area records and one at Perco’s. Eight lighthouse-area records explicitly name backdune habitat; the other 15 give a locality 0.6 km NNE of the lighthouse without habitat details. Coelus are flightless, sand-burrowing darkling beetles. C. ciliatus has a broad Pacific-coast range and should not be treated as a local endemic (Bousquet et al. 2018).\n",
+      "links": [
+        {
+          "text": "Bousquet et al. 2018",
+          "url": "https://doi.org/10.3897/zookeys.728.20602"
+        }
+      ]
+    },
+    {
+      "i": 48203,
+      "e": 48852,
+      "text": "The globose dune beetle is likely to occur, but it was not found during these surveys. It is a distinct species from the recorded C. ciliatus. A southern California field study found the two together in coastal dunes and describes Coelus as flightless, burrowing beetles restricted to sandy substrates (Sandoval 2007). This makes targeted searches in suitable lighthouse backdune habitat worthwhile, while its occurrence at Dangermond remains unconfirmed. Follow-up should examine sand beneath and around dune vegetation, use diagnostic characters to distinguish the two species, and record search effort so future nondetections can be interpreted.\n",
+      "links": [
+        {
+          "text": "Sandoval 2007",
+          "url": "https://documents.coastal.ca.gov/reports/2008/6/W16a-6-2008-a1.pdf"
+        }
+      ]
+    },
+    {
+      "i": 48852,
+      "e": 48853,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 48853,
+      "e": 49494,
+      "text": "Backdune spiders and nesting bees. Five records identified only as Lycosidae document wolf spiders in the lighthouse area, including high-dune sand and sand near dune vegetation. They add a ground-active predatory component, but family-level identifications cannot establish dune-specialist species. Lasioglossum pavonotum is abundant with a nesting aggregation at (34.458800, -120.472170). Multiyear nest reuse in L. hemichalceum (Kukuk 2002) supports considering long-term nesting-site value, but does not prove perennial nests in the species recorded here. Nesting habitat would be easily disturbed by heavy machinery during restoration.\n",
+      "links": [
+        {
+          "text": "Kukuk 2002",
+          "url": "https://www.jstor.org/stable/25086033"
+        }
+      ]
+    },
+    {
+      "i": 49494,
+      "e": 50309,
+      "text": "Backdune habitat value and ant diversity. The sand cockroaches, several beetle groups, ground-active spiders and nesting bees show that the lighthouse backdunes already support diverse ecological roles. This is a basis for valuing the existing habitat, including during restoration planning; productivity was not measured. The separate August ant survey detected nine species within less than 1 km² and ants on 21 of 24 transects, including native assemblages in several backdune vegetation settings. Argentine ants were detected at one railroad-adjacent site (Section 1.6.4). Continued monitoring is warranted because displacement of native ants is documented elsewhere in coastal California (Naughton et al. 2020). The ant results concern their mapped transect sites, not a condition assessment of Perco’s Beach.\n",
+      "links": []
+    },
+    {
+      "i": 50309,
+      "e": 50329,
+      "text": "Floral resource use\n",
+      "links": []
+    },
+    {
+      "i": 50329,
+      "e": 50869,
+      "text": "Flower records show that the lighthouse backdunes provide resources across a varied native flora. Recorded floral associations include Eriogonum parvifolium, Cirsium occidentale, Lupinus arboreus, Astragalus nuttallii, Acmispon glaber and Eriophyllum staechadifolium. These plants connect the dune vegetation to a community of bumble bees, solitary bees and other flower visitors. The records document flower use, rather than floral preferences or pollination effectiveness; plant availability and observation effort were not standardized.\n",
+      "links": []
+    },
+    {
+      "i": 50869,
+      "e": 51527,
+      "text": "Bumble bees illustrate the value of this floral diversity. Bombus vosnesenskii was recorded on flowers of Cirsium, Eriogonum, Lupinus, Astragalus and Acmispon. B. californicus was observed on Cirsium occidentale, Astragalus nuttallii, Eriogonum parvifolium and Isocoma menziesii, while both B. melanopygus queen records were on Cirsium occidentale. Retaining a mixture of native flowering plants, with overlapping bloom periods, should be a restoration priority. Monitoring should track bloom availability alongside bee visits, particularly during seasonal resource shortages when competition with honey bees could be consequential (Page and Williams 2023).\n",
+      "links": []
+    },
+    {
+      "i": 51527,
+      "e": 51581,
+      "text": "Non-native plants: floral resources and nesting cover\n",
+      "links": []
+    },
+    {
+      "i": 51581,
+      "e": 52307,
+      "text": "Two non-native plants recorded in the lighthouse backdunes also contribute to the observed flower-visitor community. Iceplant (Carpobrotus spp.; C. edulis in the ant-survey vegetation notes) is invasive in coastal California. The archive records Agapostemon subtilior on Carpobrotus flowers, while Bombus caliginosus, B. vosnesenskii and Lasioglossum have less specific iceplant associations. These observations show use of an introduced plant within the existing habitat. Dense C. edulis mats can displace native vegetation and alter soils, so their immediate value to individual insects should be considered alongside their effects on the wider dune community (California Department of Fish and Wildlife, n.d.; Knapp 2014).\n",
+      "links": []
+    },
+    {
+      "i": 52307,
+      "e": 53020,
+      "text": "Bumble bees commonly occupy existing animal burrows or concealed sites beneath vegetation (O’Connor et al. 2017); the cover supplied by iceplant could offer a comparable function in the lighthouse backdunes. This is a local habitat hypothesis, with occupied nests still to be located. Ground-nesting solitary bees may instead use exposed sand at patch edges or openings, and continuous dense mats should not be assumed suitable for all species (Antoine and Forrest 2021). Restoration should check for active nest entrances before disturbing iceplant and replace its shelter and floral functions with a mosaic of native vegetation and open sand. A plan should be in place for what to do when nests are discovered.\n",
+      "links": []
+    },
+    {
+      "i": 53020,
+      "e": 53624,
+      "text": "Common brassbuttons (Cotula coronopifolia) is another introduced plant, rated Limited by the California Invasive Plant Council (2005). The lighthouse records include Lasioglossum pavonotum on its flowers, another Lasioglossum association, and a flower-associated seed bug (Lygaeidae). It therefore supplies floral resources used by some native insects, although its contribution relative to native plants has not been measured. Monitoring its cover and flowering alongside native restoration plants would help identify where replacement could improve plant diversity while maintaining floral continuity.\n",
+      "links": []
+    },
+    {
+      "i": 53624,
+      "e": 53664,
+      "text": "Floral resource use by male bumble bees\n",
+      "links": []
+    },
+    {
+      "i": 53664,
+      "e": 54023,
+      "text": "Sixteen lighthouse-area bumble bee records are explicitly identified as males: seven B. californicus, seven B. caliginosus and two B. vosnesenskii. Six male B. californicus observations were on Cirsium occidentale flowers and one on Eriogonum parvifolium flowers. Male B. caliginosus records also carry associations with Astragalus, Eriophyllum and iceplant.\n",
+      "links": []
+    },
+    {
+      "i": 54023,
+      "e": 54590,
+      "text": "Male bumble bees forage for their own energy needs rather than provisioning the colony. Nectar resources therefore support the reproductive phase of the life cycle as well as worker activity and queen establishment. Experiments with B. terrestris show that males adjust foraging as nectar availability and resource spacing change while maintaining mate-seeking behavior (Rossi et al. 2026). The male records at Dangermond strengthen the case for retaining flowering patches throughout the season. They do not establish local nest locations or a population sex ratio.\n",
+      "links": []
+    },
+    {
+      "i": 54590,
+      "e": 54647,
+      "text": "Bumble-bee diversity and species of conservation concern\n",
+      "links": []
+    },
+    {
+      "i": 54647,
+      "e": 55079,
+      "text": "The lighthouse backdune localities contain 95 bumble-bee records representing four species: Bombus vosnesenskii (68), B. californicus (18), B. caliginosus (7) and B. melanopygus (2). These totals combine observations and preserved specimens and describe the inventory rather than relative population abundance. Queens, workers and males are represented across the assemblage, indicating floral-resource use by multiple life stages.\n",
+      "links": []
+    },
+    {
+      "i": 55079,
+      "e": 55761,
+      "text": "The California bumble bee, B. californicus, is especially noteworthy. Koch et al. (2012) describe it as uncommon and possibly declining; it warrants continued monitoring at Dangermond. Some treatments combine it with B. fervidus, including Fisher et al. (2022), so conservation comparisons should account for that taxonomic difference. The obscure bumble bee, B. caliginosus, is another priority: it occupies a Pacific coastal range and has experienced reported declines, although similarity to B. vosnesenskii complicates assessment (Xerces Society, n.d.). Six of the seven local B. caliginosus records are preserved specimens, providing material for future identification checks.\n",
+      "links": []
+    },
+    {
+      "i": 55761,
+      "e": 56352,
+      "text": "Bombus crotchii was not detected in these surveys. It is among California’s bumble bees of conservation concern, alongside declining species such as B. occidentalis (Fisher et al. 2022). Its nondetection should guide targeted surveys rather than be interpreted as absence from the preserve. Repeated surveys spanning spring queen activity and later worker and male activity would improve the species inventory and provide a baseline for tracking B. californicus and B. caliginosus. Together, the four recorded species support the conservation value of the lighthouse backdune floral mosaic.\n",
+      "links": []
+    },
+    {
+      "i": 56352,
+      "e": 56399,
+      "text": "1.10 Introduced taxa and management priorities\n",
+      "links": []
+    },
+    {
+      "i": 56399,
+      "e": 56711,
+      "text": "The inventory identifies three introduced species without identification qualifiers and two provisionally identified introduced species. The August ant-survey results add two further introduced taxa. Table entries retain uncertain identifications and distinguish archive records from separate survey detections.\n",
+      "links": []
+    },
+    {
+      "i": 56711,
+      "e": 56797,
+      "text": "Table. Introduced arthropods recorded in the specimen archive and ant-survey results.\n",
+      "links": []
+    },
+    {
+      "i": 56797,
+      "e": 56798,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 56801,
+      "e": 56815,
+      "text": "Taxon / group\n",
+      "links": []
+    },
+    {
+      "i": 56816,
+      "e": 56831,
+      "text": "Number records\n",
+      "links": []
+    },
+    {
+      "i": 56832,
+      "e": 56850,
+      "text": "Recorded locality\n",
+      "links": []
+    },
+    {
+      "i": 56851,
+      "e": 56877,
+      "text": "Status and interpretation\n",
+      "links": []
+    },
+    {
+      "i": 56879,
+      "e": 56894,
+      "text": "Apis mellifera\n",
+      "links": []
+    },
+    {
+      "i": 56894,
+      "e": 56904,
+      "text": "Honey bee\n",
+      "links": []
+    },
+    {
+      "i": 56905,
+      "e": 56908,
+      "text": "51\n",
+      "links": []
+    },
+    {
+      "i": 56909,
+      "e": 56930,
+      "text": "Lighthouse area: 50;\n",
+      "links": []
+    },
+    {
+      "i": 56930,
+      "e": 56947,
+      "text": "Perco’s Beach: 1\n",
+      "links": []
+    },
+    {
+      "i": 56948,
+      "e": 57045,
+      "text": "Introduced. Potential competitor for native bee floral resources; colony management recommended.\n",
+      "links": []
+    },
+    {
+      "i": 57047,
+      "e": 57070,
+      "text": "Paropsisterna m-fuscum\n",
+      "links": []
+    },
+    {
+      "i": 57070,
+      "e": 57082,
+      "text": "Leaf beetle\n",
+      "links": []
+    },
+    {
+      "i": 57083,
+      "e": 57085,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 57086,
+      "e": 57100,
+      "text": "Perco’s Beach\n",
+      "links": []
+    },
+    {
+      "i": 57101,
+      "e": 57145,
+      "text": "Australian introduction; eucalyptus feeder.\n",
+      "links": []
+    },
+    {
+      "i": 57147,
+      "e": 57166,
+      "text": "Trachymela sloanei\n",
+      "links": []
+    },
+    {
+      "i": 57166,
+      "e": 57178,
+      "text": "Leaf beetle\n",
+      "links": []
+    },
+    {
+      "i": 57179,
+      "e": 57181,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 57182,
+      "e": 57196,
+      "text": "Perco’s Beach\n",
+      "links": []
+    },
+    {
+      "i": 57197,
+      "e": 57241,
+      "text": "Australian introduction; eucalyptus feeder.\n",
+      "links": []
+    },
+    {
+      "i": 57243,
+      "e": 57262,
+      "text": "Scantius aegyptius\n",
+      "links": []
+    },
+    {
+      "i": 57262,
+      "e": 57271,
+      "text": "Seed bug\n",
+      "links": []
+    },
+    {
+      "i": 57272,
+      "e": 57274,
+      "text": "1\n",
+      "links": []
+    },
+    {
+      "i": 57275,
+      "e": 57289,
+      "text": "Perco’s Beach\n",
+      "links": []
+    },
+    {
+      "i": 57290,
+      "e": 57336,
+      "text": "Introduced. Local ecological effects unknown.\n",
+      "links": []
+    },
+    {
+      "i": 57336,
+      "e": 57337,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57339,
+      "e": 57364,
+      "text": "Marinarozelotes barbatus\n",
+      "links": []
+    },
+    {
+      "i": 57364,
+      "e": 57378,
+      "text": "Ground spider\n",
+      "links": []
+    },
+    {
+      "i": 57379,
+      "e": 57381,
+      "text": "3\n",
+      "links": []
+    },
+    {
+      "i": 57382,
+      "e": 57402,
+      "text": "Lighthouse area: 2;\n",
+      "links": []
+    },
+    {
+      "i": 57402,
+      "e": 57421,
+      "text": "locality absent: 1\n",
+      "links": []
+    },
+    {
+      "i": 57422,
+      "e": 57468,
+      "text": "Introduced. Local ecological effects unknown.\n",
+      "links": []
+    },
+    {
+      "i": 57468,
+      "e": 57469,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57471,
+      "e": 57490,
+      "text": "Linepithema humile\n",
+      "links": []
+    },
+    {
+      "i": 57490,
+      "e": 57504,
+      "text": "Argentine ant\n",
+      "links": []
+    },
+    {
+      "i": 57505,
+      "e": 57521,
+      "text": "Separate survey\n",
+      "links": []
+    },
+    {
+      "i": 57522,
+      "e": 57549,
+      "text": "One railroad-adjacent site\n",
+      "links": []
+    },
+    {
+      "i": 57550,
+      "e": 57626,
+      "text": "Introduced and invasive; monitor extent and protect native ant assemblages.\n",
+      "links": []
+    },
+    {
+      "i": 57628,
+      "e": 57654,
+      "text": "Cardiocondyla mauritanica\n",
+      "links": []
+    },
+    {
+      "i": 57654,
+      "e": 57658,
+      "text": "Ant\n",
+      "links": []
+    },
+    {
+      "i": 57659,
+      "e": 57675,
+      "text": "Separate survey\n",
+      "links": []
+    },
+    {
+      "i": 57676,
+      "e": 57697,
+      "text": "Old Schoolhouse site\n",
+      "links": []
+    },
+    {
+      "i": 57698,
+      "e": 57744,
+      "text": "Introduced. Local ecological effects unknown.\n",
+      "links": []
+    },
+    {
+      "i": 57745,
+      "e": 57746,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57746,
+      "e": 57747,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57747,
+      "e": 57748,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 57748,
+      "e": 58397,
+      "text": "Honey bees should be controlled in dune habitats to reduce potential competition with native pollinators for pollen and nectar, particularly when flowers are scarce. The archive contains 50 honey-bee records in the lighthouse area and one at Perco’s Beach. California studies show that honey bees can reduce floral resource availability and alter native-bee foraging (Page and Williams 2023); research in southern California scrub also documents substantial pollen removal by feral honey bees (Travis et al. 2025). These studies support reducing honey-bee pressure on dune floral resources, although competition has not been measured at Dangermond.\n",
+      "links": [
+        {
+          "text": "Page and Williams 2023",
+          "url": "https://doi.org/10.1111/1365-2656.13973"
+        },
+        {
+          "text": "Travis et al. 2025",
+          "url": "https://doi.org/10.1111/icad.12858"
+        }
+      ]
+    },
+    {
+      "i": 58397,
+      "e": 58467,
+      "text": "Avoid placing managed hives in or adjacent to sensitive dune habitat.\n",
+      "links": []
+    },
+    {
+      "i": 58467,
+      "e": 58469,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 58469,
+      "e": 58517,
+      "text": "2. Dangermond Preserve DataONE pipeline to GBIF\n",
+      "links": []
+    },
+    {
+      "i": 58517,
+      "e": 58683,
+      "text": "This deliverable documents the initial biodiversity publishing pathway, work undertaken to improve data flow, and final publishing status and recommended next steps.\n",
+      "links": []
+    },
+    {
+      "i": 58683,
+      "e": 58747,
+      "text": "2.1 Initial status of the Dangermond → DataONE → GBIF data flow\n",
+      "links": []
+    },
+    {
+      "i": 58747,
+      "e": 58887,
+      "text": "Baseline reporting covers biodiversity data accessible at project start, associated gaps and barriers, and the original publishing pathway.\n",
+      "links": []
+    },
+    {
+      "i": 58887,
+      "e": 58926,
+      "text": "2.1.1 Initial inventory and assessment\n",
+      "links": []
+    },
+    {
+      "i": 58926,
+      "e": 59606,
+      "text": "This effort began with a conversation with Ian Nesbitt at DataOne to identify potential paths for getting occurrence data from Dangermond Preserve onto GBIF. Our hope to was to identify other data pipelines which are successfully housing datasets and DataOne while having species occurrence data reach GBIF. To get an overview of how well existing datasets from Dangermond are represented on GBIF a search was conducted using both the Dangermond Preserve Repository (TNC 2026), as well as the DataOne Catalog portal (DataOne 2026). Search area was roughly limited to the extent of the preserve using the extent window and “Dangermond Preserve” was added as an additional filter. \n",
+      "links": [
+        {
+          "text": "TNC ",
+          "url": "https://search.dataone.org/portals/tnc_dangermond"
+        },
+        {
+          "text": "DataOne",
+          "url": "https://www.dataone.org/"
+        }
+      ]
+    },
+    {
+      "i": 59606,
+      "e": 59645,
+      "text": "2.1.2 Initial pipeline status and gaps\n",
+      "links": []
+    },
+    {
+      "i": 59645,
+      "e": 59866,
+      "text": "TO COMPLETE — Document which datasets/checklists were present in the Dangermond Repository, DataONE, and GBIF at project start; identify missing outputs, publishing authorities, metadata/format barriers, and permissions.\n",
+      "links": []
+    },
+    {
+      "i": 59866,
+      "e": 59867,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 59867,
+      "e": 60430,
+      "text": "From initial list of 49 items in the DataOne repository associated with Dangermond, 23 were identified as candidates for pushing data to GBIF. Among these 23 item there appear to be some repeats, the WRA species lists from 2019-2020. There is also a report analyzing pig abundance on Dangermond that does not appear to contain the camera trap data that was used, and no pig camera trap dataset appears to be associated with Dangermond on DataOne. A search of the Dangermond portal directly returns a slightly different list of 47 items but the candidate list of \n",
+      "links": []
+    },
+    {
+      "i": 60430,
+      "e": 60486,
+      "text": "2.2 Steps taken to improve biodiversity data publishing\n",
+      "links": []
+    },
+    {
+      "i": 60486,
+      "e": 60649,
+      "text": "This subsection records project contacts, infrastructure reviewed or developed, coding resources, permissions and work on the Dangermond → DataONE → GBIF pathway.\n",
+      "links": []
+    },
+    {
+      "i": 60649,
+      "e": 60698,
+      "text": "2.2.1 Coordination, barriers, and technical work\n",
+      "links": []
+    },
+    {
+      "i": 60698,
+      "e": 61022,
+      "text": "TO COMPLETE — Summarize contacts and dates (including TNC, DataONE, and potential GBIF publishing partners), databases and checklists assessed, format conversions or Darwin Core work completed, scripts or GitHub resources, and any remaining technical or governance barriers. Reference the initial assessment in Section 2.1.\n",
+      "links": []
+    },
+    {
+      "i": 61022,
+      "e": 61080,
+      "text": "Draft coordination and technical notes (for verification)\n",
+      "links": []
+    },
+    {
+      "i": 61080,
+      "e": 61132,
+      "text": "A few issues brought up during co-work with Claude:\n",
+      "links": []
+    },
+    {
+      "i": 61132,
+      "e": 61571,
+      "text": "KNB and GBIF are separate systems. As far as I know, GBIF doesn't harvest KNB or DataONE. A dataset archived on KNB with good metadata still reaches GBIF only if someone converts it to Darwin Core and publishes it through a registered GBIF publisher, usually via an IPT. That's probably the main reason these datasets aren't reaching GBIF. It's also worth checking whether TNC is even registered as a GBIF publisher, and under which node.\n",
+      "links": []
+    },
+    {
+      "i": 61571,
+      "e": 62048,
+      "text": "Some Preserve data probably reaches GBIF through other channels. iNaturalist research-grade observations, eBird checklists, museum specimens (LACM, UCSB's Cheadle Center), and possibly Xerces' monarch data all flow to GBIF. A GBIF query for the Preserve footprint, broken down by publisher, would show how much Preserve biodiversity data is already there. It would also show that almost none of it comes from TNC-commissioned surveys. That comparison could anchor your report.\n",
+      "links": []
+    },
+    {
+      "i": 62048,
+      "e": 62309,
+      "text": "Duplicates on KNB. Several datasets appear twice with different identifiers, such as the WRA species lists and the plant list. That suggests versioning or re-deposit issues, and anyone publishing to GBIF would need to sort those out to avoid duplicate records.\n",
+      "links": []
+    },
+    {
+      "i": 62309,
+      "e": 62519,
+      "text": "Permission and licensing. These datasets belong to TNC, CDFW, WRA, Bren student groups, and others. GBIF accepts only CC0, CC-BY, or CC-BY-NC, and the original creators should agree and be credited in the EML.\n",
+      "links": []
+    },
+    {
+      "i": 62519,
+      "e": 62714,
+      "text": "Sensitive species. The Western Snowy Plover is federally threatened, so its nest coordinates would likely need generalizing (recorded in dataGeneralizations). Seabird colonies may need the same.\n",
+      "links": []
+    },
+    {
+      "i": 62714,
+      "e": 62917,
+      "text": "Data already on GBIF. Some of this may already be there through other routes, such as the Monarch count via Xerces or shorebird data via Point Blue or eBird. I'd check so we don't publish records twice.\n",
+      "links": []
+    },
+    {
+      "i": 62917,
+      "e": 63041,
+      "text": "One archive or several. One archive per source dataset is usually cleaner for credit and updates than one combined archive.\n",
+      "links": []
+    },
+    {
+      "i": 63041,
+      "e": 63109,
+      "text": "2.3 Final biodiversity publishing status and recommended next steps\n",
+      "links": []
+    },
+    {
+      "i": 63109,
+      "e": 63229,
+      "text": "The final assessment compares end-of-project publishing status with the baseline and identifies prioritized next steps.\n",
+      "links": []
+    },
+    {
+      "i": 63229,
+      "e": 63273,
+      "text": "2.3.1 Final status and change from baseline\n",
+      "links": []
+    },
+    {
+      "i": 63273,
+      "e": 63483,
+      "text": "TO COMPLETE — Describe the final end-to-end route, what is operational versus proposed, sample/test datasets and identifiers if published, any remaining dependencies, and a concise start-versus-end comparison.\n",
+      "links": []
+    },
+    {
+      "i": 63483,
+      "e": 63544,
+      "text": "2.3.2 Publishing partners and implementation recommendations\n",
+      "links": []
+    },
+    {
+      "i": 63544,
+      "e": 64419,
+      "text": "There are at least twenty examples of data portals pushing data to both DataOne and GBIF. Accomplishing this for data associated with the Dangermond Preserve will require partnering with a GBIF publisher. The GBIF publisher should have experience in converting datasets from their native format into DarwinCore format (Wieczorek and others 2012). An important decision is where the effort lands to format datasets to the DarwinCore standard. Should this effort land primarily with those generating the data? This has the benefit of minimizing the time spent by the GBIF publisher but is extra work for data generators and can cause delays and mistakes. Offloading the majoring of reformatting work to GBIF ensures proper formatting and prompt publication of occurrence data associated with Dangermond Preserve but required financial support for the publishing institution.  \n",
+      "links": []
+    },
+    {
+      "i": 64419,
+      "e": 64487,
+      "text": "Partner with a local GBIF publisher to begin pushing data into GBIF\n",
+      "links": []
+    },
+    {
+      "i": 64487,
+      "e": 64530,
+      "text": "Action recommended to reach target outcome\n",
+      "links": []
+    },
+    {
+      "i": 64530,
+      "e": 64626,
+      "text": "Step 1: Decide on the balance of effort for reformatting data to reach the DarwinCore standard.\n",
+      "links": []
+    },
+    {
+      "i": 64626,
+      "e": 64722,
+      "text": "Step 2: Review the list of potential GBIF publishers who are familiar with Dangermond Preserve.\n",
+      "links": []
+    },
+    {
+      "i": 64722,
+      "e": 64847,
+      "text": "Step 3: Discuss desired speed and volume of updates expected from chosen GBIF publishers and budget to support this effort. \n",
+      "links": []
+    },
+    {
+      "i": 64847,
+      "e": 64904,
+      "text": "2.3.3 Outstanding organizational and engineering choices\n",
+      "links": []
+    },
+    {
+      "i": 64904,
+      "e": 65040,
+      "text": "Draft topics to resolve: social/organizational responsibilities, engineering needs, and establishment of an appropriate GBIF publisher.\n",
+      "links": []
+    },
+    {
+      "i": 65040,
+      "e": 65056,
+      "text": "Social solution\n",
+      "links": []
+    },
+    {
+      "i": 65056,
+      "e": 65077,
+      "text": "Engineering solution\n",
+      "links": []
+    },
+    {
+      "i": 65077,
+      "e": 65141,
+      "text": "Both required, Dagermond needs GBIF publisher to get occ. data”\n",
+      "links": []
+    },
+    {
+      "i": 65141,
+      "e": 65142,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 65142,
+      "e": 65144,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 65144,
+      "e": 65188,
+      "text": "3. Collections infrastructure at Dangermond\n",
+      "links": []
+    },
+    {
+      "i": 65188,
+      "e": 65380,
+      "text": "This deliverable addresses practical workflows, supplies and equipment for collecting, vouchering, cataloging, imaging and managing specimens and their associated data at Dangermond Preserve.\n",
+      "links": []
+    },
+    {
+      "i": 65380,
+      "e": 65435,
+      "text": "3.1 Recommended collections and digitization workflows\n",
+      "links": []
+    },
+    {
+      "i": 65435,
+      "e": 65582,
+      "text": "Recommendations cover conventional and digital specimen workflows, from collecting and vouchering through storage, digitization and data exchange.\n",
+      "links": []
+    },
+    {
+      "i": 65582,
+      "e": 65909,
+      "text": "TO COMPLETE — Describe specimen accession and curation workflow, image acquisition and file naming, metadata standards, specimen-image linkage, stable identifiers, Darwin Core quality control, and any TNC/GBIF/DataONE handoffs. Identify responsible personnel or organizations and any recommended standard operating procedures.\n",
+      "links": []
+    },
+    {
+      "i": 65909,
+      "e": 65971,
+      "text": "3.2 Recommended supplies and equipment for onsite collections\n",
+      "links": []
+    },
+    {
+      "i": 65971,
+      "e": 66132,
+      "text": "Equipment and supply recommendations support natural history collecting, specimen management, imaging, digitization and data stewardship at Dangermond Preserve.\n",
+      "links": []
+    },
+    {
+      "i": 66132,
+      "e": 66322,
+      "text": "TO COMPLETE — Add a prioritized equipment/supplies table with purpose, minimum specifications, approximate cost if available, site constraints, and whether an item is essential or optional.\n",
+      "links": []
+    },
+    {
+      "i": 66322,
+      "e": 66323,
+      "text": "\n",
+      "links": []
+    },
+    {
+      "i": 66323,
+      "e": 66325,
+      "text": "\n",
+      "links": []
+    }
+  ]
+}

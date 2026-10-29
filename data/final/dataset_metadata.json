@@ -1,0 +1,70 @@
+{
+  "packaged_at_utc": "2026-10-27T19:10:13.310829+00:00",
+  "title": "Dangermond candidate insect occurrence pools: EPA Level III and IV",
+  "source_doi": "10.15468/dl.vgv5ee",
+  "source_gbif_download_key": "0010070-260921141020460",
+  "source_scope": "Existing California Arthropoda snapshot, submitted 2026-09-28; filtered to named insects with coordinates and regional matches.",
+  "datasets": [
+    {
+      "file": "dangermond_level_iii_matched_records.csv.gz",
+      "path": "data/final/dangermond_level_iii_matched_records.csv.gz",
+      "ecoregion_level": "III",
+      "selected_codes": [
+        "6",
+        "85"
+      ],
+      "records": 1408875,
+      "columns": 60,
+      "species_count_from_upstream_rollup": 13634,
+      "distinct_resolved_taxon_names_including_infraspecific": 14316,
+      "bytes": 245058132,
+      "sha256": "ea9ef3497f04741de7b32996174ab860ee0fbb3a41ee7a1e9745946aa6f7df72"
+    },
+    {
+      "file": "dangermond_level_iv_matched_records.csv.gz",
+      "path": "data/final/dangermond_level_iv_matched_records.csv.gz",
+      "ecoregion_level": "IV",
+      "selected_codes": [
+        "6ap",
+        "85a"
+      ],
+      "records": 43555,
+      "columns": 60,
+      "species_count_from_upstream_rollup": 2550,
+      "distinct_resolved_taxon_names_including_infraspecific": 2609,
+      "bytes": 6481147,
+      "sha256": "d97d6e7257c5f5d38e4ef464f89d0823f15b1160113c161a1a77d345238fec09"
+    }
+  ],
+  "shared_column_count": 60,
+  "column_descriptor": "column_metadata.csv",
+  "descriptor_sha256": "1c484dbd309265414a335249caa304fac98002045f27e4ef387e29cd39f60a92",
+  "format": {
+    "compression": "gzip",
+    "text_encoding": "UTF-8",
+    "delimiter": ",",
+    "header": true,
+    "quote_character": "\"",
+    "quote_escaping": "doubled quote",
+    "missing_values": "Empty or whitespace-only strings; literal NA/unknown labels not automatically recoded."
+  },
+  "selection": "Level III includes codes 6/85. Level IV includes 6ap/85a. Full matching regions, not clipped to Dangermond. Level IV is a subset of Level III; the same occurrence can appear in both files.",
+  "geographic_interpretation": "Coordinates treated as WGS84/EPSG:4326 points; boundaries included, no uncertainty buffering or nearest-region assignment. Level IV selection was applied before Level IV columns were omitted.",
+  "taxonomy": "GBIF Species Match API v2 with COL XR checklist 7ddf754f-d193-4cc9-b351-99906754a03b; user approved named species-level service candidates and twelve specific corrections. Preserve original publisher name and readable match description. Original classification and legacy GBIF taxon IDs were not recalculated.",
+  "species_count_method": "Upstream distinct resolved_species_name, rolling subspecies to species and including reviewed names without COL XR keys. That internal roll-up column is not retained here; distinct resolved_taxon_name can include subspecies and is not the same richness statistic.",
+  "common_names": "ESA Common Names of Insects spreadsheet retrieved 2026-10-27; exact taxon/parent-species or approved-binomial-alias matching. No BugGuide names used. Unsupported names left blank; subspecies-only names not generalized.",
+  "column_selection": "Identical schema after a 70% blank screening rule, shared-field restorations, protected common-name fields and explicit user deletions; one readable matching-description column derived. Final simplification changed columns only, not records.",
+  "record_handling": "No additional final-stage deduplication, date, coordinate-uncertainty, conservation-status or BOLD eligibility filter. BOLD eligibility and ecological screening remain pending for subsequent analyses.",
+  "rights": "Source record licenses and rights holders remain in their columns. Third-party data are not relicensed by this package.",
+  "upstream_full_dataset": "outputs/regional-candidate-pool/gbif-vgv5ee/species_identified_insect_records_v3.csv.gz",
+  "upstream_pruning_metadata": "outputs/regional-candidate-pool/gbif-vgv5ee/ecoregion_column_pruning_metadata.json",
+  "reproduction_script": "analysis/regional-candidate-pool/package_final_datasets.py",
+  "references": [
+    "https://doi.org/10.15468/dl.vgv5ee",
+    "https://dwc.tdwg.org/terms/",
+    "https://techdocs.gbif.org/en/data-use/download-formats",
+    "https://techdocs.gbif.org/en/data-processing/taxonomy-interpretation",
+    "https://www.epa.gov/eco-research/ecoregion-download-files-region",
+    "https://entsoc.org/publications/common-names"
+  ]
+}
