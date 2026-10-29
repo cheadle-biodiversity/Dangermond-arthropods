@@ -1,0 +1,104 @@
+{
+  "created_at_utc": "2026-10-28T00:04:51.147898+00:00",
+  "assumption": "All species in the union of Level IV 6ap and 85a could occur somewhere on Dangermond; no habitat filter or fitted SDM.",
+  "source_archive_records": 459,
+  "insect_records": 423,
+  "species_rank_records": 316,
+  "higher_rank_insect_records": 107,
+  "observed_species_level_units": 62,
+  "reconciled_species": 62,
+  "reconciled_records": 316,
+  "user_approved_original_names": 5,
+  "user_approved_original_name_records": 8,
+  "pending_species_names": 0,
+  "pending_records": 0,
+  "candidate_species": 2550,
+  "shared_between_level_iv_lists": 823,
+  "candidate_species_documented": 45,
+  "candidate_species_not_documented": 2505,
+  "candidate_percentage_documented": 1.7647058823529411,
+  "reconciled_observed_outside_pool": 17,
+  "hill_summaries": [
+    {
+      "subset": "All species-level records (primary)",
+      "records": 316,
+      "q0": 62,
+      "q1": 22.336403860752288,
+      "q2": 10.620718995958306
+    },
+    {
+      "subset": "Service-crosswalk names only",
+      "records": 308,
+      "q0": 57,
+      "q1": 20.634373175580905,
+      "q2": 10.106967824419348
+    },
+    {
+      "subset": "Preserved specimens only",
+      "records": 175,
+      "q0": 61,
+      "q1": 37.697885887509855,
+      "q2": 23.360030511060256
+    },
+    {
+      "subset": "Human observations only",
+      "records": 141,
+      "q0": 5,
+      "q1": 2.9728328752936872,
+      "q2": 2.627329192546584
+    }
+  ],
+  "two_most_recorded_species": {
+    "Bombus vosnesenskii": 71,
+    "Apis mellifera": 51
+  },
+  "site_comparison": {
+    "assignment": "Perko locality variants versus explicit backdune description; other/unspecified records remain separate, including unclassified lighthouse localities.",
+    "shared_species": [
+      "Apis mellifera",
+      "Bembix americana",
+      "Bombus californicus",
+      "Coelus ciliatus",
+      "Dasymutilla sackenii",
+      "Hippodamia quinquesignata",
+      "Villa lateralis"
+    ],
+    "shared_species_count": 7,
+    "site_union_species": 57,
+    "jaccard_similarity": 0.12280701754385964,
+    "sorensen_similarity": 0.21875,
+    "comparison_policy": "All record formats combined within each site; compare overall richness, evenness and species identities.",
+    "other_unspecified_species_records": 49,
+    "summaries": [
+      {
+        "site": "Perko's Beach",
+        "subset": "All species-level records",
+        "records": 71,
+        "q0": 36,
+        "q1": 26.368792961729362,
+        "q2": 18.880149812734082,
+        "total_insect_records_at_site": 109
+      },
+      {
+        "site": "Lighthouse backdunes",
+        "subset": "All species-level records",
+        "records": 196,
+        "q0": 28,
+        "q1": 8.934317169920826,
+        "q2": 5.042793384090312,
+        "total_insect_records_at_site": 247
+      }
+    ]
+  },
+  "weighting": "One unique Ecdysis occurrence record per count, not individualCount or population abundance. No GBIF records are pooled into the observed survey.",
+  "pending_name_policy": "User confirmed five previously unmatched names on 2026-10-27; retain them exactly, with qualifiers. This is user review, not a new service match. Any remaining unresolved names would remain explicit pending units.",
+  "uncertainty": "All species-level identifications are analyzed together. These are empirical record-frequency Hill values, not unseen-richness estimates, coverage-standardized estimates, occupancy probabilities or habitat-health scores.",
+  "reference": "Chao et al. 2014; https://doi.org/10.1890/13-0133.1",
+  "input_sha256": {
+    "data/raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/occurrences.csv": "af5d6ef958966a4522c13baff1bb7af88502b142b6d5103294fe949d8500fdab",
+    "data/final/checklists/preserve_occurrence_evidence.csv": "a58da5b8bc7b31a08318ca77c8f1a6e027a70ca41754db6c7f4cd904c6a63afc",
+    "analysis/hill-diversity/reviewed_ecdysis_names.csv": "b0e1da780d063fdfe6872753db6ea88079e3d685d972b6362184bf18693d0669",
+    "data/final/checklists/checklist_level_iv_6ap.csv": "e848c69655f36124cdb0b70b20e9315ee5d90d34deafa205179da83f3d76f178",
+    "data/final/checklists/checklist_level_iv_85a.csv": "50abf995d2524bd03846bd2afd69922e7cbe7b6c09a99690face194e5a01fc20"
+  }
+}

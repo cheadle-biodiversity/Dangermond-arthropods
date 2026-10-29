@@ -67,3 +67,9 @@ outputs/habitat-notes/**/*.csv.gz
 .Rproj.user/
 .env
 .env.local
+
+# Local species-account extracts and full source audit.
+outputs/species-life-history/**/*.jsonl.gz
+
+# Combined record-format audit remains local.
+outputs/hill-diversity/2026-10-27-record-formats/*.csv.gz

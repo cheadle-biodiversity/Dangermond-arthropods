@@ -1,0 +1,107 @@
+{
+  "vegetation": {
+    "features": 11598,
+    "invalid_geometries_repaired": 24,
+    "record_matches": {
+      "outside mapped polygons": 43154,
+      "single polygon": 401
+    },
+    "uncertainty": {
+      "not applicable": 43154,
+      "uncertainty unknown": 308,
+      "reported radius reaches boundary": 59,
+      "reported radius inside polygon": 34
+    }
+  },
+  "geology": {
+    "features": 2623,
+    "invalid_geometries_repaired": 5,
+    "record_matches": {
+      "outside mapped polygons": 33625,
+      "single polygon": 9930
+    },
+    "uncertainty": {
+      "not applicable": 33625,
+      "uncertainty unknown": 6707,
+      "reported radius inside polygon": 1917,
+      "reported radius reaches boundary": 1306
+    }
+  },
+  "local_vegetation": {
+    "features": 11598,
+    "invalid_geometries_repaired": 24,
+    "record_matches": {
+      "single polygon": 308
+    },
+    "uncertainty": {
+      "reported radius reaches boundary": 191,
+      "reported radius inside polygon": 117
+    }
+  },
+  "local_geology": {
+    "features": 2623,
+    "invalid_geometries_repaired": 5,
+    "record_matches": {
+      "single polygon": 308
+    },
+    "uncertainty": {
+      "reported radius inside polygon": 285,
+      "reported radius reaches boundary": 23
+    }
+  },
+  "checklists": [
+    {
+      "level_iv_code": "6ap",
+      "species": 1521,
+      "records": 9141,
+      "species_with_regional_priority_map_evidence": 13,
+      "species_with_any_vegetation_match": 128,
+      "species_with_publisher_habitat": 216,
+      "species_with_publisher_dune_habitat": 0,
+      "species_with_publisher_beach_wrack_habitat": 6,
+      "species_with_ecdysis_field_habitat": 29,
+      "species_with_literature_notes": 6
+    },
+    {
+      "level_iv_code": "85a",
+      "species": 1852,
+      "records": 34414,
+      "species_with_regional_priority_map_evidence": 0,
+      "species_with_any_vegetation_match": 10,
+      "species_with_publisher_habitat": 204,
+      "species_with_publisher_dune_habitat": 8,
+      "species_with_publisher_beach_wrack_habitat": 13,
+      "species_with_ecdysis_field_habitat": 39,
+      "species_with_literature_notes": 11
+    }
+  ],
+  "unique_species": 2550,
+  "unique_species_with_publisher_habitat": 393,
+  "unique_species_with_publisher_dune_habitat": 8,
+  "unique_species_with_publisher_beach_wrack_habitat": 16,
+  "candidate_species_with_ecdysis_evidence": 45,
+  "candidate_species_with_literature_notes": 13,
+  "ecdysis_records_mapped_to_species": 308,
+  "ecdysis_site_context_records": {
+    "backdune (field description)": 193,
+    "Perko's Beach": 67,
+    "other/unspecified": 36,
+    "other beach/wrack locality": 12
+  },
+  "ecdysis_named_species": 57,
+  "unique_species_with_priority_map_evidence": 13,
+  "map_category_records": {
+    "mapped_dune_vegetation": 8,
+    "mapped_coastal_strand": 5,
+    "mapped_beach_and_dune_sand": 8,
+    "mapped_old_dune_substrate": 0
+  },
+  "record_count": 43555,
+  "created_at_utc": "2026-10-27T19:57:41.872093+00:00",
+  "checksums_sha256": {
+    "data/final/habitat-notes/checklist_level_iv_6ap_habitat_notes.csv": "b30e8ce9166c871c84967891e28c21c0f4f0a4a26a24042712a679d10e39529d",
+    "data/final/habitat-notes/checklist_level_iv_85a_habitat_notes.csv": "a8b0d04ccb7ae9d8b0d308904b323322f7e20a1158b4725544f9a97dfef61959",
+    "data/final/habitat-notes/column_metadata.csv": "9d9117114dd745863fcce1cc46be21ab0509e65d687032e0f2fa9740273ff618",
+    "data/final/habitat-notes/habitat_annotation_summary.csv": "78e8bb29ab3ab0a46d05f1414e60f2d31dc9beecc39bc7dd5f94f67ee7e364a4"
+  }
+}

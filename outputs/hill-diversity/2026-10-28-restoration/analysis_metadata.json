@@ -1,0 +1,62 @@
+{
+  "source": "data/raw/ecdysis/occurrences_Effort_Habitat_28Oct2026.csv",
+  "source_sha256": "11e39e83b39d9d1fbd15d95772ea04fd47abf2782e930f035c35620fe2662b7f",
+  "species_crosswalk": "outputs/hill-diversity/2026-10-27-insects/ecdysis_species_record_audit.csv",
+  "crosswalk_sha256": "f7cbf8c1fb621ab9a378281f166add524e36bf9d1d6c9da9a15502fba7f91214",
+  "grouping": "Case-insensitive exact ResStatus values dune and Active restoration; no additional relief or habitat filter.",
+  "effort": "personHours alone, confirmed by user; already equals elapsed hours times surveyorCount. Unique group/date/start/end/team-size windows counted once, including the shared July 1 high/middle dune window.",
+  "units": "Species follow approved existing record-ID crosswalk; subspecies roll to species. Genus and subgenus identifications become one unresolved morphotype per genus across both groups, separate from named species; possible overlap is not resolved. Qualifiers retained without filtering.",
+  "weighting": "One occurrence record per vote; individualCount not used. Family and higher IDs excluded, not errors.",
+  "effort_comparison": "Chronological discovery at actual complete-window effort endpoints; no within-window interpolation, hour-based rarefaction, extrapolation or confidence intervals.",
+  "rarefaction": "Exact finite-record richness interpolation, not field-effort or coverage standardization.",
+  "summary": [
+    {
+      "group": "Dune",
+      "sites": 2,
+      "survey_windows": 2,
+      "survey_dates": 2,
+      "person_hours": 3.9166666667000003,
+      "all_records": 79,
+      "insect_records": 70,
+      "eligible_records": 68,
+      "named_species_records": 61,
+      "genus_morphotype_records": 7,
+      "named_species_units": 15,
+      "genus_morphotype_units": 5,
+      "q0": 20,
+      "q1": 10.726696820831537,
+      "q2": 6.64367816091954,
+      "eligible_records_per_person_hour": 17.361702127511816,
+      "rarefaction_records": 68,
+      "rarefied_richness": 20
+    },
+    {
+      "group": "Active restoration",
+      "sites": 7,
+      "survey_windows": 8,
+      "survey_dates": 4,
+      "person_hours": 23.5833333333,
+      "all_records": 224,
+      "insect_records": 217,
+      "eligible_records": 201,
+      "named_species_records": 169,
+      "genus_morphotype_records": 32,
+      "named_species_units": 28,
+      "genus_morphotype_units": 19,
+      "q0": 47,
+      "q1": 14.61084215261679,
+      "q2": 6.902614044079959,
+      "eligible_records_per_person_hour": 8.522968197891904,
+      "rarefaction_records": 68,
+      "rarefied_richness": 22.865853995103834
+    }
+  ],
+  "overlap": {
+    "shared": 9,
+    "dune_only": 11,
+    "restoration_only": 38,
+    "union": 58,
+    "jaccard": 0.15517241379310345,
+    "sorensen": 0.26865671641791045
+  }
+}

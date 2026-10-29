@@ -21,6 +21,21 @@ This repository gathers arthropod occurrence data, source notes, literature, ana
 
 ## Current work: potential insect fauna
 
+The [updated Beach/Upland comparison](outputs/hill-diversity/2026-10-28-beach-upland/README.md)
+uses `uplandBeach` for report section 1.5, ignoring blank assignments and
+including unresolved genus morphotypes. Beach has 54 identification units
+and Upland 58, with 19 shared. The effort audit retains the supplied July
+totals (19.83 and 27.50 person-hours) provisionally because two July 1 Beach
+records overlap the same team's Upland visit. Methods, identities, effort
+review records and two comparison figures accompany the results.
+
+The [28 October dune/restoration comparison](outputs/hill-diversity/2026-10-28-restoration/README.md)
+uses the new survey grouping and effort fields for report section 1.6,
+including genus-only insect morphotypes. It records 20 dune identification
+units in 3.92 person-hours and 47 active-restoration units in 23.58
+person-hours, with nine units shared. Methods, record audits and figures are
+saved alongside the results; prior species-only comparisons remain separate.
+
 The current analysis starts with the existing California GBIF download
 (`10.15468/dl.vgv5ee`) and uses the local Ecdysis inventory for the
 observed fauna. It will identify insect species that may occur at Dangermond.
@@ -33,8 +48,8 @@ applies the requested sequence: genus-or-below identification, usable
 coordinates, Insecta, and EPA Level III ecoregions 6 or 85. It keeps
 genus-only records separate from named-species counts and records the
 number retained at each step. The earlier Hill results are historical;
-the insect-only Hill analysis will be rebuilt after the new scope and
-BOLD eligibility are applied.
+the [new insect-only comparison](analysis/hill-diversity/README.md) uses the
+recent Ecdysis survey and the union of the two Level IV candidate lists.
 
 The 27 October 2026 filtering run retained **1,594,367 insect occurrence
 records**: 797,869 in Level III region 6 and 796,498 in region 85.
@@ -115,24 +130,43 @@ paths have been corrected for this local folder layout, and Step 9
 now points to the fresh EPA download. The separate `Apoidea/` workflow has code but no saved
 checklist outputs in this checkout.
 
-## Habitat evidence for Level IV candidate species
+## Checklist columns and supporting habitat research
 
-The first-pass [habitat and life-history annotations](data/final/habitat-notes/README.md)
-combine regional occurrence coordinates, the public CDFW ds2957 vegetation map,
-USGS SIM 3472 geology, original publisher habitat notes and local Ecdysis field
-descriptions. Perko's Beach and the lighthouse backdunes remain separate contexts.
-Mapped occurrences show collection-location associations; they do not establish
-that a species is a dune or beach specialist. The vegetation map predates the 2022
-restoration, and both maps cover only local parts of the regional candidate pool.
+All four canonical lists are in `data/final/checklists/`. Level IV lists use
+six columns: common name, order, family, resolved scientific name, occurrence
+count and documented preserve occurrence. The life-history and source columns
+were removed at user request. Previously shared Level IV files in
+`data/final/habitat-notes/` are identical copies. Level III lists retain their
+seven-column layout with blank life-history notes. Species names, counts and
+preserve flags are unchanged.
 
-Enriched copies retain all species in the original Level IV checklists. A limited
-set of coastal beetle and cricket accounts have cited life-history notes;
-unreviewed species remain explicitly marked. See the
-[methods and sources](analysis/habitat-notes/README.md), summary statistics and
-record-level evidence in `outputs/habitat-notes/2026-10-27/`. The original checklists
-and earlier Hill results are preserved.
+The first-pass habitat annotations are retained separately in
+`outputs/habitat-notes/2026-10-27/archived-annotations/`, together with the
+[methods and sources](analysis/habitat-notes/README.md). Raw maps and record-level
+evidence remain available as supporting research. Regeneration writes to the
+archive rather than adding columns back to the active checklists.
 
 ## Hill diversity analysis
+
+The preserve-wide record-format analysis compares human observations, preserved
+specimens and DNA records, using only explicit species-level determinations.
+The combined GBIF + UCSB Summer 2026 survey (this project) input has 14,508
+unique insect records; 797 meet the species-only rule and represent 199 species.
+Unnamed barcode clusters are excluded even if GBIF supplies a species parent.
+See [record-format methods and outputs](analysis/hill-diversity/README.md).
+
+
+The current [insect-only comparison](analysis/hill-diversity/README.md) documents
+45 of 2,550 Level IV candidates (1.76%) in the recent Ecdysis survey. The survey
+contains 62 species-level identification units across 316 eligible records;
+observed Hill diversities are q0=62, q1=22.34 and q2=10.62. Seventeen observed
+species fall outside the candidate pool and remain in the inventory. These are
+record-frequency summaries, including qualified identifications; q2 is inverse
+Simpson diversity. Outputs and identity comparisons are in
+`outputs/hill-diversity/2026-10-27-insects/`. See the methods for the five
+user-approved original names, name harmonization and sensitivity comparisons.
+
+The following describes the preserved historical analysis:
 
 The Hill-number workflow and all inputs used for the earlier report
 analysis have been transferred into this repository. It compares

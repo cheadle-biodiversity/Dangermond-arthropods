@@ -79,8 +79,9 @@ for source,rows,fn in [('Ecdysis',ec,ec_species),('GBIF',gb,gb_species)]:
     for r in rows:
         audit.append(dict(source=source,record_id=r.get('occurrenceID') or str(r.get('key')),scientific_name=r.get('scientificName',''),rank=r.get('taxonRank',''),named_species_key=fn(r) or '',bin=bin_key(r) or '',order=order_key(r) or '',basis=r.get('basisOfRecord',''),qualifier=r.get('identificationQualifier',''),locality=r.get('locality',''),event_date=r.get('eventDate','')))
 writecsv('analysis_record_audit.csv',audit,list(audit[0]))
-plt.rcParams.update({'font.family':'DejaVu Sans','font.size':10,'axes.spines.top':False,'axes.spines.right':False,'axes.titleweight':'bold','savefig.facecolor':'white'})
-colors=['#007C91','#C05A2B','#7754A3']
+from figure_style import apply_style, TEAL, ORANGE, GRAY
+apply_style()
+colors=[TEAL,ORANGE,GRAY]
 def plot_profile(ax,items,title,unit):
     for i,k in enumerate(items):
         c=series[k];ax.plot(qs,[hill(c,q) for q in qs],lw=2.5,color=colors[i],label=f'{k}\n{sum(c.values()):,} records; {len(c):,} taxa')
@@ -96,13 +97,11 @@ for i,k in enumerate(['Ecdysis: named species','GBIF: named species assignments'
 ax.set(title='D  Named-species record rarefaction (q = 0)',xlabel='Number of occurrence records',ylabel='Expected number of named species');ax.grid(alpha=.16);ax.legend(frameon=False,fontsize=8.5)
 fig.suptitle('Dangermond Preserve — Hill diversity curves',fontsize=19,fontweight='bold',y=.99)
 fig.text(.5,.945,'Ecdysis: July–August 2026  |  GBIF: all years in the saved Preserve terrestrial-arthropod extract',ha='center',fontsize=11)
-fig.text(.5,.018,'Record-frequency diversity, not individual abundance. Higher-rank identifications remain valid but are excluded from species profiles.\nBINs are molecular units, not confirmed species; sources overlap and differ in sampling methods and identification coverage.',ha='center',fontsize=9,color='#454545')
 fig.tight_layout(rect=[0,.065,1,.92])
 for ext in ['png','pdf','svg']:fig.savefig(OUT/f'Hill_diversity_overview.{ext}',dpi=220)
 plt.close(fig)
 fig,ax=plt.subplots(figsize=(10,6.5))
 plot_profile(ax,['Ecdysis: Perko’s Beach, July','Ecdysis: lighthouse area, July'],'July 2026 — locality-specific named-species profiles','Effective number of named species')
-fig.text(.5,.025,'Perko’s Beach and lighthouse localities are separate. Record frequencies include provisional species identifications.\nUnequal effort and methods prevent interpretation as a standardized habitat-quality comparison.',ha='center',fontsize=9)
 fig.tight_layout(rect=[0,.09,1,1])
 for ext in ['png','pdf','svg']:fig.savefig(OUT/f'Hill_profiles_Perkos_vs_lighthouse.{ext}',dpi=220)
 plt.close(fig)

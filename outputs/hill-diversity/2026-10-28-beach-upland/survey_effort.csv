@@ -1,0 +1,18 @@
+window_key,group,date,start,end,surveyor_count,person_hours,effort_available,sites,all_records,insect_records,eligible_records,units
+Upland|2026-07-01|10:00:00 AM|12:15:00 PM|3,Upland,2026-07-01,10:00:00 AM,12:15:00 PM,3,6.75,True,Site_9: Two-scrape backdune C,28,27,22,14
+Beach|2026-07-01|10:20:00 AM|11:45:00 AM|3,Beach,2026-07-01,10:20:00 AM,11:45:00 AM,3,4.25,True,Site_3: Percos Beach,2,2,1,1
+Upland|2026-07-01|12:40:00 PM|1:35:00 PM|3,Upland,2026-07-01,12:40:00 PM,1:35:00 PM,3,2.75,True,Site_7: Two-scrape backdune A,36,35,34,11
+Beach|2026-07-01|1:00:00 PM|1:30:00 PM|3,Beach,2026-07-01,1:00:00 PM,1:30:00 PM,3,1.5,True,Site_1: Opp. site C: sea cliff,7,7,7,6
+Upland|2026-07-01|1:40:00 PM|2:25:00 PM|3,Upland,2026-07-01,1:40:00 PM,2:25:00 PM,3,2.25,True,Site_4: dune high; Site_5: dune mid,43,40,40,16
+Upland|2026-07-06|10:20:00 AM|11:45:00 AM|3,Upland,2026-07-06,10:20:00 AM,11:45:00 AM,3,4.25,True,Site_9: Two-scrape backdune C,43,43,39,14
+Beach|2026-07-06|12:15:00 PM|1:20:00 PM|3,Beach,2026-07-06,12:15:00 PM,1:20:00 PM,3,3.25,True,Site_2: Opp. site D: beach,20,16,14,6
+Beach|2026-07-06|1:50:00 PM|3:05:00 PM|3,Beach,2026-07-06,1:50:00 PM,3:05:00 PM,3,3.75,True,Site_3: Percos Beach,23,20,20,17
+Upland|2026-07-07|7:15:00 AM|8:30:00 AM|3,Upland,2026-07-07,7:15:00 AM,8:30:00 AM,3,3.75,True,Site_8: Two-scrape backdune B,32,30,29,10
+Upland|2026-07-07|9:00:00 AM|9:45:00 AM|3,Upland,2026-07-07,9:00:00 AM,9:45:00 AM,3,2.25,True,Site_10: Two-scrape backdune D,71,69,65,16
+Beach|2026-07-07|10:20:00 AM|11:45:00 AM|3,Beach,2026-07-07,10:20:00 AM,11:45:00 AM,3,4.25,True,Site_3: Percos Beach,43,43,42,19
+Upland|2026-07-13|10:50:00 AM|11:15:00 AM|2,Upland,2026-07-13,10:50:00 AM,11:15:00 AM,2,0.8333333333,True,Site_13: Opp. site B,3,2,1,1
+Upland|2026-07-13|11:15:00 AM|12:00:00 PM|2,Upland,2026-07-13,11:15:00 AM,12:00:00 PM,2,1.5,True,Site_12: Opp. site A,6,6,6,6
+Upland|2026-07-13|12:00:00 PM|12:45:00 PM|2,Upland,2026-07-13,12:00:00 PM,12:45:00 PM,2,1.5,True,Site_11: Opp. site: Exp. Plot,5,5,5,5
+Beach|2026-07-13|1:05:00 PM|2:30:00 PM|2,Beach,2026-07-13,1:05:00 PM,2:30:00 PM,2,2.8333333333,True,Site_3: Percos Beach,38,35,27,14
+Upland|2026-07-13|2:40:00 PM|3:30:00 PM|2,Upland,2026-07-13,2:40:00 PM,3:30:00 PM,2,1.6666666667,True,Site_4: dune high,36,30,28,7
+Beach|2026-08-18|||2,Beach,2026-08-18,,,2,,False,Site_3: Percos Beach,9,9,0,0

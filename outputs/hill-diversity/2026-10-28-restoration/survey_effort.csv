@@ -1,0 +1,11 @@
+window_key,analysis_group,date,start,end,surveyor_count,person_hours,sites,all_records,insect_records,eligible_records,units,protocols
+Active restoration|2026-07-01|10:00:00 AM|12:15:00 PM|3,Active restoration,2026-07-01,10:00:00 AM,12:15:00 PM,3,6.75,Site_9: Two-scrape backdune C,28,27,22,14,(blank); NC; hand; net; sift
+Active restoration|2026-07-01|12:40:00 PM|1:35:00 PM|3,Active restoration,2026-07-01,12:40:00 PM,1:35:00 PM,3,2.75,Site_7: Two-scrape backdune A,36,35,34,11,NC; hand; net; sift
+Dune|2026-07-01|1:40:00 PM|2:25:00 PM|3,Dune,2026-07-01,1:40:00 PM,2:25:00 PM,3,2.25,Site_4: dune high; Site_5: dune mid,43,40,40,16,(blank); NC; hand; net; sift
+Active restoration|2026-07-06|10:20:00 AM|11:45:00 AM|3,Active restoration,2026-07-06,10:20:00 AM,11:45:00 AM,3,4.25,Site_9: Two-scrape backdune C,43,43,39,14,Time constrained visual search and capture around sampling point; hand; net
+Active restoration|2026-07-07|7:15:00 AM|8:30:00 AM|3,Active restoration,2026-07-07,7:15:00 AM,8:30:00 AM,3,3.75,Site_8: Two-scrape backdune B,32,30,29,10,(blank); hand; net
+Active restoration|2026-07-07|9:00:00 AM|9:45:00 AM|3,Active restoration,2026-07-07,9:00:00 AM,9:45:00 AM,3,2.25,Site_10: Two-scrape backdune D,71,69,65,16,(blank); hand; net
+Active restoration|2026-07-13|10:50:00 AM|11:15:00 AM|2,Active restoration,2026-07-13,10:50:00 AM,11:15:00 AM,2,0.8333333333,Site_13: Opp. site B,3,2,1,1,(blank); hand
+Active restoration|2026-07-13|11:15:00 AM|12:00:00 PM|2,Active restoration,2026-07-13,11:15:00 AM,12:00:00 PM,2,1.5,Site_12: Opp. site A,6,6,6,6,hand; net
+Active restoration|2026-07-13|12:00:00 PM|12:45:00 PM|2,Active restoration,2026-07-13,12:00:00 PM,12:45:00 PM,2,1.5,Site_11: Opp. site: Exp. Plot,5,5,5,5,(blank); hand; net
+Dune|2026-07-13|2:40:00 PM|3:30:00 PM|2,Dune,2026-07-13,2:40:00 PM,3:30:00 PM,2,1.6666666667,Site_4: dune high,36,30,28,7,hand; net; sieve
