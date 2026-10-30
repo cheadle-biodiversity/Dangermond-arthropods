@@ -132,13 +132,12 @@ checklist outputs in this checkout.
 
 ## Checklist columns and supporting habitat research
 
-All four canonical lists are in `data/final/checklists/`. Level IV lists use
-six columns: common name, order, family, resolved scientific name, occurrence
-count and documented preserve occurrence. The life-history and source columns
-were removed at user request. Previously shared Level IV files in
-`data/final/habitat-notes/` are identical copies. Level III lists retain their
-seven-column layout with blank life-history notes. Species names, counts and
-preserve flags are unchanged.
+All four canonical lists are in `data/final/checklists/` and use the same six
+columns: common name, order, family, resolved scientific name, occurrence
+count and documented preserve occurrence. Life-history and source columns
+have been removed. Species names, counts and preserve flags are unchanged.
+Previously shared files in `data/final/habitat-notes/` are legacy copies;
+use the canonical `checklists/` folder for the data release.
 
 The first-pass habitat annotations are retained separately in
 `outputs/habitat-notes/2026-10-27/archived-annotations/`, together with the
@@ -260,11 +259,14 @@ may supersede earlier screening notes.
 Large local data files will be deposited separately in Zenodo, with
 source citations, licenses and checksums. The full repository will
 remain on GitHub; automatic GitHub-release archiving is not the intended
-workflow. See [the data-deposit plan](docs/zenodo-data.md). No Zenodo
-deposit or DOI has been created yet. The incoming USA-wide GBIF
-download must be received and documented before selecting the final
-archive snapshot. MIT was selected for original code; source data
-retain their own licenses.
+workflow. See the [deposit README](docs/zenodo/README.md),
+[file review](docs/zenodo/repository-review.md), and
+[data-deposit plan](docs/zenodo-data.md). This deposit is based on the existing
+California GBIF archive, four final checklists, checklist column descriptor
+and two occurrence tables. Ecdysis and other supporting inputs are not in
+the selected eight-file upload. The planned USA-wide refresh is separate.
+No Zenodo deposit or DOI has been created here. MIT was selected for original
+code; source data retain their own licenses.
 
 ### Data sources
 

@@ -26,10 +26,11 @@ shared-boundary matches receive both region labels.
 
 No new date, basis-of-record, identification-qualifier or deduplication
 filter is applied. These four-filter outputs are intermediate occurrence
-tables, not final named-species checklists. The project's BOLD exclusion
-and verified local-trap exceptions still apply before analysis and
-checklist production. Spiders and other non-insect invertebrates are
-outside this insect analysis and belong in the separate report section.
+tables, not final named-species checklists. The final checklists retain BOLD
+records with resolved species determinations; this supersedes the earlier
+source-wide exclusion. Unnamed barcode clusters remain outside named-species
+lists. Spiders and other non-insect invertebrates are outside the intended
+insect scope; see the release review for a resolved-classification exception.
 
 ## Run
 
@@ -416,10 +417,10 @@ Git-ignored; the descriptors and manifests are versioned.
 
 ## Regional species checklists
 
-`create_ecoregion_checklists.py` writes one seven-column species
+`create_ecoregion_checklists.py` writes one six-column species
 checklist for each of Level III regions 6/85 and Level IV regions
 6ap/85a in `data/final/checklists/`. Subspecies are rolled up to species.
-Life-history notes are blank, as requested. Preserve occurrence is
+Life-history notes and source columns have been removed. Preserve occurrence is
 `Yes` only where supporting named records are documented; otherwise
 blank. Supporting survey and GBIF records, mapping questions and
 classification conflicts are saved in companion audit tables.

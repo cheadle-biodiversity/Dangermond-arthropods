@@ -1,6 +1,6 @@
 # Ecoregion species checklists
 
-Four species-level regional checklists. Level IV has six columns after removal of life-history notes and sources; Level III notes remain blank. Preserve occurrence is Yes only where a supporting record was found, and blank otherwise.
+Four species-level regional checklists. All four lists use the same six columns; life-history notes and sources have been removed. Preserve occurrence is Yes only where a supporting record was found, and blank otherwise.
 
 | Level | Code | Species | Regional occurrences | Species documented on preserve |
 |---|---|---:|---:|---:|
@@ -13,6 +13,6 @@ Subspecies are rolled up to species; common names specific to a subspecies are n
 
 The evidence table includes the local Ecdysis survey and named GBIF preserve records, including BOLD with name-matching provenance. Coordinate checks use the supplied preserve boundary; local species records also carry an explicit Dangermond locality. Higher-taxon identifications are valid but do not establish a named species. All resolved species-level regional records are included regardless of source, following the user’s restoration instruction. Unresolved BIN and genus-only records do not establish named species; final occurrence datasets are unchanged.
 
-See column_metadata.csv and checklist_metadata.json for definitions, sources and exact methods. The evidence, unmapped-record and classification-conflict tables permit review; Level IV has six columns; Level III retains seven columns.
+See column_metadata.csv and checklist_metadata.json for definitions, sources and exact methods. The evidence, unmapped-record and classification-conflict tables permit review; all four checklists share the six-column schema.
 
 Reproduce the base lists: `python3 analysis/regional-candidate-pool/create_ecoregion_checklists.py`. Life-history and source enrichment is retired at user request.

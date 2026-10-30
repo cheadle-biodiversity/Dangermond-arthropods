@@ -31,7 +31,7 @@ Full filtering, source and name-resolution methods: [workflow README](../../anal
 
 The [checklists/](checklists/) folder contains separate checklists for
 regions 6, 85, 6ap and 85a, with a `Yes` preserve flag only when documented.
-Level IV lists have six columns following removal of life-history notes and sources.
-Level III keeps its blank legacy life-history field. All resolved species-level source
+All four lists have six columns following removal of life-history notes and sources.
+All resolved species-level source
 records, including BOLD, are retained under the user's latest instruction.
 Companion files document preserve evidence and checklist methods.

@@ -72,7 +72,7 @@ The diversity and overlap results do not depend on effort values.
 | Inverse Simpson (q2) | 29.27 | 8.56 |
 | Expected units at 111 records | 54.00 | 33.42 |
 
-Nineteen units are shared (14 named species and five genus bins), 35 are
+Nineteen units are shared (15 named species and four genus bins), 35 are
 Beach-only and 39 Upland-only; union = 93. Jaccard similarity is 20.43%
 and Sørensen similarity is 33.93%. Group-only means recorded in just one
 inventory, not demonstrated habitat restriction. Shared genus bins do not

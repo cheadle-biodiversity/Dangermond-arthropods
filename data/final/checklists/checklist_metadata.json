@@ -46,7 +46,7 @@
   "boundary_sha256": "084e5554f870b4071dfbab2b2c84474eac7cf2d08c1afdf7bfcb73e59ee6ba28",
   "local_survey_encoding": "ISO-8859-1",
   "preserve_positive_rule": "Positive supporting GBIF point in supplied boundary or Ecdysis named-species record with locality explicitly naming Dangermond. Genus/higher IDs do not create species flags; ABSENT records do not establish presence. A positive flag is preserve-wide, not evidence of occurrence in that checklist ecoregion or a particular dune habitat. Coordinate uncertainty not buffered.",
-  "blank_rule": "Blank preserve flag means not documented, not absent. Level III life-history notes remain blank.",
+  "blank_rule": "Blank preserve flag means not documented in the records checked, not absence.",
   "bold_policy": "User explicitly restored all records with resolved species determinations, including BOLD/iBOL/BIOUG/CBG sources. All v3 regional records retained. Named preserve BOLD records can support a positive flag after boundary/name checks; genus-only and unresolved BIN records do not establish species. This supersedes the earlier blanket BOLD exclusion for these checklists.",
   "excluded_records": {},
   "retained_identifiable_BOLD_records": {
@@ -57,12 +57,20 @@
   "preserve_named_taxa_in_evidence": 194,
   "unmapped_preserve_records": 12,
   "classification_rule": "Prefer service ORDER/FAMILY; missing service values fall back to original GBIF. Choose weighted modal pair over regional source records, with ties sorted lexically. Conflicts logged separately.",
-  "life_history_notes": "Removed with source from Level IV at user request; Level III retains its blank legacy field.",
   "notes": "Regional candidate lists, not lists of confirmed preserve species. Candidate occurrence counts use source records, not individualCount; no new date/deduplication filter. Local surveys mark presence without increasing regional GBIF record counts. Preserve evidence may contain overlapping sources; its rows must not be summed as independent biological events.",
   "output_checksums_sha256": {
-    "checklist_level_iii_6.csv": "8dc6bd31fee7322411a6357f683978812262e3a6d6ac24fd6d75a9bc86da6cf2",
-    "checklist_level_iii_85.csv": "cc340615cb73bcd2ba582a1068502a7c3ab9ab79e2ec47813d1002e902277181",
+    "checklist_level_iii_6.csv": "25a9acfd6a9a6b1f0abc049f53784d403e070af002b2c35f810d3b917d3d008d",
+    "checklist_level_iii_85.csv": "9dae1f458f8712c72d24e6641ff8434e8014d77f4fcfaad1e049b6c8eb23cd58",
     "checklist_level_iv_6ap.csv": "e848c69655f36124cdb0b70b20e9315ee5d90d34deafa205179da83f3d76f178",
     "checklist_level_iv_85a.csv": "50abf995d2524bd03846bd2afd69922e7cbe7b6c09a99690face194e5a01fc20"
-  }
+  },
+  "checklist_columns": [
+    "common_name",
+    "order",
+    "family",
+    "resolved_scientific_name",
+    "occurrence_count",
+    "collected_or_observed_on_dangermond"
+  ],
+  "column_schema_updated_on": "2026-10-29"
 }
