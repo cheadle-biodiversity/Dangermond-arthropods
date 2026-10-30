@@ -34,15 +34,6 @@ def sha(path):
         return hashlib.file_digest(f, 'sha256').hexdigest()
 
 
-def site_group(row):
-    """Use recorded locality/habitat only; no mapped habitat inference."""
-    if re.search(r'\bper(?:ko|cos|kos|co)[\W_]*s?\s*beach\b', row['locality'], re.I):
-        return "Perko's Beach"
-    if re.search(r'\bback[ -]?dunes?\b', row['locality'] + ' ' + row['habitat'], re.I):
-        return 'Lighthouse backdunes'
-    return 'Other/unspecified'
-
-
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     local = pd.read_csv(ECDYSIS, encoding='ISO-8859-1', dtype=str, keep_default_na=False)
@@ -112,25 +103,6 @@ def main():
                ('Human observations only', named[named.basisOfRecord.eq('HumanObservation')])]
     summaries = [{'subset': label, **hill(frame.analysis_taxon_name)} for label, frame in subsets]
     pd.DataFrame(summaries).to_csv(OUT / 'observed_hill_summary.csv', index=False)
-    named['site_group'] = named.apply(site_group, axis=1)
-    insects['site_group'] = insects.apply(site_group, axis=1)
-    sites = ["Perko's Beach", 'Lighthouse backdunes']
-    site_summary = []
-    for site in sites:
-        group = named[named.site_group.eq(site)]
-        for label, frame in [('All species-level records', group)]:
-            if len(frame):
-                site_summary.append({'site': site, 'subset': label, **hill(frame.analysis_taxon_name),
-                                     'total_insect_records_at_site': int(insects.site_group.eq(site).sum())})
-    pd.DataFrame(site_summary).to_csv(OUT / 'site_hill_summary.csv', index=False)
-    site_species = {site: set(named.loc[named.site_group.eq(site), 'analysis_taxon_name']) for site in sites}
-    shared_sites = site_species[sites[0]] & site_species[sites[1]]
-    pd.DataFrame([{'analysis_taxon_name': name,
-                   'Perkos_Beach_records': int((named.site_group.eq(sites[0]) & named.analysis_taxon_name.eq(name)).sum()),
-                   'lighthouse_backdune_records': int((named.site_group.eq(sites[1]) & named.analysis_taxon_name.eq(name)).sum()),
-                   'shared': name in shared_sites}
-                  for name in sorted(set.union(*site_species.values()))]).to_csv(OUT / 'site_species_overlap.csv', index=False)
-    named.to_csv(OUT / 'site_record_audit.csv', index=False)
     observed_lookup = dict(zip(unit_table.analysis_taxon_name, unit_table.occurrence_records))
     pd.DataFrame([{'resolved_scientific_name': name,
                    'level_iv_regions': ', '.join(code for code in pools if name in pools[code]),
@@ -152,14 +124,6 @@ def main():
             'candidate_percentage_documented': 100 * len(shared) / len(candidates),
             'reconciled_observed_outside_pool': len(outside), 'hill_summaries': summaries,
             'two_most_recorded_species': named.analysis_taxon_name.value_counts().head(2).to_dict(),
-            'site_comparison': {'assignment': 'Perko locality variants versus explicit backdune description; other/unspecified records remain separate, including unclassified lighthouse localities.',
-                                'shared_species': sorted(shared_sites), 'shared_species_count': len(shared_sites),
-                                'site_union_species': len(set.union(*site_species.values())),
-                                'jaccard_similarity': len(shared_sites)/len(set.union(*site_species.values())),
-                                'sorensen_similarity': 2*len(shared_sites)/sum(len(v) for v in site_species.values()),
-                                'comparison_policy': 'All record formats combined within each site; compare overall richness, evenness and species identities.',
-                                'other_unspecified_species_records': int(named.site_group.eq('Other/unspecified').sum()),
-                                'summaries': site_summary},
             'weighting': 'One unique Ecdysis occurrence record per count, not individualCount or population abundance. No GBIF records are pooled into the observed survey.',
             'pending_name_policy': 'User confirmed five previously unmatched names on 2026-10-27; retain them exactly, with qualifiers. This is user review, not a new service match. Any remaining unresolved names would remain explicit pending units.',
             'uncertainty': 'All species-level identifications are analyzed together. These are empirical record-frequency Hill values, not unseen-richness estimates, coverage-standardized estimates, occupancy probabilities or habitat-health scores.',

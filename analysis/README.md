@@ -1,3 +1,9 @@
+# Analysis workflows
+
+The current report uses the [regional candidate checklist workflow](regional-candidate-pool/README.md) and [Hill diversity workflow](hill-diversity/README.md). Final data are archived on [Zenodo](https://doi.org/10.5281/zenodo.23819517).
+
+The numbered pipeline below is retained as supporting code: regional filtering reads its preserve/ecoregion overlay, and the distance figure uses its summary tables. Its exploratory range products are not species occurrence probabilities. Withdrawn habitat annotations, historical Hill workflows and the separate Apoidea workflow have been removed from the active checkout; see the [cleanup record](../docs/repository-cleanup-2026-10-30.json).
+
 # Analysis Pipeline
 
 For the separate record-based Hill diversity workflow, see

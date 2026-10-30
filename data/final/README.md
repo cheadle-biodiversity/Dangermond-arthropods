@@ -13,9 +13,9 @@ These are full regional occurrence pools, not records restricted to Dangermond P
 
 Both files have the same 60-column schema. Each is a gzip-compressed, UTF-8 CSV with a header; read identifier fields as text. Blank values are not zero. Original names, final resolved names and match descriptions are retained. Original GBIF classification and taxon keys may differ from the subsequently resolved name. Species counts above use the upstream species-level roll-up; do not substitute a count of distinct resolved_taxon_name because that field can retain subspecies.
 
-Source: [GBIF download 10.15468/dl.vgv5ee](https://doi.org/10.15468/dl.vgv5ee). Scientific-name matching used GBIF / Catalogue of Life XR plus user-reviewed decisions; common names used the [ESA list](https://entsoc.org/publications/common-names). Record-level licenses and rights holders remain applicable. BOLD eligibility and ecological screening remain future analysis steps.
+Source: [GBIF download 10.15468/dl.vgv5ee](https://doi.org/10.15468/dl.vgv5ee). Scientific-name matching used GBIF / Catalogue of Life XR plus user-reviewed decisions; common names used the [ESA list](https://entsoc.org/publications/common-names). Record-level licenses and rights holders remain applicable. Named species-level BOLD records are retained; habitat-level ecological screening remains future work.
 
-The large compressed files are ignored by Git; descriptors and manifests are versioned. Full 266-column data and audit tables remain in outputs/regional-candidate-pool/gbif-vgv5ee/. These final files were relocated byte-for-byte from the working exports.
+The large compressed files are ignored by Git and available from [Zenodo](https://doi.org/10.5281/zenodo.23819517); descriptors and manifests are versioned. Full 266-column data and audit tables remain in outputs/regional-candidate-pool/gbif-vgv5ee/. These final files were relocated byte-for-byte from the working exports.
 
 Reproduce from repository root:
 

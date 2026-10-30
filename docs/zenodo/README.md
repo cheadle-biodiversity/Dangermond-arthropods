@@ -2,6 +2,8 @@
 
 This dataset contains regional candidate species checklists and their supporting occurrence records for the Jack and Laura Dangermond Preserve, California. Candidate species are drawn from EPA ecoregions intersecting the preserve; inclusion does not confirm that a species occurs on the property.
 
+**Published data:** [Zenodo record 23819517](https://zenodo.org/records/23819517), DOI [10.5281/zenodo.23819517](https://doi.org/10.5281/zenodo.23819517).
+
 **GitHub repository:** https://github.com/cheadle-biodiversity/Dangermond-arthropods
 
 ## Files

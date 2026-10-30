@@ -1,0 +1,484 @@
+{
+  "date": "2026-10-30",
+  "repository_commit_before_cleanup": "48fbc35d267ee214f1221056481293df9f03b806",
+  "archive_directory": "/Users/seltmann/Documents/Dangermond-repository-archive-2026-10-30",
+  "policy": "Removed from active checkout; archived outside repository with verified checksums. Source archives, final datasets and active workflow dependencies retained.",
+  "files": [
+    {
+      "original_path": "Apoidea/.gitignore",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 177,
+      "sha256": "0b1ede49fa3bf8782a2ec9460799a5b8f398fc12dd0499e2b7fe1470af0f06b2"
+    },
+    {
+      "original_path": "Apoidea/README.md",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 11664,
+      "sha256": "c6e980c3a381f3ee03216cee9190e136f62ace951274b175943bb4ebb1b206c0"
+    },
+    {
+      "original_path": "Apoidea/config.yaml",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 2154,
+      "sha256": "1333bc08cd023a44363b17723fd6122c5285d4b06e472f0e0a3cb5d4cd7207a1"
+    },
+    {
+      "original_path": "Apoidea/data/interim/.gitkeep",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "original_path": "Apoidea/data/processed/.gitkeep",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "original_path": "Apoidea/data/raw/.gitkeep",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "original_path": "Apoidea/data/taxonomy_species_complexes.csv",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 89,
+      "sha256": "4d59fd506eef77d7d2a6c9f327d70dc25684e8fdd021a936efeefa2781b839ec"
+    },
+    {
+      "original_path": "Apoidea/output/.gitkeep",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "original_path": "Apoidea/requirements.txt",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 62,
+      "sha256": "ba4ae1eee1f98eb42f2f69b87d92761924b2aefe01f7d471b34404d4ea4e0107"
+    },
+    {
+      "original_path": "Apoidea/run_pipeline.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 4637,
+      "sha256": "1c1ceb36d04d828c3ebf6896436fe15a3bfa0a2535b7f8c6e2f247969f608276"
+    },
+    {
+      "original_path": "Apoidea/src/__init__.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 61,
+      "sha256": "dfada2c18a992fd3ed7b9ba78b08ec9885c2907c316eceafb2eddf51cd90d190"
+    },
+    {
+      "original_path": "Apoidea/src/build_checklist.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 11430,
+      "sha256": "594f1597b4edb56567f837b2804b892b5dbb86e41ad2839e42fc64e233832e2f"
+    },
+    {
+      "original_path": "Apoidea/src/clean_occurrences.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 8480,
+      "sha256": "bc0a7422a7f3baf210a654ca0e8decf27c06cfea0d186d98be239cc3e44d2013"
+    },
+    {
+      "original_path": "Apoidea/src/query_gbif.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 10450,
+      "sha256": "cf990581da8426c58b818eda791fa8dbb01e93140ca85785249cf4300a4e6c7f"
+    },
+    {
+      "original_path": "Apoidea/src/taxonomy_flags.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 2961,
+      "sha256": "a83057b804a06ac5ea12be328f5f9fa30e810ab07a1636e3ee83b153bec321cb"
+    },
+    {
+      "original_path": "Apoidea/src/utils.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 5253,
+      "sha256": "86ac63b9a3f556113c7f1a10f47e3383256316885050cbe6f2034a47288c3823"
+    },
+    {
+      "original_path": "Apoidea/src/validation.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 5716,
+      "sha256": "d48782bdb67c7f6c9c0ba3f88f9adedccfc5c92d9685edee26fdcee143a5fabf"
+    },
+    {
+      "original_path": "Apoidea/tests/test_cleaning.py",
+      "reason": "Separate non-bee Apoidea workflow, outside the current report analyses.",
+      "bytes": 3597,
+      "sha256": "97191ecd28f32eaddb393be18af8c76f7ea321ac8e8f3259c6703cb85eaa52fd"
+    },
+    {
+      "original_path": "analysis/CA-arthropods.Rmd",
+      "reason": "Exploratory database notebook superseded by the regional candidate workflow.",
+      "bytes": 4302,
+      "sha256": "53f43aa23da9c9f17d5eb4f0615b48df942387545c7284f44e52e1852585e1ec"
+    },
+    {
+      "original_path": "analysis/habitat-notes/README.md",
+      "reason": "Withdrawn habitat annotation workflow.",
+      "bytes": 7417,
+      "sha256": "320d040f7ae780807726c707b94ebca424fe1e171dc8f102abc026eee7ac8b32"
+    },
+    {
+      "original_path": "analysis/habitat-notes/annotate_level_iv.py",
+      "reason": "Withdrawn habitat annotation workflow.",
+      "bytes": 14556,
+      "sha256": "87fc2836d05e1674dcda388af0fda1ad63d8f0e883091aa9613b61a33839ef11"
+    },
+    {
+      "original_path": "analysis/habitat-notes/reviewed_species_notes.csv",
+      "reason": "Withdrawn habitat annotation workflow.",
+      "bytes": 3579,
+      "sha256": "934c72ffd01179b0b3c7473f58a5351708df3dfb222f1a9667131c582f267b98"
+    },
+    {
+      "original_path": "analysis/species-life-history/README.md",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 7075,
+      "sha256": "8ff4260d4fa342389a88f2f7d9f0b78a31e824d042e4246dab3926fc5dae27a4"
+    },
+    {
+      "original_path": "analysis/species-life-history/__pycache__/build_notes.cpython-313.pyc",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 22060,
+      "sha256": "6a95ad8b1ca6d31996656eedef9f37b6f9d3493d0530ff4ef7c92dec0cf8c1cc"
+    },
+    {
+      "original_path": "analysis/species-life-history/__pycache__/collect_sources.cpython-313.pyc",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 9882,
+      "sha256": "50559d96a80a02b3569e7478b986f39fd6ebd92faa2dc209ab02da9b61c1a6b8"
+    },
+    {
+      "original_path": "analysis/species-life-history/__pycache__/extract_cdfw.cpython-313.pyc",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 4619,
+      "sha256": "558fce4099d9f7fc1c787ee2950c0df39e590d6a23f0fce527a3c24dae5b1d78"
+    },
+    {
+      "original_path": "analysis/species-life-history/build_notes.py",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 13675,
+      "sha256": "b8b3bb19dea9a26a62b5e2ac99a06e3746ee33a6f619ba3ef466d908afb34683"
+    },
+    {
+      "original_path": "analysis/species-life-history/collect_sources.py",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 5659,
+      "sha256": "9ffd3c0c6c1a46efa7185c00c444eb05ba59fc98b0f37d8f39552f342d0dc331"
+    },
+    {
+      "original_path": "analysis/species-life-history/extract_cdfw.py",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 3057,
+      "sha256": "e2ada6695ad20146cc8353a0017fde836248bc711c8d9963a4b26ccb2abed4fa"
+    },
+    {
+      "original_path": "analysis/species-life-history/reviewed_additions.csv",
+      "reason": "Withdrawn species life-history enrichment.",
+      "bytes": 1115,
+      "sha256": "cae2c8f0da8922a33be32ae6da47d3646424bdaa0177c85369211afe24f6e8f4"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/README.md",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 1718,
+      "sha256": "91d2827bc20bd5cb9baf312759a7a54bc4296968416b7749f001e1f605898b7d"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/checklist_level_iv_6ap_habitat_notes.csv",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 363266,
+      "sha256": "b30e8ce9166c871c84967891e28c21c0f4f0a4a26a24042712a679d10e39529d"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/checklist_level_iv_85a_habitat_notes.csv",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 284607,
+      "sha256": "a8b0d04ccb7ae9d8b0d308904b323322f7e20a1158b4725544f9a97dfef61959"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/column_metadata.csv",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 4359,
+      "sha256": "9d9117114dd745863fcce1cc46be21ab0509e65d687032e0f2fa9740273ff618"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/habitat_annotation_metadata.json",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 3542,
+      "sha256": "74c0169e864fe999cefee103770e33b9ab649878301004845037ab1213ce2971"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/habitat_annotation_summary.csv",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 352,
+      "sha256": "78e8bb29ab3ab0a46d05f1414e60f2d31dc9beecc39bc7dd5f94f67ee7e364a4"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/archived-annotations/habitat_evidence_summary.md",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 5592,
+      "sha256": "df17263f794f8ec62b1cee56bf4310c2c61be4c3912b3eadf1aff36001f06b3b"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/ecdysis_habitat_evidence.csv",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 396074,
+      "sha256": "eb24d146581aaebbc2971bf5766838d31958aa2aaeb8ae575c6948753ff147a0"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/occurrence_habitat_evidence.csv.gz",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 5865771,
+      "sha256": "76de3f058435efff0ccf1964fe46755595ec70a3712383721b2a01251322130a"
+    },
+    {
+      "original_path": "outputs/habitat-notes/2026-10-27/regional_record_context.csv.gz",
+      "reason": "Withdrawn habitat annotations and evidence outputs.",
+      "bytes": 520566,
+      "sha256": "65e63f54e48d6fe60135fc47b56fa2d6289d80ab8891225da190f64c56cef059"
+    },
+    {
+      "original_path": "outputs/species-life-history/2026-10-27/species_lookup_coverage.csv",
+      "reason": "Withdrawn species life-history outputs.",
+      "bytes": 73335,
+      "sha256": "d784add57f2545b9cc2b1bb8e5b58fb9fe0bd1640bacad1875b562c5ebc09ca6"
+    },
+    {
+      "original_path": "outputs/species-life-history/2026-10-27/species_source_audit.jsonl.gz",
+      "reason": "Withdrawn species life-history outputs.",
+      "bytes": 284862,
+      "sha256": "8156c970c5e1601cd817e0410030da6a4dc6dc3e5e11d926faedf5814ca3555a"
+    },
+    {
+      "original_path": "outputs/species-life-history/2026-10-27/summary.json",
+      "reason": "Withdrawn species life-history outputs.",
+      "bytes": 911,
+      "sha256": "ec473fecd391a2531fc91f179c9ec1189431262fb91dc38d12e68057c0b0291f"
+    },
+    {
+      "original_path": "data/final/habitat-notes/README.md",
+      "reason": "Duplicate legacy checklists; canonical six-column lists are retained.",
+      "bytes": 326,
+      "sha256": "e1f0ce140c14ed71a71177e139337baff521e2e25508a923df5208eb66b972c3"
+    },
+    {
+      "original_path": "data/final/habitat-notes/checklist_level_iv_6ap_habitat_notes.csv",
+      "reason": "Duplicate legacy checklists; canonical six-column lists are retained.",
+      "bytes": 75983,
+      "sha256": "e848c69655f36124cdb0b70b20e9315ee5d90d34deafa205179da83f3d76f178"
+    },
+    {
+      "original_path": "data/final/habitat-notes/checklist_level_iv_85a_habitat_notes.csv",
+      "reason": "Duplicate legacy checklists; canonical six-column lists are retained.",
+      "bytes": 93330,
+      "sha256": "50abf995d2524bd03846bd2afd69922e7cbe7b6c09a99690face194e5a01fc20"
+    },
+    {
+      "original_path": "data/final/habitat-notes/column_metadata.csv",
+      "reason": "Duplicate legacy checklists; canonical six-column lists are retained.",
+      "bytes": 909,
+      "sha256": "847eb3bbeeb412560de97c27e8687cabf6be6c598e12626c7657ce76b3f86202"
+    },
+    {
+      "original_path": "data/final/habitat-notes/restoration_metadata.json",
+      "reason": "Duplicate legacy checklists; canonical six-column lists are retained.",
+      "bytes": 690,
+      "sha256": "43a5b8b3d675a7e67ee502ee83637c8309c607d85e04985ef104902b0530c9c2"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_curves_notes.md",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 4729,
+      "sha256": "e2600e7405f06fb719fa32b9f645fa8a953ca19b6c5d26ea1bd08a988fe27f04"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.pdf",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 45889,
+      "sha256": "84be441a52d5c338b3e6f127124169172de2636be2ac361d32309791fd07499e"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.png",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 502634,
+      "sha256": "66019b2b99335f0c02809bff157456fc9bee7d52d44a8fd80368ca866c2373d6"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_diversity_overview.svg",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 47334,
+      "sha256": "0864eb21e5e51759b7eecfcf9dfb7806d990ac4e660db6796602578eb4746704"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_profiles_Perkos_vs_lighthouse.pdf",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 35800,
+      "sha256": "16cf4cee5f2d5472aa77c5f1f69ba5589f4f0e0cba713e524761bbfbe7c94ecc"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_profiles_Perkos_vs_lighthouse.png",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 192026,
+      "sha256": "9811dfd97def257279074547db939c38057cd69049050ffcfac9bdc769cd2189"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/Hill_profiles_Perkos_vs_lighthouse.svg",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 14872,
+      "sha256": "1348abb58cd494dee619d7d190b06e296a8f806a2cead8869bed4d54d9a57cfc"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/analysis_metadata.json",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 2504,
+      "sha256": "a07cdec9114e4240c712f32abbeec033644bfb0859c25150b5d819e5ec9cb802"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/analysis_record_audit.csv",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 1997300,
+      "sha256": "5cbda8a199a8f44c9d0e21974922fcdb229ddf2f442c813382d3d84268905d1b"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/hill_profiles.csv",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 85151,
+      "sha256": "e23b6581699c20b5884c7f3d270ddf935a3e6adf726c73d5e680c3fb34898653"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/hill_summary.csv",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 847,
+      "sha256": "985c0ed32a12dc419ac3820db3a405a99d73a9ffed60d5d7c597458d40da7755"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/record_rarefaction.csv",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 32144,
+      "sha256": "2afedb464f1f702ff3c6bf35cae3b3af510f44b49cf986dc404b6db3b0ec24f0"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-26/taxon_record_frequencies.csv",
+      "reason": "Historical Hill profiles superseded by current report analyses.",
+      "bytes": 126017,
+      "sha256": "bddec509ae4823ffab6305eb2fdbf14d86688cca957492c7aa3e8417a84bc382"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-inventory-effort/inventory_effort_diagnostics.csv",
+      "reason": "Exploratory effort extrapolation excluded from the current report.",
+      "bytes": 536,
+      "sha256": "8f621f344069de7e273e67fc5d294f8f9ce4b8b6d77db29ed6c1be1ede5b63ea"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-inventory-effort/methods.json",
+      "reason": "Exploratory effort extrapolation excluded from the current report.",
+      "bytes": 2004,
+      "sha256": "1cc5a39591ce2e64ab36d91531cfcb3611d288ddcb41fbddc8bef7bccc7243d4"
+    },
+    {
+      "original_path": "analysis/hill-diversity/make_hill_curves.py",
+      "reason": "Historical Hill workflow.",
+      "bytes": 12419,
+      "sha256": "cded059d2315157f64f62791b8415839aac96a64c4f0978e37b186dee35a4bff"
+    },
+    {
+      "original_path": "analysis/hill-diversity/rename_archived_figure_labels.py",
+      "reason": "Utility used only by retired historical figures.",
+      "bytes": 3466,
+      "sha256": "e2c8f4c795d63fa6376c0a7a1d355345b3e90641cff69db1330db2df294f14e8"
+    },
+    {
+      "original_path": "analysis/hill-diversity/plot_site_comparison.py",
+      "reason": "Species-only locality figures superseded by the effort-aware habitat comparisons.",
+      "bytes": 3407,
+      "sha256": "523c9d5a5b331e7f81c1d295a566a6d5d3dd27cc44f8597976e529580d681b77"
+    },
+    {
+      "original_path": "analysis/hill-diversity/estimate_inventory_effort.py",
+      "reason": "Exploratory effort extrapolation excluded from the current report.",
+      "bytes": 3990,
+      "sha256": "5949204416748888769f09e26ab22929ff10ef0f00542025a0eff493e1bda4f5"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_site_comparison.pdf",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 35584,
+      "sha256": "ecf9297ab3f4f90f510cfbe6d09e32363387ae7f26e22dd7acc8ec0c7e6d7b32"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_site_comparison.png",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 219944,
+      "sha256": "9d9373548079efdbadc0b1ec73291577bd4ee1b3f65cbc606113614b5cdf3fb4"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_site_comparison.svg",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 20653,
+      "sha256": "d080f08b8d4eeb5baceeaf78dc2f679d475d368d261f3ae134bd000d102e4839"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_survey_comparison.pdf",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 30270,
+      "sha256": "584c5bd222e669c8e24d3eabc4b85082d3f3d40809a5921a8fa57e04f58d7145"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_survey_comparison.png",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 149905,
+      "sha256": "005e44bdf4eee2b7841973ff90fc39366f377ce98313e8f3bf443a588cb87748"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/hill_survey_comparison.svg",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 15583,
+      "sha256": "76d5ea80a8a8be31918711f812696d16ef36e1ece91d5cb83dfa3000af4510c4"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/site_hill_summary.csv",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 240,
+      "sha256": "76bcc3f4b4c7678e5f8370ef166c7061f022e3a549e8fd5392897b106681c407"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/site_record_audit.csv",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 368900,
+      "sha256": "47404d6e3b926b0d09da14a4a2149ff581f48cf7ee5529b6bb6ba8b6e74fa931"
+    },
+    {
+      "original_path": "outputs/hill-diversity/2026-10-27-insects/site_species_overlap.csv",
+      "reason": "Superseded site or record-format figure/table; current report outputs retained separately.",
+      "bytes": 1775,
+      "sha256": "38e07d6e3fb3ff54d89364212cc5e1dac2a5dd44c5ad2a685b27e2582d15aff2"
+    },
+    {
+      "original_path": "outputs/regional-candidate-pool/gbif-vgv5ee/dangermond_level_iv_matched_records.csv",
+      "reason": "Obsolete uncompressed intermediate; canonical compressed final table retained and published on Zenodo.",
+      "bytes": 92839428,
+      "sha256": "91172a805daafaa32ee088a6cb96950b52e751441de975070cffcd8fa7b433d7"
+    }
+  ],
+  "retained_locally_untracked": [
+    {
+      "path": "docs/source-notes/Dangermond_Preserve_Visitor_Map_20190507_Veg_Comm-1.png",
+      "reason": "Large supporting reference retained locally, excluded from Git.",
+      "bytes": 37594212,
+      "sha256": "ca57e15be0a8e59edb25334f84eae03efa042e17292535be23cffe0ae7b2bbb8"
+    },
+    {
+      "path": "docs/source-notes/tnc_DangermondPreserveIRMP.pdf",
+      "reason": "Large supporting reference retained locally, excluded from Git.",
+      "bytes": 19662826,
+      "sha256": "265882c7eb6fc4ddfb7c72f7243ccf25561d14f09786a0e098934b9ec2d03668"
+    }
+  ]
+}

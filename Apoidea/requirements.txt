@@ -1,8 +1,0 @@
-pandas
-requests
-geopandas
-shapely
-pyproj
-pyyaml
-openpyxl
-tqdm

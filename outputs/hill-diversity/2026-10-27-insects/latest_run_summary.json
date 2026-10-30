@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-28T00:04:51.147898+00:00",
+  "created_at_utc": "2026-10-30T21:05:59.696886+00:00",
   "assumption": "All species in the union of Level IV 6ap and 85a could occur somewhere on Dangermond; no habitat filter or fitted SDM.",
   "source_archive_records": 459,
   "insect_records": 423,
@@ -51,44 +51,6 @@
   "two_most_recorded_species": {
     "Bombus vosnesenskii": 71,
     "Apis mellifera": 51
-  },
-  "site_comparison": {
-    "assignment": "Perko locality variants versus explicit backdune description; other/unspecified records remain separate, including unclassified lighthouse localities.",
-    "shared_species": [
-      "Apis mellifera",
-      "Bembix americana",
-      "Bombus californicus",
-      "Coelus ciliatus",
-      "Dasymutilla sackenii",
-      "Hippodamia quinquesignata",
-      "Villa lateralis"
-    ],
-    "shared_species_count": 7,
-    "site_union_species": 57,
-    "jaccard_similarity": 0.12280701754385964,
-    "sorensen_similarity": 0.21875,
-    "comparison_policy": "All record formats combined within each site; compare overall richness, evenness and species identities.",
-    "other_unspecified_species_records": 49,
-    "summaries": [
-      {
-        "site": "Perko's Beach",
-        "subset": "All species-level records",
-        "records": 71,
-        "q0": 36,
-        "q1": 26.368792961729362,
-        "q2": 18.880149812734082,
-        "total_insect_records_at_site": 109
-      },
-      {
-        "site": "Lighthouse backdunes",
-        "subset": "All species-level records",
-        "records": 196,
-        "q0": 28,
-        "q1": 8.934317169920826,
-        "q2": 5.042793384090312,
-        "total_insect_records_at_site": 247
-      }
-    ]
   },
   "weighting": "One unique Ecdysis occurrence record per count, not individualCount or population abundance. No GBIF records are pooled into the observed survey.",
   "pending_name_policy": "User confirmed five previously unmatched names on 2026-10-27; retain them exactly, with qualifiers. This is user review, not a new service match. Any remaining unresolved names would remain explicit pending units.",

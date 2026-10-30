@@ -73,3 +73,8 @@ outputs/species-life-history/**/*.jsonl.gz
 
 # Combined record-format audit remains local.
 outputs/hill-diversity/2026-10-27-record-formats/*.csv.gz
+
+# Large supporting reference copies and obsolete uncompressed intermediate
+docs/source-notes/Dangermond_Preserve_Visitor_Map_20190507_Veg_Comm-1.png
+docs/source-notes/tnc_DangermondPreserveIRMP.pdf
+outputs/regional-candidate-pool/gbif-vgv5ee/dangermond_level_iv_matched_records.csv
