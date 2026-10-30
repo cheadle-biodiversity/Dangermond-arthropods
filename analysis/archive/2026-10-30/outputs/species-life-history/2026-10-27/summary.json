@@ -1,0 +1,34 @@
+{
+  "retrieved_on": "2026-10-27",
+  "unique_species_queried": 2550,
+  "species_with_notes": 502,
+  "species_without_notes": 2048,
+  "checklists": [
+    {
+      "code": "6ap",
+      "species": 1521,
+      "species_with_notes": 265,
+      "file": "data/final/checklists/checklist_level_iv_6ap.csv",
+      "sha256": "054c7a44d6d9d0807c40ee7c52a2866f2bace8a37ba8ed2290a110942e892214"
+    },
+    {
+      "code": "85a",
+      "species": 1852,
+      "species_with_notes": 425,
+      "file": "data/final/checklists/checklist_level_iv_85a.csv",
+      "sha256": "b1e948662d15ff3a9901b1ecd28759467b3c7060dbfcd51e778c86edb423c138"
+    }
+  ],
+  "evidence_types": {
+    "account_excerpt": 824,
+    "structured_traits": 64,
+    "conservation": 37,
+    "reviewed_note": 16
+  },
+  "species_with_conservation_flags": 24,
+  "gbif_exact_species_lookups": 2518,
+  "bamona_http_status_counts": {
+    "200": 460,
+    "404": 134
+  }
+}

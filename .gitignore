@@ -30,24 +30,7 @@ data/raw/**/*
 docs/field-logistics/*.pdf
 references/papers/*.pdf
 
-# analysis/scripts pipeline: large generated intermediate/output files
-# (multi-hundred-MB to multi-GB) are excluded; small per-run metadata
-# and the small final summary outputs are kept so a real verified run
-# is visible in the repo (see each step's README "Verified against the
-# real download" sections).
-analysis/scripts/01-download-gbif-arthropoda-ca/output/dwca/
-analysis/scripts/02-trim-gbif-columns/output/occurrence_trimmed.txt
-analysis/scripts/03-merge-deduplicate/output/dwc_merged_deduplicated.csv
-analysis/scripts/04-resolve-cibi-bold-ids/output/dwc_merged_cibi_resolved.csv
-analysis/scripts/05-filter-latrange-overlap/output/dwc_coords_complete.csv
-analysis/scripts/05-filter-latrange-overlap/output/dwc_latrange_overlap.csv
-analysis/scripts/06-boundary-distance/output/dwc_distance_to_boundary.csv
-analysis/scripts/08-species-mcp-overlap/output/_checkpoint_after_loop.rds
-analysis/scripts/08-species-mcp-overlap/output/_checkpoint_in_progress.rds
-
 # Large generated results remain available locally; regenerate from source data.
-analysis/scripts/08-species-mcp-overlap/output/species_mcp_polygons.geojson
-analysis/scripts/06-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv
 outputs/regional-candidate-pool/**/*.csv.gz
 outputs/regional-candidate-pool/**/*.partial
 outputs/regional-candidate-pool/**/taxonomy_api_cache.jsonl
@@ -78,3 +61,17 @@ outputs/hill-diversity/2026-10-27-record-formats/*.csv.gz
 docs/source-notes/Dangermond_Preserve_Visitor_Map_20190507_Veg_Comm-1.png
 docs/source-notes/tnc_DangermondPreserveIRMP.pdf
 outputs/regional-candidate-pool/gbif-vgv5ee/dangermond_level_iv_matched_records.csv
+
+# Large archived data are retained locally; archive scripts and small outputs are versioned.
+/analysis/archive/2026-10-30/analysis/scripts/08-species-mcp-overlap/output/species_mcp_polygons.geojson
+/analysis/archive/2026-10-30/analysis/species-life-history/__pycache__/build_notes.cpython-313.pyc
+/analysis/archive/2026-10-30/analysis/species-life-history/__pycache__/collect_sources.cpython-313.pyc
+/analysis/archive/2026-10-30/analysis/species-life-history/__pycache__/extract_cdfw.cpython-313.pyc
+/analysis/archive/2026-10-30/data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/combined_insect_record_audit.csv.gz
+/analysis/archive/2026-10-30/outputs/habitat-notes/2026-10-27/occurrence_habitat_evidence.csv.gz
+/analysis/archive/2026-10-30/outputs/habitat-notes/2026-10-27/regional_record_context.csv.gz
+/analysis/archive/2026-10-30/outputs/regional-candidate-pool/gbif-vgv5ee/dangermond_level_iv_matched_records.csv
+/analysis/archive/2026-10-30/outputs/species-life-history/2026-10-27/species_source_audit.jsonl.gz
+
+# Preserve the earlier pipeline intermediate-file exclusion inside the archive.
+/analysis/archive/2026-10-30/analysis/scripts/06-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv

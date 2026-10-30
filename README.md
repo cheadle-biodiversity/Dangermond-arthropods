@@ -43,7 +43,8 @@ Habitat comparisons include named species and unresolved genus morphotypes. Effo
 
 - `analysis/regional-candidate-pool/`: filtering, taxonomic resolution, common names and final checklist preparation.
 - `analysis/hill-diversity/`: active diversity comparisons and consistent figure styling.
-- `analysis/scripts/`: supporting numbered GBIF pipeline; retained spatial inputs and distance summaries are dependencies of the report workflows.
+- `analysis/ecoregions-level-iii/`: preserve/Level III overlay used by regional filtering.
+- `analysis/archive/2026-10-30/`: earlier analyses and outputs retained for reference.
 - `analysis/ecoregions-level-iv/`: preserve/ecoregion overlap analysis.
 - `analysis/reference-data/`: preserve boundary and barcode identification reference.
 - `data/final/`: canonical checklists, occurrence tables and metadata.
@@ -57,7 +58,7 @@ The original GBIF source is the California Arthropoda download [10.15468/dl.vgv5
 
 Use the source-specific instructions in [data/README.md](data/README.md) and [analysis/README.md](analysis/README.md) when reproducing the analyses. Original data licenses remain applicable; the intended MIT code license does not relicense third-party data.
 
-Superseded analyses, withdrawn habitat annotations and the separate Apoidea workflow were moved outside this repository on 30 October 2026. The [cleanup record](docs/repository-cleanup-2026-10-30.json) lists their original paths, reasons and verified checksums. Raw source archives, final datasets and dependencies needed by the report were retained.
+Earlier distance and range analyses, superseded Hill comparisons, withdrawn habitat annotations and the separate Apoidea workflow are retained in the [analysis archive](analysis/archive/2026-10-30/README.md). They are outside the current report analysis. The [archive manifest](docs/repository-cleanup-2026-10-30.json) records their original paths and checksums. Raw source archives, final datasets and current workflow dependencies remain available.
 
 ## References
 
@@ -73,23 +74,13 @@ Superseded analyses, withdrawn habitat annotations and the separate Apoidea work
   Match responses and retrieval timestamps are cached locally.
 - GBIF.org. (2026). California Arthropoda occurrence download, submitted
   28 September 2026. [https://doi.org/10.15468/dl.vgv5ee](https://doi.org/10.15468/dl.vgv5ee).
-  This is the source of the existing numbered-pipeline results; see
-  [download metadata](analysis/scripts/01-download-gbif-arthropoda-ca/output/download_metadata.txt).
-- GBIF.org. (2025). GBIF Occurrence Download, 25 November 2025.
-  [https://doi.org/10.15468/dl.k85cpx](https://doi.org/10.15468/dl.k85cpx).
-  Earlier USA Arthropoda source documented in
-  [fauna-data-sources.txt](docs/source-notes/fauna-data-sources.txt).
+  This is the source of the regional candidate checklists; see
+  [download metadata](data/raw/gbif/california_2026-09-28/download_metadata.json).
 - UCSB Invertebrate Zoology Collection. (2026). Ecdysis Darwin Core
   Archive export, 26 October 2026,
   `SymbOutput_2026-10-26_124013_DwC-A.zip`. User-supplied export retained
   in `data/raw/ecdysis/`; its `CITEME.txt` and `eml.xml` retain the
   source citation and metadata. Portal: [Ecdysis](https://ecdysis.org/).
-- California Insect Biodiversity Initiative (CIBI) / BOLD Systems.
-  User-supplied barcode-identification export, documented in the source
-  notes as downloaded 19 November 2025. The pipeline uses a
-  [derived identification table](analysis/reference-data/cibi_barcode_identifications.csv).
-  Public portal: [BOLD Systems](https://portal.boldsystems.org/).
-  A project-specific public dataset link or DOI has not been recorded.
 - U.S. Environmental Protection Agency. *Level III Ecoregions of EPA
   Region 9*. Shapefile, metadata and symbology downloaded 27 October
   2026 from [Ecoregion Download Files by Region](https://www.epa.gov/eco-research/ecoregion-download-files-region).

@@ -1,0 +1,127 @@
+---
+title: "California Arthropods"
+output: html_document
+---
+### This is an exploration of arhtropod data in Calfiornia
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RSQLite)
+library(dplyr)
+
+input_path <- knitr::current_input()
+analysis_dir <- if (!is.null(input_path)) dirname(normalizePath(input_path, mustWork = FALSE)) else getwd()
+repo_dir <- normalizePath(file.path(analysis_dir, ".."), mustWork = TRUE)
+if (!file.exists(file.path(repo_dir, "README.md"))) {
+  repo_dir <- normalizePath(getwd(), mustWork = TRUE)
+}
+
+db_candidates <- c(
+  file.path(repo_dir, "data", "local", "california.db"),
+  path.expand("~/Documents/CaliforniaArthropods/california.db")
+)
+db_path <- db_candidates[file.exists(db_candidates)][1]
+if (is.na(db_path)) {
+  stop("Could not find california.db. Put it in data/local/ or ~/Documents/CaliforniaArthropods/.")
+}
+
+conn <- dbConnect(RSQLite::SQLite(), db_path)
+```
+
+### List of tables in COL sqlite database
+
+```{r catalog}
+dbListTables(conn)
+```
+
+### List of fields in the aTaxon table
+
+```{r occ}
+#list column names and export to text for distrabution
+column_names <- function(occ) {
+  column.names2 <- dbListFields(conn, occ)
+  return(column.names2)
+}
+column_names("occ")
+```
+
+### List of families that have specimens that are not arthropods
+
+```{r taxonStatis}
+res <- dbSendQuery(conn, "SELECT count(*) from occ where phylum !='Arthropoda'")
+dbFetch(res)
+dbClearResult(res)
+
+res <- dbSendQuery(conn, "SELECT family, scientificName from occ where phylum !='Arthropoda'")
+dbFetch(res)
+dbClearResult(res)
+
+returns <- dbSendQuery(conn, "SELECT distinct `order`, family, scientificName from occ where phylum !='Arthropoda'")
+notArthropods <- dbFetch(returns)
+dbClearResult(returns)
+write.table(notArthropods, file=file.path(repo_dir, "data", "reference", "notArthropodsv2.tsv"), sep="\t", append = FALSE , row.names = F, col.names = TRUE, quote = FALSE)
+```
+```{r, echo=TRUE, results='asis'}
+knitr::kable(notArthropods[,0:4], caption = "Arthropods and localities", floating.environment="sidewaystable")
+```
+
+### List of specimens that have coordinates
+
+```{r decimalLatitude}
+res <- dbSendQuery(conn, "SELECT count(*) from occ where decimalLatitude is not null")
+dbFetch(res)
+dbClearResult(res)
+```
+<!--
+### List of isExtinct values
+
+
+```{r isExtinct}
+res <- dbSendQuery(conn, "SELECT distinct isExtinct from aTaxon")
+dbFetch(res)
+dbClearResult(res)
+```
+
+### List of orders in arthropods that are not extinct and are only accepted names
+Include only "accepted name"
+Include only in phylum Arthropoda
+Do not include isExtinct = false
+aTaxon table
+
+```{r taxaListOrder}
+res <- dbSendQuery(conn, "SELECT distinct `order` from aTaxon where taxonomicStatus='accepted name' and phylum='Arthropoda' and isExtinct='false'")
+dbFetch(res)
+dbClearResult(res)
+```
+
+### List of aDistribution table fields and distinct values for locality. This is the table that contains geographic information. The values entered in this table are not uniform or follow any controlled vocabulary.
+
+```{r aDistribution}
+#list column names and export to text for distrabution
+column_names <- function(aDistribution) {
+  column.names2 <- dbListFields(conn, aDistribution)
+  return(column.names2)
+}
+column_names("aDistribution")
+
+res <- dbSendQuery(conn, "SELECT distinct locality from aDistribution order by locality")
+dbFetch(res)
+dbClearResult(res)
+```
+
+### List of arthropod orders that have United States for locality. From this we can conclude that not all names have geographic information.
+
+```{r aDistributionOrder}
+res <- dbSendQuery(conn, "SELECT distinct aTaxon.`order` from aTaxon join aDistribution on aTaxon.taxonID=aDistribution.taxonID where locality='United States of America'")
+dbFetch(res)
+dbClearResult(res)
+```
+
+### What arthropod names do not have an associated locality? Most are species and likely from great taxonomic catalogs that track this information (like ScaleNet)
+
+```{r namesWithoutlocality}
+res <- dbSendQuery(conn, "SELECT aTaxon.taxonID, aTaxon.scientificName, aTaxon.taxonRank, aDistribution.locality from aTaxon join aDistribution on aTaxon.taxonID=aDistribution.taxonID where aTaxon.taxonomicStatus='accepted name' and aTaxon.phylum='Arthropoda' and aTaxon.isExtinct='false'")
+namesWithoutlocality <- dbFetch(res)
+dbClearResult(res)
+```
+-->

@@ -100,7 +100,7 @@ extrapolation or effort/completeness standardization. Taxon assignments are not
 a new comprehensive validation of every GBIF identification. The previous
 species-parent comparison (532 species, including GBIF species parents of
 unnamed BIN records) is superseded and archived locally under
-`data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/`.
+`analysis/archive/2026-10-30/data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/`.
 
 `record_format_summary.csv`, `species_contributions.csv`,
 `species_format_overlap.csv`, `duplicate_record_audit.csv`, `hill_profiles.csv`

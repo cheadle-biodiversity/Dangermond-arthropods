@@ -1,8 +1,8 @@
 {
   "date": "2026-10-30",
   "repository_commit_before_cleanup": "48fbc35d267ee214f1221056481293df9f03b806",
-  "archive_directory": "/Users/seltmann/Documents/Dangermond-repository-archive-2026-10-30",
-  "policy": "Removed from active checkout; archived outside repository with verified checksums. Source archives, final datasets and active workflow dependencies retained.",
+  "archive_directory": "/Users/seltmann/Documents/Dangermond-arthropods/analysis/archive/2026-10-30",
+  "policy": "Superseded material retained in analysis/archive/2026-10-30 with original relative paths and verified checksums. Large generated files remain local and Git-ignored.",
   "files": [
     {
       "original_path": "Apoidea/.gitignore",
@@ -465,6 +465,486 @@
       "reason": "Obsolete uncompressed intermediate; canonical compressed final table retained and published on Zenodo.",
       "bytes": 92839428,
       "sha256": "91172a805daafaa32ee088a6cb96950b52e751441de975070cffcd8fa7b433d7"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/.gitignore",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 332,
+      "sha256": "4f27839167f72df504412c8004161538a3e0617dc1840059bf60b65f20585db8"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 4610,
+      "sha256": "32bdf1bb788da893047ced2c96822aa4edfb9fb85864da277847b219047c723c"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/download_arthropoda_ca.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 7665,
+      "sha256": "a074febdfb9fabcf040cfd1bd4393de106bc7b20e2b0f4b637d46a210fbd1025"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/output/doi.txt",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 19,
+      "sha256": "018922cffb4541e89716744a7ae6d635dd598aa476a8e6dc0106f33a10bd5a3e"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/output/download_metadata.txt",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 221,
+      "sha256": "ea947fe1c51e95975b0a3b5cd87305089ff4255452c7be684af25d121e62e3ee"
+    },
+    {
+      "original_path": "analysis/scripts/01-download-gbif-arthropoda-ca/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5914,
+      "sha256": "9b66443d603c58fd7d3dfb091da4172ab3e694c4e95213925834bb9a8c2ae2ee"
+    },
+    {
+      "original_path": "analysis/scripts/02-trim-gbif-columns/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 4535,
+      "sha256": "f08325a80bee4f40e969ce0fe96c309efeeef8d9c31c4c8f52c86660d600f08e"
+    },
+    {
+      "original_path": "analysis/scripts/02-trim-gbif-columns/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 4690,
+      "sha256": "b433b936ca5cf227e3b54f0de0f91b54135590be6362141bae6b0dc7ac3534ec"
+    },
+    {
+      "original_path": "analysis/scripts/02-trim-gbif-columns/trim_gbif_columns.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5818,
+      "sha256": "c2247cda7fd5256f7aceec99ba7f2ec49b37d5e142745077c465d4b017cd3f25"
+    },
+    {
+      "original_path": "analysis/scripts/02-trim-gbif-columns/trim_gbif_columns.py",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6236,
+      "sha256": "e9251435a00f9324ed172fa589ff7f49de46fa086f19c7dc2cc73e701c563b6d"
+    },
+    {
+      "original_path": "analysis/scripts/03-merge-deduplicate/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 3901,
+      "sha256": "cf823d57b408da3617e53e137c821a11b7ee30c5ccae1b9b5ab56046cb6f9198"
+    },
+    {
+      "original_path": "analysis/scripts/03-merge-deduplicate/dwc_merge_deduplicate.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 8683,
+      "sha256": "b9db94c2fbaef050534599bcb98a18eb791a9bff458c6a18da257e066540a04b"
+    },
+    {
+      "original_path": "analysis/scripts/03-merge-deduplicate/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/03-merge-deduplicate/output/column_header_report.txt",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 705,
+      "sha256": "473fa69a426bf9d0ad56c7dd140014e0e5bbe029a255aa8fadebac9404f60ac9"
+    },
+    {
+      "original_path": "analysis/scripts/03-merge-deduplicate/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5321,
+      "sha256": "c765fed64aa67931384288911875c57340da1c11e9659977813ee24b87e98f3a"
+    },
+    {
+      "original_path": "analysis/scripts/04-resolve-cibi-bold-ids/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 7933,
+      "sha256": "0434246d6bd9c11b69b315e9195a00c7908a8e0d96d5ff7def5653620fc368ad"
+    },
+    {
+      "original_path": "analysis/scripts/04-resolve-cibi-bold-ids/output/cibi_resolution_summary.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 380,
+      "sha256": "c220ff2c01901cf8892187839c14733b23a2f69958f29a034dde6fa6592102f4"
+    },
+    {
+      "original_path": "analysis/scripts/04-resolve-cibi-bold-ids/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 7705,
+      "sha256": "f5820d01baac46dc5024476ceccfcb1459b2f6e7638549bb420830d21a1e16fe"
+    },
+    {
+      "original_path": "analysis/scripts/04-resolve-cibi-bold-ids/resolve_cibi_bold_ids.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 10399,
+      "sha256": "8ba3907384dff20d6117fc8e95ee867a992a88472abae2aa161a56538e5987b8"
+    },
+    {
+      "original_path": "analysis/scripts/05-filter-latrange-overlap/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6807,
+      "sha256": "564999f4d7c2db3896c230664a260910ad791befbd0358a1494e8b0133f05a03"
+    },
+    {
+      "original_path": "analysis/scripts/05-filter-latrange-overlap/filter_coords_latrange.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 11311,
+      "sha256": "3b7ddd3cf01b5ffe35b33582989f50b05276018bed789388cec742ca402522d0"
+    },
+    {
+      "original_path": "analysis/scripts/05-filter-latrange-overlap/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/05-filter-latrange-overlap/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5986,
+      "sha256": "f15abbb53ef64a97858db450eb40e1cf95a15a5f2513b2d2eb14426c006de0f2"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6564,
+      "sha256": "e3ac6fa187dd33e200d9cfc39921e1124ee2e17ba0958f0fec2739e51c7d48e4"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/distance_to_boundary.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 13098,
+      "sha256": "e801e513de6cd982e61a913d9d56a421047f098086972f0cb3e56160dc96a9be"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/output/nearest_record_per_species_including_outside_extent.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5586508,
+      "sha256": "8a1fc4ef50df5675efbe5e3136fb3f0680ca741a846e99a2568651126e8db3cb"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/output/nearest_record_per_species_within_extent.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 1827871,
+      "sha256": "dd77d64475defb96398003861c08961c6849d3c40fd00a6a6e0f494bfe9fa386"
+    },
+    {
+      "original_path": "analysis/scripts/06-boundary-distance/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6457,
+      "sha256": "f188507e0626ddd31915a4d0e2ad2fc85423bd3fd375f50867e030ea08146951"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 12829,
+      "sha256": "7631e7ec00b6c3fde41f7b614b28e6d353d94717abac50376dc8ec82cef8e6e8"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/species_by_order_and_distance.pdf",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 32712,
+      "sha256": "ce5b6457e8a3369ba1061afb26c210280c4eb1500e4de3e13458813ef1450b96"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/species_by_order_and_distance.png",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 134574,
+      "sha256": "07ebf74d6f4739651d15c4f4526bf6dfe9ea9f75d11c2f0c93bbe34b4b1fa661"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/species_by_order_and_distance.svg",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 33289,
+      "sha256": "775033abcdd4b6f6a27a1c1e5e2dbfc42da8c6572e8cd9042c4f988938480b0a"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/species_by_order_and_family_stacked.png",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 1364967,
+      "sha256": "8b0a9c99aa6e7f06f908ae2e5e5f4681e90b789fe971ed87902a6cb320f7e10a"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/output/species_by_order_family_distance.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 41838,
+      "sha256": "9f968de5cb3a67bf1ad9fb514d139fd9443cd3b0949668363e160cd9e9d499fa"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6975,
+      "sha256": "f779bdad90e9e6d739c68e99191c308b693334dafc927248f7e13b70395820f4"
+    },
+    {
+      "original_path": "analysis/scripts/07-summary-tables-figures/summarize_taxon_distance.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 21863,
+      "sha256": "38af9be84bdf6444e6e2cbfc19cdef05af2c076e6b8c2d8682587593b7ddb07a"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 12227,
+      "sha256": "5a74e2d8299177bad4546313004d5725ac4934ffa2e3b0c96ddac1ef012e9762"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/output/.gitkeep",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/output/species_insufficient_data.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 1682211,
+      "sha256": "e53ff0b581fda3f1bd2642abde0cccb28da3453e7f531fe7bbf7cfd8a3b106b5"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/output/species_mcp_overlap_summary.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 1449236,
+      "sha256": "7b34be55748a46847d3ebad784e7d2d28ef75829318a086b64df3dab5a041ac8"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/output/species_mcp_polygons.geojson",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 12973162,
+      "sha256": "6c447eafa064111cd276b59ef1a1b6491ceb74a8b08c4a0862b75887e676c70c"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 9062,
+      "sha256": "bb87e304fe39240adc3b8223f1c1f6971692f09073c87f28778b4114dd3bdcdb"
+    },
+    {
+      "original_path": "analysis/scripts/08-species-mcp-overlap/species_mcp_overlap.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 17675,
+      "sha256": "197645c214fb87b81a948d12ea81de9e9d0ccdf06fdcd5343ceb29edabbdce09"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6185,
+      "sha256": "5471531d7943d858bcb5e89c2bb3fb970d9275860197fd5c57393fc0ce8c0661"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/identify_preserve_ecoregions.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6917,
+      "sha256": "152ca025f7c7d15b20f0be4d3b6393b7f9244383f2f44484ca7ef6cfaceaabe8"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/output/preserve_ecoregions.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 563,
+      "sha256": "0f6375989ec64c12c23f35f084535f9e136af5469dc05ddbb6df8e25758aeebc"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/output/preserve_ecoregions.geojson",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 3656703,
+      "sha256": "0f83dae9822112c7d7dd03603773c64fbde863795a8c41ca45eeb3f3be2ee35f"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.dbf",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 74825,
+      "sha256": "dbb1f02223a44039d51bcb9630530454d0abe849fbf3735a5a8a4a5851d66d7f"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.lyr",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 22016,
+      "sha256": "af7d0a9a319cdf821f028b505f0abefe78d2ba31b758f55677042a56a355f75f"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.prj",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 480,
+      "sha256": "c2e102c73fba08ebaef452664acd997cb9d3d8668864c117a8323b23e0837e95"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.shp",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 3958276,
+      "sha256": "f81ce91caf49c81f7346533a78c50a2d593fb89a92063c37b7e257d20ed45432"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.shp.xml",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 18454,
+      "sha256": "e5569930f93a0eb88b4358f89ad2eac73b1446dd9730ef9cc16952faaf1f5154"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/raw_download/reg9_eco_l3.shx",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 780,
+      "sha256": "7721b08f88292270f4ac23dd90b9e272209c0f6824f26a9eb1de2ab94c14abb3"
+    },
+    {
+      "original_path": "analysis/scripts/09-identify-preserve-ecoregions/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5255,
+      "sha256": "0a8db1bb4fe0b6f84f7964adb39d3e93aa6db02269b9b04540032d80cac876b6"
+    },
+    {
+      "original_path": "analysis/scripts/10-ecoregion-species-list/README.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 6073,
+      "sha256": "f4f82527e4250b3f36c1283b8cb288ebebcf240f7384534cf951c736865a9bf6"
+    },
+    {
+      "original_path": "analysis/scripts/10-ecoregion-species-list/ecoregion_species_list.R",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 9871,
+      "sha256": "cc188cb875270068f765fabc953173dec8d30e158324b90d8f081ee09f74c9b1"
+    },
+    {
+      "original_path": "analysis/scripts/10-ecoregion-species-list/output/ecoregion_species_list.csv",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 2758966,
+      "sha256": "bc97d15c52e0eb511bf2975d9c9dcd2b40d9ae988dc372a803b099b519e7556c"
+    },
+    {
+      "original_path": "analysis/scripts/10-ecoregion-species-list/requirements.md",
+      "reason": "Earlier numbered pipeline: distance, latitude-range screening and MCP products are absent from the current report. Level III overlay copied to active outputs and retained separately.",
+      "bytes": 5926,
+      "sha256": "99df59e6f4f8cb8bc6bac7b3d2ca2bc97c8aeae3f2d1adf050b09f3e6369a8e7"
+    },
+    {
+      "original_path": "analysis/hill-diversity/restyle_regional_distance.py",
+      "reason": "Distance chart styling utility; figure absent from the current report.",
+      "bytes": 1993,
+      "sha256": "91c21597bec295384ca346e7da6a13d63c247436b71c7ce56f06bf5afa9b8039"
+    },
+    {
+      "original_path": "analysis/reference-data/cibi_barcode_identifications.csv",
+      "reason": "Reference extract used by the archived numbered pipeline, not by current analyses.",
+      "bytes": 1750904,
+      "sha256": "e7138c5e8df4eab5339de7c11428ed1cfd025153cca5d52a66aa35a523099287"
+    },
+    {
+      "original_path": "data/local/README.md",
+      "reason": "Local database workflow documentation from retired exploratory notebook.",
+      "bytes": 110,
+      "sha256": "8db66dec6b02b190afa36795a5d101f9284c596958f35e879a3b99f4617d48a9"
+    },
+    {
+      "original_path": "data/reference/notArthropodsv2.tsv",
+      "reason": "Exclusion list used only by the retired exploratory notebook.",
+      "bytes": 19508,
+      "sha256": "4f238c4067e5c883e0b1d50a02c3183fe93a81552f9912d7dac1e969bb1cc309"
+    },
+    {
+      "original_path": "data/raw/gbif/2026-10-27/README.md",
+      "reason": "Unfulfilled USA-wide refresh plan; current report uses the California GBIF archive.",
+      "bytes": 829,
+      "sha256": "75fccbac86c1141a4912c2d7b9d4e4c2f5720dd822be7181505fa038d6308e84"
+    },
+    {
+      "original_path": "data/raw/gbif/2026-10-27/planned_predicate.json",
+      "reason": "Unfulfilled USA-wide refresh plan; current report uses the California GBIF archive.",
+      "bytes": 206,
+      "sha256": "e1b193dfc1e327edb8da623cdb4cad4de89a38e995c3598bc23869064ec4b704"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/README.md",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 219,
+      "sha256": "2daab8ad7b602f16822caa0cefde9cdac11a10921db5fe247e1b2296a98b72ba"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/analysis_metadata.json",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 13467,
+      "sha256": "b197c095eb7ab797bc09e1f0d09422b681a32233d70ce1677b7c9747fcb2f27b"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/combined_insect_record_audit.csv.gz",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 263176,
+      "sha256": "20a852330a1584290cc115da87d048ae487f332ebe2b866f52b8ca42625a4058"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/duplicate_record_audit.csv",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 59813,
+      "sha256": "b2e106787ff0751a80116540204c1b2ed20419d4a0dbc85b28708c31e74c80d4"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/hill_profiles.csv",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 18176,
+      "sha256": "4e5a242a9e7754a43d1e69c8d3fab1d97fd2af6325cb69b23f4de3861839050a"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/record_format_contributions.pdf",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 33919,
+      "sha256": "5c9e6c70287df64bf449b606abfce6756593abadb0783070e164f4ce44485695"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/record_format_contributions.png",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 315969,
+      "sha256": "38bf3e0e63f86e81d367a65cc48fc5cc6ea158284837f9319e1d3fad544b62c3"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/record_format_contributions.svg",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 23373,
+      "sha256": "efb54c3a086dcc0044d31fac5417b130683d9e9ef28f5bdd9f5f8da21a0da27e"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/record_format_summary.csv",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 536,
+      "sha256": "3e732ad9e2bd5a1ba7fe098c428ae8d1fadc7177ec32fb4eda2c153a03260470"
+    },
+    {
+      "original_path": "data/raw/hill-analysis-history/2026-10-27-species-parent-assignments/species_contributions.csv",
+      "reason": "Superseded species-parent Hill comparison, excluded from the current report.",
+      "bytes": 24175,
+      "sha256": "d96fdf37fdddc0135afb40a392fe263b967d35436a4a28795c44f0f311380da7"
+    },
+    {
+      "original_path": "docs/source-notes/fauna-data-sources.txt",
+      "reason": "2025 source/download notes for the retired analysis.",
+      "bytes": 1064,
+      "sha256": "f88dea3ebeb248788b15b456488246020d39052ad7d503aee10bea106616c3e3"
+    },
+    {
+      "original_path": "docs/zenodo/repository-review.md",
+      "reason": "Pre-publication checklist; publication status has been superseded by the published Zenodo record.",
+      "bytes": 2960,
+      "sha256": "04a5d2c401a8a5f801a6b3192111af46794e23b97ea392ce89796c8383ff6dd1"
+    },
+    {
+      "original_path": "data/reference/source_manifest.json",
+      "reason": "Original shared-reference manifest retained with the archived CIBI workflow; current manifest describes the active boundary input.",
+      "bytes": 780,
+      "sha256": "76bb2a6697a32848342b393a6a0aaced67d32b0e8a9608362e2bcdda9cce41c0"
     }
   ],
   "retained_locally_untracked": [

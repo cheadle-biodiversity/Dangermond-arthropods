@@ -3,8 +3,13 @@
 Source: GBIF download [10.15468/dl.vgv5ee](https://doi.org/10.15468/dl.vgv5ee),
 key `0010070-260921141020460`, submitted 28 September 2026.
 The download contains 4,665,086 California Arthropoda records and
-already excludes GBIF-flagged geospatial issues. It is not the incoming
-USA-wide download.
+already excludes GBIF-flagged geospatial issues.
+
+## Required ecoregion overlays
+
+Run the [Level III overlay](../ecoregions-level-iii/README.md) and `Rscript analysis/ecoregions-level-iv/identify_preserve_ecoregions.R` before filtering. The Level III selection reads `outputs/ecoregions-level-iii/2026-10-27/preserve_ecoregions.geojson`; Level IV selection uses the corresponding Level IV outputs.
+
+Final checklists and occurrence tables are published on [Zenodo](https://doi.org/10.5281/zenodo.23819517).
 
 ## Filtering order
 
@@ -101,7 +106,7 @@ are excluded. The broader regional dataset is preserved unchanged.
 Distinct species are summarized by GBIF species key, so different
 subspecies of one species do not inflate the species total. This step
 does not resolve provisional identifications, remove duplicate records,
-or apply the pending BOLD eligibility rule. It describes regional
+or apply a habitat suitability filter. It describes regional
 occurrences, not confirmed occurrences on Dangermond Preserve.
 
 The 27 October 2026 run retained **1,417,629 occurrence records** with
@@ -109,8 +114,7 @@ The 27 October 2026 run retained **1,417,629 occurrence records** with
 records and two species-rank records lacking a resolved species name or
 key. Retained ranks were 1,374,339 species, 43,282 subspecies and eight
 variety records. Region 6 contributed 696,463 occurrences and region 85
-contributed 721,166. These species totals have not yet received the
-project's BOLD and ecological screening.
+contributed 721,166. These are intermediate totals before the subsequent name-resolution and identification-cleanup steps.
 
 ## Current taxonomic name resolution
 
@@ -247,7 +251,7 @@ python3 analysis/regional-candidate-pool/add_level_iv_ecoregions.py
 Retain the downloaded ESA spreadsheet at the documented location.
 The original GBIF snapshot remains California-only and these are
 regional occurrences, not a checklist of confirmed preserve records.
-BOLD eligibility and ecological screening remain separate steps.
+Named species-level BOLD records are retained; habitat screening remains future work.
 
 ## EPA Level IV ecoregion codes
 

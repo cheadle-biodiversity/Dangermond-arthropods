@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-27",
+  "datasets": [
+    {
+      "dataset": "CIBI/BOLD identification extract",
+      "path": "analysis/reference-data/cibi_barcode_identifications.csv",
+      "source": "Existing user-supplied repository file; not a fresh online download",
+      "sha256": "e7138c5e8df4eab5339de7c11428ed1cfd025153cca5d52a66aa35a523099287",
+      "bytes": 1750904,
+      "rows": 16471
+    },
+    {
+      "dataset": "Dangermond Preserve boundary",
+      "path": "analysis/reference-data/jldp_boundary.geojson",
+      "source": "Existing user-supplied repository file; not a fresh online download",
+      "sha256": "084e5554f870b4071dfbab2b2c84474eac7cf2d08c1afdf7bfcb73e59ee6ba28",
+      "bytes": 13070,
+      "features": 1,
+      "geometry_type": "Polygon"
+    }
+  ]
+}

@@ -2,14 +2,6 @@
   "checked_on": "2026-10-27",
   "datasets": [
     {
-      "dataset": "CIBI/BOLD identification extract",
-      "path": "analysis/reference-data/cibi_barcode_identifications.csv",
-      "source": "Existing user-supplied repository file; not a fresh online download",
-      "sha256": "e7138c5e8df4eab5339de7c11428ed1cfd025153cca5d52a66aa35a523099287",
-      "bytes": 1750904,
-      "rows": 16471
-    },
-    {
       "dataset": "Dangermond Preserve boundary",
       "path": "analysis/reference-data/jldp_boundary.geojson",
       "source": "Existing user-supplied repository file; not a fresh online download",
@@ -18,5 +10,6 @@
       "features": 1,
       "geometry_type": "Polygon"
     }
-  ]
+  ],
+  "scope": "Inputs used by the current report analyses. Retired CIBI reference metadata are retained in the analysis archive."
 }

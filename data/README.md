@@ -2,74 +2,21 @@
 
 | Folder | Contents |
 |---|---|
-| `final/` | Final Level III and Level IV occurrence tables, shared 60-column descriptors, README and dataset provenance/checksums. |
-| `raw/gbif/` | Original GBIF download ZIPs, grouped by request date, with DOI and query metadata. |
-| `raw/ecdysis/` | Original Ecdysis Darwin Core Archive ZIPs and checksum manifests. |
-| `raw/epa/` | Dated EPA ecoregion archives, metadata, symbology and extracted GIS files. |
-| `raw/cibi/` | Original CIBI/BOLD exports, when available locally. |
-| `local/` | Local SQLite databases. |
-| `reference/` | Small reference tables used by the exploratory notebook. |
+| [final/](final/README.md) | Canonical six-column checklists, Level III/IV occurrence tables and column/provenance metadata. |
+| `raw/gbif/california_2026-09-28/` | Original California Arthropoda GBIF archive, DOI 10.15468/dl.vgv5ee. |
+| [raw/gbif/preserve_2026-10-26/](raw/gbif/preserve_2026-10-26/README.md) | Preserve GBIF API snapshot used for record-format analysis and local occurrence evidence. |
+| `raw/ecdysis/` | Original 26 October archive and annotated 28 October survey CSV; 459 records, including 423 insects. |
+| `raw/epa/` | Original Level III/IV ecoregion sources and metadata. |
+| `raw/common-names/` | ESA common-name source and attribution. |
+| `raw/ant-conservation/`, `raw/beach-assessment/`, `raw/species-literature/`, `raw/habitat/` | Supporting sources and literature. |
+| `reference/` | Shared boundary provenance. The boundary itself is in `analysis/reference-data/`. |
 
-Shared spatial and barcode reference inputs currently live in
-`analysis/reference-data/`. The numbered scripts retain their existing
-per-step `output/` folders; moving those outputs would break their
-current input dependencies.
+## Published data
 
-## New GBIF download
+The original California GBIF archive, four final regional checklists, checklist column definitions and two regional occurrence tables are available from [Zenodo](https://zenodo.org/records/23819517), DOI [10.5281/zenodo.23819517](https://doi.org/10.5281/zenodo.23819517). See the [archive README](../docs/zenodo/README.md). Ecdysis and other supporting raw inputs are outside that deposit.
 
-Save the new ZIP in `raw/gbif/2026-10-27/`. Keep the original filename.
-Save its download page/DOI with it so the query can be cited and checked.
-The previous GBIF download and its saved analysis outputs describe a
-different data snapshot and should not be overwritten or relabeled as
-the new run.
+## Source handling
 
-## Ecdysis inventory
+Keep original downloads unchanged, with citations, licenses and checksum manifests. The annotated survey CSV adds habitat and effort fields; it does not replace the original Ecdysis archive used for species-name provenance. Identifications above species are valid records and are handled separately from species-only comparisons.
 
-The 26 October 2026 export is in `raw/ecdysis/` and contains:
-
-| Class | Records |
-|---|---:|
-| Insecta | 423 |
-| Arachnida | 31 |
-| Crustacea | 4 |
-| Gastropoda | 1 |
-| Total | 459 |
-
-The ZIP retains occurrence, identification, multimedia and identifier
-tables, the Darwin Core schema, ecological metadata and citation text.
-Its SHA-256 checksum is recorded in `archive_manifest.json`.
-Filter to Insecta for the insect prediction analysis without changing
-the original archive. Identifications above species remain valid
-records and should be handled separately from species-level lists.
-
-## Git policy
-
-Raw data and archives remain local. Git retains source documentation,
-small manifests, query definitions and DOI records. Large generated
-tables and spatial files are also ignored; their scripts and smaller
-summary outputs remain available for reproducibility.
-
-## Hill-analysis source snapshot
-
-`raw/gbif/preserve_2026-10-26/` contains the complete earlier preserve
-extract: bounding-box GBIF responses, boundary-clipped responses,
-terrestrial-scope decisions, occurrence tables, dataset metadata,
-summary tables, checksums and the exact boundary used. It is separate
-from the incoming USA-wide download in `raw/gbif/2026-10-27/`.
-
-The Ecdysis tables used by that analysis are in
-`raw/ecdysis/extracted/SymbOutput_2026-10-26_124013_DwC-A/`.
-`analysis/hill-diversity/migration_manifest.json` records the transferred
-files and their source checksums. `reference/source_manifest.json`
-records the existing CIBI extract and preserve boundary; those two
-inputs were already present and have not been represented as new downloads.
-
-## Final regional occurrence tables
-
-The current deliverables are in [`final/`](final/). Both datasets have
-60 identical columns. Level III contains 1,408,875 occurrences for
-regions 6/85; Level IV contains 43,555 for regions 6ap/85a. These are
-full regional pools and the Level IV table is a subset of Level III.
-See `final/column_metadata.md` or `.csv` for field definitions, and
-`final/dataset_metadata.json` for provenance, scope and checksums.
-Large `.csv.gz` files remain local and Git-ignored; metadata are versioned.
+Large raw files, compressed regional occurrence tables and intermediate outputs are Git-ignored. Small manifests, source notes, final checklists and audit summaries are versioned. Archived analyses and their old outputs are retained in [analysis/archive/2026-10-30/](../analysis/archive/2026-10-30/README.md).

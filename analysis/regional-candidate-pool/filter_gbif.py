@@ -37,7 +37,7 @@ def run():
     parser.add_argument("--output", type=Path, default=ROOT / "outputs/regional-candidate-pool/gbif-vgv5ee")
     args = parser.parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
-    regions_file = ROOT / "analysis/scripts/09-identify-preserve-ecoregions/output/preserve_ecoregions.geojson"
+    regions_file = ROOT / "outputs/ecoregions-level-iii/2026-10-27/preserve_ecoregions.geojson"
     regions = json.loads(regions_file.read_text())["features"]
     regions = [f for f in regions if str(f["properties"]["US_L3CODE"]) in {"6", "85"}]
     assert len(regions) == 2

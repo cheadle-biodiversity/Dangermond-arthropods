@@ -1,0 +1,87 @@
+project_name: central_coast_nonbee_apoidea
+
+gbif:
+  api_base_url: https://api.gbif.org/v1
+  country: US
+  state_province: California
+  page_limit: 300
+  request_timeout_seconds: 30
+  max_retries: 3
+  retry_sleep_seconds: 2
+  page_sleep_seconds: 0.2
+
+families:
+  - Ammoplanidae
+  - Ampulicidae
+  - Astatidae
+  - Bembicidae
+  - Crabronidae
+  - Mellinidae
+  - Pemphredonidae
+  - Philanthidae
+  - Psenidae
+  - Sphecidae
+
+bee_families:
+  - Andrenidae
+  - Apidae
+  - Colletidae
+  - Halictidae
+  - Megachilidae
+  - Melittidae
+  - Stenotritidae
+
+counties:
+  - Santa Barbara
+  - San Luis Obispo
+  - Ventura
+  - Monterey
+  - San Benito
+  - Santa Cruz
+
+county_aliases:
+  santa barbara: Santa Barbara
+  santa barbara county: Santa Barbara
+  san luis obispo: San Luis Obispo
+  san luis obispo county: San Luis Obispo
+  slo: San Luis Obispo
+  ventura: Ventura
+  ventura county: Ventura
+  monterey: Monterey
+  monterey county: Monterey
+  san benito: San Benito
+  san benito county: San Benito
+  santa cruz: Santa Cruz
+  santa cruz county: Santa Cruz
+
+dangermond:
+  # Approximate reference point. Replace with an official preserve centroid
+  # or provide a preserve boundary when one is available.
+  reference_point:
+    latitude: 34.5200
+    longitude: -120.4500
+  preserve_boundary_file:
+  distance_thresholds_km:
+    confirmed: 1
+    coastal_santa_barbara: 35
+    regionally_plausible: 150
+
+quality:
+  coordinate_uncertainty_threshold_m: 10000
+
+paths:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  output_dir: output
+  raw_occurrences_csv: data/raw/gbif_occurrences_raw.csv
+  cleaned_occurrences_csv: data/processed/gbif_occurrences_cleaned.csv
+  excluded_records_csv: data/processed/excluded_records.csv
+  species_complexes_csv: data/taxonomy_species_complexes.csv
+  checklist_csv: output/central_coast_nonbee_apoidea_checklist.csv
+  checklist_xlsx: output/central_coast_nonbee_apoidea_checklist.xlsx
+  taxon_crosswalk_csv: output/taxon_name_crosswalk.csv
+  genus_records_csv: output/genus_records.csv
+  query_metadata_json: output/query_metadata.json
+  summary_report_md: output/summary_report.md
+  log_file: output/pipeline.log

@@ -1,0 +1,3 @@
+site,named_records,observed_species_units,single_record_species,two_record_species,conditional_chao1_richness,conditional_record_coverage,additional_records_in_doubling_scenario,total_records_after_doubling,conditional_additional_species_at_double_records,conditional_species_at_double_records,distinct_recorded_dates
+Perko's Beach,71,36,23,6,79.46244131455398,0.6784529619145204,71,142,17.809275140036014,53.809275140036014,3
+Lighthouse backdunes,196,28,14,4,52.375,0.9287801314828342,196,392,10.638741347468661,38.63874134746866,4
