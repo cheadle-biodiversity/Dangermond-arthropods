@@ -1,0 +1,6 @@
+# Python 3.12
+pandas>=2.0
+openpyxl>=3.1
+requests>=2.31
+shapely>=2.0
+pyproj>=3.6
